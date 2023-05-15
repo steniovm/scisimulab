@@ -1,0 +1,73 @@
+{
+    "destaques":[
+        {
+            "name": "Cinemática Relativística",
+            "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
+            "url": "https://steniovm.github.io/steniovm/relatividade/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/relatividade/screenshot.png",
+            "categorys": [
+            "Física",
+            "Relatividade",
+            "Cinemática"
+            ],
+            "author": "Steniovm"
+        },
+        {
+            "name": "AlgoCards",
+            "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
+            "url": "https://steniovm.github.io/steniovm/AlgoCards/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/AlgoCards/screenshot.png",
+            "categorys": [
+            "Algorítimo",
+            "Jogo"
+            ],
+            "author": "Steniovm"
+        },
+        {
+            "name": "Batimento de Ondas",
+            "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
+            "url": "https://steniovm.github.io/steniovm/Batimento/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/Batimento/screenshot.png",
+            "categorys": [
+            "Física",
+            "Ondas",
+            "Acústica"
+            ],
+            "author": "Steniovm"
+        },
+        {
+            "name": "Bolinhas De Darwin",
+            "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
+            "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+            "categorys": [
+            "Biologia",
+            "Evolução natural",
+            "Jogo"
+            ],
+            "author": "Steniovm"
+        }
+    ],
+    "fontes":[
+        {
+            "text":"- Steniovm, Professor de física e desenvolvedor web voltado para soluções em ensino de ciências.",
+            "url": "https://steniovm.github.io/steniovm/"
+        },
+        {
+            "text":"- Phet, Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
+            "url": "https://phet.colorado.edu/pt_BR/"
+        },
+        {
+            "text":"- Walter Fendt, pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
+            "url": "https://www.walter-fendt.de/html5/phpt/index.html"
+        },
+        {
+            "text":"- Vascak, pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
+            "url": "https://www.vascak.cz/physicsanimations.php"
+        },
+        {
+            "text":"- Avamec, plataforma do ministério da educação com diversos cursos de formação continuada para professores da educação básica.",
+            "url": "https://avamec.mec.gov.br/"
+        }
+    ]
+}

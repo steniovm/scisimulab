@@ -1,9 +1,13 @@
-const urlsimuls = 'https://steniovm.github.io/steniovm/simulacoes.json';
-const urldata = 'https://steniovm.github.io/steniovm/scisimulab.json';
+//const urlsimuls = 'https://steniovm.github.io/steniovm/simulacoes.json';
+//const urldata = 'https://steniovm.github.io/steniovm/scisimulab.json';
+const urlsimuls = 'simulacoes.json';
+const urldata = 'scisimulab.json';
+const unimage = "unimage.svg";
 const menu = document.getElementById('menu');
 const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
 const resources = document.getElementById('resources');
+const filterall = document.getElementById('filterall');
 const categorias = {};
 const categoriasnome = [];
 let simulist = [];
@@ -16,7 +20,7 @@ function listSimuls(list){
     simuls += (`
     <a class="card" href="${simulacao.url}">
       <h3>${simulacao.name}</h3>
-      <img src="${simulacao.thumb}" alt="imagem da simulação ${simulacao.name}"/>
+      <img src="${simulacao.thumb ? simulacao.thumb : unimage}" alt="imagem da simulação ${simulacao.name}"/>
       <p>${simulacao.descript}</p>
       <label><strong>Categorias: </strong>${simulacao.categorys.join(', ')}</label>
       <label><strong>Autor: </strong>${simulacao.author}</label>
@@ -43,6 +47,7 @@ fetch(urlsimuls)
   .then(response => response.json())
   .then(data => {
     // Percorre as simulações e registra as categorias
+    data.sort((a, b) => a.name.localeCompare(b.name));
     data.forEach(simulacao => {
       simulacao.categorys.forEach(categoria => {
         if (!categorias[categoria]) {
@@ -52,9 +57,11 @@ fetch(urlsimuls)
         categorias[categoria].push(simulacao);
       });
     });
+    filterall.innerHTML = `Tudo (${data.length})`;
     // Percorre as categorias e cria os elementos do menu
+    categoriasnome.sort();
     categoriasnome.forEach(categoria => {
-      const categoriaItem = `<button onclick="filtercaterogy('${categoria}')">${categoria}</button>`
+      const categoriaItem = `<button onclick="filtercaterogy('${categoria}')">${categoria} (${categoria.length})</button>`
       menu.innerHTML += categoriaItem;
     });
     listSimuls(data);

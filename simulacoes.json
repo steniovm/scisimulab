@@ -1,0 +1,5447 @@
+[
+ {
+  "name": "Bolinhas De Darwin",
+  "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
+  "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+  "categorys": [
+   "Biologia",
+   "Evolução natural",
+   "Jogo"
+  ],
+  "author": "Steniovm"
+ },
+ {
+    "name": "Bolinhas De Darwin AU",
+    "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador. Arquivo HTML unico para baixar.",
+    "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin.html",
+    "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+    "categorys": [
+     "Biologia",
+     "Evolução natural",
+     "Jogo",
+     "Baixar"
+    ],
+    "author": "Steniovm"
+ },
+ {
+  "name": "NumberBall",
+  "descript": "Jogo de Futebol onde você controla os algarismos.",
+  "url": "https://steniovm.github.io/steniovm/NumberBall/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/NumberBall/screenshot.png",
+  "categorys": [
+   "Matemática",
+   "Números",
+   "Jogo"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "AlphaMathics",
+  "descript": "Material Dourado para treinar o ensino de operações aritméticas em forma de um jogo muito desafiador.",
+  "url": "https://steniovm.github.io/steniovm/AlphaMathics/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/AlphaMathics/screenshot.png",
+  "categorys": [
+   "Matemática",
+   "Aritmética",
+   "Jogo"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "AlgoCards",
+  "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
+  "url": "https://steniovm.github.io/steniovm/AlgoCards/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/AlgoCards/screenshot.png",
+  "categorys": [
+   "Algorítimo",
+   "Jogo"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Cinemática Relativística",
+  "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
+  "url": "https://steniovm.github.io/steniovm/relatividade/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/relatividade/screenshot.png",
+  "categorys": [
+   "Física",
+   "Relatividade",
+   "Cinemática"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Batimento de Ondas",
+  "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
+  "url": "https://steniovm.github.io/steniovm/Batimento/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/Batimento/screenshot.png",
+  "categorys": [
+   "Física",
+   "Ondas",
+   "Acústica"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Calor por Condução",
+  "descript": "Simula a transferência de calor por condução com acompanhamento da temperatura e controle de vários parâmetros.",
+  "url": "https://steniovm.github.io/steniovm/ConducaoCalor/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/ConducaoCalor/screenshot.png",
+  "categorys": [
+   "Física",
+   "Termologia"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Calor por Convecção",
+  "descript": "Simula a transferência de calor por convecção com acompanhamento da temperatura e controle de vários parâmetros.",
+  "url": "https://steniovm.github.io/steniovm/ConveccaoCalor/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/ConveccaoCalor/screenshot.png",
+  "categorys": [
+   "Física",
+   "Termologia"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Calor por Radiação",
+  "descript": "Simula a transferência de calor por radiação com acompanhamento da temperatura e controle de vários parâmetros.",
+  "url": "https://steniovm.github.io/steniovm/RadiacaoCalor/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/RadiacaoCalor/screenshot.png",
+  "categorys": [
+   "Física",
+   "Termologia",
+   "Radiação"
+  ],
+  "author": "Steniovm"
+ },
+ {
+  "name": "Pensamento Computacional",
+  "descript": "Faça um algorítimos para ajudar o personagem a devolver seu VHS para a locadora.",
+  "url": "https://avamec.mec.gov.br/ava-mec-ws/instituicao/seb/conteudo/modulo/1421/mini-games/Algoritmos/index.html",
+  "thumb": "https://steniovm.github.io/steniovm/avamecalgoritimos.png",
+  "categorys": [
+   "Algorítimo",
+   "Jogo"
+  ],
+  "author": "AvaMec"
+ },
+ {
+  "name": "Gráfico de Cálculo",
+  "descript": "Dada uma função, prever as curvas da integral, ou da primeira ou da segunda derivada.",
+  "url": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher-900.png",
+  "categorys": [
+   "Matemática",
+   "Física",
+   "Gráfico"
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Meu Sistema Solar",
+  "descript": "Insera massa, velocidade e distância dos astros para que faça simular uma órbita.",
+  "url": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system-900.png",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Gravitação"
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Óptica Geométrica",
+  "descript": "Explica como uma imagem é formada por lentes ou espelhos, convergentes ou divergentes, utilizando diagramas de raios.",
+  "url": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics-900.png",
+  "categorys": [
+   "Óptica",
+   "Física"
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Energia na Pista de Skate",
+  "descript": "Explicar o conceito de Conservação de Energia Mecânica usando energias cinética, potencial gravitacional e térmica.",
+  "url": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park-900.png",
+  "categorys": [
+   "Energia",
+   "Física"
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Movimento com Aceleração Constante",
+  "descript": "Mostra um carro movendo-se com aceleração constante, pode-se alterar a posição inicial, velocidade inicial e aceleração. e assim construir os gráficos.",
+  "url": "https://www.walter-fendt.de/html5/phpt/acceleration_pt.htm",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Cinemática",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Onda electromagnética",
+  "descript": "Mostra uma onda eletromagnética num plano de polarização, que se propaga no eixo x com representação dos vetores campo elétrico e campo magnético.",
+  "url": "https://www.walter-fendt.de/html5/phpt/electromagneticwave_pt.htm",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   "Óptica",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Referencial",
+  "descript": "Acompanha o movimento de um ponto de uma bicicleta do ponto de vista de dois referênciais diferentes.",
+  "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kolo&l=pt",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo.png",
+  "categorys": [
+   "Física",
+   "Cinemática"
+  ],
+  "author": "Vascak"
+ },
+ {
+  "name": "Comparar Números",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Jogos dos Números",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Efeito Estufa",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Média: Distribuição e Equilíbrio",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Monte um Núcleo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Centro e Variabilidade",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Densidade",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Kit para Montar um Circuito: AC",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Modos Normais",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Fourier: Construindo Ondas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Reta Numérica: Distância",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Razão e Proporção",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório de Colisões",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Reta Numérica: Operações",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Monte uma Molécula",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Seleção Natural",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Reta Numérica: Inteiros",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Adição de Vetores: Equações",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Adição de Vetores",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Ajuste de Curva",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório de Força Gravitacional",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Ondas: Intro",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Difusão",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Gases: Introdução",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Propriedades dos Gases",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Espectro de Corpo Negro",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Massas e Molas: Básico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Formas de Energia e Transformações",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Interferência de Onda",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Frações: Números Mistos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Frações: Intro",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Construir uma Fração",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Frações: Igualdade",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Lei de Coulomb",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Gráfico de Quadráticas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Massas e Molas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Explorador da Igualdade: Duas Variáveis",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Explorador da Igualdade: Básico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Explorador da Igualdade",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Modelo de Área: Álgebra",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Modelo de Área: Decimais",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Modelo de Área: Multiplicação",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Modelo de Área: Intro",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Fundamentos da Expressão Genética",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório do Capacitor: Básico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Kit para Montar Circuito DC",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório do Pêndulo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Movimento de Projétil",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Polaridade da Molécula",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Expressões",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Inclinação e Intersecção",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Construtor de Funções: Básico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Parque da Proporção",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Taxas Unitárias",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Some um 10",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Estados da Matéria",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Gravidade e Órbitas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Probabilidade Plinko",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Interações Atômicas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Cargas e Campos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Espalhamento de Rutherford",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Construtor de Funções",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Isótopos e Massa Atômica",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Neurônio",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Tour Trigonométrico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Desvio da Luz",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Aritmética",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Lei de Hooke",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Moléculas e Luz",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Regressão por Quadrados Mínimos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Geometria Molecular",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Reagentes, Produtos e Excesso",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Lei de Faraday",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Escala de pH: Básico ",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Construtor de Área",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Onda em Corda",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Visão Colorida ",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Escala de pH",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Balanceamento de Equações Químicas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Traçando Retas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Associe Frações",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Balançando",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Soluções Ácido-Base",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Sob Pressão",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Atrito",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Forças e Movimento: Noções Básicas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "John Travoltagem",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Concentração",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório de Força Gravitacional",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Balões e Eletricidade Estática",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Laboratório da Lei de Beer",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Molaridade",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Lei de Ohm",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Resistência em um Fio",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Monte um Átomo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "",
+   ""
+  ],
+  "author": "Phet"
+ },
+ {
+  "name": "Equilibrio entre três forças",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Resultante de forças (Adição de vectores)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Decomposição de uma força nas suas componentes",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Sistema de roldanas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Princípio das alavancas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Plano inclinado",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Segunda Lei de Newton",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Movimento de um projéctil",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Colisões elásticas e inelásticas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pêndulo de Newton",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Movimento circular uniforme",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Carrossel (Força centripeta)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Montanha-russa invertida (Força centripeta)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Primeira Lei de Kepler",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Segunda Lei de Kepler",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pressão hidrostática",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Impulsão nos líquidos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pêndulo simples",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Oscilações",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pêndulo em mola",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Oscilações",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pêndulos ligados",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Oscilações",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Oscilações forçadas (Ressonância)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Oscilações",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Modulação",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ondas estacionárias transversais",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ondas estacionárias longitudinais",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Interferência para duas ondas esféricas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Um exemplo do Efeito Doppler",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Ondas",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Campo magnético num iman em barra",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Campo magnético num condutor percorrido por uma corrente linear",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Força de Lorentz",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Motor eléctrico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Gerador eléctrico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Lei de Ohm",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Associação de resistências",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Potenciómetro",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ponte de Wheatstone",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Circuitos AC simples",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Associação de Resistências, Bobinas e Condensadores",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Circuito electromagnético oscilante",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Eletrodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Refracção da luz",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Reflexão e refracção das ondas luminosas (Princípio de Huygens)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Formação de imagens em lentes convergentes",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Telescópio astronómico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Interferência da luz numa fenda dupla",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Difracção da luz numa fenda simples",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Óptica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Processos nos gases ideais",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Termodinâmica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Um exemplo de dilatação do tempo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Relatividade",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Efeito fotoeléctrico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Atômica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Teoria de Bohr para o átomo de hidrogénio",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Atômica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Dispersão de Rutherford",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Atômica",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Séries de decaimento radioactivo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Atômica",
+   "Nuclear"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Decaimento radioactivo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Atômica",
+   "Nuclear"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Difração de Bragg",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "estado sólido",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Os Polos Celestes",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Movimento Aparente de uma Estrela",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Conversão de Unidades",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Aritmética",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Primyphos - Fatoração Prima",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Aritmética",
+   "Jogo"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Lista dos Números Primos",
+  "descript": "Lista dos Números Primos entre 1 e 1 000 000 000 000",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Aritmética",
+   "Números"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ângulos em Retas Paralelas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Soma dos Ângulos de um Triângulo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Transformações Geométricas Simples",
+  "descript": "Reflexão Axial, Reflexão Central, Translação e Rotação",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ângulo Inscrito numa Semi-Circunferência",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Linhas e Circunferências num Triângulo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Quadrilátero Cíclico (Quadrilátero Inscrito)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Quadrilátero Tangencial (Quadrilátero Circunscrito)",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Polígonos Regulares",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Ângulos ao Centro e Ângulos Inscritos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Teorema de Pitágoras 1",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Teorema de Pitágoras 2",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Círculos Gêmeos de Arquimedes",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Inversão",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Circunferências Tangentes",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Corrente de Pappus",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Sólidos Platónicos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Volume da Esfera",
+  "descript": "Princípio de Cavalieri",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Seno, Cosseno e Tangente de um Ângulo",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   "Trigonometria"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Triângulo Esférico",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Distância Esférica entre Dois Pontos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   "Trigonometria"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Componentes de um Vector",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   "Vetores"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Equação Vectorial de uma Reta no Espaço",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   "Vetores"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Declive de uma Secante / Reta Tangente",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Primeira e Segunda Derivada duma Função",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Tangentes ao Gráfico de uma Função",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Círculos Osculadores ao Gráfico de uma Função",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Epicicloides e Hipocicloides",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Estrofoide Reta",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Curvas Elípticas",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Função",
+   "Gráfico"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Operações com Números Complexos",
+  "descript": "",
+  "url": "",
+  "thumb": "",
+  "categorys": [
+   "Matemática",
+   "Números",
+   ""
+  ],
+  "author": "walter-fendt"
+ },
+  {
+      "name": "Plano inclinado",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_sily&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Referencial",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kolo&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Paralelogramo de forças",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_rovnobeznik&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Paquímetro",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_posuvka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Micrómetro",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_mikrometr&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Movimento",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_pohyb&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Movimento circular uniforme",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kruznice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Governador centrífugo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_watt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Roldanas fixas e roldanas móveis",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kladky&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sistema de roldanas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kladkostroj&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Princípio das alavancas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_paka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Primeira lei de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_newton1&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Segunda lei de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_newton2&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Segunda lei de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_newton22&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Terceira lei de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_newton3&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Força fictícia",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_setrvacnost&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Força inercial centrífuga",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_odstrediva&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Força inercial de Coriolis",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_coriolis&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Elevador",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_vytah&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Trabalho",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_prace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Colisões elásticas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_pruzna&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Colisões inelásticas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_nepruzna&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei da conservação da energia",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_zze&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pêndulo de Maxwell",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_maxwell&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Momento de inércia",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_moment&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Atrito",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_treni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Atrito e arrasto",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_rovina&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pêndulo de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_houpacka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Arquimedes",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_archimedes&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pressão hidrostática",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_hydrotlak&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fonte da garça",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_heron&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ludião",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kartezian&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Nível",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_vodovaha_accel&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Vasos comunicantes",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_nadoby&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Paradoxo hidrostático",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_paradox&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pressão",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_tlak&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Bomba",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_pumpa&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ctesíbio - Engine de bombeiros",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_ktesibios&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Princípio de Pascal",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_pascal&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Elevador hidráulico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_lis&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Princípio de Bernoulli",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_bernoulli&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sustentação (aerodinâmica)",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_kridlo&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Centro de gravidade",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_teziste&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equilíbrio mecânico 1",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_rovnovazna&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equilíbrio mecânico 2",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_stabilita&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equilíbrio mecânico 3",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_hranol&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei da gravitação universal",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_newton_zakon&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "A intensidade do campo gravitacional",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_intenzita&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Campo gravítico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_centralni_pole&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Campo gravítico homogéneo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_homogenni_pole&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Paralelos e Meridianos da Terra",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_sourad_geol&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Aceleração da gravidade",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_tihove_zrychleni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pêndulo de Foucault",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_foucalt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Condição de imponderabilidade",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_beztizny&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Super elevador",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_supervytah&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Queda livre",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_volny_pad&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Tubo de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_newtonova_trubice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Projétil horizontalmente lançada",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_skladani_pohybu&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Projétil horizontalmente lançada 2",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_vodorovny&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Teste de queda livre",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_padostroj&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Descarga de fluido através de um orifício",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vytok&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Projétil verticalmente lançada",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_svisly&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lançamento Oblíquo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_sikmy&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lançamento oblíquo - granada de mão",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_sikmy2&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Trajetórias de corpos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_trajektorie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Canhão de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_kosmicke_rychlosti&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Satélites geoestacionários",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_geostacionarni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "1.ª Lei de Kepler",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_sl_soustava&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "2.ª Lei de Kepler",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_2kepleruv_zakon&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "3.ª Lei de Kepler – planetas interiores",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vnitrni_planety&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "3.ª Lei de Kepler – planetas exteriores",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vnejsi_planety&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sistema Solar",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_soustavy&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fases da Lua",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_mesic_geol&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Constelação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_souhvezdi_geol&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Leis de Kepler",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kepler_zakony&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Diagrama de Hertzsprung-Russell",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=astro_hr&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          "Gravitação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Osciladores",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_ocilatory&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Movimento circular",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_pohyb_po_kruznici&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Oscilação harmónica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_harmonicke_kmitani&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sobreposição de ondas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_skladani_kmitani_3&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sobreposição de ondas de igual frequência",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_skladani_kmitani_1&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sobreposição de ondas de diferentes frequências",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_skladani_kmitani_2&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fase",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_faze_kmitaveho_pohybu&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Onda quadrada",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_obdelnikovy_kmit&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Curvas de Lissajous",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_lissajousovy_obrazce&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Oscilação amortecida",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_tlumene_kmitani&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Oscilações forçadas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_nucene_kmitani&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equação do pêndulo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_kyvadlo&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equação do pêndulo - Prego",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_kyvadlo_hrebik&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equação do pêndulo - Helicóptero",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_kyvadlo2&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Oscilador harmônico simples",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_mechanicky_oscilator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Oscilador harmônico simples - Helicóptero",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_pruzina&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Osciladores acoplados",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_sprazene_oscilatory&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Oscilações",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Reflexão",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_odraz_vlneni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Refração",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_lom_vlneni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Reflexão de onda em uma corda",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_odraz_na_konci&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ondas estacionárias",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_stojate_vlneni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ressonância",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_rezonance&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Velocidade do som",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_rychlost_zvuku&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Efeito Doppler",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_doppler&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Onda de choque",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_razova_vlna&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Princípio de Huygens",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_huygens&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Máquina de ondas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_vlnostroj&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ondas estacionárias",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_vlnostojate&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "A Dança dos Pêndulos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_vlnomach&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Modelo de Torção para Ondas Transversais",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_julius&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Som",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_zvuk&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          "Acústica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Movimento browniano",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_brownuv_pohyb&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Difusão molecular",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_difuze&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Interações atómicas",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_atomy&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Distribuição de moléculas de gás pela velocidade",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rozdeleni_rychlosti&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Termómetro de Galileu",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_galileo_teplomer&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Escala de temperatura",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplotni_stupnice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Equivalente mecânico do calor",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_joule&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Calorímetro",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_kalorimetr&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Estados físicos da matéria",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_skupenstvi&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Estados físicos da matéria - água",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_voda&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Energia interna",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_vnitrni_energie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Transferência de energia por convecção",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_proudeni_energie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Transferência de energia por radiação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_zareni_energie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Transferência de energia por condução",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_vedeni_energie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Representação gráfica isotérmica da Ley de Boyle-Marriote",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_izotermicky_dej&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          "Gráfico"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Representação gráfica isobárica da Lei de Gay-Lussac",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_izobaricky_dej&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          "Gráfico"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Representação gráfica isocórica da Lei de Charles",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_izochoricky_dej&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          "Gráfico"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sistema adiabático",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_adiabaticky_dej&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ciclo de Carnot",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_carnot&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Locomotiva a vapor",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_parnistroj&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Motor de dois tempos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_dvoutakt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Motor quatro tempos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_ctyrtakt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Motor a diesel",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_diesel&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Motor Wankel",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_wankel&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Moto contínuo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_perpetuum_mobile&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pássaro Chinês",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_cinsky_ptacek&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Frigorífico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_lednicka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Hooke - 1",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_hook&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Hooke - 2",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_young&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Mecânica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pressão capilar",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_kapilarni_tlak&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Dilatação térmica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_roztaznost1&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Dilatação térmica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_roztaznost2&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Bimetal",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_bimetal&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ponto de ebulição - Pressão atmosférica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ponto de ebulição - Altitude",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu_vyska&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pressão atmosférica - Altitude",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_vyska_tlak&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Atmosfera terrestre",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_atmosfera&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Humidade absoluta",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_abs_vlhkost&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Humidade relativa",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rel_vlhkost&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ponto de orvalho",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rosny_bod&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Termodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Máquina de Wimshurst",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_wimshurst&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrostática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Gerador de Van de Graaff",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elpole_vandegraaff&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrostática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Campo elétrico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elpole_el_pole&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrostática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Cargas e campos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elpole_pole&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrostática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Capacitor",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elpole_kondenzator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrostática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Tensão, corrente e resistência",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_uir&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuito elétrico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_obvod&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Ohm",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_ohm&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Resistência interna",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_vnitrni_odpor&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Leis de Kirchhoff",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_kirchhoff&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Resistência elétrica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_odpor&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Coeficiente de temperatura",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_odpor_teplota&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Termodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Termístor",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_termistor&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Semicondutores"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Resistor dependente de luz",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_fotorezistor&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Semicondutores",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Silício",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_kremik&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Semicondutores",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Geração e recombinação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_generace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Semicondutores"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Semicondutor intrínseco",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_pohyb_der&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Semicondutores",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Semicondutores",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_polovodice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Semicondutores",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Diodo semicondutor",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_dioda&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Semicondutores"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuito retificador",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=pol_graetz&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Semicondutores",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Dissociação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elkap_disociace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Eletrólise",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elkap_rozkladne&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Acumulador de chumbo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elkap_akumulator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ionização - descarregar um eletroscópio",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_ionizace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Descarga elétrica em gases",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_vyboj_nesam&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Característica de descarga de gás",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_va_charakteristika&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Arco elétrico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_oblouk&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Bobina de indução",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_ruhmkorff&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Eletromagnetismo"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Raio catódico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_magnet_elektron&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Osciloscópio",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_osciloskop&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Tubo de Crookes - Cruz de Malta",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_maltezsky_kriz&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Regiões em um tubo de Crookes",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_trubice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fogo-de-santelmo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_elias&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lâmpada de néon",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_doutnavka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lâmpada fluorescente",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_zarivka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Proteção contra raios",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=elplyn_bleskojistka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Íman",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_magnet&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ferromagnetismo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_ferro&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "A Regra da Mão Direita",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_vodic&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Regra de Fleming",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_fleming&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Ampère",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_amper&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Indução eletromagnética",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_indukce_accel&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lei de Lenz",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_lenz&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Bobina de Helmholtz",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_wehnelt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Alternador e dínamo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_alternator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Gerador Trifásico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mag_generator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Transformador",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ac_transformator&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pêndulo de Waltenhofen",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ac_waltenhofen&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuitos AC simples",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_ac_rlc&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Eletrodinâmica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuito RLC em série",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ac_rlc_ser&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Eletromagnetismo"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuito RLC em paralelo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ac_rlc_par&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Eletromagnetismo"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Circuito electromagnético oscilante",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=ele_elmg&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Eletromagnetismo"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Prisma",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_hranol&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Reflexão total",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_total&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sintese subtrativa e aditiva",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_michanibarev&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Disco de Newton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_newtonkotouc&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experiência da dupla fenda",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_interference&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Espelhos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_zrcadla&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lente",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_dioptrie&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Distância focal",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_ohnisko&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lente convergente",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_spojka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lente divergente",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_rozptylka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Defeitos de visão",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_vady&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Acomodação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_akomodace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Lupa",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_lupa&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Microscópio",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_mikroskop&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Telescópio Kepler",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_kepler&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Telescópio de Galileu",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_galileo&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Espelho côncavo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_dute&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Espelho convexo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_vypukle&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Telescópio newtoniano",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_newton&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fluxo luminoso",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_svtok&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Intensidade luminosa",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_svitivost&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Iluminamento",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_osvetleni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Corpo negro",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_certeleso&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          "Radiação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Modelo de corpo negro",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_model&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          "Radiação"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Efeito fotoelétrico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_fotoefekt&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletrodinâmica",
+          "Óptica",
+          "Quantica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Onda electromagnética",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_vlna&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Óptica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Filtro polarizador",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_polarizacefiltr&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Ondas",
+          "Óptica"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Ampola de raios X",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_rentgen&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Óptica",
+          "Eletromagnetismo"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experiência de Michelson-Morley",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=str_michelson&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Eletromagnetismo",
+          "Relatividade"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Dilatação do tempo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=str_dilatace&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Relatividade",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Contracção do espaço",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=str_kontrakce&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Relatividade",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Modelos atômicos",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_modely&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experimento de Rutherford",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_rutheford&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Átomo de Bohr",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_vodik&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Espectroscópio",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_spektroskop&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experiência da gota de óleo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_millikan&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Efeito Compton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_compton&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experimento de Franck-Hertz",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_franckhertz&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Experimento de Davisson–Germer",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_dg&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Tabela periódica",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=atom_tabulka&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Atômica",
+          "Química"
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Radiação",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=jadro_zareni&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Nuclear",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Decaimento radioactivo",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=jadro_rozpad&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Nuclear",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Cadeia de decaimento",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=jadro_rady&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Nuclear",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Reação nuclear",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=jadro_reakce&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Nuclear",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fusão nuclear - Sol",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=jadro_slunce&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Nuclear",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Teorema de Pitágoras",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_pythagoras&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Pi",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_ludolf&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Radiano",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_radian&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Matemática",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Círculo unitário",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_kruznice&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Adição de Vetores",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_vektory&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "Vetores",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Agulha de Buffon",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_buffon&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Tabuleiro de Galton",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_galton&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Fita de Möbius",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_mobius&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Sólido platónico",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_platon&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Matemática",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  },
+  {
+      "name": "Alfabeto grego",
+      "descript": "",
+      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mat_abeceda&l=pt",
+      "thumb": "",
+      "categorys": [
+          "Alfabeto",
+          "",
+          ""
+      ],
+      "author": "Vascak"
+  }
+]
