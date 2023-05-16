@@ -67,7 +67,8 @@
   "categorys": [
    "Física",
    "Relatividade",
-   "Cinemática"
+   "Cinemática",
+   "Função"
   ],
   "author": "Steniovm"
  },
@@ -79,7 +80,8 @@
   "categorys": [
    "Física",
    "Ondas",
-   "Acústica"
+   "Acústica",
+   "Função"
   ],
   "author": "Steniovm"
  },
@@ -90,7 +92,8 @@
   "thumb": "https://steniovm.github.io/steniovm/ConducaoCalor/screenshot.png",
   "categorys": [
    "Física",
-   "Termologia"
+   "Termologia",
+   "Termodinâmica"
   ],
   "author": "Steniovm"
  },
@@ -101,7 +104,8 @@
   "thumb": "https://steniovm.github.io/steniovm/ConveccaoCalor/screenshot.png",
   "categorys": [
    "Física",
-   "Termologia"
+   "Termologia",
+   "Termodinâmica"
   ],
   "author": "Steniovm"
  },
@@ -113,7 +117,8 @@
   "categorys": [
    "Física",
    "Termologia",
-   "Radiação"
+   "Radiação",
+   "Termodinâmica"
   ],
   "author": "Steniovm"
  },
@@ -182,7 +187,8 @@
   "categorys": [
    "Física",
    "Cinemática",
-   "Gráfico"
+   "Gráfico",
+   "Função"
   ],
   "author": "walter-fendt"
  },
@@ -223,13 +229,14 @@
  },
  {
   "name": "Jogos dos Números",
-  "descript": "várias representações de um número: palavra escrita/falada, numeral, quadro de dez, uns e objetos. Operações aritméticas.",
+  "descript": "Várias representações de um número: palavra escrita/falada, numeral, quadro de dez, uns e objetos. Operações aritméticas.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-play",
   "thumb": "https://phet.colorado.edu/sims/html/number-play/latest/number-play-420.png",
   "categorys": [
    "Matemática",
    "Números",
-   "Aritméticas"
+   "Aritmética",
+   "Jogo"
   ],
   "author": "Phet"
  },
@@ -327,7 +334,7 @@
    "Ondas",
    "Gráfico",
    "Matemática",
-   "Função "
+   "Função"
   ],
   "author": "Phet"
  },
@@ -549,7 +556,7 @@
   "categorys": [
    "Física",
    "Energia",
-   "Termodinamica"
+   "Termodinâmica"
   ],
   "author": "Phet"
  },
@@ -560,7 +567,8 @@
   "thumb": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference-420.png",
   "categorys": [
    "Física",
-   "Ondas"
+   "Ondas",
+   "Função"
   ],
   "author": "Phet"
  },
@@ -616,7 +624,8 @@
   "categorys": [
    "Física",
    "Eletrostática",
-   "Força"
+   "Força",
+   "Função"
   ],
   "author": "Phet"
  },
@@ -694,7 +703,7 @@
  },
  {
   "name": "Modelo de Área: Decimais",
-  "descript": "",
+  "descript": "Mostra a área representada pelo produto de dois números.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-decimals",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals-420.png",
   "categorys": [
@@ -706,7 +715,7 @@
  },
  {
   "name": "Modelo de Área: Multiplicação",
-  "descript": "",
+  "descript": "Representa um problema de multiplicação como a área de um retângulo, proporcionalmente ou usando uma área genérica.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-multiplication",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication-420.png",
   "categorys": [
@@ -718,7 +727,7 @@
  },
  {
   "name": "Modelo de Área: Intro",
-  "descript": "",
+  "descript": "Representa que a área representa o produto de dois números.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-introduction",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction-420.png",
   "categorys": [
@@ -730,12 +739,13 @@
  },
  {
   "name": "Fundamentos da Expressão Genética",
-  "descript": "",
+  "descript": "Explica a sequência principal de eventos que ocorrem dentro de uma célula que leva à síntese proteica.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gene-expression-essentials",
   "thumb": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-420.png",
   "categorys": [
-   "Matemática",
-   "Números"
+   "Biologia",
+   "Genética",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -781,11 +791,13 @@
  },
  {
   "name": "Polaridade da Molécula",
-  "descript": "",
+  "descript": "Prevé e indica a polaridade molecular considerando polaridade da ligação e a geometria molecular.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity-420.png",
   "categorys": [
-   "Física"
+   "Biologia",
+   "Química",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
@@ -795,7 +807,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/expression-exchange",
   "thumb": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange-420.png",
   "categorys": [
-   "Física"
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -805,7 +817,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-slope-intercept",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept-420.png",
   "categorys": [
-   "Física"
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -815,7 +827,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics-420.png",
   "categorys": [
-   "Física"
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -825,7 +837,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
   "thumb": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -835,7 +848,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
   "thumb": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -845,7 +859,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
   "thumb": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten-420.png",
   "categorys": [
-   "Física"
+   "Matemática"
   ],
   "author": "Phet"
  },
@@ -865,7 +879,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Gravitação"
   ],
   "author": "Phet"
  },
@@ -885,7 +900,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
   "thumb": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Atômica"
   ],
   "author": "Phet"
  },
@@ -915,7 +932,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Função"
   ],
   "author": "Phet"
  },
@@ -925,7 +943,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/isotopes-and-atomic-mass",
   "thumb": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -935,7 +954,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/neuron",
   "thumb": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Biologia",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
@@ -955,7 +977,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
   "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Óptica"
   ],
   "author": "Phet"
  },
@@ -987,7 +1010,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
   "thumb": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Óptica",
+   "Química",
+   "Quântica"
   ],
   "author": "Phet"
  },
@@ -1032,12 +1058,14 @@
   "author": "Phet"
  },
  {
-  "name": "Escala de pH: Básico ",
-  "descript": "",
-  "url": "",
-  "thumb": "",
+  "name": "Escala de pH",
+  "descript": "Descreve em uma escala molecular, com ilustrações, como o equilíbrio da água varia com o pH",
+  "url": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale-900.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Biologia"
   ],
   "author": "Phet"
  },
@@ -1062,12 +1090,14 @@
   "author": "Phet"
  },
  {
-  "name": "Visão Colorida ",
-  "descript": "",
-  "url": "",
-  "thumb": "",
+  "name": "Visão Colorida",
+  "descript": "Determina a cor que a pessoa vê através de combinações de luz vermelha, verde e azul. Descreve a cor da luz capaz de passar por filtros coloridos diferentes.",
+  "url": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/assets/img/play-sim.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Biologia",
+   "Óptica"
   ],
   "author": "Phet"
  },
@@ -1764,7 +1794,8 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica"
+   "Atômica",
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -1775,7 +1806,8 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica"
+   "Atômica",
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -1786,7 +1818,8 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica"
+   "Atômica",
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -1798,7 +1831,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Nuclear"
+   "Nuclear",
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -1810,7 +1844,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Nuclear"
+   "Nuclear",
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -1821,7 +1856,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "estado sólido"
+   "Quântica"
   ],
   "author": "walter-fendt"
  },
@@ -4728,7 +4763,8 @@
   "categorys": [
    "Física",
    "Óptica",
-   "Radiação"
+   "Radiação",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4740,7 +4776,8 @@
   "categorys": [
    "Física",
    "Óptica",
-   "Radiação"
+   "Radiação",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4753,7 +4790,7 @@
    "Física",
    "Eletrodinâmica",
    "Óptica",
-   "Quantica"
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4835,7 +4872,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4847,7 +4885,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4859,7 +4898,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4871,7 +4911,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4895,7 +4936,8 @@
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Quântica"
   ],
   "author": "Vascak"
  },
@@ -4942,7 +4984,8 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_zareni_obr2.png",
   "categorys": [
    "Física",
-   "Nuclear"
+   "Nuclear",
+   "Radiação"
   ],
   "author": "Vascak"
  },
@@ -4953,7 +4996,9 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rozpad.png",
   "categorys": [
    "Física",
-   "Nuclear"
+   "Nuclear",
+   "Quântica",
+   "Radiação"
   ],
   "author": "Vascak"
  },
@@ -4964,7 +5009,9 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rady_obr2.png",
   "categorys": [
    "Física",
-   "Nuclear"
+   "Nuclear",
+   "Quântica",
+   "Radiação"
   ],
   "author": "Vascak"
  },
@@ -4975,7 +5022,9 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_reakce_obr4.png",
   "categorys": [
    "Física",
-   "Nuclear"
+   "Nuclear",
+   "Quântica",
+   "Radiação"
   ],
   "author": "Vascak"
  },
@@ -4996,7 +5045,8 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_pythagoras&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_pythagoras_obr3.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Geometria"
   ],
   "author": "Vascak"
  },
@@ -5006,7 +5056,8 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_ludolf&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_ludolf.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números"
   ],
   "author": "Vascak"
  },
@@ -5016,8 +5067,8 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_radian&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_radian.png",
   "categorys": [
-   "Física",
-   "Matemática"
+   "Matemática",
+   "Geometria"
   ],
   "author": "Vascak"
  },
@@ -5027,7 +5078,8 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_kruznice&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_kruznice.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Geometria"
   ],
   "author": "Vascak"
  },
@@ -5078,7 +5130,8 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Geometria"
   ],
   "author": "Vascak"
  },
