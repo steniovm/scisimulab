@@ -202,8 +202,8 @@
     {
         "name": "Referencial",
         "descript": "Acompanha o movimento de um ponto de uma bicicleta do ponto de vista de dois referênciais diferentes.",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_sily&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kolo&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo_obr2.png",
         "categorys": [
             "Física",
             "Cinemática"
@@ -2397,7 +2397,7 @@
     {
         "name": "Plano inclinado",
         "descript": "",
-        "url": "",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_sily&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_sily.png",
         "categorys": [
             "Física",
@@ -2409,8 +2409,8 @@
     {
         "name": "Referencial",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_sily&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kolo&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo_obr2.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2421,8 +2421,8 @@
     {
         "name": "Paralelogramo de forças",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kolo&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovnobeznik&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnobeznik.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2433,8 +2433,8 @@
     {
         "name": "Paquímetro",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kolo&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_posuvka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_posuvka.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2445,8 +2445,8 @@
     {
         "name": "Micrómetro",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kolo&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_mikrometr&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_mikrometr.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2457,8 +2457,8 @@
     {
         "name": "Movimento",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_rovnobeznik&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_posuvka.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pohyb&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr3.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2469,8 +2469,8 @@
     {
         "name": "Movimento circular uniforme",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_posuvka&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kruznice&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kruznice.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2481,8 +2481,8 @@
     {
         "name": "Governador centrífugo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_posuvka&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_mikrometr.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_watt&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_watt.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2493,8 +2493,8 @@
     {
         "name": "Roldanas fixas e roldanas móveis",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_mikrometr&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladky&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladky.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2505,8 +2505,8 @@
     {
         "name": "Sistema de roldanas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_mikrometr&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladkostroj&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladkostroj.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2517,8 +2517,8 @@
     {
         "name": "Princípio das alavancas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pohyb&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_paka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paka.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2529,8 +2529,8 @@
     {
         "name": "Primeira lei de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pohyb&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton1&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton1.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2541,8 +2541,8 @@
     {
         "name": "Segunda lei de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pohyb&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton22&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton22.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2553,8 +2553,8 @@
     {
         "name": "Segunda lei de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pohyb&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton22&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton22.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2565,8 +2565,8 @@
     {
         "name": "Terceira lei de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pohyb&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton3&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton3.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2577,8 +2577,8 @@
     {
         "name": "Força fictícia",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pohyb&l=pt&o=3",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kruznice.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_setrvacnost&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_setrvacnost.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2589,8 +2589,8 @@
     {
         "name": "Força inercial centrífuga",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kruznice&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_odstrediva&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_odstrediva.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2601,8 +2601,8 @@
     {
         "name": "Força inercial de Coriolis",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kruznice&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_watt.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_coriolis&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_coriolis.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2613,8 +2613,8 @@
     {
         "name": "Elevador",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_watt&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_vytah&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vytah.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2625,8 +2625,8 @@
     {
         "name": "Trabalho",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_watt&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladky.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_prace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_prace.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2637,8 +2637,8 @@
     {
         "name": "Colisões elásticas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladky&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pruzna&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pruzna.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2649,8 +2649,8 @@
     {
         "name": "Colisões inelásticas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kladky&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladkostroj.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_nepruzna&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nepruzna.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2661,8 +2661,8 @@
     {
         "name": "Lei da conservação da energia",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladkostroj&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_zze&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_zze.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2685,8 +2685,8 @@
     {
         "name": "Momento de inércia",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kladkostroj&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paka.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_moment&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_moment.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2697,8 +2697,8 @@
     {
         "name": "Atrito",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_paka&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_treni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_treni.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2709,8 +2709,8 @@
     {
         "name": "Atrito e arrasto",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_paka&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton1.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovina&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovina.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2721,8 +2721,8 @@
     {
         "name": "Pêndulo de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton1&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_houpacka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_houpacka.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2733,8 +2733,8 @@
     {
         "name": "Lei de Arquimedes",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_newton1&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_archimedes&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_archimedes.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2745,8 +2745,8 @@
     {
         "name": "Pressão hidrostática",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton2&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_hydrotlak&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_hydrotlak.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2757,8 +2757,8 @@
     {
         "name": "Fonte da garça",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_newton2&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton22.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_heron&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_heron.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2769,8 +2769,8 @@
     {
         "name": "Ludião",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton22&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kartezian&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kartezian.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2781,8 +2781,8 @@
     {
         "name": "Nível",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_newton22&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_vodovaha_accel&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vodovaha_accel.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2793,8 +2793,8 @@
     {
         "name": "Vasos comunicantes",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_newton3&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_nadoby&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nadoby.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2805,8 +2805,8 @@
     {
         "name": "Paradoxo hidrostático",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_setrvacnost&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_paradox&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paradox_obr2.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2817,8 +2817,8 @@
     {
         "name": "Pressão",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_setrvacnost&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_odstrediva.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_tlak&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_tlak.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2829,8 +2829,8 @@
     {
         "name": "Bomba",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_odstrediva&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pumpa&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pumpa.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2841,8 +2841,8 @@
     {
         "name": "Ctesíbio - Engine de bombeiros",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_odstrediva&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_coriolis.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_ktesibios&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_ktesibios.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2853,8 +2853,8 @@
     {
         "name": "Princípio de Pascal",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_coriolis&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pascal&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pascal.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2865,8 +2865,8 @@
     {
         "name": "Elevador hidráulico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_coriolis&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vytah.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_lis&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_lis.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2877,8 +2877,8 @@
     {
         "name": "Princípio de Bernoulli",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_vytah&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_bernoulli&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_bernoulli.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2889,8 +2889,8 @@
     {
         "name": "Sustentação (aerodinâmica)",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_vytah&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_prace.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kridlo&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kridlo.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2901,8 +2901,8 @@
     {
         "name": "Centro de gravidade",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pruzna&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_teziste&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste_obr3.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2913,8 +2913,8 @@
     {
         "name": "Equilíbrio mecânico 1",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pruzna&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nepruzna.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovnovazna&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnovazna.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2925,8 +2925,8 @@
     {
         "name": "Equilíbrio mecânico 2",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_nepruzna&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_stabilita&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_stabilita.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2937,8 +2937,8 @@
     {
         "name": "Equilíbrio mecânico 3",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_nepruzna&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_zze.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_hranol&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_hranol.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2949,8 +2949,8 @@
     {
         "name": "Lei da gravitação universal",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_zze&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_newton_zakon&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_newton_zakon.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2961,8 +2961,8 @@
     {
         "name": "A intensidade do campo gravitacional",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_zze&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_moment.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_intenzita&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_intenzita.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2973,8 +2973,8 @@
     {
         "name": "Campo gravítico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_moment&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_centralni_pole&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_centralni_pole.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2985,8 +2985,8 @@
     {
         "name": "Campo gravítico homogéneo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_moment&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_treni.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_homogenni_pole&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_homogenni_pole.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -2997,8 +2997,8 @@
     {
         "name": "Paralelos e Meridianos da Terra",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_treni&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sourad_geol&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_sourad_geol.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3009,8 +3009,8 @@
     {
         "name": "Aceleração da gravidade",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_treni&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovina.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_tihove_zrychleni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_tihove_zrychleni.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3021,8 +3021,8 @@
     {
         "name": "Pêndulo de Foucault",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovina&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_foucalt&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_foucalt.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3033,8 +3033,8 @@
     {
         "name": "Condição de imponderabilidade",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_rovina&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_houpacka.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_beztizny&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_beztizny.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3045,8 +3045,8 @@
     {
         "name": "Super elevador",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_houpacka&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_supervytah&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_supervytah.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3081,8 +3081,8 @@
     {
         "name": "Projétil horizontalmente lançada",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_houpacka&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_archimedes.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_skladani_pohybu&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_skladani_pohybu.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3093,8 +3093,8 @@
     {
         "name": "Projétil horizontalmente lançada 2",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_archimedes&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vrh_vodorovny&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_vodorovny.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3117,8 +3117,8 @@
     {
         "name": "Descarga de fluido através de um orifício",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_archimedes&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_hydrotlak.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vytok&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vytok.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3153,8 +3153,8 @@
     {
         "name": "Lançamento oblíquo - granada de mão",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_hydrotlak&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vrh_sikmy2&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_sikmy2.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3165,8 +3165,8 @@
     {
         "name": "Trajetórias de corpos",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_hydrotlak&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_heron.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_trajektorie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_trajektorie.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3177,8 +3177,8 @@
     {
         "name": "Canhão de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_heron&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_kosmicke_rychlosti&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_kosmicke_rychlosti.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3189,8 +3189,8 @@
     {
         "name": "Satélites geoestacionários",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_heron&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kartezian.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_geostacionarni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_geostacionarni.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3201,8 +3201,8 @@
     {
         "name": "1.ª Lei de Kepler",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kartezian&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sl_soustava&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_sl_soustava.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3213,8 +3213,8 @@
     {
         "name": "2.ª Lei de Kepler",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kartezian&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vodovaha_accel.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_2kepleruv_zakon&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_2kepleruv_zakon.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3225,8 +3225,8 @@
     {
         "name": "3.ª Lei de Kepler – planetas interiores",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_vodovaha_accel&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vnitrni_planety&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnitrni_planety.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3237,8 +3237,8 @@
     {
         "name": "3.ª Lei de Kepler – planetas exteriores",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_vodovaha_accel&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nadoby.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vnejsi_planety&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnejsi_planety.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3249,8 +3249,8 @@
     {
         "name": "Sistema Solar",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_nadoby&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_soustavy&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_soustavy.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3261,8 +3261,8 @@
     {
         "name": "Fases da Lua",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_nadoby&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paradox.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_mesic_geol&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_mesic_geol.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3273,8 +3273,8 @@
     {
         "name": "Constelação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_paradox&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_souhvezdi_geol&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_souhvezdi_geol_obr3.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3285,8 +3285,8 @@
     {
         "name": "Leis de Kepler",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_paradox&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_tlak.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kepler_zakony&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kepler_zakony.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3297,8 +3297,8 @@
     {
         "name": "Diagrama de Hertzsprung-Russell",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_tlak&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=astro_hr&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/astro_hr.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3309,8 +3309,8 @@
     {
         "name": "Osciladores",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pascal&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr6.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3321,8 +3321,8 @@
     {
         "name": "Movimento circular",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_pascal&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_lis.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_pohyb_po_kruznici&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pohyb_po_kruznici.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -3333,8 +3333,8 @@
     {
         "name": "Oscilação harmónica",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_lis&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_harmonicke_kmitani&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_harmonicke_kmitani.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3345,8 +3345,8 @@
     {
         "name": "Sobreposição de ondas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_lis&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_bernoulli.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_3&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_3.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3357,8 +3357,8 @@
     {
         "name": "Sobreposição de ondas de igual frequência",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_bernoulli&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_1&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_1.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3369,8 +3369,8 @@
     {
         "name": "Sobreposição de ondas de diferentes frequências",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_bernoulli&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kridlo.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_2&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_2.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3381,8 +3381,8 @@
     {
         "name": "Fase",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kridlo&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_faze_kmitaveho_pohybu&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_faze_kmitaveho_pohybu.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3393,8 +3393,8 @@
     {
         "name": "Onda quadrada",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_kridlo&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_obdelnikovy_kmit&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_obdelnikovy_kmit.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3405,8 +3405,8 @@
     {
         "name": "Curvas de Lissajous",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_teziste&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lissajousovy_obrazce&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lissajousovy_obrazce.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3417,8 +3417,8 @@
     {
         "name": "Oscilação amortecida",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_teziste&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_tlumene_kmitani&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_tlumene_kmitani.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3441,8 +3441,8 @@
     {
         "name": "Equação do pêndulo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_teziste&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_kyvadlo&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3453,8 +3453,8 @@
     {
         "name": "Equação do pêndulo - Prego",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_teziste&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_kyvadlo_hrebik&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo_hrebik.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3477,8 +3477,8 @@
     {
         "name": "Oscilador harmônico simples",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_teziste&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_mechanicky_oscilator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_mechanicky_oscilator.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3489,8 +3489,8 @@
     {
         "name": "Oscilador harmônico simples - Helicóptero",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_teziste&l=pt&o=3",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnovazna.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_pruzina&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pruzina.png",
         "categorys": [
             "Física",
             "Oscilações",
@@ -3513,8 +3513,8 @@
     {
         "name": "Reflexão",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovnovazna&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_odraz_vlneni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_vlneni.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3525,8 +3525,8 @@
     {
         "name": "Refração",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_rovnovazna&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_stabilita.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lom_vlneni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lom_vlneni.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3537,8 +3537,8 @@
     {
         "name": "Reflexão de onda em uma corda",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_stabilita&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_odraz_na_konci&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_na_konci.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3549,8 +3549,8 @@
     {
         "name": "Ondas estacionárias",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_centralni_pole&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostojate&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3573,8 +3573,8 @@
     {
         "name": "Velocidade do som",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_hranol&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_rychlost_zvuku&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rychlost_zvuku.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3585,8 +3585,8 @@
     {
         "name": "Efeito Doppler",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mech_hranol&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_newton_zakon.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_doppler&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_doppler.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3597,8 +3597,8 @@
     {
         "name": "Onda de choque",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_newton_zakon&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_razova_vlna&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_razova_vlna.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3609,8 +3609,8 @@
     {
         "name": "Princípio de Huygens",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_newton_zakon&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_intenzita.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_huygens&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_huygens.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3621,8 +3621,8 @@
     {
         "name": "Máquina de ondas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_intenzita&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_centralni_pole.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostroj&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostroj_obr2.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3633,8 +3633,8 @@
     {
         "name": "Ondas estacionárias",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_centralni_pole&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostojate&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3645,8 +3645,8 @@
     {
         "name": "A Dança dos Pêndulos",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_centralni_pole&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_homogenni_pole.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnomach&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnomach.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3657,8 +3657,8 @@
     {
         "name": "Modelo de Torção para Ondas Transversais",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_homogenni_pole&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_julius&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_julius.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3669,8 +3669,8 @@
     {
         "name": "Som",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sourad_geol&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_zvuk&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_zvuk.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -3681,8 +3681,8 @@
     {
         "name": "Movimento browniano",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_sourad_geol&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_tihove_zrychleni.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_brownuv_pohyb&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_brownuv_pohyb.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3693,8 +3693,8 @@
     {
         "name": "Difusão molecular",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_tihove_zrychleni&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_difuze&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_difuze.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3705,8 +3705,8 @@
     {
         "name": "Interações atómicas",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_tihove_zrychleni&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_foucalt.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_atomy&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atomy.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3717,8 +3717,8 @@
     {
         "name": "Distribuição de moléculas de gás pela velocidade",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_foucalt&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_rozdeleni_rychlosti&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rozdeleni_rychlosti.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3741,8 +3741,8 @@
     {
         "name": "Escala de temperatura",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_foucalt&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_beztizny.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_teplotni_stupnice&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplotni_stupnice.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3753,8 +3753,8 @@
     {
         "name": "Equivalente mecânico do calor",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_beztizny&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_joule&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_joule.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3765,8 +3765,8 @@
     {
         "name": "Calorímetro",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_beztizny&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_supervytah.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_kalorimetr&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kalorimetr.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3777,8 +3777,8 @@
     {
         "name": "Estados físicos da matéria",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_supervytah&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_skupenstvi&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_skupenstvi.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3789,8 +3789,8 @@
     {
         "name": "Estados físicos da matéria - água",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_supervytah&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_skladani_pohybu.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_voda&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_voda.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3801,8 +3801,8 @@
     {
         "name": "Energia interna",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_skladani_pohybu&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_vodorovny.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vnitrni_energie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vnitrni_energie_obr2.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3813,8 +3813,8 @@
     {
         "name": "Transferência de energia por convecção",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vrh_vodorovny&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_proudeni_energie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_proudeni_energie.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3825,8 +3825,8 @@
     {
         "name": "Transferência de energia por radiação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vrh_vodorovny&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vytok.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_zareni_energie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_zareni_energie.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3837,8 +3837,8 @@
     {
         "name": "Transferência de energia por condução",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vytok&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vedeni_energie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vedeni_energie.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3849,8 +3849,8 @@
     {
         "name": "Representação gráfica isotérmica da Ley de Boyle-Marriote",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vytok&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_sikmy2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izotermicky_dej&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izotermicky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3861,8 +3861,8 @@
     {
         "name": "Representação gráfica isobárica da Lei de Gay-Lussac",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vrh_sikmy2&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izobaricky_dej&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izobaricky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3873,8 +3873,8 @@
     {
         "name": "Representação gráfica isocórica da Lei de Charles",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vrh_sikmy2&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_trajektorie.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izochoricky_dej&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izochoricky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3885,8 +3885,8 @@
     {
         "name": "Sistema adiabático",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_trajektorie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_adiabaticky_dej&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_adiabaticky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3897,8 +3897,8 @@
     {
         "name": "Ciclo de Carnot",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_trajektorie&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_kosmicke_rychlosti.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_carnot&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_carnot.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3909,8 +3909,8 @@
     {
         "name": "Locomotiva a vapor",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_kosmicke_rychlosti&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_parnistroj&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_parnistroj.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3969,8 +3969,8 @@
     {
         "name": "Moto contínuo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sl_soustava&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr4.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3981,8 +3981,8 @@
     {
         "name": "Pássaro Chinês",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_sl_soustava&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_2kepleruv_zakon.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_cinsky_ptacek&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_cinsky_ptacek.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -3993,8 +3993,8 @@
     {
         "name": "Frigorífico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_2kepleruv_zakon&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_lednicka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_lednicka.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -4005,8 +4005,8 @@
     {
         "name": "Lei de Hooke - 1",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_2kepleruv_zakon&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnitrni_planety.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_hook&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_hook.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -4017,8 +4017,8 @@
     {
         "name": "Lei de Hooke - 2",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vnitrni_planety&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_young&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_young.png",
         "categorys": [
             "Física",
             "Mecânica",
@@ -4029,8 +4029,8 @@
     {
         "name": "Pressão capilar",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vnitrni_planety&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnejsi_planety.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_kapilarni_tlak&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kapilarni_tlak.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -4041,8 +4041,8 @@
     {
         "name": "Dilatação térmica",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vnejsi_planety&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_soustavy.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_roztaznost2&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -4053,8 +4053,8 @@
     {
         "name": "Dilatação térmica",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_vnejsi_planety&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_soustavy.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_roztaznost2&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -4065,8 +4065,8 @@
     {
         "name": "Bimetal",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_soustavy&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_bimetal&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_bimetal.png",
         "categorys": [
             "Física",
             "Termodinâmica",
@@ -4161,8 +4161,8 @@
     {
         "name": "Máquina de Wimshurst",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_soustavy&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_mesic_geol.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_wimshurst&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_wimshurst.png",
         "categorys": [
             "Física",
             "Eletrostática",
@@ -4173,8 +4173,8 @@
     {
         "name": "Gerador de Van de Graaff",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_souhvezdi_geol&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_souhvezdi_geol_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_vandegraaff&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff_obr4.png",
         "categorys": [
             "Física",
             "Eletrostática",
@@ -4185,8 +4185,8 @@
     {
         "name": "Campo elétrico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_souhvezdi_geol&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_el_pole&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_el_pole.png",
         "categorys": [
             "Física",
             "Eletrostática",
@@ -4197,8 +4197,8 @@
     {
         "name": "Cargas e campos",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_souhvezdi_geol&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_souhvezdi_geol_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_pole&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_pole.png",
         "categorys": [
             "Física",
             "Eletrostática",
@@ -4209,8 +4209,8 @@
     {
         "name": "Capacitor",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_souhvezdi_geol&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_kondenzator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_kondenzator.png",
         "categorys": [
             "Física",
             "Eletrostática",
@@ -4221,8 +4221,8 @@
     {
         "name": "Tensão, corrente e resistência",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=gp_souhvezdi_geol&l=pt&o=3",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kepler_zakony.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_uir&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_uir.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4233,8 +4233,8 @@
     {
         "name": "Circuito elétrico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kepler_zakony&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_obvod&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_obvod.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4245,8 +4245,8 @@
     {
         "name": "Lei de Ohm",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kepler_zakony&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/astro_hr.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_ohm&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_ohm.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4257,8 +4257,8 @@
     {
         "name": "Resistência interna",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=astro_hr&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_vnitrni_odpor&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_vnitrni_odpor.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4269,8 +4269,8 @@
     {
         "name": "Leis de Kirchhoff",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_kirchhoff&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_kirchhoff_obr2.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4281,8 +4281,8 @@
     {
         "name": "Resistência elétrica",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_odpor&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_odpor.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4293,8 +4293,8 @@
     {
         "name": "Coeficiente de temperatura",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_odpor_teplota&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_odpor_teplota.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4305,8 +4305,8 @@
     {
         "name": "Termístor",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_ocilatory&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_termistor&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_termistor.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4317,8 +4317,8 @@
     {
         "name": "Resistor dependente de luz",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_fotorezistor&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_fotorezistor.png",
         "categorys": [
             "Física",
             "Semicondutores",
@@ -4329,8 +4329,8 @@
     {
         "name": "Silício",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_kremik&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_kremik_obr2.png",
         "categorys": [
             "Física",
             "Semicondutores",
@@ -4341,8 +4341,8 @@
     {
         "name": "Geração e recombinação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_ocilatory&l=pt&o=4",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr5.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_generace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_generace.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4353,8 +4353,8 @@
     {
         "name": "Semicondutor intrínseco",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_pohyb_der&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_pohyb_der.png",
         "categorys": [
             "Física",
             "Semicondutores",
@@ -4365,8 +4365,8 @@
     {
         "name": "Semicondutores",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_ocilatory&l=pt&o=5",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr6.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_polovodice&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_polovodice.png",
         "categorys": [
             "Física",
             "Semicondutores",
@@ -4377,8 +4377,8 @@
     {
         "name": "Diodo semicondutor",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_dioda&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_dioda.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4389,8 +4389,8 @@
     {
         "name": "Circuito retificador",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_ocilatory&l=pt&o=6",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pohyb_po_kruznici.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_graetz&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_graetz.png",
         "categorys": [
             "Física",
             "Semicondutores",
@@ -4401,8 +4401,8 @@
     {
         "name": "Dissociação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_pohyb_po_kruznici&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_harmonicke_kmitani.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_disociace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_disociace_obr2.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4413,8 +4413,8 @@
     {
         "name": "Eletrólise",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_harmonicke_kmitani&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_rozkladne&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_rozkladne.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4425,8 +4425,8 @@
     {
         "name": "Acumulador de chumbo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_harmonicke_kmitani&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_akumulator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_akumulator.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4437,8 +4437,8 @@
     {
         "name": "Ionização - descarregar um eletroscópio",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_skladani_kmitani_3&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_1.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_ionizace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_ionizace_obr2.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4449,8 +4449,8 @@
     {
         "name": "Descarga elétrica em gases",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_1&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_vyboj_nesam&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_vyboj_nesam.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4461,8 +4461,8 @@
     {
         "name": "Característica de descarga de gás",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_skladani_kmitani_1&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_va_charakteristika&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_va_charakteristika.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4473,8 +4473,8 @@
     {
         "name": "Arco elétrico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_2&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_oblouk&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_oblouk.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4485,8 +4485,8 @@
     {
         "name": "Bobina de indução",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_skladani_kmitani_2&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_faze_kmitaveho_pohybu.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_ruhmkorff&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_ruhmkorff.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4497,8 +4497,8 @@
     {
         "name": "Raio catódico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_faze_kmitaveho_pohybu&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_magnet_elektron&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_magnet_elektron.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4509,8 +4509,8 @@
     {
         "name": "Osciloscópio",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_faze_kmitaveho_pohybu&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_obdelnikovy_kmit.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_osciloskop&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_osciloskop.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4522,8 +4522,8 @@
     {
         "name": "Tubo de Crookes - Cruz de Malta",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_obdelnikovy_kmit&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_maltezsky_kriz&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_maltezsky_kriz.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4534,8 +4534,8 @@
     {
         "name": "Regiões em um tubo de Crookes",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_obdelnikovy_kmit&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lissajousovy_obrazce.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_trubice&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_trubice.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4546,8 +4546,8 @@
     {
         "name": "Fogo-de-santelmo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lissajousovy_obrazce&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_elias&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_elias.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4558,8 +4558,8 @@
     {
         "name": "Lâmpada de néon",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_lissajousovy_obrazce&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_tlumene_kmitani.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_doutnavka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_doutnavka.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4570,8 +4570,8 @@
     {
         "name": "Lâmpada fluorescente",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_tlumene_kmitani&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_zarivka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_zarivka.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4582,8 +4582,8 @@
     {
         "name": "Proteção contra raios",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_tlumene_kmitani&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_bleskojistka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_bleskojistka.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4594,8 +4594,8 @@
     {
         "name": "Íman",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_kyvadlo&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_magnet&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_magnet.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4606,8 +4606,8 @@
     {
         "name": "Ferromagnetismo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_kyvadlo&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo_hrebik.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_ferro&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_ferro.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4618,8 +4618,8 @@
     {
         "name": "A Regra da Mão Direita",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_kyvadlo_hrebik&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_mechanicky_oscilator.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_vodic&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_vodic_obr2.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4630,8 +4630,8 @@
     {
         "name": "Regra de Fleming",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_mechanicky_oscilator&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pruzina.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_fleming&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_fleming_obr2.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4642,8 +4642,8 @@
     {
         "name": "Lei de Ampère",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_pruzina&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_amper&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_amper.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4654,8 +4654,8 @@
     {
         "name": "Indução eletromagnética",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_pruzina&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_vlneni.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_indukce_accel&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_indukce_accel.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4666,8 +4666,8 @@
     {
         "name": "Lei de Lenz",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_odraz_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lom_vlneni.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_lenz&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_lenz_obr2.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4678,8 +4678,8 @@
     {
         "name": "Bobina de Helmholtz",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lom_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_wehnelt&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_wehnelt.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4690,8 +4690,8 @@
     {
         "name": "Alternador e dínamo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_odraz_na_konci&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_alternator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_alternator_obr2.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4702,8 +4702,8 @@
     {
         "name": "Gerador Trifásico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_odraz_na_konci&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_stojate_vlneni.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_generator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_generator.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4714,8 +4714,8 @@
     {
         "name": "Transformador",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_stojate_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_transformator&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_transformator.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4726,8 +4726,8 @@
     {
         "name": "Pêndulo de Waltenhofen",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_stojate_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rychlost_zvuku.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_waltenhofen&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_waltenhofen.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4738,8 +4738,8 @@
     {
         "name": "Circuitos AC simples",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_rychlost_zvuku&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_ac_rlc&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_ac_rlc.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -4750,8 +4750,8 @@
     {
         "name": "Circuito RLC em série",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_doppler&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_razova_vlna.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_rlc_ser&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_rlc_ser_obr3.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4762,8 +4762,8 @@
     {
         "name": "Circuito RLC em paralelo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_huygens&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_rlc_par&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_rlc_par_obr3.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4774,8 +4774,8 @@
     {
         "name": "Circuito electromagnético oscilante",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_huygens&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostroj.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_elmg&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_elmg.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -4786,8 +4786,8 @@
     {
         "name": "Prisma",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostroj&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_hranol&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_hranol.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4798,8 +4798,8 @@
     {
         "name": "Reflexão total",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_vlnostroj&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostroj_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_total&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_total.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4810,8 +4810,8 @@
     {
         "name": "Sintese subtrativa e aditiva",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_vlnostroj&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_michanibarev&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_michanibarev_obr2.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4822,8 +4822,8 @@
     {
         "name": "Disco de Newton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostojate&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_newtonkotouc&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newtonkotouc.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4834,8 +4834,8 @@
     {
         "name": "Experiência da dupla fenda",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_vlnostojate&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnomach.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_interference&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_interference.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4846,8 +4846,8 @@
     {
         "name": "Espelhos",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnomach&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_zrcadla&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_zrcadla.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4858,8 +4858,8 @@
     {
         "name": "Lente",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_vlnomach&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_julius.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_dioptrie&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dioptrie.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4870,8 +4870,8 @@
     {
         "name": "Distância focal",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_julius&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_ohnisko&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_ohnisko.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4882,8 +4882,8 @@
     {
         "name": "Lente convergente",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_spojka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_spojka_obr2.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4894,8 +4894,8 @@
     {
         "name": "Lente divergente",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=kv_vlneni&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_zvuk.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_rozptylka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_rozptylka.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4906,8 +4906,8 @@
     {
         "name": "Defeitos de visão",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_brownuv_pohyb&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_vady&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vady_obr3.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4918,8 +4918,8 @@
     {
         "name": "Acomodação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_brownuv_pohyb&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_difuze.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_akomodace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_akomodace.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4930,8 +4930,8 @@
     {
         "name": "Lupa",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_difuze&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_lupa&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_lupa.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4954,8 +4954,8 @@
     {
         "name": "Telescópio Kepler",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_difuze&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atomy.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_kepler&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_kepler.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4966,8 +4966,8 @@
     {
         "name": "Telescópio de Galileu",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_atomy&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_galileo&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_galileo.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4978,8 +4978,8 @@
     {
         "name": "Espelho côncavo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_rozdeleni_rychlosti&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_dute&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dute_obr2.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -4990,8 +4990,8 @@
     {
         "name": "Espelho convexo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_rozdeleni_rychlosti&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplotni_stupnice.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_vypukle&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vypukle.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5002,8 +5002,8 @@
     {
         "name": "Telescópio newtoniano",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_teplotni_stupnice&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_newton&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newton.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5014,8 +5014,8 @@
     {
         "name": "Fluxo luminoso",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_voda&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_svtok&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_svtok_obr8.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5026,8 +5026,8 @@
     {
         "name": "Intensidade luminosa",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vnitrni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_svitivost&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_svitivost_obr2.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5038,8 +5038,8 @@
     {
         "name": "Iluminamento",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_vnitrni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vnitrni_energie_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_osvetleni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_osvetleni.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5050,8 +5050,8 @@
     {
         "name": "Corpo negro",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vnitrni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_certeleso&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_certeleso.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5062,8 +5062,8 @@
     {
         "name": "Modelo de corpo negro",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_proudeni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_model&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_model_obr2.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5074,8 +5074,8 @@
     {
         "name": "Efeito fotoelétrico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_proudeni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_zareni_energie.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_fotoefekt&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_fotoefekt.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
@@ -5087,8 +5087,8 @@
     {
         "name": "Onda electromagnética",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_zareni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_vlna&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vlna.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -5099,8 +5099,8 @@
     {
         "name": "Filtro polarizador",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vedeni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_polarizacefiltr&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_polarizacefiltr_obr2.png",
         "categorys": [
             "Física",
             "Ondas",
@@ -5111,8 +5111,8 @@
     {
         "name": "Ampola de raios X",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_vedeni_energie&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izotermicky_dej.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_rentgen&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_rentgen.png",
         "categorys": [
             "Física",
             "Óptica",
@@ -5123,8 +5123,8 @@
     {
         "name": "Experiência de Michelson-Morley",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izotermicky_dej&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_michelson&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_michelson.png",
         "categorys": [
             "Física",
             "Eletromagnetismo",
@@ -5135,8 +5135,8 @@
     {
         "name": "Dilatação do tempo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_izotermicky_dej&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izobaricky_dej.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_dilatace&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_dilatace.png",
         "categorys": [
             "Física",
             "Relatividade",
@@ -5147,8 +5147,8 @@
     {
         "name": "Contracção do espaço",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izobaricky_dej&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_kontrakce&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_kontrakce.png",
         "categorys": [
             "Física",
             "Relatividade",
@@ -5159,8 +5159,8 @@
     {
         "name": "Modelos atômicos",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_adiabaticky_dej&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_carnot.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_modely&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_modely_obr5.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5171,8 +5171,8 @@
     {
         "name": "Experimento de Rutherford",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_carnot&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_parnistroj.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_rutheford&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_rutheford_obr2.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5183,8 +5183,8 @@
     {
         "name": "Átomo de Bohr",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_parnistroj&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_vodik&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_vodik_obr2.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5195,8 +5195,8 @@
     {
         "name": "Espectroscópio",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_spektroskop&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_spektroskop.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5207,8 +5207,8 @@
     {
         "name": "Experiência da gota de óleo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_perpetuum_mobile&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_millikan&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_millikan.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5219,8 +5219,8 @@
     {
         "name": "Efeito Compton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_compton&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_compton.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5231,8 +5231,8 @@
     {
         "name": "Experimento de Franck-Hertz",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_perpetuum_mobile&l=pt&o=2",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr3.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_franckhertz&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_franckhertz.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5243,8 +5243,8 @@
     {
         "name": "Experimento de Davisson–Germer",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_perpetuum_mobile&l=pt&o=3",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr4.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_dg&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_dg_obr2.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5255,8 +5255,8 @@
     {
         "name": "Tabela periódica",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_tabulka&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_tabulka.png",
         "categorys": [
             "Física",
             "Atômica",
@@ -5267,8 +5267,8 @@
     {
         "name": "Radiação",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_cinsky_ptacek&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_zareni&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_zareni_obr2.png",
         "categorys": [
             "Física",
             "Nuclear",
@@ -5279,8 +5279,8 @@
     {
         "name": "Decaimento radioactivo",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_cinsky_ptacek&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_lednicka.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_rozpad&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rozpad.png",
         "categorys": [
             "Física",
             "Nuclear",
@@ -5291,8 +5291,8 @@
     {
         "name": "Cadeia de decaimento",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_lednicka&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_hook.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_rady&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rady_obr2.png",
         "categorys": [
             "Física",
             "Nuclear",
@@ -5303,8 +5303,8 @@
     {
         "name": "Reação nuclear",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_young&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kapilarni_tlak.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_reakce&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_reakce_obr4.png",
         "categorys": [
             "Física",
             "Nuclear",
@@ -5315,8 +5315,8 @@
     {
         "name": "Fusão nuclear - Sol",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_kapilarni_tlak&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_slunce&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_slunce.png",
         "categorys": [
             "Física",
             "Nuclear",
@@ -5327,8 +5327,8 @@
     {
         "name": "Teorema de Pitágoras",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_roztaznost1&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_pythagoras&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_pythagoras_obr3.png",
         "categorys": [
             "Matemática",
             "",
@@ -5339,8 +5339,8 @@
     {
         "name": "Pi",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_roztaznost2&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_ludolf&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_ludolf.png",
         "categorys": [
             "Matemática",
             "",
@@ -5351,8 +5351,8 @@
     {
         "name": "Radiano",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_roztaznost2&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_bimetal.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_radian&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_radian.png",
         "categorys": [
             "Física",
             "Matemática",
@@ -5363,8 +5363,8 @@
     {
         "name": "Círculo unitário",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_bimetal&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_kruznice&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_kruznice.png",
         "categorys": [
             "Matemática",
             "",
@@ -5375,8 +5375,8 @@
     {
         "name": "Adição de Vetores",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=mf_bimetal&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_wimshurst.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_vektory&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_vektory.png",
         "categorys": [
             "Matemática",
             "Vetores",
@@ -5387,8 +5387,8 @@
     {
         "name": "Agulha de Buffon",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_wimshurst&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_buffon&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_buffon.png",
         "categorys": [
             "Matemática",
             "",
@@ -5399,8 +5399,8 @@
     {
         "name": "Tabuleiro de Galton",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=ele_wimshurst&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_galton&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_galton.png",
         "categorys": [
             "Matemática",
             "",
@@ -5411,8 +5411,8 @@
     {
         "name": "Fita de Möbius",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_vandegraaff&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_mobius&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_mobius.png",
         "categorys": [
             "Matemática",
             "",
@@ -5423,8 +5423,8 @@
     {
         "name": "Sólido platónico",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/templateimg.php?s=elpole_vandegraaff&l=pt",
-        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff_obr2.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
         "categorys": [
             "Matemática",
             "",
@@ -5435,8 +5435,8 @@
     {
         "name": "Alfabeto grego",
         "descript": "",
-        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_vandegraaff&l=pt",
-        "thumb": "https://www.vascak.cz/data/img/zoom.png",
+        "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_abeceda&l=pt",
+        "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_abeceda.png",
         "categorys": [
             "Alfabeto",
             "",
