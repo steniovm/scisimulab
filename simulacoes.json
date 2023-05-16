@@ -296,7 +296,7 @@
  },
  {
   "name": "Kit para Montar um Circuito: AC",
-  "descript": "",
+  "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac",
   "thumb": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac-420.png",
   "categorys": [
@@ -307,69 +307,80 @@
  },
  {
   "name": "Modos Normais",
-  "descript": "",
+  "descript": "Defini a frequência, amplitude e fase de um modo normal. Explica o que é um modo normal.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/normal-modes",
   "thumb": "https://phet.colorado.edu/sims/html/normal-modes/latest/normal-modes-420.png",
   "categorys": [
    "Física",
-   "Ondas"
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Phet"
  },
  {
   "name": "Fourier: Construindo Ondas",
-  "descript": "",
-  "url": "",
-  "thumb": "",
+  "descript": "Explica qualitativamente como os senos e cossenos se somam para produzir funções periódicas arbitrárias. Reconhece que cada componente de Fourier corresponde a uma onda senoidal com um comprimento de onda ou período diferente. Descreve os sons em termos de ondas senoidais.",
+  "url": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-900.png",
   "categorys": [
    "Física",
-   "Ondas"
+   "Ondas",
+   "Gráfico",
+   "Matemática",
+   "Função "
   ],
   "author": "Phet"
  },
  {
   "name": "Reta Numérica: Distância",
-  "descript": "",
+  "descript": "Representa a reta numérica mostrando a diferença entre números através da distância na reta.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-distance",
   "thumb": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Gráfico"
   ],
   "author": "Phet"
  },
  {
   "name": "Razão e Proporção",
-  "descript": "",
+  "descript": "Trabalha os conceitos de razão e proporção e usa a linguagem matemática para descrever uma relação entre duas quantidades.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/ratio-and-proportion",
   "thumb": "https://phet.colorado.edu/sims/html/ratio-and-proportion/latest/ratio-and-proportion-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Laboratório de Colisões",
-  "descript": "",
+  "descript": "Aplica a lei da conservação do momento para resolver problemas de colisões. Construindo, desenhando e animando vetores representando o momentum do \"antes e depois\" das colisões.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/collision-lab",
   "thumb": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Vetores",
+   "Momentum"
   ],
   "author": "Phet"
  },
  {
   "name": "Reta Numérica: Operações",
-  "descript": "",
-  "url": "",
-  "thumb": "",
+  "descript": "Raciocinar sobre adição e subtração de números inteiros em termos de localização de números na re+ta numerica.",
+  "url": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Gráfico"
   ],
   "author": "Phet"
  },
  {
   "name": "Monte uma Molécula",
-  "descript": "",
+  "descript": "Construir moléculas simples a partir de átomos reconhecer o índice na fórmula molecular como o número de átomos na molécula. Reconhece que o coeficiente indica o número total de moléculas. Associa nome de moléculas comuns a múltiplas representações.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-molecule",
   "thumb": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule-420.png",
   "categorys": [
@@ -380,11 +391,11 @@
  },
  {
   "name": "Seleção Natural",
-  "descript": "",
+  "descript": "Descrever quais características alteram a capacidade de sobrevivência de um organismo (coelhos) em diferentes ambientes.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/natural-selection",
   "thumb": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection-420.png",
   "categorys": [
-   "Física",
+   "Biologia",
    "Evolução natural",
    "Jogo"
   ],
@@ -392,66 +403,72 @@
  },
  {
   "name": "Reta Numérica: Inteiros",
-  "descript": "",
+  "descript": "Usa números positivos e negativos para representar quantidades em múltiplos contextos. Descreve a localização de um ponto em uma linha numérica em relação a outro número.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-integers",
   "thumb": "https://phet.colorado.edu/sims/html/number-line-integers/latest/number-line-integers-420.png",
   "categorys": [
    "Matemática",
-   "Números"
+   "Números",
+   "Gráfico"
   ],
   "author": "Phet"
  },
  {
   "name": "Adição de Vetores: Equações",
-  "descript": "",
+  "descript": "Descreve e desenha vetores, com suas componentes e equações. Realiza operações com vetores.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition-equations",
   "thumb": "https://phet.colorado.edu/sims/html/vector-addition-equations/latest/vector-addition-equations-420.png",
   "categorys": [
    "Física",
    "Matemática",
-   "Gráfico"
+   "Gráfico",
+   "Vetores",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Adição de Vetores",
-  "descript": "",
+  "descript": "Descreve e desenha vetores, com suas componentes. Realiza operações com vetores.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition",
   "thumb": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition-420.png",
   "categorys": [
    "Física",
    "Matemática",
-   "Vetores"
+   "Gráfico",
+   "Vetores",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Ajuste de Curva",
-  "descript": "",
+  "descript": "Explica como o alcance e a incerteza e o número de pontos de dados afetam o coeficiente de correlação e o qui quadrado.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
   "thumb": "https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting-420.png",
   "categorys": [
    "Física",
    "Matemática",
-   "Gráfico"
+   "Gráfico",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Laboratório de Força Gravitacional",
-  "descript": "",
+  "descript": "Relaciona a força gravitacional às massas dos objetos e à distância entre os objetos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab-420.png",
   "categorys": [
    "Física",
    "Gravitação",
-   ""
+   "Força"
   ],
   "author": "Phet"
  },
  {
   "name": "Ondas: Intro",
-  "descript": "",
+  "descript": "Simula ondas com água, som e luz para ver como estão relacionadas. Discuti as propriedades das ondas usando vocabulário comum.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/waves-intro",
   "thumb": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro-420.png",
   "categorys": [
@@ -462,127 +479,150 @@
  },
  {
   "name": "Difusão",
-  "descript": "",
+  "descript": "Explica como dois gases se misturam. Projeta um experimento para encontrar fatores que afetam a taxa de difusão.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
   "thumb": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Termodinâmica"
   ],
   "author": "Phet"
  },
  {
   "name": "Gases: Introdução",
-  "descript": "",
+  "descript": "Descrever o comportamento das partículas de gás confinado.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
   "thumb": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Termodinâmica"
   ],
   "author": "Phet"
  },
  {
   "name": "Propriedades dos Gases",
-  "descript": "",
+  "descript": "Descrever o comportamento das partículas de gás confinado. Como as variáveis P, V, N e T.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
   "thumb": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Termodinâmica"
   ],
   "author": "Phet"
  },
  {
   "name": "Espectro de Corpo Negro",
-  "descript": "",
-  "url": "",
-  "thumb": "",
+  "descript": "Descreve o que acontece com o espectro de corpo negro à medida que aumenta ou diminui a temperatura.",
+  "url": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum-900.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Termodinâmica",
+   "Gráfico",
+   "Quântica",
+   "Astronomia",
+   "Radiação"
   ],
   "author": "Phet"
  },
  {
   "name": "Massas e Molas: Básico",
-  "descript": "",
+  "descript": "Descreve a Lei de Hooke por meio de massas e molas, realiza movimentos periódicos mostrando conservação de energia.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs-basics",
   "thumb": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Oscilações",
+   "Força",
+   "Energia"
   ],
   "author": "Phet"
  },
  {
   "name": "Formas de Energia e Transformações",
-  "descript": "",
+  "descript": "Mostra como a energia flui quando os objetos são aquecidos ou resfriados. Descreve os diferentes tipos de energia mostrando a conservação com exemplos da vida quotidiana.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/energy-forms-and-changes",
   "thumb": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Energia",
+   "Termodinamica"
   ],
   "author": "Phet"
  },
  {
   "name": "Interferência de Onda",
-  "descript": "",
+  "descript": "Cria ondas da água, do som e da luz mostrando como estão relacionadas. Projeta um experimento para medir a velocidade da onda. Cria um padrão de interferência com duas fontes e determinar as formas de mudar o padrão.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/wave-interference",
   "thumb": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Ondas"
   ],
   "author": "Phet"
  },
  {
   "name": "Frações: Números Mistos",
-  "descript": "",
+  "descript": "Monta frações correspondentes usando números e figuras e mostra como numerador e denominador mudam o resultado da fração.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-mixed-numbers",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-mixed-numbers/latest/fractions-mixed-numbers-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Frações: Intro",
-  "descript": "",
+  "descript": "Monta frações correspondentes usando números e figuras e mostra como numerador e denominador mudam o resultado da fração.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-intro",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-intro/latest/fractions-intro-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Construir uma Fração",
-  "descript": "",
+  "descript": "Monta frações usando números e círculos e mostra como numerador e denominador mudam o resultado da fração.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-fraction",
   "thumb": "https://phet.colorado.edu/sims/html/build-a-fraction/latest/build-a-fraction-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Frações: Igualdade",
-  "descript": "",
+  "descript": "Monta frações usando números e figuras geométricas e mostra como numerador e denominador mudam o resultado da fração.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-equality",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-equality/latest/fractions-equality-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Lei de Coulomb",
-  "descript": "",
+  "descript": "Relaciona a força eletrostática às cargas e à distância entre os objetos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/coulombs-law",
   "thumb": "https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrostática",
+   "Força"
   ],
   "author": "Phet"
  },
  {
   "name": "Gráfico de Quadráticas",
-  "descript": "",
+  "descript": "Mostra como os coeficientes de uma função quadrática muda o gráfico da função.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-quadratics",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics-420.png",
   "categorys": [
@@ -593,59 +633,62 @@
  },
  {
   "name": "Massas e Molas",
-  "descript": "",
+  "descript": "Descreve a Lei de Hooke por meio de massas e molas, realiza movimentos periódicos mostrando conservação de energia.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs",
   "thumb": "https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Oscilações",
+   "Força",
+   "Energia"
   ],
   "author": "Phet"
  },
  {
   "name": "Explorador da Igualdade: Duas Variáveis",
-  "descript": "",
+  "descript": "Resolver e manipular equações algébricas substituindo valores diferentes por uma variável. Usar um modelo de balança para resolver uma equação para um valor desconhecido e justificar suas estratégias para resolver.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-two-variables",
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer-two-variables/latest/equality-explorer-two-variables-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Explorador da Igualdade: Básico",
-  "descript": "",
+  "descript": "Usa modelo com balanças e pesos para resolver equação com valor desconhecido e justifica suas estratégias para resolver.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-basics",
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Explorador da Igualdade",
-  "descript": "",
+  "descript": "Resolve e manipula equações algébricas aplicando propriedades de números reais e de igualdades.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer",
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer/latest/equality-explorer-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Modelo de Área: Álgebra",
-  "descript": "",
+  "descript": "Mostra a área representada pelo produto de dois números. Representa um problema de multiplicação como a área de um retângulo, proporcionalmente ou usando uma área genérica.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-algebra",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-algebra/latest/area-model-algebra-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Geometria"
   ],
   "author": "Phet"
  },
@@ -655,9 +698,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-decimals",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Geometria"
   ],
   "author": "Phet"
  },
@@ -667,9 +710,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-multiplication",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Geometria"
   ],
   "author": "Phet"
  },
@@ -679,9 +722,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-introduction",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Geometria"
   ],
   "author": "Phet"
  },
@@ -691,9 +734,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/gene-expression-essentials",
   "thumb": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
@@ -703,9 +745,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/capacitor-lab-basics",
   "thumb": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -715,9 +755,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc",
   "thumb": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -727,9 +765,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
   "thumb": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -739,9 +775,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
   "thumb": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -751,9 +785,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -763,9 +795,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/expression-exchange",
   "thumb": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -775,9 +805,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-slope-intercept",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -787,9 +815,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -799,9 +825,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
   "thumb": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -811,9 +835,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
   "thumb": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -823,9 +845,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
   "thumb": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -835,9 +855,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
   "thumb": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -847,9 +865,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -859,9 +875,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
   "thumb": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -871,9 +885,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
   "thumb": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -883,9 +895,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/charges-and-fields",
   "thumb": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -895,9 +905,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
   "thumb": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -907,9 +915,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -919,9 +925,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/isotopes-and-atomic-mass",
   "thumb": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -931,9 +935,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/neuron",
   "thumb": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -943,9 +945,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/trig-tour",
   "thumb": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -955,21 +955,19 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
   "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
  {
   "name": "Aritmética",
-  "descript": "",
+  "descript": "Explica como a tabuada ajuda a entender a multiplicar, fatorar e dividir. Desenvolve múltiplas estratégias para problemas aritméticos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/arithmetic",
   "thumb": "https://phet.colorado.edu/sims/html/arithmetic/latest/arithmetic-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
@@ -979,9 +977,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/hookes-law",
   "thumb": "https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -991,9 +987,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
   "thumb": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1003,9 +997,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/least-squares-regression",
   "thumb": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1015,9 +1007,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1027,9 +1017,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
   "thumb": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1039,9 +1027,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-law",
   "thumb": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1051,9 +1037,7 @@
   "url": "",
   "thumb": "",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1063,9 +1047,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-builder",
   "thumb": "https://phet.colorado.edu/sims/html/area-builder/latest/area-builder-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1075,9 +1057,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
   "thumb": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1087,9 +1067,7 @@
   "url": "",
   "thumb": "",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1099,9 +1077,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
   "thumb": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1111,9 +1087,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-chemical-equations",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1123,9 +1097,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-lines",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1135,9 +1107,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/fraction-matcher",
   "thumb": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1147,9 +1117,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1159,9 +1127,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
   "thumb": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1171,9 +1137,7 @@
   "url": "",
   "thumb": "",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1183,9 +1147,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/friction",
   "thumb": "https://phet.colorado.edu/sims/html/friction/latest/friction-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1195,9 +1157,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics",
   "thumb": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1207,9 +1167,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/john-travoltage",
   "thumb": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1219,9 +1177,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/concentration",
   "thumb": "https://phet.colorado.edu/sims/html/concentration/latest/concentration-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1231,9 +1187,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1243,9 +1197,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
   "thumb": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1255,9 +1207,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
   "thumb": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1267,9 +1217,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molarity",
   "thumb": "https://phet.colorado.edu/sims/html/molarity/latest/molarity-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1279,9 +1227,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
   "thumb": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1291,9 +1237,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
   "thumb": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1303,9 +1247,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
   "thumb": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom-420.png",
   "categorys": [
-   "Física",
-   "",
-   ""
+   "Física"
   ],
   "author": "Phet"
  },
@@ -1316,8 +1258,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1328,8 +1269,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1340,8 +1280,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1352,8 +1291,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1364,8 +1302,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1376,8 +1313,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1388,8 +1324,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1400,8 +1335,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1412,8 +1346,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1424,8 +1357,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1436,8 +1368,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1448,8 +1379,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1460,8 +1390,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1472,8 +1401,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1484,8 +1412,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1496,8 +1423,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1508,8 +1434,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
@@ -1520,8 +1445,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "walter-fendt"
  },
@@ -1532,8 +1456,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "walter-fendt"
  },
@@ -1544,8 +1467,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "walter-fendt"
  },
@@ -1556,8 +1478,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "walter-fendt"
  },
@@ -1568,8 +1489,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
@@ -1580,8 +1500,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
@@ -1592,8 +1511,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
@@ -1604,8 +1522,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
@@ -1616,8 +1533,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
@@ -1628,8 +1544,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1640,8 +1555,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1652,8 +1566,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1664,8 +1577,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1676,8 +1588,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1688,8 +1599,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1700,8 +1610,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1712,8 +1621,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1724,8 +1632,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1736,8 +1643,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1748,8 +1654,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1760,8 +1665,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1772,8 +1676,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1784,8 +1687,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1796,8 +1698,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1808,8 +1709,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1820,8 +1720,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1832,8 +1731,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
@@ -1844,8 +1742,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "walter-fendt"
  },
@@ -1856,8 +1753,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Relatividade",
-   ""
+   "Relatividade"
   ],
   "author": "walter-fendt"
  },
@@ -1868,8 +1764,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica",
-   ""
+   "Atômica"
   ],
   "author": "walter-fendt"
  },
@@ -1880,8 +1775,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica",
-   ""
+   "Atômica"
   ],
   "author": "walter-fendt"
  },
@@ -1892,8 +1786,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Atômica",
-   ""
+   "Atômica"
   ],
   "author": "walter-fendt"
  },
@@ -1928,8 +1821,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "estado sólido",
-   ""
+   "estado sólido"
   ],
   "author": "walter-fendt"
  },
@@ -1940,8 +1832,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Astronomia",
-   ""
+   "Astronomia"
   ],
   "author": "walter-fendt"
  },
@@ -1952,8 +1843,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Astronomia",
-   ""
+   "Astronomia"
   ],
   "author": "walter-fendt"
  },
@@ -1964,8 +1854,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Aritmética",
-   ""
+   "Aritmética"
   ],
   "author": "walter-fendt"
  },
@@ -2000,8 +1889,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2012,8 +1900,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2024,8 +1911,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2036,8 +1922,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2048,8 +1933,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2060,8 +1944,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2072,8 +1955,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2084,8 +1966,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2096,8 +1977,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2108,8 +1988,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2120,8 +1999,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2132,8 +2010,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2144,8 +2021,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2156,8 +2032,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2168,8 +2043,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2180,8 +2054,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2192,8 +2065,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2216,8 +2088,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria",
-   ""
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
@@ -2264,8 +2135,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Função",
-   ""
+   "Função"
   ],
   "author": "walter-fendt"
  },
@@ -2276,8 +2146,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Função",
-   ""
+   "Função"
   ],
   "author": "walter-fendt"
  },
@@ -2348,8 +2217,7 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Números",
-   ""
+   "Números"
   ],
   "author": "walter-fendt"
  },
@@ -2360,8 +2228,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_sily.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2372,8 +2239,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kolo_obr2.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2384,8 +2250,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnobeznik.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2396,8 +2261,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_posuvka.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2408,8 +2272,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_mikrometr.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2420,8 +2283,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr3.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2432,8 +2294,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kruznice.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2444,8 +2305,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_watt.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2456,8 +2316,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladky.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2468,8 +2327,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladkostroj.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2480,8 +2338,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paka.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2492,8 +2349,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton1.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2504,8 +2360,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton22.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2516,8 +2371,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton22.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2528,8 +2382,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_newton3.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2540,8 +2393,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_setrvacnost.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2552,8 +2404,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_odstrediva.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2564,8 +2415,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_coriolis.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2576,8 +2426,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vytah.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2588,8 +2437,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_prace.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2600,8 +2448,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pruzna.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2612,8 +2459,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nepruzna.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2624,8 +2470,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_zze.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2636,8 +2481,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2648,8 +2492,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_moment.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2660,8 +2503,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_treni.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2672,8 +2514,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovina.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2684,8 +2525,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_houpacka.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2696,8 +2536,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_archimedes.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2708,8 +2547,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_hydrotlak.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2720,8 +2558,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_heron.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2732,8 +2569,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kartezian.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2744,8 +2580,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vodovaha_accel.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2756,8 +2591,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nadoby.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2768,8 +2602,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paradox_obr2.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2780,8 +2613,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_tlak.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2792,8 +2624,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pumpa.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2804,8 +2635,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_ktesibios.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2816,8 +2646,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pascal.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2828,8 +2657,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_lis.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2840,8 +2668,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_bernoulli.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2852,8 +2679,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kridlo.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2864,8 +2690,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste_obr3.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2876,8 +2701,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnovazna.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2888,8 +2712,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_stabilita.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -2900,8 +2723,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_hranol.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -3272,8 +3094,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr6.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3284,8 +3105,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pohyb_po_kruznici.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -3296,8 +3116,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_harmonicke_kmitani.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3308,8 +3127,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_3.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3320,8 +3138,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_1.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3332,8 +3149,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_2.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3344,8 +3160,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_faze_kmitaveho_pohybu.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3356,8 +3171,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_obdelnikovy_kmit.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3368,8 +3182,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lissajousovy_obrazce.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3380,8 +3193,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_tlumene_kmitani.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3392,8 +3204,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3404,8 +3215,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3416,8 +3226,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo_hrebik.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3428,8 +3237,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3440,8 +3248,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_mechanicky_oscilator.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3452,8 +3259,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pruzina.png",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3464,8 +3270,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações",
-   ""
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -3476,8 +3281,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_vlneni.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3488,8 +3292,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lom_vlneni.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3500,8 +3303,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_na_konci.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3512,8 +3314,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3524,8 +3325,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3536,8 +3336,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rychlost_zvuku.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3548,8 +3347,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_doppler.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3560,8 +3358,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_razova_vlna.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3572,8 +3369,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_huygens.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3584,8 +3380,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostroj_obr2.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3596,8 +3391,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3620,8 +3414,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_julius.png",
   "categorys": [
    "Física",
-   "Ondas",
-   ""
+   "Ondas"
   ],
   "author": "Vascak"
  },
@@ -3644,8 +3437,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_brownuv_pohyb.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3656,8 +3448,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_difuze.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3668,8 +3459,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atomy.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3680,8 +3470,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rozdeleni_rychlosti.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3692,8 +3481,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3704,8 +3492,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplotni_stupnice.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3716,8 +3503,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_joule.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3728,8 +3514,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kalorimetr.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3740,8 +3525,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_skupenstvi.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3752,8 +3536,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_voda.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3764,8 +3547,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vnitrni_energie_obr2.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3776,8 +3558,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_proudeni_energie.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3788,8 +3569,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_zareni_energie.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3800,8 +3580,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vedeni_energie.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3848,8 +3627,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_adiabaticky_dej.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3860,8 +3638,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_carnot.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3872,8 +3649,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_parnistroj.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3884,8 +3660,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3896,8 +3671,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3908,8 +3682,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3920,8 +3693,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3932,8 +3704,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr4.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3944,8 +3715,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_cinsky_ptacek.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3956,8 +3726,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_lednicka.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -3968,8 +3737,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_hook.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -3980,8 +3748,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_young.png",
   "categorys": [
    "Física",
-   "Mecânica",
-   ""
+   "Mecânica"
   ],
   "author": "Vascak"
  },
@@ -3992,8 +3759,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kapilarni_tlak.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4004,8 +3770,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4016,8 +3781,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4028,8 +3792,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_bimetal.png",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4040,8 +3803,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4052,8 +3814,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4064,8 +3825,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4076,8 +3836,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4088,8 +3847,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4100,8 +3858,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4112,8 +3869,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica",
-   ""
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4124,8 +3880,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_wimshurst.png",
   "categorys": [
    "Física",
-   "Eletrostática",
-   ""
+   "Eletrostática"
   ],
   "author": "Vascak"
  },
@@ -4136,8 +3891,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff_obr4.png",
   "categorys": [
    "Física",
-   "Eletrostática",
-   ""
+   "Eletrostática"
   ],
   "author": "Vascak"
  },
@@ -4148,8 +3902,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_el_pole.png",
   "categorys": [
    "Física",
-   "Eletrostática",
-   ""
+   "Eletrostática"
   ],
   "author": "Vascak"
  },
@@ -4160,8 +3913,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_pole.png",
   "categorys": [
    "Física",
-   "Eletrostática",
-   ""
+   "Eletrostática"
   ],
   "author": "Vascak"
  },
@@ -4172,8 +3924,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_kondenzator.png",
   "categorys": [
    "Física",
-   "Eletrostática",
-   ""
+   "Eletrostática"
   ],
   "author": "Vascak"
  },
@@ -4184,8 +3935,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_uir.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4196,8 +3946,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_obvod.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4208,8 +3957,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_ohm.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4220,8 +3968,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_vnitrni_odpor.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4232,8 +3979,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_kirchhoff_obr2.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4244,8 +3990,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_odpor.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4545,8 +4290,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_bleskojistka.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica",
-   ""
+   "Eletrodinâmica"
   ],
   "author": "Vascak"
  },
@@ -4557,8 +4301,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_magnet.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4569,8 +4312,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_ferro.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4581,8 +4323,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_vodic_obr2.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4593,8 +4334,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_fleming_obr2.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4605,8 +4345,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_amper.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4617,8 +4356,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_indukce_accel.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4629,8 +4367,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_lenz_obr2.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4641,8 +4378,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_wehnelt.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo",
-   ""
+   "Eletromagnetismo"
   ],
   "author": "Vascak"
  },
@@ -4749,8 +4485,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_hranol.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4761,8 +4496,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_total.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4773,8 +4507,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_michanibarev_obr2.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4785,8 +4518,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newtonkotouc.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4797,8 +4529,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_interference.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4809,8 +4540,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_zrcadla.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4821,8 +4551,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dioptrie.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4833,8 +4562,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_ohnisko.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4845,8 +4573,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_spojka_obr2.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4857,8 +4584,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_rozptylka.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4869,8 +4595,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vady_obr3.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4881,8 +4606,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_akomodace.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4893,8 +4617,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_lupa.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4905,8 +4628,7 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4917,8 +4639,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_kepler.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4929,8 +4650,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_galileo.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4941,8 +4661,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dute_obr2.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4953,8 +4672,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vypukle.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4965,8 +4683,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newton.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4977,8 +4694,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_svtok_obr8.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4989,8 +4705,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_svitivost_obr2.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -5001,8 +4716,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_osvetleni.png",
   "categorys": [
    "Física",
-   "Óptica",
-   ""
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -5098,8 +4812,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_dilatace.png",
   "categorys": [
    "Física",
-   "Relatividade",
-   ""
+   "Relatividade"
   ],
   "author": "Vascak"
  },
@@ -5110,8 +4823,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_kontrakce.png",
   "categorys": [
    "Física",
-   "Relatividade",
-   ""
+   "Relatividade"
   ],
   "author": "Vascak"
  },
@@ -5230,8 +4942,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_zareni_obr2.png",
   "categorys": [
    "Física",
-   "Nuclear",
-   ""
+   "Nuclear"
   ],
   "author": "Vascak"
  },
@@ -5242,8 +4953,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rozpad.png",
   "categorys": [
    "Física",
-   "Nuclear",
-   ""
+   "Nuclear"
   ],
   "author": "Vascak"
  },
@@ -5254,8 +4964,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rady_obr2.png",
   "categorys": [
    "Física",
-   "Nuclear",
-   ""
+   "Nuclear"
   ],
   "author": "Vascak"
  },
@@ -5266,8 +4975,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_reakce_obr4.png",
   "categorys": [
    "Física",
-   "Nuclear",
-   ""
+   "Nuclear"
   ],
   "author": "Vascak"
  },
@@ -5278,8 +4986,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_slunce.png",
   "categorys": [
    "Física",
-   "Nuclear",
-   ""
+   "Nuclear"
   ],
   "author": "Vascak"
  },
@@ -5289,9 +4996,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_pythagoras&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_pythagoras_obr3.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5301,9 +5006,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_ludolf&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_ludolf.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5314,8 +5017,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_radian.png",
   "categorys": [
    "Física",
-   "Matemática",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5325,9 +5027,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_kruznice&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_kruznice.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5338,8 +5038,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_vektory.png",
   "categorys": [
    "Matemática",
-   "Vetores",
-   ""
+   "Vetores"
   ],
   "author": "Vascak"
  },
@@ -5349,9 +5048,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_buffon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_buffon.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5361,9 +5058,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_galton&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_galton.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5373,9 +5068,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_mobius&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_mobius.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5385,9 +5078,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
   "categorys": [
-   "Matemática",
-   "",
-   ""
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -5397,9 +5088,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_abeceda&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_abeceda.png",
   "categorys": [
-   "Alfabeto",
-   "",
-   ""
+   "Alfabeto"
   ],
   "author": "Vascak"
  }
