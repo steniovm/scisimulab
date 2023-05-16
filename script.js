@@ -61,7 +61,10 @@ fetch(urlsimuls)
     // Percorre as categorias e cria os elementos do menu
     categoriasnome.sort();
     categoriasnome.forEach(categoria => {
-      const categoriaItem = `<button onclick="filtercaterogy('${categoria}')">${categoria} (${categoria.length})</button>`
+      const categoriaItem = `
+      <button onclick="filtercaterogy('${categoria}')">
+        ${categoria} (${categorias[categoria].length})
+      </button>`
       menu.innerHTML += categoriaItem;
     });
     listSimuls(data);
