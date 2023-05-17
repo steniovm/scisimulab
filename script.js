@@ -1,16 +1,20 @@
-//const urlsimuls = 'https://steniovm.github.io/steniovm/simulacoes.json';
-//const urldata = 'https://steniovm.github.io/steniovm/scisimulab.json';
-const urlsimuls = 'simulacoes.json';
-const urldata = 'scisimulab.json';
+const urlsimuls = 'https://scisimulab.vercel.app/simulacoes.json';
+const urldata = 'https://scisimulab.vercel.app/scisimulab.json';
+//const urlsimuls = 'simulacoes.json';
+//const urldata = 'scisimulab.json';
 const unimage = "unimage.svg";
 const menu = document.getElementById('menu');
 const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
 const resources = document.getElementById('resources');
 const filterall = document.getElementById('filterall');
+const slider = document.getElementById('slider');
 const categorias = {};
 const categoriasnome = [];
 let simulist = [];
+let sliders = [];
+let count = 0;
+let showslider = 0;
 
 //lista cards de simulações
 function listSimuls(list){
@@ -42,7 +46,15 @@ function filtercaterogy(key){
   simulations.innerHTML = "";
   listSimuls(categorias[key]);
 }
-
+function showsliderers(){
+  sliders = document.getElementsByName('slide');
+  sliders[0].checked = true;
+  showslider = setInterval(function(){
+    count = (count+1) % sliders.length;
+    sliders[count].checked = true;
+  },5900);
+}
+//Carrega cards de simulações
 fetch(urlsimuls)
   .then(response => response.json())
   .then(data => {
@@ -79,13 +91,26 @@ fetch(urldata)
   .then(response => response.json())
   .then(data => {
     // Percorre as simulações autorais
-    data.autoral.forEach(simulacao => {
-      const destaqueItem = document.createElement('a');
-      destaqueItem.classList.add("emphasis");
-      destaqueItem.href = simulacao.url;
-      destaqueItem.innerHTML = simulacao.name;
-      highlight.appendChild(destaqueItem);
-    });
+    let card = "";
+    let mysimul = data.autoral;
+    for(let i=0;i<mysimul.length;i++){
+      card += `
+      <li>
+        <input type="radio" id="slide${i}" name="slide">
+        <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
+        <a class="card mycard" href="${mysimul[i].url}">
+          <div>
+              <h3>${mysimul[i].name}</h3>
+              <label><strong>Categorias: </strong>${mysimul[i].categorys.join(', ')}</label>
+              <label><strong>Autor: </strong>${mysimul[i].author}</label>
+          </div>
+          <img src="${mysimul[i].thumb ? mysimul[i].thumb : unimage}" alt="imagem da simulação ${mysimul[i].name}"/>
+          <p>${mysimul[i].descript}</p>
+        </a>
+      </li>`
+    }
+    slider.innerHTML = card;
+    showsliderers();
     data.fontes.forEach(fonte => {
       const fonteItem = document.createElement('a');
       fonteItem.classList.add("emphasis");
