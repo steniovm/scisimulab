@@ -8,19 +8,22 @@ const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
 const resources = document.getElementById('resources');
 const filterall = document.getElementById('filterall');
+const titlecat = document.getElementById('titlecat');
 const slider = document.getElementById('slider');
+const nimages = document.getElementById('nimages');
 const categorias = {};
 const categoriasnome = [];
 let simulist = [];
 let sliders = [];
 let count = 0;
 let showslider = 0;
+let nimg = nimages.value;
 
 //lista cards de simulações
-function listSimuls(list){
+function listSimuls(list, tudo=false){
   let simuls = "";
   list.forEach((simulacao,index) => {
-    if (index<12){
+    if (index<nimg){
     simuls += (`
     <a class="card" href="${simulacao.url}">
       <h3>${simulacao.name}</h3>
@@ -39,12 +42,14 @@ function listSimuls(list){
     `);
     }
   });
+  if (tudo) titlecat.innerHTML = "Todas:";
   simulations.innerHTML = simuls;
 }
 //função para filtrar simulações
 function filtercaterogy(key){
   simulations.innerHTML = "";
   listSimuls(categorias[key]);
+  titlecat.innerHTML = key+":";
 }
 function showsliderers(){
   sliders = document.getElementsByName('slide');
@@ -54,6 +59,9 @@ function showsliderers(){
     sliders[count].checked = true;
   },5900);
 }
+nimages.addEventListener('change',function(){
+  nimg = nimages.value;
+});
 //Carrega cards de simulações
 fetch(urlsimuls)
   .then(response => response.json())
@@ -81,6 +89,7 @@ fetch(urlsimuls)
     });
     listSimuls(data);
     simulist = data;
+    nimages.max = data.length;
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);

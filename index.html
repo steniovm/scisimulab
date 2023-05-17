@@ -22,17 +22,24 @@
 
   <section id="highlight">
     <!-- Simulações de autoria própria aqui -->
-    <strong>Simulações <i>Sci Simu Lab</i>:</strong>
+    <strong>Simulações <i>SciSimuLab</i>:</strong>
     <ul id="slider" class="slider"></ul>
   </section>
 
   <nav>
     <div id="menu">
       <strong>Categorias:</strong>
-      <button id="filterall" onclick="listSimuls(simulist)">Tudo</button>
+      <button id="filterall" onclick="listSimuls(simulist, true)">Tudo</button>
     </div>
   </nav>
-  <strong>Todas Simulações (próprias e externas):</strong>
+  
+  <div id="controls">
+    <strong id="titlecat">Todas Simulações (<i>SciSimuLab</i> e externas):</strong>
+    <div>
+      <input id="nimages" type="number" min="0" value="12"/>imagens
+    </div>
+  </div>
+
   <section id="simulations">
     <!-- Simulações aqui -->
     </a>

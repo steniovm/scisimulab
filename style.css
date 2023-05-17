@@ -52,7 +52,13 @@ body {
     text-decoration: none;
     margin: 0 10px;
   }
-  
+  input{
+    background-color: transparent;
+    border-radius: 15px;
+    height: 1.5em;
+    width: 3em;
+  }
+
   section {
     display: flex;
     justify-content:start;
@@ -67,8 +73,8 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
   }
-  #highlight>strong, body>strong{
-    padding: 2px 5%;
+  #highlight>strong{
+    padding: 0 5%;
     animation-duration: 5s;
     animation-name: faderepte;
     animation-iteration-count: infinite;
@@ -76,6 +82,14 @@ body {
   }
   strong{
     color: #333;
+  }
+  #controls{
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 2px 5%;
   }
   .emphasis{
     padding: 0 5px;
@@ -110,6 +124,7 @@ body {
   }
   .card>img{
     width: 95%;
+    max-height: 155px;
     border-radius: 5px;
   }
   .card>p{
