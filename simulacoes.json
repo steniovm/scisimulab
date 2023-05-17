@@ -751,41 +751,49 @@
  },
  {
   "name": "Laboratório do Capacitor: Básico",
-  "descript": "",
+  "descript": "Explica as relações entre tensão, carga, energia armazenada e capacitância. Prevé como a capacitância muda quando a área de cada placa ou a separação entre elas é alterada.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/capacitor-lab-basics",
   "thumb": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrostática",
+   "Energia"
   ],
   "author": "Phet"
  },
  {
   "name": "Kit para Montar Circuito DC",
-  "descript": "",
+  "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc",
   "thumb": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrodinâmica"
   ],
   "author": "Phet"
  },
  {
   "name": "Laboratório do Pêndulo",
-  "descript": "",
+  "descript": "Mostra como a energia e período de um pendulo varia conforme os valores das variáveis.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
   "thumb": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Oscilações",
+   "Energia"
   ],
   "author": "Phet"
  },
  {
   "name": "Movimento de Projétil",
-  "descript": "",
+  "descript": "Determina como cada parâmetro (altura inicial, ângulo inicial, velocidade inicial, massa, diâmetro e altitude) afeta a trajetória de um objeto, com e sem resistência ao ar.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
   "thumb": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Cinemática",
+   "Vetores",
+   "Força"
   ],
   "author": "Phet"
  },
@@ -803,63 +811,73 @@
  },
  {
   "name": "Expressões",
-  "descript": "",
+  "descript": "Interpreta uma expressão em representações abstratas e concretas e simplifica expressões combinando termos semelhantes",
   "url": "https://phet.colorado.edu/pt_BR/simulations/expression-exchange",
   "thumb": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Inclinação e Intersecção",
-  "descript": "",
+  "descript": "Plota o gráfico de uma linha dada uma equação na forma de interceptação de inclinação. Prevé como a mudança no gráfico de uma linha afeta a equação.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-slope-intercept",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Função",
+   "Gráfico",
+   "Números"
   ],
   "author": "Phet"
  },
  {
   "name": "Construtor de Funções: Básico",
-  "descript": "",
+  "descript": "Defini uma função como uma regra que relaciona cada entrada para exatamente uma saída e agindo de forma previsível nas entradas.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Função"
   ],
   "author": "Phet"
  },
  {
   "name": "Parque da Proporção",
-  "descript": "",
+  "descript": "Usa o significado de razão e de proporção em diferentes contextos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
   "thumb": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground-420.png",
   "categorys": [
-   "Física",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Taxas Unitárias",
-  "descript": "",
+  "descript": "Interpreta razões de unidades mistas (por exemplo, $/kg). Defini a taxa unitária e determina um método para calculá-la.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
   "thumb": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates-420.png",
   "categorys": [
-   "Física",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Some um 10",
-  "descript": "",
+  "descript": "Desenvolve estratégias de matemática mental ao separar e juntar números.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
   "thumb": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten-420.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
@@ -886,11 +904,13 @@
  },
  {
   "name": "Probabilidade Plinko",
-  "descript": "",
+  "descript": "Conta o número de bolas em um escaninho e relacione isso à probabilidade de cair nesse compartimento.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
   "thumb": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Probabilidade",
+   "Estatística"
   ],
   "author": "Phet"
  },
@@ -928,12 +948,13 @@
  },
  {
   "name": "Construtor de Funções",
-  "descript": "",
+  "descript": "Defini uma função como uma regra relativa a cada entrada para exatamente uma saída e previsivelmente agindo em entradas.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder-420.png",
   "categorys": [
    "Matemática",
-   "Função"
+   "Função",
+   "Números"
   ],
   "author": "Phet"
  },
@@ -950,7 +971,7 @@
  },
  {
   "name": "Neurônio",
-  "descript": "",
+  "descript": "Descreve por que e como os íons conseguem ou não se mover através das membranas dos neurônios.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/neuron",
   "thumb": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-420.png",
   "categorys": [
@@ -963,11 +984,13 @@
  },
  {
   "name": "Tour Trigonométrico",
-  "descript": "",
+  "descript": "Definir funções trigonométricas para qualquer ângulo mostrando o gráfico, seno e cosseno.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/trig-tour",
   "thumb": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Função",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -975,7 +998,7 @@
   "name": "Desvio da Luz",
   "descript": "",
   "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
-  "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
+  "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png",
   "categorys": [
    "Física",
    "Óptica"
@@ -1019,11 +1042,13 @@
  },
  {
   "name": "Regressão por Quadrados Mínimos",
-  "descript": "",
+  "descript": "Cria um gráfico a partir de pontos usando a regressão de mínimos quadrados.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/least-squares-regression",
   "thumb": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Função",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -1033,7 +1058,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1043,7 +1069,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
   "thumb": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers-420.png",
   "categorys": [
-   "Física"
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1071,11 +1097,14 @@
  },
  {
   "name": "Construtor de Área",
-  "descript": "",
+  "descript": "Encontre a área e perímetro de uma forma contando quadrículas.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-builder",
   "thumb": "https://phet.colorado.edu/sims/html/area-builder/latest/area-builder-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Geometria",
+   "Números",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -1085,7 +1114,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
   "thumb": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Ondas"
   ],
   "author": "Phet"
  },
@@ -1107,7 +1137,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
   "thumb": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1117,27 +1148,31 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-chemical-equations",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
  {
   "name": "Traçando Retas",
-  "descript": "",
+  "descript": "Explica como a inclinação de uma linha representada graficamente pode ser calculada. Desenha a linha no gráfico dada uma equação.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-lines",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Números",
+   "Gráfico"
   ],
   "author": "Phet"
  },
  {
   "name": "Associe Frações",
-  "descript": "",
+  "descript": "Encontrar frações correspondentes usando números e imagens.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/fraction-matcher",
   "thumb": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher-420.png",
   "categorys": [
-   "Física"
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
@@ -1147,7 +1182,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Força"
   ],
   "author": "Phet"
  },
@@ -1157,15 +1193,16 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
   "thumb": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
  {
   "name": "Sob Pressão",
   "descript": "",
-  "url": "",
-  "thumb": "",
+  "url": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html?locale=pt_BR",
+  "thumb": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure-420.png",
   "categorys": [
    "Física"
   ],
@@ -1207,7 +1244,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/concentration",
   "thumb": "https://phet.colorado.edu/sims/html/concentration/latest/concentration-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1217,7 +1255,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Gravitação",
+   "Força"
   ],
   "author": "Phet"
  },
@@ -1237,7 +1277,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
   "thumb": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química",
+   "Óptica"
   ],
   "author": "Phet"
  },
@@ -1247,7 +1289,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molarity",
   "thumb": "https://phet.colorado.edu/sims/html/molarity/latest/molarity-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1277,7 +1320,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
   "thumb": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Química"
   ],
   "author": "Phet"
  },
@@ -1288,7 +1332,8 @@
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força"
   ],
   "author": "walter-fendt"
  },
@@ -1350,11 +1395,12 @@
  {
   "name": "Segunda Lei de Newton",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/phpt/newtonlaw2_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força"
   ],
   "author": "walter-fendt"
  },
@@ -1449,11 +1495,12 @@
  {
   "name": "Pressão hidrostática",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/phpt/hydrostaticpressure_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força"
   ],
   "author": "walter-fendt"
  },
@@ -1526,7 +1573,7 @@
  {
   "name": "Ondas estacionárias transversais",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/phpt/standingwavereflection_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
@@ -1614,7 +1661,7 @@
  {
   "name": "Gerador eléctrico",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/phpt/generator_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
@@ -1713,7 +1760,7 @@
  {
   "name": "Reflexão e refracção das ondas luminosas (Princípio de Huygens)",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/phpt/refractionhuygens_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
@@ -1896,7 +1943,7 @@
  {
   "name": "Primyphos - Fatoração Prima",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/primyphos_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -1908,7 +1955,7 @@
  {
   "name": "Lista dos Números Primos",
   "descript": "Lista dos Números Primos entre 1 e 1 000 000 000 000",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/primenumbers_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -1942,7 +1989,7 @@
  {
   "name": "Transformações Geométricas Simples",
   "descript": "Reflexão Axial, Reflexão Central, Translação e Rotação",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/congruencemappings_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -1997,7 +2044,7 @@
  {
   "name": "Polígonos Regulares",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/polygon_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -2019,7 +2066,7 @@
  {
   "name": "Teorema de Pitágoras 1",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/pythagoras2_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -2030,7 +2077,7 @@
  {
   "name": "Teorema de Pitágoras 2",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/pythagoras_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -2096,7 +2143,7 @@
  {
   "name": "Volume da Esfera",
   "descript": "Princípio de Cavalieri",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/volumesphere_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -2130,7 +2177,7 @@
  {
   "name": "Distância Esférica entre Dois Pontos",
   "descript": "",
-  "url": "",
+  "url": "https://www.walter-fendt.de/html5/mpt/distancesphere_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
@@ -2513,7 +2560,7 @@
   "name": "Pêndulo de Maxwell",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mech_maxwell&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_maxwell.png",
   "categorys": [
    "Física",
    "Mecânica"
@@ -2874,7 +2921,7 @@
   "name": "Queda livre",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_volny_pad&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_volny_pad.png",
   "categorys": [
    "Física",
    "Mecânica",
@@ -2886,7 +2933,7 @@
   "name": "Tubo de Newton",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_newtonova_trubice&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_newtonova_trubice.png",
   "categorys": [
    "Física",
    "Mecânica",
@@ -2922,7 +2969,7 @@
   "name": "Teste de queda livre",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_padostroj&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_padostroj.png",
   "categorys": [
    "Física",
    "Mecânica",
@@ -2943,10 +2990,10 @@
   "author": "Vascak"
  },
  {
-  "name": "Projétil verticalmente lançada",
+  "name": "Projétil verticalmente lançado",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_svisly&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_svisly.png",
   "categorys": [
    "Física",
    "Mecânica",
@@ -2958,7 +3005,7 @@
   "name": "Lançamento Oblíquo",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=gp_vrh_sikmy&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vrh_sikmy.png",
   "categorys": [
    "Física",
    "Mecânica",
@@ -3236,7 +3283,7 @@
   "name": "Oscilações forçadas",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_nucene_kmitani&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_nucene_kmitani.png",
   "categorys": [
    "Física",
    "Ondas"
@@ -3269,7 +3316,7 @@
   "name": "Equação do pêndulo - Helicóptero",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_kyvadlo2&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo2.png",
   "categorys": [
    "Física",
    "Oscilações"
@@ -3302,7 +3349,7 @@
   "name": "Osciladores acoplados",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_sprazene_oscilatory&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_sprazene_oscilatory.png",
   "categorys": [
    "Física",
    "Oscilações"
@@ -3357,7 +3404,7 @@
   "name": "Ressonância",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_rezonance&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rezonance.png",
   "categorys": [
    "Física",
    "Ondas"
@@ -3513,7 +3560,7 @@
   "name": "Termómetro de Galileu",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_galileo_teplomer&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_galileo_teplomer.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3692,7 +3739,7 @@
   "name": "Motor de dois tempos",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_dvoutakt&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_dvoutakt.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3703,7 +3750,7 @@
   "name": "Motor quatro tempos",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_ctyrtakt&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_ctyrtakt.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3714,7 +3761,7 @@
   "name": "Motor a diesel",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_diesel&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_diesel.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3725,7 +3772,7 @@
   "name": "Motor Wankel",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_wankel&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_wankel.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3835,7 +3882,7 @@
   "name": "Ponto de ebulição - Pressão atmosférica",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplota_varu.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3846,7 +3893,7 @@
   "name": "Ponto de ebulição - Altitude",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu_vyska&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplota_varu_vyska.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3857,7 +3904,7 @@
   "name": "Pressão atmosférica - Altitude",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_vyska_tlak&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vyska_tlak.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3868,7 +3915,7 @@
   "name": "Atmosfera terrestre",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_atmosfera&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atmosfera.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3879,7 +3926,7 @@
   "name": "Humidade absoluta",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_abs_vlhkost&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_abs_vlhkost.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3890,7 +3937,7 @@
   "name": "Humidade relativa",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rel_vlhkost&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rel_vlhkost.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -3901,7 +3948,7 @@
   "name": "Ponto de orvalho",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rosny_bod&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rosny_bod.png",
   "categorys": [
    "Física",
    "Termodinâmica"
@@ -4660,7 +4707,7 @@
   "name": "Microscópio",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_mikroskop&l=pt",
-  "thumb": "",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_mikroskop.png",
   "categorys": [
    "Física",
    "Óptica"
