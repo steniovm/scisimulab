@@ -998,7 +998,7 @@
   "name": "Desvio da Luz",
   "descript": "",
   "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
-  "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png",
+  "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
   "categorys": [
    "Física",
    "Óptica"
@@ -1123,7 +1123,7 @@
   "name": "Visão Colorida",
   "descript": "Determina a cor que a pessoa vê através de combinações de luz vermelha, verde e azul. Descreve a cor da luz capaz de passar por filtros coloridos diferentes.",
   "url": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=pt_BR",
-  "thumb": "https://phet.colorado.edu/assets/img/play-sim.png",
+  "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png",
   "categorys": [
    "Física",
    "Biologia",
