@@ -74,12 +74,12 @@ fetch(urlsimuls)
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
 
-//carrega destaques
+//carrega simulações autorais
 fetch(urldata)
   .then(response => response.json())
   .then(data => {
-    // Percorre as simulações e registra os destaques
-    data.destaques.forEach(simulacao => {
+    // Percorre as simulações autorais
+    data.autoral.forEach(simulacao => {
       const destaqueItem = document.createElement('a');
       destaqueItem.classList.add("emphasis");
       destaqueItem.href = simulacao.url;

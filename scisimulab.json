@@ -1,72 +1,147 @@
 {
-    "destaques":[
-        {
-            "name": "Cinemática Relativística",
-            "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
-            "url": "https://steniovm.github.io/steniovm/relatividade/index.html",
-            "thumb": "https://steniovm.github.io/steniovm/relatividade/screenshot.png",
-            "categorys": [
-            "Física",
-            "Relatividade",
-            "Cinemática"
-            ],
-            "author": "Steniovm"
-        },
-        {
-            "name": "AlgoCards",
-            "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
-            "url": "https://steniovm.github.io/steniovm/AlgoCards/index.html",
-            "thumb": "https://steniovm.github.io/steniovm/AlgoCards/screenshot.png",
-            "categorys": [
-            "Algorítimo",
-            "Jogo"
-            ],
-            "author": "Steniovm"
-        },
-        {
-            "name": "Batimento de Ondas",
-            "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
-            "url": "https://steniovm.github.io/steniovm/Batimento/index.html",
-            "thumb": "https://steniovm.github.io/steniovm/Batimento/screenshot.png",
-            "categorys": [
-            "Física",
-            "Ondas",
-            "Acústica"
-            ],
-            "author": "Steniovm"
-        },
+    "autoral":[
         {
             "name": "Bolinhas De Darwin",
             "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
             "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/index.html",
             "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
             "categorys": [
-            "Biologia",
-            "Evolução natural",
-            "Jogo"
+             "Biologia",
+             "Evolução natural",
+             "Jogo"
             ],
             "author": "Steniovm"
-        }
+           },
+           {
+            "name": "Bolinhas De Darwin AU",
+            "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador. Arquivo HTML unico para baixar.",
+            "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin.html",
+            "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+            "categorys": [
+             "Biologia",
+             "Evolução natural",
+             "Jogo",
+             "Baixar"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "NumberBall",
+            "descript": "Jogo de Futebol onde você controla os algarismos.",
+            "url": "https://steniovm.github.io/steniovm/NumberBall/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/NumberBall/screenshot.png",
+            "categorys": [
+             "Matemática",
+             "Números",
+             "Jogo"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "AlphaMathics",
+            "descript": "Material Dourado para treinar o ensino de operações aritméticas em forma de um jogo muito desafiador.",
+            "url": "https://steniovm.github.io/steniovm/AlphaMathics/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/AlphaMathics/screenshot.png",
+            "categorys": [
+             "Matemática",
+             "Aritmética",
+             "Jogo"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "AlgoCards",
+            "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
+            "url": "https://steniovm.github.io/steniovm/AlgoCards/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/AlgoCards/screenshot.png",
+            "categorys": [
+             "Algorítimo",
+             "Jogo"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "Cinemática Relativística",
+            "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
+            "url": "https://steniovm.github.io/steniovm/relatividade/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/relatividade/screenshot.png",
+            "categorys": [
+             "Física",
+             "Relatividade",
+             "Cinemática"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "Batimento de Ondas",
+            "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
+            "url": "https://steniovm.github.io/steniovm/Batimento/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/Batimento/screenshot.png",
+            "categorys": [
+             "Física",
+             "Ondas",
+             "Acústica"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "Calor por Condução",
+            "descript": "Simula a transferência de calor por condução com acompanhamento da temperatura e controle de vários parâmetros.",
+            "url": "https://steniovm.github.io/steniovm/ConducaoCalor/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/ConducaoCalor/screenshot.png",
+            "categorys": [
+             "Física",
+             "Termologia"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "Calor por Convecção",
+            "descript": "Simula a transferência de calor por convecção com acompanhamento da temperatura e controle de vários parâmetros.",
+            "url": "https://steniovm.github.io/steniovm/ConveccaoCalor/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/ConveccaoCalor/screenshot.png",
+            "categorys": [
+             "Física",
+             "Termologia"
+            ],
+            "author": "Steniovm"
+           },
+           {
+            "name": "Calor por Radiação",
+            "descript": "Simula a transferência de calor por radiação com acompanhamento da temperatura e controle de vários parâmetros.",
+            "url": "https://steniovm.github.io/steniovm/RadiacaoCalor/index.html",
+            "thumb": "https://steniovm.github.io/steniovm/RadiacaoCalor/screenshot.png",
+            "categorys": [
+             "Física",
+             "Termologia",
+             "Radiação"
+            ],
+            "author": "Steniovm"
+           }
     ],
     "fontes":[
         {
-            "text":"- Steniovm, Professor de física e desenvolvedor web voltado para soluções em ensino de ciências.",
+            "text":"- Steniovm. Professor de física e desenvolvedor web voltado para soluções em ensino de ciências.",
             "url": "https://steniovm.github.io/steniovm/"
         },
         {
-            "text":"- Phet, Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
+            "text":"- Phet. Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
             "url": "https://phet.colorado.edu/pt_BR/"
         },
         {
-            "text":"- Walter Fendt, pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
+            "text":"- Walter Fendt. Pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
             "url": "https://www.walter-fendt.de/html5/phpt/index.html"
         },
         {
-            "text":"- Vascak, pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
+            "text":"- Vascak. Pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
             "url": "https://www.vascak.cz/physicsanimations.php"
         },
         {
-            "text":"- Avamec, plataforma do ministério da educação com diversos cursos de formação continuada para professores da educação básica.",
+            "text":"- MinuteLabs, MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
+            "url": "https://minutelabs.io/"
+        },
+        {
+            "text":"- Avamec. Plataforma do ministério da educação com diversos cursos de formação continuada para professores da educação básica.",
             "url": "https://avamec.mec.gov.br/"
         }
     ]

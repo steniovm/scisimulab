@@ -5191,5 +5191,207 @@
    "Alfabeto"
   ],
   "author": "Vascak"
+ },
+ {
+  "name": "Survival Curves",
+  "descript": "Compare as vidas e expectativas de vida de diferentes animais!",
+  "url": "https://labs.minutelabs.io/survival-curves/",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/survival-curves.webm",
+  "categorys": [
+   "Biologia",
+   "Números",
+   "Gráfico"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Evolution Simulator",
+  "descript": "Observe as pequenas criaturas de bolhas evoluírem sob a seleção natural!",
+  "url": "https://labs.minutelabs.io/evolution-simulator/",
+  "thumb": "cdn.minutelabs.io/lab-previews/evolution-simulator.webm",
+  "categorys": [
+   "Biologia",
+   "Evolução natural",
+   "Jogo"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Flight Speed",
+  "descript": "Compare a velocidade de vôo de pássaros, aviões e dragões!",
+  "url": "https://labs.minutelabs.io/flight-speed/",
+  "thumb": "cdn.minutelabs.io/lab-previews/flight-speed.webm",
+  "categorys": [
+   "Física",
+   "Cinemática",
+   "Biologia"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "What is a Day",
+  "descript": "Um vídeo interativo explorando dias estelares, solares e normais.",
+  "url": "https://labs.minutelabs.io/what-is-a-day/",
+  "thumb": "cdn.minutelabs.io/lab-previews/what-is-a-day.webm",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   "Geografia",
+   "Gravitação"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Tree of Life Explorer",
+  "descript": "Explore as espécies da Terra e as relações entre elas facilmente.",
+  "url": "http://labs.minutelabs.io/Tree-of-Life-Explorer",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/tree-of-life-explorer.webm",
+  "categorys": [
+   "Biologia",
+   "Evolução natural"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Chaotic Planets",
+  "descript": "Construa seu próprio sistema planetário caótico.",
+  "url": "http://labs.minutelabs.io/Chaotic-Planets",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/chaotic-planets.webm",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   "Gravitação"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Fusion Energy Explained (with PHD Comics)",
+  "descript": "Fazendo parceria com a PHD Comics!",
+  "url": "http://phdcomics.com/comics/archive.php?comicid=1716",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/fusion.webm",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   "Quântica",
+   "Química",
+   "Atômica",
+   "Energia",
+   "Gravitação",
+   "Nuclear",
+   "Radiação",
+   "Termodinâmica"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Chaotic Pendulum",
+  "descript": "Crie seu próprio caos bonito.",
+  "url": "http://labs.minutelabs.io/Chaotic-Pendulum",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/chaotic-pendulum.webm",
+  "categorys": [
+   "Física",
+   "Matemática",
+   "Oscilações",
+   "Probabilidade"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Convex Lenses",
+  "descript": "Uma rápida demonstração de lentes convexas.",
+  "url": "http://labs.minutelabs.io/Lenses",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/lenses.webm",
+  "categorys": [
+   "Física",
+   "Óptica",
+   "Geometria"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Brownian Motion",
+  "descript": "Brinque com o movimento majestoso das partículas brownianas.",
+  "url": "http://labs.minutelabs.io/Brownian-Motion",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/brownian-motion.webm",
+  "categorys": [
+   "Física",
+   "Probabilidade",
+   "Mecânica"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Relativistic Space Sheep",
+  "descript": "Veja o Princípio da Equivalência em ação!",
+  "url": "http://labs.minutelabs.io/Relativistic-Space-Sheep",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/space-sheep.webm",
+  "categorys": [
+   "Física",
+   "Astronomia",
+   "Força",
+   "Gravitação",
+   "Mecânica",
+   "Momentum"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Mass-Energy Scale",
+  "descript": "Massas e energias compreensíveis e como elas se relacionam.",
+  "url": "http://labs.minutelabs.io/Mass-Energy-Scale",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/mass-energy.webm",
+  "categorys": [
+   "Física",
+   "Energia",
+   "Matemática",
+   "Números"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Number Constellations",
+  "descript": "Constelações Numéricas",
+  "url": "http://labs.minutelabs.io/Number-Constellations",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/number-constellations.webm",
+  "categorys": [
+   "Matemática",
+   "Números"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Corner Reflectors",
+  "descript": "Saiba como funcionam os refletores de canto",
+  "url": "http://labs.minutelabs.io/Optics/corner-reflector",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/corner-reflector.webm",
+  "categorys": [
+   "Física",
+   "Óptica",
+   "Geometria"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Sheep Bounce",
+  "descript": "Ovelha como um gás ideal - para a ciência!",
+  "url": "http://labs.minutelabs.io/Sheep-Bounce",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/sheepbounce.webm",
+  "categorys": [
+   "Física",
+   "Termodinâmica",
+   "Probabilidade"
+  ],
+  "author": "MinuteLabs"
+ },
+ {
+  "name": "Periodic Table (of awesome)",
+  "descript": "A Tabela Periódica da Física Minuciosa",
+  "url": "https://labs.minutelabs.io/PeriodicTable",
+  "thumb": "https://cdn.minutelabs.io/lab-previews/periodic-table.webm",
+  "categorys": [
+   "Física",
+   "Química"
+  ],
+  "author": "MinuteLabs"
  }
 ]
