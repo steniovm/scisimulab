@@ -883,7 +883,7 @@
  },
  {
   "name": "Estados da Matéria",
-  "descript": "",
+  "descript": "Descreve como aquecimento ou resfriamento altera o comportamento das moléculas em ólidos, líquidos e gases.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
   "thumb": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter-420.png",
   "categorys": [
@@ -893,7 +893,7 @@
  },
  {
   "name": "Gravidade e Órbitas",
-  "descript": "",
+  "descript": "Descreve as órbitas entre Sol, Terra, Lua e estação espacial, e astros aleatórios.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits-420.png",
   "categorys": [
@@ -916,33 +916,41 @@
  },
  {
   "name": "Interações Atômicas",
-  "descript": "",
+  "descript": "Explica como as forças atrativas e repulsivas regem as interações entre os átomos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
   "thumb": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions-420.png",
   "categorys": [
    "Física",
    "Química",
-   "Atômica"
+   "Atômica",
+   "Força"
   ],
   "author": "Phet"
  },
  {
   "name": "Cargas e Campos",
-  "descript": "",
+  "descript": "Determina variáveis que afetam o modo como corpos carregados interagem por meio do campo elétrico.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/charges-and-fields",
   "thumb": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
  {
   "name": "Espalhamento de Rutherford",
-  "descript": "",
+  "descript": "Descreve a diferença qualitativa entre o espalhamento por núcleo carregado positivamente e átomo pudim de passas eletricamente neutro",
   "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
   "thumb": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Atômica",
+   "Momentum",
+   "Nuclear",
+   "Química",
+   "Quântica",
+   "Probabilidade"
   ],
   "author": "Phet"
  },
@@ -960,11 +968,14 @@
  },
  {
   "name": "Isótopos e Massa Atômica",
-  "descript": "",
+  "descript": "Definir isótopo usando o número de massa, número atômico, número de prótons, nêutrons e elétrons.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/isotopes-and-atomic-mass",
   "thumb": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass-420.png",
   "categorys": [
    "Física",
+   "Química",
+   "Atômica",
+   "Nuclear",
    "Química"
   ],
   "author": "Phet"
@@ -984,7 +995,7 @@
  },
  {
   "name": "Tour Trigonométrico",
-  "descript": "Definir funções trigonométricas para qualquer ângulo mostrando o gráfico, seno e cosseno.",
+  "descript": "Defini funções trigonométricas para qualquer ângulo mostrando o gráfico, seno e cosseno.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/trig-tour",
   "thumb": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour-420.png",
   "categorys": [
@@ -996,7 +1007,7 @@
  },
  {
   "name": "Desvio da Luz",
-  "descript": "",
+  "descript": "Explica como a luz se desvia na interface entre dois meios ( refração ) e o que determina o ângulo ( Lei de Snell ).",
   "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
   "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
   "categorys": [
@@ -1019,17 +1030,20 @@
  },
  {
   "name": "Lei de Hooke",
-  "descript": "",
+  "descript": "Explica as relações entre força aplicada, a força da mola, constante da mola, deslocamento e energia potencial.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/hookes-law",
   "thumb": "https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Força",
+   "Energia",
+   "Mecânica"
   ],
   "author": "Phet"
  },
  {
   "name": "Moléculas e Luz",
-  "descript": "",
+  "descript": "Explora como a luz interage com as moléculas na atmosfera e identifica a absorção da luz dependente da molécula e do tipo de luz",
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
   "thumb": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light-420.png",
   "categorys": [
@@ -1054,7 +1068,7 @@
  },
  {
   "name": "Geometria Molecular",
-  "descript": "",
+  "descript": "Explica que a geometria molecular se deve a repulsões entre os grupos de elétrons e nomes das geométrias.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes-420.png",
   "categorys": [
@@ -1065,21 +1079,25 @@
  },
  {
   "name": "Reagentes, Produtos e Excesso",
-  "descript": "",
+  "descript": "Reconhece que os átomos são conservados durante uma reação química.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
   "thumb": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers-420.png",
   "categorys": [
-   "Química"
+   "Química",
+   "Aritmética",
+   "Atômica"
   ],
   "author": "Phet"
  },
  {
   "name": "Lei de Faraday",
-  "descript": "",
+  "descript": "Explica o que acontece quando movemos um ímã através de uma bobina em diferentes velocidades e como isso afeta o brilho da lâmpada e da magnitude e sinal da tensão.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-law",
   "thumb": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrodinâmica",
+   "Eletromagnetismo"
   ],
   "author": "Phet"
  },
@@ -1110,12 +1128,13 @@
  },
  {
   "name": "Onda em Corda",
-  "descript": "",
+  "descript": "Discuti as propriedades de onda utilizando um vocabulário comum e preve o comportamento das ondas em diferentes meios e nos terminais de reflexão.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
   "thumb": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string-420.png",
   "categorys": [
    "Física",
-   "Ondas"
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Phet"
  },
@@ -1133,23 +1152,27 @@
  },
  {
   "name": "Escala de pH",
-  "descript": "",
+  "descript": "Descreve em uma escala molecular, com ilustrações, como o equilíbrio da água varia com o pH.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
   "thumb": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Função",
+   "Densidade"
   ],
   "author": "Phet"
  },
  {
   "name": "Balanceamento de Equações Químicas",
-  "descript": "",
+  "descript": "Balanceia equação química reconhecendo que o número de átomos de cada elemento é conservado em uma reação química.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-chemical-equations",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Números",
+   "Aritmética"
   ],
   "author": "Phet"
  },
@@ -1178,80 +1201,99 @@
  },
  {
   "name": "Balançando",
-  "descript": "",
+  "descript": "Utiliza conceitos de torque (Momento de uma força) para prever como objetos de massas diferentes podem ser usados ​​para equilibrar uma gangorra.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-420.png",
   "categorys": [
    "Física",
-   "Força"
+   "Força",
+   "Força",
+   "Mecânica"
   ],
   "author": "Phet"
  },
  {
   "name": "Soluções Ácido-Base",
-  "descript": "",
+  "descript": "Investiga combinações diferentes de força/concentrações que resultem em valores de pH iguais. Descreve como instrumentos comuns ajudam a identificar se uma solução é um ácido ou base, se é forte ou fraco, se é concentrado ou diluído.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
   "thumb": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Densidade",
+   "Estatística"
   ],
   "author": "Phet"
  },
  {
   "name": "Sob Pressão",
-  "descript": "",
+  "descript": "Descrever como a pressão varia no ar e na água em função da profundidade.",
   "url": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html?locale=pt_BR",
   "thumb": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Densidade",
+   "Força",
+   "Hidrostática"
   ],
   "author": "Phet"
  },
  {
   "name": "Atrito",
-  "descript": "",
+  "descript": "Descreve um modelo de atrito a nível molecular.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/friction",
   "thumb": "https://phet.colorado.edu/sims/html/friction/latest/friction-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Atômica",
+   "Energia",
+   "Força",
+   "Mecânica",
+   "Termologia"
   ],
   "author": "Phet"
  },
  {
   "name": "Forças e Movimento: Noções Básicas",
-  "descript": "",
+  "descript": "Determina a soma de forças (força resultante) em um objeto e prevé o movimento dele.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics",
   "thumb": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Cinemática",
+   "Energia",
+   "Força",
+   "Mecânica",
+   "Momentum"
   ],
   "author": "Phet"
  },
  {
   "name": "John Travoltagem",
-  "descript": "",
+  "descript": "Descreve um modelo para conceitos comuns de eletricidade estática (transferência de carga, atração, repulsão, e aterramento).",
   "url": "https://phet.colorado.edu/pt_BR/simulations/john-travoltage",
   "thumb": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
  {
   "name": "Concentração",
-  "descript": "",
+  "descript": "Descreve as relações entre volume e quantidade de soluto na concentração da solução.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/concentration",
   "thumb": "https://phet.colorado.edu/sims/html/concentration/latest/concentration-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Laboratório de Força Gravitacional",
-  "descript": "",
+  "descript": "Relaciona força gravitacional às massas dos objetos e à distância entre os objetos.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
   "thumb": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab-420.png",
   "categorys": [
@@ -1263,17 +1305,18 @@
  },
  {
   "name": "Balões e Eletricidade Estática",
-  "descript": "",
+  "descript": "Descreve um modelo para conceitos comuns de eletricidade estática (transferência de carga, indução, atração, repulsão e aterramento)Prevendo a força de acordo com a distância em várias configurações de carga",
   "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
   "thumb": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
  {
   "name": "Laboratório da Lei de Beer",
-  "descript": "",
+  "descript": "Descreve as relações entre volume e quantidade de soluto com a concentração da solução usando a absorção e transmissão da luz.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
   "thumb": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab-420.png",
   "categorys": [
@@ -1285,43 +1328,53 @@
  },
  {
   "name": "Molaridade",
-  "descript": "",
+  "descript": "Descreve as relações entre volume e quantidade de soluto para a concentração explicando como a cor da solução e concentração estão relacionados.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/molarity",
   "thumb": "https://phet.colorado.edu/sims/html/molarity/latest/molarity-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Aritmética"
   ],
   "author": "Phet"
  },
  {
   "name": "Lei de Ohm",
-  "descript": "",
+  "descript": "Preve como muda a corrente quando a resistência e/ou tensão do circuito é alterada.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
   "thumb": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrodinâmica",
+   "Função",
+   "Matemática"
   ],
   "author": "Phet"
  },
  {
   "name": "Resistência em um Fio",
-  "descript": "",
+  "descript": "Prevé como alterar as variáveis, área, comprimento e resistividade de um condutor irá afetar a resistência.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
   "thumb": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire-420.png",
   "categorys": [
-   "Física"
+   "Física",
+   "Eletrodinâmica",
+   "Função",
+   "Matemática"
   ],
   "author": "Phet"
  },
  {
   "name": "Monte um Átomo",
-  "descript": "",
+  "descript": "Usa o número de prótons, nêutrons e elétrons para desenhar um modelo do átomo, identificando o elemento, e determinando a massa e a carga.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
   "thumb": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom-420.png",
   "categorys": [
    "Física",
-   "Química"
+   "Química",
+   "Aritmética",
+   "Atômica",
+   "Eletrostática"
   ],
   "author": "Phet"
  },
