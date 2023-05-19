@@ -42,7 +42,7 @@ function saveCookies(){
   console.log(document.cookie);
   savecookie = {
     "darkmode": darkmode,
-    "nimg": (nimg>0) ? nimg : nimages.value
+    "nimg": stringify(nimg)
   };
   const date = new Date();
   date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
@@ -138,7 +138,6 @@ fetch(urlsimuls)
     listSimuls(data);
     simulist = data;
     nimages.max = data.length;
-    restoreCookies()
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
