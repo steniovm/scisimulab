@@ -31,11 +31,9 @@ function restoreCookies(){
       savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
       darkmode = savecookie.darkmode;
       darkmodes();
-      nimg = savecookie.nimg;
+      nimg = parseInt(savecookie.nimg);
       nimages.value = nimg;
    }
-   console.log(savecookie);
-   console.log(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
 }
 function saveCookies(){
   savecookie = {
