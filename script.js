@@ -3,6 +3,7 @@ const urldata = 'https://scisimulab.vercel.app/scisimulab.json';
 //const urlsimuls = 'simulacoes.json';
 //const urldata = 'scisimulab.json';
 const unimage = "unimage.svg";
+const stylecss = document.querySelector('link');
 const menu = document.getElementById('menu');
 const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
@@ -11,6 +12,7 @@ const filterall = document.getElementById('filterall');
 const titlecat = document.getElementById('titlecat');
 const slider = document.getElementById('slider');
 const nimages = document.getElementById('nimages');
+const darklightbt = document.getElementById('darklightbt');
 const categorias = {};
 const categoriasnome = [];
 let simulist = [];
@@ -18,6 +20,7 @@ let sliders = [];
 let count = 0;
 let showslider = 0;
 let nimg = nimages.value;
+let darkmode = false;
 
 //lista cards de simulações
 function listSimuls(list, tudo=false){
@@ -130,4 +133,14 @@ fetch(urldata)
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
+  });
+
+  darklightbt.addEventListener('click',function(){
+    if (darkmode){
+      darkmode = false;
+      stylecss.href = "style.css";
+    }else{
+      darkmode = true;
+      stylecss.href = "styledark.css";
+    }
   });
