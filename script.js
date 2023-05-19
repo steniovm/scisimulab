@@ -43,7 +43,7 @@ function saveCookies(){
   console.log(document.cookie);
   savecookie = {
     "darkmode": darkmode,
-    "nimg": nimg
+    "nimg": (nimg>0) ? nimg : nimages.value
   };
   const date = new Date();
   date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
