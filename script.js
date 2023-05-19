@@ -25,7 +25,26 @@ let savecookie = {
   "darkmode": darkmode,
   "nimg": nimg
 };
-
+//controle de cookies
+function restoreCookies(){
+  if (document.cookie.indexOf('scisimulab')>=0){
+      savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
+      darkmode = savecookie.darkmode;
+      darkmodes();
+      nimg = savecookie.nimg;
+      nimages.value = nimg;
+   }
+}
+function saveCookies(){
+  savecookie = {
+    "darkmode": darkmode,
+    "nimg": nimg
+  };
+  const date = new Date();
+  date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
+  const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
+  document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
+}
 //lista cards de simulações
 function listSimuls(list, tudo=false){
   let simuls = "";
@@ -68,13 +87,13 @@ function showsliderers(){
 }
 //alterna modo claro e escuro
 function darkmodes(){
-  darkmode = !darkmode;
   if (darkmode){
     stylecss.href = "style.css";
   }else{
     stylecss.href = "styledark.css";
   }
   saveCookies();
+  darkmode = !darkmode;
 }
 //botão alterna modo claro e escuro
 darklightbt.addEventListener('click',darkmodes);
@@ -156,24 +175,3 @@ fetch(urldata)
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
-
-function restoreCookies(){
-  if (document.cookie.indexOf('scisimulab')>=0){
-      savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
-      darkmode = !savecookie.darkmode;
-      darkmodes();
-      nimg = savecookie.nimg;
-      nimages.value = nimg;
-   }
-
-}
-function saveCookies(){
-  savecookie = {
-    "darkmode": darkmode,
-    "nimg": nimg
-  };
-  const date = new Date();
-  date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
-  const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
-  document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
-}
