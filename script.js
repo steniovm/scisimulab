@@ -25,6 +25,7 @@ let savecookie = {
   "darkmode": darkmode,
   "nimg": nimg
 };
+console.log(document.cookie);
 //controle de cookies
 function restoreCookies(){
   if (document.cookie.indexOf('scisimulab')>=0){
@@ -44,6 +45,7 @@ function saveCookies(){
   date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
   const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
   document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
+  console.log(document.cookie);
 }
 //lista cards de simulações
 function listSimuls(list, tudo=false){
