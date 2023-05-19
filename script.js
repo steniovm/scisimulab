@@ -35,15 +35,18 @@ function restoreCookies(){
       darkmode = savecookie.darkmode;
       darkmodes();
       nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
+      console.log(savecookie);
       nimages.value = (nimg>0) ? nimg : nimages.value;
    }
 }
 function saveCookies(){
   console.log(document.cookie);
+  console.log(savecookie);
   savecookie = {
     "darkmode": darkmode,
-    "nimg": nimg+''
+    "nimg": nimg
   };
+  console.log(savecookie);
   const date = new Date();
   date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
   const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
