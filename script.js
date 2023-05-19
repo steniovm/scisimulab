@@ -21,6 +21,10 @@ let count = 0;
 let showslider = 0;
 let nimg = nimages.value;
 let darkmode = false;
+let savecookie = {
+  "darkmode": darkmode,
+  "nimg": nimg
+};
 
 //lista cards de simulações
 function listSimuls(list, tudo=false){
@@ -62,9 +66,27 @@ function showsliderers(){
     sliders[count].checked = true;
   },5900);
 }
+//alterna modo claro e escuro
+function darkmodes(){
+  darkmode = !darkmode;
+  if (darkmode){
+    stylecss.href = "style.css";
+  }else{
+    stylecss.href = "styledark.css";
+  }
+  saveCookies();
+}
+//botão alterna modo claro e escuro
+darklightbt.addEventListener('click',darkmodes);
+//numero de imagens
 nimages.addEventListener('change',function(){
   nimg = nimages.value;
+  saveCookies();
 });
+
+//restaura cookies
+restoreCookies();
+
 //Carrega cards de simulações
 fetch(urlsimuls)
   .then(response => response.json())
@@ -135,12 +157,23 @@ fetch(urldata)
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
 
-  darklightbt.addEventListener('click',function(){
-    if (darkmode){
-      darkmode = false;
-      stylecss.href = "style.css";
-    }else{
-      darkmode = true;
-      stylecss.href = "styledark.css";
-    }
-  });
+function restoreCookies(){
+  if (document.cookie.indexOf('scisimulab')>=0){
+      savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
+      darkmode = !savecookie.darkmode;
+      darkmodes();
+      nimg = savecookie.nimg;
+      nimages.value = nimg;
+   }
+
+}
+function saveCookies(){
+  savecookie = {
+    "darkmode": darkmode,
+    "nimg": nimg
+  };
+  const date = new Date();
+  date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
+  const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
+  document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
+}
