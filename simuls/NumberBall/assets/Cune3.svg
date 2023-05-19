@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="250" cy="250" r="248.789" id="gradient-1">
+      <stop offset="0" style="stop-color: #badaff"/>
+      <stop offset="1" style="stop-color: #758dff"/>
+    </radialGradient>
+    <path id="path-0" d="M 137.161 82.935 C 181.374 192.107 170.508 168.323 205.742 233.652 C 212.151 245.536 212.868 249.053 224.083 252.791 L 229.665 253.589 C 239.249 255.985 248.538 256.778 258.373 256.778" style="fill: none;"/>
+  </defs>
+  <ellipse style="fill-rule: nonzero; stroke: url(#gradient-1); stroke-miterlimit: 0; stroke-width: 16px; paint-order: stroke; fill: rgb(85, 218, 189);" cx="250" cy="250" rx="242" ry="242"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 39.422 162.565 L 178.554 164.012 L 112.228 242.811 L 109.94 338.239 L 107.273 242.45 L 39.422 162.565 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.979765, 0.871038)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 185.617 163.157 L 324.749 164.604 L 258.423 243.403 L 256.135 338.831 L 253.468 243.042 L 185.617 163.157 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.979869, 2.028921)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 332.348 163.157 L 471.48 164.604 L 405.154 243.403 L 402.866 338.831 L 400.199 243.042 L 332.348 163.157 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.975267, 3.19103)"/>
+</svg>

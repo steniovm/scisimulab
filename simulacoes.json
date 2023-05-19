@@ -2,8 +2,8 @@
  {
   "name": "Bolinhas De Darwin",
   "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
-  "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+  "url": "./simuls/BolinhasDeDarwin/index.html",
+  "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
   "categorys": [
    "Biologia",
    "Evolução natural",
@@ -14,8 +14,8 @@
  {
   "name": "Bolinhas De Darwin AU",
   "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador. Arquivo HTML unico para baixar.",
-  "url": "https://steniovm.github.io/steniovm/BolinhasDeDarwin.html",
-  "thumb": "https://steniovm.github.io/steniovm/BolinhasDeDarwin/screenshot.png",
+  "url": "./simuls/BolinhasDeDarwin.html",
+  "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
   "categorys": [
    "Biologia",
    "Evolução natural",
@@ -27,8 +27,8 @@
  {
   "name": "NumberBall",
   "descript": "Jogo de Futebol onde você controla os algarismos.",
-  "url": "https://steniovm.github.io/steniovm/NumberBall/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/NumberBall/screenshot.png",
+  "url": "./simuls/NumberBall/index.html",
+  "thumb": "./simuls/NumberBall/screenshot.png",
   "categorys": [
    "Matemática",
    "Números",
@@ -39,8 +39,8 @@
  {
   "name": "AlphaMathics",
   "descript": "Material Dourado para treinar o ensino de operações aritméticas em forma de um jogo muito desafiador.",
-  "url": "https://steniovm.github.io/steniovm/AlphaMathics/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/AlphaMathics/screenshot.png",
+  "url": "./simuls/AlphaMathics/index.html",
+  "thumb": "./simuls/AlphaMathics/screenshot.png",
   "categorys": [
    "Matemática",
    "Aritmética",
@@ -51,8 +51,8 @@
  {
   "name": "AlgoCards",
   "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
-  "url": "https://steniovm.github.io/steniovm/AlgoCards/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/AlgoCards/screenshot.png",
+  "url": "./simuls/AlgoCards/index.html",
+  "thumb": "./simuls/AlgoCards/screenshot.png",
   "categorys": [
    "Algorítimo",
    "Jogo"
@@ -62,8 +62,8 @@
  {
   "name": "Cinemática Relativística",
   "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
-  "url": "https://steniovm.github.io/steniovm/relatividade/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/relatividade/screenshot.png",
+  "url": "./simuls/relatividade/index.html",
+  "thumb": "./simuls/relatividade/screenshot.png",
   "categorys": [
    "Física",
    "Relatividade",
@@ -75,8 +75,8 @@
  {
   "name": "Batimento de Ondas",
   "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
-  "url": "https://steniovm.github.io/steniovm/Batimento/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/Batimento/screenshot.png",
+  "url": "./simuls/Batimento/index.html",
+  "thumb": "./simuls/Batimento/screenshot.png",
   "categorys": [
    "Física",
    "Ondas",
@@ -88,8 +88,8 @@
  {
   "name": "Calor por Condução",
   "descript": "Simula a transferência de calor por condução com acompanhamento da temperatura e controle de vários parâmetros.",
-  "url": "https://steniovm.github.io/steniovm/ConducaoCalor/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/ConducaoCalor/screenshot.png",
+  "url": "./simuls/ConducaoCalor/index.html",
+  "thumb": "./simuls/ConducaoCalor/screenshot.png",
   "categorys": [
    "Física",
    "Termologia",
@@ -100,8 +100,8 @@
  {
   "name": "Calor por Convecção",
   "descript": "Simula a transferência de calor por convecção com acompanhamento da temperatura e controle de vários parâmetros.",
-  "url": "https://steniovm.github.io/steniovm/ConveccaoCalor/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/ConveccaoCalor/screenshot.png",
+  "url": "./simuls/ConveccaoCalor/index.html",
+  "thumb": "./simuls/ConveccaoCalor/screenshot.png",
   "categorys": [
    "Física",
    "Termologia",
@@ -112,8 +112,8 @@
  {
   "name": "Calor por Radiação",
   "descript": "Simula a transferência de calor por radiação com acompanhamento da temperatura e controle de vários parâmetros.",
-  "url": "https://steniovm.github.io/steniovm/RadiacaoCalor/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/RadiacaoCalor/screenshot.png",
+  "url": "./simuls/RadiacaoCalor/index.html",
+  "thumb": "./simuls/RadiacaoCalor/screenshot.png",
   "categorys": [
    "Física",
    "Termologia",
@@ -126,7 +126,7 @@
   "name": "Pensamento Computacional",
   "descript": "Faça um algorítimos para ajudar o personagem a devolver seu VHS para a locadora.",
   "url": "https://avamec.mec.gov.br/ava-mec-ws/instituicao/seb/conteudo/modulo/1421/mini-games/Algoritmos/index.html",
-  "thumb": "https://steniovm.github.io/steniovm/avamecalgoritimos.png",
+  "thumb": "./simuls/avamecalgoritimos.png",
   "categorys": [
    "Algorítimo",
    "Jogo"
@@ -1206,7 +1206,6 @@
   "thumb": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-420.png",
   "categorys": [
    "Física",
-   "Força",
    "Força",
    "Mecânica"
   ],

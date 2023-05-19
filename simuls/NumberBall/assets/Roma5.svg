@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="250" cy="250" r="248.789" id="gradient-1">
+      <stop offset="0" style="stop-color: #badaff"/>
+      <stop offset="1" style="stop-color: #758dff"/>
+    </radialGradient>
+    <path id="path-0" d="M 137.161 82.935 C 181.374 192.107 170.508 168.323 205.742 233.652 C 212.151 245.536 212.868 249.053 224.083 252.791 L 229.665 253.589 C 239.249 255.985 248.538 256.778 258.373 256.778" style="fill: none;"/>
+  </defs>
+  <ellipse style="fill-rule: nonzero; stroke: url(#gradient-1); stroke-miterlimit: 0; stroke-width: 16px; paint-order: stroke; fill: rgb(85, 218, 189);" cx="250" cy="250" rx="242" ry="242"/>
+  <text style="fill: rgb(218, 85, 85); font-family: Arial, sans-serif; font-size: 22.3px; white-space: pre;" transform="matrix(22.214724, 0.019712, 0, 24.56477, -2935.642578, -2238.098877)" x="135.566" y="110.048" dx="0.203" dy="-0.249">V</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22.3px;" x="552.632" y="133.617"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 30.7px;" x="691.643" y="186.425"> </text>
+</svg>

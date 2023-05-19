@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Calor por Radiação" />
+        <meta property="og:description" content="Tranferência de Calor por Radiação" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="style.css" />
+        <title>Simulador de Tranferência de Calor por Radiação</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>Tranferência de Calor por Radiação</h1>
+        <main>
+            <section>
+                <div>
+                    <canvas id="canvasrad" width="400" height="500">Erro na renderização de elemento canvas</canvas>
+                    <div class="param">
+                        <canvas id="canvasgcv" width="750" height="200">Erro na renderização de elemento canvas</canvas>
+                        <form id="condform">
+                            <h3>Fonte Fria</h3>
+                            <div class="subform ff">
+                                <div class="indata">
+                                    <span>Temperatura inicial (K):</span>
+                                    <input type="number" class="temper" id="TFi" name="TFi" value="3800" min="0" max="100000"/>
+                                    <span id="TFiC" class="convert">=3527°C=6381°F</span>
+                                </div>
+                                <div class="indata">
+                                    <span>Massa (Kg):</span>
+                                    <input type="number" id="MFi" name="MFi" value="30" step="0.001" min="0" max="10000"/>
+                                </div>
+                                <div class="indata">
+                                    <span>Calor especifico em (J/kg.K):</span>
+                                    <input type="number" id="CFi" name="CFi" value="200" step="0.1" min="0" max="10000"/>
+                                </div>
+                            </div>
+                            <h3>Fonte Quente</h3>
+                            <div class="subform fq">
+                                <div class="indata">
+                                    <span>Temperatura inicial (K):</span>
+                                    <input type="number" class="temper" id="TQi" name="TQi" value="7300" min="0" max="100000"/>
+                                    <span id="TQiC" class="convert">=7027°C=12681°F</span>
+                                </div>
+                                <div class="indata">
+                                    <span>Massa (Kg):</span>
+                                    <input type="number" id="MQi" name="MQi" value="30" step="0.001" min="0" max="10000"/>
+                                </div>
+                                <div class="indata">
+                                    <span>Calor especifico em (J/kg.K):</span>
+                                    <input type="number" id="CQi" name="CQi" value="200" step="0.1" min="0" max="10000"/>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="boxbuttons">
+                            <button id="startrad">Iniciar</button>
+                            <button id="pauserad">Parar</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <img id="myimg" class="myimg" src="stenio.jpg" alt="Minha Foto"/>
+            <div id="divinfo" class="divinfo">
+                <span>Autor: Stênio Vinicios de Medeiros</span>
+                <span>Portifolio: <a href="https://steniovm.github.io/steniovm/" alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+                <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+            </div>
+        </footer>
+        <div style="height: 20px;">
+            <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+            <b>Uma produção original 
+            <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+        </div>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
+</html>

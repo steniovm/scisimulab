@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="250" cy="250" r="248.789" id="gradient-1">
+      <stop offset="0" style="stop-color: #badaff"/>
+      <stop offset="1" style="stop-color: #758dff"/>
+    </radialGradient>
+    <path id="path-0" d="M 137.161 82.935 C 181.374 192.107 170.508 168.323 205.742 233.652 C 212.151 245.536 212.868 249.053 224.083 252.791 L 229.665 253.589 C 239.249 255.985 248.538 256.778 258.373 256.778" style="fill: none;"/>
+  </defs>
+  <ellipse style="fill-rule: nonzero; stroke: url(#gradient-1); stroke-miterlimit: 0; stroke-width: 16px; paint-order: stroke; fill: rgb(85, 218, 189);" cx="250" cy="250" rx="242" ry="242"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 55.003 110.182 L 179.381 111.493 L 120.089 182.859 L 118.045 269.284 L 115.66 182.531 L 55.003 110.182 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.499009, 0.934111)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 185.695 110.733 L 310.074 112.042 L 250.782 183.408 L 248.735 269.833 L 246.35 183.082 L 185.695 110.733 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.499267, 1.969213)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 316.866 110.745 L 441.244 112.056 L 381.951 183.421 L 379.907 269.847 L 377.523 183.093 L 316.866 110.745 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -1.495255, 3.008083)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 58.201 276.937 L 182.579 278.249 L 123.287 349.614 L 121.242 436.039 L 118.857 349.286 L 58.201 276.937 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -2.819609, 0.964669)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 188.892 277.488 L 313.271 278.797 L 253.979 350.164 L 251.934 436.588 L 249.549 349.837 L 188.892 277.488 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -2.819866, 1.999763)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 320.064 277.501 L 444.442 278.811 L 385.149 350.176 L 383.104 436.602 L 380.72 349.85 L 320.064 277.501 Z" transform="matrix(0.999969, -0.00792, 0.00792, 0.999969, -2.815859, 3.038642)"/>
+</svg>

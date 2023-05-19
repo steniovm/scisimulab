@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Batimento" />
+        <meta property="og:description" content="Simulador de batimento de onda" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="style.css" />
+        <title>Simulador de batimento de ondas</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="tela">
+            <canvas width="1000" height="200"></canvas>
+            <h1>Batimento de Ondas</h1>
+        </div>
+        <main>
+            <section id="wavev">
+                <h3>Volume</h3>
+                <input id="volume" type="range" min="0" max="1" value="0.5" step="0.001"/>
+            </section>
+            <div>
+                <section id="wave1" class="wavesec">
+                    <h3>Onda de refêrencia</h3>
+                    <h4>Forma de onda / Oitava</h4>
+                    <div class="waveform">
+                        <div class="waveform">
+                            <label>
+                                <input type="radio" name="formwave" value="sine" checked/>
+                                <img src="senoide.svg" alt="Senoide" class="imgwave"/>
+                            </label>
+                            <label>
+                                <input type="radio" name="formwave" value="square"/>
+                                <img src="quadrada.svg" alt="Quadrada" class="imgwave"/>
+                            </label>
+                            <label>
+                                <input type="radio" name="formwave" value="sawtooth"/>
+                                <img src="dente.svg" alt="Dente de serra" class="imgwave"/>
+                            </label>
+                        </div>
+                        <div class="waveform">
+                            <label><input type="radio" name="oitwave" value="oit0"/><span>EL</span></label>
+                            <label><input type="radio" name="oitwave" value="oit1"/><span>1ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit2"/><span>2ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit3"/><span>3ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit4" checked/><span>4ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit5"/><span>5ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit6"/><span>6ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit7"/><span>7ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit8"/><span>8ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit9"/><span>9ª</span></label>
+                            <label><input type="radio" name="oitwave" value="oit10"/><span>10ª</span></label>
+                        </div>
+                    </div>
+                    <h4>Nota musica</h4>
+                    <div id="teclado">
+                        <div class="tecla"><br/><br/><br/><br/>Dó</div>
+                        <div class="tecla preta"><br/><br/>Dó#</div>
+                        <div class="tecla"><br/><br/><br/><br/>Ré</div>
+                        <div class="tecla preta"><br/><br/>Ré#</div>
+                        <div class="tecla"><br/><br/><br/><br/>Mi</div>
+                        <div class="tecla"><br/><br/><br/><br/>Fá</div>
+                        <div class="tecla preta"><br/><br/>Fá#</div>
+                        <div class="tecla"><br/><br/><br/><br/>Sol</div>
+                        <div class="tecla preta"><br/><br/>Sol#</div>
+                        <div class="tecla"><br/><br/><br/><br/>Lá</div>
+                        <div class="tecla preta"><br/><br/>Lá#</div>
+                        <div class="tecla"><br/><br/><br/><br/>Sí</div>
+                    </div>
+                    <button id="playref">Tocar</button>
+                    <button id="stopbt">Parar</button>
+                </section>
+                <section id="wave2" class="wavesec">
+                    <h3>Onda ajustada</h3>
+                    <label>Frequência onda - Ajuste Grosso</label>
+                    <input id="ajustfreq" type="range" min="20" max="20000" step="1" value="444"/>
+                    <label>Frequência onda - Ajuste Fino</label>
+                    <input id="ajustfreqfine" type="range" min="0" max="1" step="0.01" value="0.44"/>
+                    <label id="showfreq"></label>
+                    <button id="playtest">Testar</button>
+                </section>
+            </div>
+        </main>
+        <div class="tela">
+            <h1>Gabarito</h1>
+            <table id="gabarito">
+                <tr>
+                    <th>Oitava</th>
+                    <th>Dó</th>
+                    <th>Dó#</th>
+                    <th>Ré</th>
+                    <th>Ré#</th>
+                    <th>Mí</th>
+                    <th>Fá</th>
+                    <th>Fá#</th>
+                    <th>Sol</th>
+                    <th>Sol#</th>
+                    <th>Lá</th>
+                    <th>Lá#</th>
+                    <th>Sí</th>
+                </tr>
+            </table>
+        </div>
+        <footer>
+            <img id="myimg" class="myimg" src="stenio.jpg" alt="Minha Foto"/>
+            <div id="divinfo" class="divinfo">
+                <span>Autor: Stênio Vinicios de Medeiros</span>
+                <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"  alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+                <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+            </div>
+        </footer>
+        <div style="height: 20px;">
+            <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+            <b>Uma produção original 
+            <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+        </div>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
+</html>

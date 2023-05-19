@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Bolinhas de Darwin: Simulador de evolução natural" />
+        <meta property="og:description" content="Jogo educacional" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="reset.css" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Bolinhas de Darwin: Simulador de evolução natural</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body id="bodypage">
+    <div>
+        <canvas width="800" height="600"></canvas>
+        <a href="https://steniovm.github.io/steniovm/BolinhasDeDarwin.html" download target="_blank" alt="jogo em arquivo unico">
+            <h4>Fique a vontade para baixar a versão em arquivo unico</h4>
+        </a>
+        <a href="https://steniovm.github.io/steniovm/" target="_blank" alt="Meu portifolio de projetos">
+            <h4>Veja meus outros projetos</h4>
+        </a>
+    </div>
+    <section id="gamerconfig">
+        <b>Instruções</b>
+        <Textarea readonly>
+Você é um predador e as bolinhas são as presas. Click nas bolinhas para predá-las.
+
+Cada vez que acertar um ataque (click) voce se nutre e ganha um ponto de energia.
+Quando erra o ataque voce se cansa e perde um ponto de energia.
+Voce tambem perde ponto de energia por fome e cansaço com o passar do tempo.
+
+A cada periodo de reprodução cada bolinha tem uma chance ter um filho.
+Logo, quanto maior for a população mais rapido ela cresce.
+
+As bolinhas filhas herdam caracteristiscas das bolinhas mãe e sofrem leves mutações.
+
+Tente controlar a população:
+    Se chegar a 0 (zero) voce fica sem alimento e morre de fome.
+    Se chegar ao valor máximo as bolinhas dominam o mundo, se revoltam e matam o predador (você).
+
+Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.
+        </Textarea>
+        <b>Configurações</b>
+        <div id="formconf">
+            <label>
+                <b>Energia inicial:</b>
+                <i>Ataques (clicks) restantes</i>
+                <input id="NM" type="number" value="30" min="0" max="100"/>
+            </label>
+            <label>
+                <b>Tamanho das bolinhas:</b>
+                <input id="IRaio" type="range" value="30" min="2" max="200"/>
+            </label>
+            <label>
+                <b>População inicial:</b>
+                <input id="NP" type="number" value="30" min="1" max="99"/>
+            </label>
+            <label>
+                <b>População máxima:</b>
+                <i>população máxima</i>
+                <i>para o colapso ecológico</i>
+                <input id="IMax" type="number" value="300" min="10" max="1000"/>
+            </label>
+            <label>
+                <b>Periodo de reprodução</b>
+                <i>tempo minimo (segundos)</i>
+                <i>entre uma reprodução e outra</i>
+                <input id="Itime" type="number" value="5" min="1" max="20"/>
+            </label>
+            <label>
+                <b>Chance de reprodução</b>
+                <i>chance % de uma bolinha</i>
+                <i>se reproduzir a cada periodo</i>
+                <input id="IChance" type="number" value="10.0" min="1" max="100" step="0.1"/>
+            </label>
+            <label>
+                <b>Audio</b>
+                <i>musica</i>
+                <input id="Vmusic" class="audio" type="range" value="0.2" min="0" max="1" step="0.01"/>
+                <i>efeitos</i>
+                <input id="Vefect"  class="audio" type="range" value="0.7" min="0" max="1" step="0.01"/>
+            </label>
+            <label>
+                <b>Ambiente</b>
+                <i>Cor de fundo em RGB</i>
+                <i>Vermelho</i>
+                <input id="Ired" class="icolor" type="range" value="200" min="0" max="255"/>
+                <i>Verde</i>
+                <input id="Igreen" class="icolor" type="range" value="200" min="0" max="255"/>
+                <i>Azul</i>
+                <input id="Iblue" class="icolor" type="range" value="200" min="0" max="255"/>
+            </label>
+            <label id="most"><div id="mostAmb"><div id="mostBol"></div></div></label>
+        </div>
+        <div>
+            <button id="Iniciar" tabindex="1" autofocus>Iniciar</button>
+            <button id="IniciarFS" tabindex="1" autofocus>Iniciar FullScreen</button>
+            <button id="Saveps" tabindex="1">Gravar Configurações</button>
+        </div>
+    </section>
+    <main>
+        <h1>Bolinhas de Darwin</h1>
+        <section id="gamerplay">
+            <b>Energia:</b>
+            <div id="divmord"><label id="NMordidas" class="labelshow">0</label></div>
+            <b>População:</b>
+            <div id="divpres"><label id="NPresas" class="labelshow">0</label></div>
+            <div id="divtime">
+                <div>
+                    <b>Tempo de vida</b>
+                    <label id="ltime" class="labelshow labeltime">00</label>
+                </div>
+                <div>
+                    <b>Maior tempo</b>
+                    <label id="ltimemax" class="labelshow labeltime">00</label>
+                </div>
+            </div>
+            <div><button id="bRestart">Reniciar</button></div>
+        </section>
+        <b>log:</b>
+        <Textarea readonly id="textlog"></Textarea>
+    </main>
+    <footer>
+        <img id="myimg" class="myimg" src="./assets/stenio.jpg" alt="Minha Foto"/>
+        <div id="divinfo" class="divinfo">
+            <span>Autor: Stênio Vinicios de Medeiros</span>
+            <span>Ultima atualização: 13/01/2023</span>
+            <span>Portifolio: <a href="https://steniovm.github.io/steniovm/  alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+            <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+        </div>
+    </footer>
+    <div style="height: 20px;">
+        <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+        <b>Uma produção original 
+        <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+    </div>
+    <script type="text/javascript" src="scripts.js"></script>
+</body>
+</html>

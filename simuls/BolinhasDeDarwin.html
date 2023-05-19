@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<!--
+Autor: Stênio Vinicios de Medeiros
+AlphaEdTech Turma Lovelace
+Exercicios sobre canvas com atualização para arquivo unico
+Ultima atualização (13/01/2023)
+contato: steniovm@gmail.com
+-->
+<html>
+    <head>
+        <style>
+body{
+    height: auto;
+    width: auto;
+    background-color: #888;
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    background-color: #7458e4;
+    padding: 4px;
+    max-width: 23vw;
+}
+b{
+    font-weight: bold;
+}
+i{
+    font-style: italic;
+}
+input, button{
+    max-width: 90%;
+    background: #bbb;
+    background-color: #bbb;
+    accent-color: #888;
+    border: none;
+    margin: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+input[type="range"]{
+    min-width: 50px;
+}
+input[type="number"]{
+    width: 30%;
+    border-radius: 10px;
+    background-color: #acacfc;
+    text-align: center;
+}
+#Iniciar, #bRestart{
+    max-width: 150px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: bold;
+    border: solid black 2px;
+    border-color: black;
+    padding: 0 15px;
+}
+#IRaio{
+    accent-color: #2393f3;
+}
+#gamerconfig{
+    display: flex;
+    flex-direction: column;
+    top: 2vh;
+    left: 5%;
+    position: fixed;
+    z-index: 1;
+    background-color: #7458e4;
+    border: solid 5px #F5EA14;
+    border-radius: 10px;
+    padding: 5px;
+    max-height: 100vh;
+    width: min-content;
+    max-width: 80vw;
+    box-shadow: 0 0 1em;
+}
+#gamerconfig>b, label>b{
+    padding: 3px 0;
+}
+#gamerplay{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#divmord{
+    display: flex;
+    background-image: linear-gradient(to right, red, yellow 20%, green);
+    justify-content: end;
+    box-shadow: 0.05em 0.1em 0.3em #333;
+}
+#divpres{
+    display: flex;
+    background-image: linear-gradient(to right, red , blue 10%, red);
+    justify-content: end;
+    box-shadow: 0.05em 0.1em 0.3em #333;
+}
+#NMordidas,#NPresas{
+    background-color: #e5e5e5;
+    padding: 0;
+    text-overflow: clip;
+}
+#divtime{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#divtime>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Iniciar, #bRestart, #Saveps, #IniciarFS{
+    max-width: 150px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: bold;
+    border: solid black 2px;
+    border-color: black;
+    padding: 0 15px;
+    box-shadow: 0.2em 0.3em 0.4em #333;
+}
+#Saveps{
+    background-color: #d92689;
+    font-size: small;
+    color: #ebd602;
+}
+#IniciarFS{
+    font-size: small;
+}
+textarea{
+    height:10vh;
+    width: 55vw;
+    resize: none;
+    font-size: large;
+    background-color: #e5e5e5;
+    border: none; 
+    scrollbar-width: thin;
+    scrollbar-color: #303030 #e5e5e5;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    padding: 0 4px;
+    border: solid #222 1px ;
+    /*min-width: 33%;*/
+}
+canvas{
+    cursor:all-scroll;
+}
+.labelshow{
+    background-color: goldenrod;
+    min-width: 0;
+    width: 100%;
+}
+.labeltime{
+    background-color: #acacfc;
+    min-width: 0;
+    width: 40px;
+    height: 20px;
+    padding: 10px 1px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 0.1em 0.2em 0.4em #333;
+}
+#textlog{
+    max-width: 98%;
+    height: 22vh;
+    background-color: #fbfbfb;
+    border: solid 1px black;
+    resize: none;
+    font-size: x-small;
+    margin-top: 5px;
+    scrollbar-width: unset;
+    scrollbar-color: #444 #888;
+    box-shadow: 0 0 0.4em;
+}
+#formconf{
+    display: flex;
+    flex-wrap: wrap;
+}
+#most{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:all-scroll;
+}
+#mostAmb{
+    display: flex;
+    border: solid 1px black;
+    padding: auto;
+    min-width: 10vw;
+    min-height: 10vw;
+    justify-content: center;
+    align-items: center;
+}
+#mostBol{
+    border-radius: 50%;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5px;
+    border: solid 2px black;
+    border-radius: 20px;
+    background-color: gold;
+    box-shadow: 0 0 0.5em;
+}
+h4{
+    background-color: #79be6b;
+    padding: 5px 0;
+    border-radius: 5px;
+    margin-top: 2px;
+}
+footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+pre{
+    background-color: #acbe6b;
+    padding: 2px;
+    border-radius: 5px;
+}
+span{
+    font-weight: bold;
+}
+.myimg{
+    height: 6vh;
+    min-height:60px;
+}
+.divinfo{
+    display: flex;
+    flex-direction: column;
+}
+.audio{
+    accent-color: #f3f300;
+}
+::-webkit-scrollbar {
+  width: 2px;
+}
+::-webkit-scrollbar-track {
+  background: #e5e5e5;
+}
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+@media screen and (MAX-width: 800px){
+    main{
+        padding: 2px;
+        width: 100vw;
+        max-width: 100%;
+        overflow: auto;
+    }
+    b,i{
+        font-weight: normal;
+        font-size: x-small;
+    }
+    input, button{
+        margin: 2px;
+        font-size: medium;
+        font-weight: unset;
+    }
+    input[type="range"]{
+        min-width: 20px;
+    }
+    input[type="number"]{
+        width: 20%;
+        border-radius: 5px;
+    }
+    #gamerconfig{
+        top: 0;
+        left: 0;
+        border: solid 2px #F5EA14;
+        border-radius: 5px;
+        padding: 2px;
+        max-height: 100vh;
+        width: min-content;
+        max-width: 100vw;
+        overflow: auto;
+    }
+    #gamerplay{
+        overflow: auto;
+    }
+    #Iniciar, #bRestart, #Saveps, #IniciarFS{
+        max-width: 50%;
+        border-radius: 5px;
+        font-weight: normal;
+        border: solid black 1px;
+        padding: 0 5px;
+        box-shadow: 0.2em 0.3em 0.2em #333;
+    }
+    textarea{
+        height:5vh;
+        width: 100vw;
+        resize: none;
+        font-size: small;
+        scrollbar-width: thin;
+    }
+    label{
+        padding: 0 1px;
+        min-width: 15%;
+    }
+    #textlog{
+        width: 98%;
+        height: 20vh;
+    }
+}
+        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <title>Bolinhas de Darwin: Simulador de evolução natural</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+    <canvas width="800" height="600"></canvas>
+    <section id="gamerconfig">
+        <b>Instruções</b>
+        <Textarea readonly>
+Você é um predador e as bolinhas são as presas. Click nas bolinhas para predá-las.
+
+Cada vez que acertar um ataque (click) voce se nutre e ganha um ponto de energia.
+Quando erra o ataque voce se cansa e perde um ponto de energia.
+Voce tambem perde ponto de energia por fome e cansaço com o passar do tempo.
+
+A cada periodo de reprodução cada bolinha tem uma chance ter um filho.
+Logo, quanto maior for a população mais rapido ela cresce.
+
+As bolinhas filhas herdam caracteristiscas das bolinhas mãe e sofrem leves mutações.
+
+Tente controlar a população:
+    Se chegar a 0 (zero) voce fica sem alimento e morre de fome.
+    Se chegar ao valor máximo as bolinhas dominam o mundo, se revoltam e matam o predador (você).
+
+Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.
+        </Textarea>
+        <b>Configurações</b>
+        <div id="formconf">
+            <label>
+                <b>Energia inicial:</b>
+                <i>Ataques (clicks) restantes</i>
+                <input id="NM" type="number" value="30" min="0" max="100"/>
+            </label>
+            <label>
+                <b>Tamanho das bolinhas:</b>
+                <input id="IRaio" type="range" value="30" min="2" max="200"/>
+            </label>
+            <label>
+                <b>População inicial:</b>
+                <input id="NP" type="number" value="30" min="1" max="99"/>
+            </label>
+            <label>
+                <b>População máxima:</b>
+                <i>população máxima</i>
+                <i>para o colapso ecológico</i>
+                <input id="IMax" type="number" value="300" min="10" max="1000"/>
+            </label>
+            <label>
+                <b>Periodo de reprodução</b>
+                <i>tempo minimo (segundos)</i>
+                <i>entre uma reprodução e outra</i>
+                <input id="Itime" type="number" value="5" min="1" max="20"/>
+            </label>
+            <label>
+                <b>Chance de reprodução</b>
+                <i>chance % de uma bolinha</i>
+                <i>se reproduzir a cada periodo</i>
+                <input id="IChance" type="number" value="10.0" min="1" max="100" step="0.1"/>
+            </label>
+            <label>
+                <b>Ambiente</b>
+                <i>Cor de fundo em RGB</i>
+                <i>Vermelho</i>
+                <input id="Ired" class="icolor" type="range" value="200" min="0" max="255"/>
+                <i>Verde</i>
+                <input id="Igreen" class="icolor" type="range" value="200" min="0" max="255"/>
+                <i>Azul</i>
+                <input id="Iblue" class="icolor" type="range" value="200" min="0" max="255"/>
+            </label>
+            <label id="most"><div id="mostAmb"><div id="mostBol"></div></div></label>
+        </div>
+        <button id="Iniciar" tabindex="1" autofocus>Iniciar</button>
+        <button id="IniciarFS" tabindex="1" autofocus>Iniciar FullScreen</button>
+    </section>
+    <main>
+        <h1>Bolinhas de Darwin</h1>
+        <section id="gamerplay">
+            <b>Energia:</b>
+            <div id="divmord"><label id="NMordidas" class="labelshow">0</label></div>
+            <b>População:</b>
+            <div id="divpres"><label id="NPresas" class="labelshow">0</label></div>
+            <div id="divtime">
+                <div>
+                    <b>Tempo de vida</b>
+                    <label id="ltime" class="labelshow labeltime">00</label>
+                </div>
+                <div>
+                    <b>Maior tempo</b>
+                    <label id="ltimemax" class="labelshow labeltime">00</label>
+                </div>
+            </div>
+            <div><button id="bRestart">Reniciar</button></div>
+        </section>
+        <b>log:</b>
+        <Textarea id="textlog" readonly></Textarea>
+        <a href="mailto:steniovm@gmail.com">
+<pre>
+Autor: Stênio Vinicios de Medeiros
+AlphaEdTech Turma Lovelace
+Exercicios sobre canvas arquivo unico
+Ultima atualização (13/01/2023)
+contato: steniovm@gmail.com
+</pre></a>
+        <a href="https://steniovm.github.io/steniovm/BolinhasDeDarwin.html">
+            <h4>Página em arquivo unico, fique a vontade para baixar</h4>
+        </a>
+        <a href="https://steniovm.github.io/steniovm/">
+            <h4>Veja meus outros projetos</h4>
+        </a>
+    </main>
+    <div style="height: 20px;">
+        <img src="../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+        <b>Uma produção original 
+        <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+    </div>
+    <script type="text/javascript">
+const bodypage = document.getElementById('bodypage');
+const textprint = document.getElementById('text');
+const nMordidas = document.getElementById('NMordidas');
+const nPresas = document.getElementById('NPresas');
+const textlog = document.getElementById('textlog');
+const mycanvas = document.querySelector('canvas');
+const gamerconfig = document.getElementById('gamerconfig');
+const gamerplay = document.getElementById('gamerplay');
+const biniciar = document.getElementById('Iniciar');
+const biniciarfs = document.getElementById('IniciarFS');
+const nmord = document.getElementById('NM');
+const npres = document.getElementById('NP');
+const iraio = document.getElementById('IRaio');
+const ltime = document.getElementById('ltime');
+const ltimemax = document.getElementById('ltimemax');
+const bRestart = document.getElementById('bRestart');
+const IMax = document.getElementById('IMax');
+const Itime = document.getElementById('Itime');
+const IChance = document.getElementById('IChance');
+const colorrgb = document.querySelectorAll('.icolor');
+const mostAmb = document.getElementById('mostAmb');
+const mostBol = document.getElementById('mostBol');
+if (screen.width < 800 && screen.height < 800){
+    mycanvas.height = 360;
+    mycanvas.width = 640;
+}
+if (screen.height > screen.width) {
+    mycanvas.height = 640;
+    mycanvas.width = 360;
+}
+
+let c = mycanvas.getContext('2d');
+let paused = true;
+let nbol = npres.value;
+let rbol = iraio.value;
+c.width = mycanvas.offsetWidth;
+c.height = mycanvas.offsetHeight;
+let bolinhas = [];
+let energy = nmord.value;
+let timegame = 0;
+let timegamemax = 0;
+let repchance = (IChance.value)/100;
+let maxbols = Number.parseInt(IMax.value);
+let reptime = Itime.value;
+let contpresas = 0;
+mostAmb.style.height = (2*iraio.value + 4)+'px';
+mostAmb.style.width = (2*iraio.value + 4)+'px';
+mostBol.style.height = (2*iraio.value)+'px';
+mostBol.style.width = (2*iraio.value)+'px';
+
+function setCookie() {
+  const d = new Date();
+  d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
+  let expires = "expires="+d.toUTCString();
+  document.cookie = 'timegame' + "=" + timegamemax + ";" + expires + ";path=/";
+}
+
+if (document.cookie.indexOf('timegame')>=0){
+    timegamemax = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('timegame='))?.split("=")[1])
+    ltimemax.innerHTML = timegamemax;
+}else{
+    setCookie();
+}
+
+function changeColor(){
+  let red = Math.floor(Math.random()*255);
+  let green = Math.floor(Math.random()*255);
+  let blue = Math.floor(Math.random()*255);
+  mycanvas.style.backgroundColor = 'rgb(' + red + ',' + green + ',' + blue + ')';
+  mostAmb.style.backgroundColor = 'rgb(' + red + ',' + green + ',' + blue + ')';
+  mostBol.style.backgroundColor = 'rgb(' + (255-red) + ',' + (255-green) + ',' + (255-blue) + ')';
+  colorrgb[0].value = red;
+  colorrgb[0].style.accentColor = "rgb("+red+",0,0)";
+  colorrgb[1].value = green;
+  colorrgb[1].style.accentColor = "rgb(0,"+green+",0)";
+  colorrgb[2].value = blue;
+  colorrgb[2].style.accentColor = "rgb(0,0,"+blue+")";
+}
+
+function changeNewColor(){
+  mycanvas.style.backgroundColor = 'rgb(' + colorrgb[0].value + ',' + colorrgb[1].value + ',' + colorrgb[2].value + ')';
+}
+
+function bolinha(x,y,raio,r,g,b){
+    this.x = x + Math.floor(Math.random()*10 - 5);
+    this.y = y + Math.floor(Math.random()*10 - 5);
+    this.ra = raio;
+    this.r = r + Math.floor(Math.random()*10 - 5);
+    this.g = g + Math.floor(Math.random()*10 - 5);
+    this.b = b + Math.floor(Math.random()*10 - 5);
+    this.dx = Math.random() - 0.5;
+    this.dy = Math.random() - 0.5;
+    this.mostrar = function(){
+        c.beginPath();
+        c.arc(this.x, this.y, this.ra, 0, 2*Math.PI);
+        c.fillStyle=('rgb('+this.r+','+this.g+','+this.b+')');
+        c.fill();
+    }
+    this.mover = function(){
+        if(this.x+this.dx>0 && this.x+this.dx<c.width){
+            this.x = this.x + this.dx;
+        }else{
+            this.dx = -this.dx;
+            this.x = this.x + this.dx;
+        }
+        if(this.y+this.dy>0 && this.y+this.dy<c.height){
+            this.y = this.y+this.dy;
+        }else{
+            this.dy = -this.dy;
+            this.y = this.y+this.dy;
+        }
+        this.mostrar();
+    }
+    
+}
+
+function vetorbol(nb){
+    let bolinhas = [];
+    for(let i=0; i<nb; i++){
+        let x = Math.floor(Math.random()*c.width);
+        let y = Math.floor(Math.random()*c.height);
+        let r = Math.floor(Math.random()*255);
+        let g = Math.floor(Math.random()*255);
+        let b = Math.floor(Math.random()*255);
+        bolinhas.push(new bolinha(x,y,rbol,r,g,b));
+    }
+    nPresas.innerHTML = nb;
+    return bolinhas;
+}
+
+function inicio(){
+    if (paused) return;
+    bolinhas = vetorbol(nbol);
+    nPresas.style.width = ((1 - nbol/maxbols)*100)+'%';
+    for(i=0;i<nbol;i++){
+        bolinhas[i].mostrar();
+    }
+    mostrarbol();
+}
+
+function mostrarbol(){
+    if (paused) return;
+    c.clearRect(0,0,innerWidth,innerHeight);
+    requestAnimationFrame(mostrarbol);
+    for(i=0;i<nbol;i++){
+        bolinhas[i].mover();
+    }
+}
+
+function pinicio(){
+    nbol = npres.value;
+    rbol = iraio.value;
+    energy = nmord.value;
+    nMordidas.innerHTML = energy;
+    nMordidas.style.width = (100-energy)+'%';
+    maxbols = Number.parseInt(IMax.value);
+    reptime = Itime.value;
+    repchance = (IChance.value)/100;
+    contpresas = 0;
+    paused = false;
+    textlog.innerHTML = `Dados do jogo
+Energia inicial: ${energy} mordidas
+Raio das bolinhas: ${rbol} pixels
+População inicial: ${nbol} bolinhas
+População maxima: ${maxbols} bolinhas
+Periodo de reprodução: ${reptime} segundos
+Chance de reprodução: ${repchance*100}%
+Ambiente: ${mycanvas.style.backgroundColor}`;
+}
+
+function clicar(e){
+    if (paused) return;
+    let mx = e.clientX;
+    let my = e.clientY;
+    for(i=(nbol-1);i>=0;i--){
+        let dx = mx-bolinhas[i].x;
+        if (dx < 0 ) dx = - dx;
+        let dy = my-bolinhas[i].y;
+        if (dy < 0 ) dy = - dy;
+        if((dx<(bolinhas[i].ra)) && (dy<(bolinhas[i].ra))){
+            textlog.innerHTML += "\nAcertou: ("+mx+","+my+")";
+            textlog.scrollTop = textlog.scrollHeight;
+            contpresas++;
+            if (energy<100) energy++;
+            nMordidas.innerHTML = energy;
+            nMordidas.style.width = (100-energy)+'%';
+            bolinhas.splice(i,1);
+            nbol = bolinhas.length
+            nPresas.innerHTML = nbol;
+            nPresas.style.width = ((1 - nbol/maxbols)*100)+'%';
+            return;
+        }else{
+            if (i == 0) {
+                textlog.innerHTML += "\nErrou: ("+mx+","+my+")";
+                textlog.scrollTop = textlog.scrollHeight;
+                if (energy) energy--;
+                nMordidas.innerHTML = energy;
+            }
+        }
+    }
+}
+function newbirth(n){
+    if (paused) return;
+    let bolmae = bolinhas[n];
+    let x = bolmae.x + Math.floor(Math.random()*10 - 5);;
+    let y = bolmae.y + Math.floor(Math.random()*10 - 5);;
+    let r = bolmae.r + Math.floor(Math.random()*50 - 25);
+    if(r > 255) r = 254;
+    if(r < 0) r = 1;
+    let g = bolmae.g + Math.floor(Math.random()*50 - 25);
+    if(g > 255) g = 254;
+    if(g < 0) g = 1;
+    let b = bolmae.b + Math.floor(Math.random()*50 - 25);
+    if(b > 255) b = 254;
+    if(b < 0) b = 1;
+    bolinhas.push(new bolinha(x,y,rbol,r,g,b));
+    nbol = bolinhas.length
+    nPresas.innerHTML = nbol;
+    nPresas.style.width = ((1 - nbol/maxbols)*100)+'%';
+}
+
+async function pastime(){
+    if (paused) return;
+    let timeciclo = 0;
+    let interval = setInterval(function(){
+        timegame++;
+        timeciclo++;
+        ltime.innerHTML = timegame;
+        if (nbol>=maxbols){
+            clearInterval(interval);
+            textlog.innerHTML += "\nAs bolinhas dominaram o mundo e mataram os predadores!!!";
+            textlog.innerHTML += "\nVoce sobreviveu por "+timegame+" segundos e abateu "+contpresas+" presas!";
+            textlog.scrollTop = textlog.scrollHeight;
+            if (timegame > timegamemax){
+                timegamemax = timegame;
+                ltimemax.innerHTML = timegamemax;
+                setCookie();
+            }
+            paused = true;
+        }else if (nbol<=0){
+            clearInterval(interval);
+            textlog.innerHTML += "\nAs bolinhas foram extintas e os predadores morreram de fome!!!";
+            textlog.innerHTML += "\nVoce sobreviveu por "+timegame+" segundos e abateu "+contpresas+" presas!";
+            textlog.scrollTop = textlog.scrollHeight;
+            if (timegame > timegamemax){
+                timegamemax = timegame;
+                ltimemax.innerHTML = timegamemax;
+                setCookie();
+            }
+            paused = true;
+        }else if (energy <= 0){
+            clearInterval(interval);
+            textlog.innerHTML += "\nSua energia vital acabou e voce desfaleceu!!!";
+            textlog.innerHTML += "\nVoce sobreviveu por "+timegame+" segundos e abateu "+contpresas+" presas!";
+            textlog.scrollTop = textlog.scrollHeight;
+            if (timegame > timegamemax){
+                timegamemax = timegame;
+                setCookie();
+            }
+            paused = true;
+        }
+        let max = bolinhas.length;
+        if (timeciclo==reptime){
+            if (energy > 0) {
+                energy--;
+                nMordidas.innerHTML = energy;
+                nMordidas.style.width = (100-energy)+'%';
+            }
+            let s = 0
+            for(let i=0;i<max;i++){
+            s = Math.random();
+            console.log(nbol);
+            if (s < repchance) {
+                newbirth(i);
+            }
+            }
+            timeciclo = 0;
+        }
+    },1000); 
+}
+function iniciargame(){
+    gamerconfig.style.display = "none";
+    gamerplay.style.display = "flex";
+    pinicio();
+    inicio();
+    mostrarbol();
+    pastime();
+    changeNewColor();
+}
+
+biniciar.addEventListener("click", function(){
+    iniciargame();
+});
+biniciarfs.addEventListener("click", function(){
+    enterfullscreem();
+    iniciargame();
+});
+bRestart.addEventListener("click", function(){
+    gamerconfig.style.display = "flex";
+    bolinhas = [];
+    timegame = 0;
+    paused = true;
+})
+
+colorrgb[0].addEventListener('change', function(){
+    colorrgb[0].style.accentColor = "rgb("+colorrgb[0].value+",0,0)";
+    mostAmb.style.backgroundColor = "rgb("+colorrgb[0].value+","+colorrgb[1].value+","+colorrgb[2].value+")";
+})
+colorrgb[1].addEventListener('change', function(){
+    colorrgb[1].style.accentColor = "rgb(0,"+colorrgb[1].value+",0)";
+    mostAmb.style.backgroundColor = "rgb("+colorrgb[0].value+","+colorrgb[1].value+","+colorrgb[2].value+")";
+})
+colorrgb[2].addEventListener('change', function(){
+    colorrgb[2].style.accentColor = "rgb(0,0,"+colorrgb[2].value+")";
+    mostAmb.style.backgroundColor = "rgb("+colorrgb[0].value+","+colorrgb[1].value+","+colorrgb[2].value+")";
+})
+iraio.addEventListener('change', function(){
+    mostAmb.style.height = (2*iraio.value + 4)+'px';
+    mostAmb.style.width = (2*iraio.value + 4)+'px';
+    mostBol.style.height = (2*iraio.value)+'px';
+    mostBol.style.width = (2*iraio.value)+'px';
+})
+
+changeColor();
+mycanvas.addEventListener('mouseup',clicar,true);
+function enterfullscreem(){
+    if (mycanvas.requestFullscreen){
+        mycanvas.requestFullscreen();
+    }
+    else if (mycanvas.msRequestFullscreen){
+        mycanvas.msRequestFullscreen();
+    }
+    else if (mycanvas.mozRequestFullScreen){
+        mycanvas.mozRequestFullScreen();
+    }
+}
+
+function untouch() {
+    touchbox.addEventListener("touchstart", onTouch, false);
+    touchbox.addEventListener("touchend", onTouch, false);
+    touchbox.addEventListener("touchcancel", onTouch, false);
+    touchbox.addEventListener("touchleave", onTouch, false);
+    touchbox.addEventListener("touchmove", onTouch, false);
+  }
+function onTouch(evt) {
+    evt.preventDefault();
+    if (evt.touches.length > 1 || (evt.type == "touchend" && evt.touches.length > 0))
+      return;
+}
+
+    </script>
+</body>
+</html>

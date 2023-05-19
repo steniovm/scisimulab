@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Corrente de Convecção" />
+        <meta property="og:description" content="Tranferência de Calor por Convecção" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="style.css" />
+        <title>Simulador de Tranferência de Calor por Convecção</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>Tranferência de Calor por Convecção</h1>
+        <main>
+            <section>
+                <div>
+                    <canvas id="canvasconv" width="400" height="500">Erro na renderização de elemento canvas</canvas>
+                    <div class="param">
+                        <canvas id="canvasgcv" width="730" height="200">Erro na renderização de elemento canvas</canvas>
+                        <form id="condform">
+                            <h3>Fonte Fria</h3>
+                            <div class="subform ff">
+                                <div class="indata">
+                                    <span>Temperatura inicial (K):</span>
+                                    <input type="number" class="temper" id="TFi" name="TFi" value="300" min="0" max="10000"/>
+                                    <span id="TFiC" class="convert">=27°C=81°F</span>
+                                </div>
+                                <div class="indata">
+                                    <span>Massa (Kg):</span>
+                                    <input type="number" id="MFi" name="MFi" value="30" step="0.001" min="0" max="10000"/>
+                                </div>
+                                <div class="indata">
+                                    <span>Calor especifico em (J/kg.K):</span>
+                                    <input type="number" id="CFi" name="CFi" value="200" step="0.1" min="0" max="10000"/>
+                                </div>
+                            </div>
+                            <h3>Fluido de Convecção</h3>
+                            <div class="subform barra">
+                                <div class="indata">
+                                    <span>Temperatura inicial (K):</span>
+                                    <input type="number" class="temper" id="TBi" name="TBi" value="350" min="0" max="10000"/>
+                                    <span id="TQiC" class="convert">=77°C=171°F</span>
+                                </div>
+                                <div class="indata">
+                                    <span>Massa (Kg):</span>
+                                    <input type="number" id="MBi" name="MBi" value="3" step="0.001" min="0" max="30" max="10000"/>
+                                </div>
+                                <div class="indata">
+                                    <span>Calor especifico em (J/kg.K):</span>
+                                    <input type="number" id="CBi" name="CBi" value="800" step="0.1" min="0" max="10000"/>
+                                </div>
+                            </div>
+                            <h3>Fonte Quente</h3>
+                            <div class="subform fq">
+                                <div class="indata">
+                                    <span>Temperatura inicial (K):</span>
+                                    <input type="number" class="temper" id="TQi" name="TQi" value="400" min="0" max="10000"/>
+                                    <span id="TQiC" class="convert">=127°C=261°F</span>
+                                </div>
+                                <div class="indata">
+                                    <span>Massa (Kg):</span>
+                                    <input type="number" id="MQi" name="MQi" value="30" step="0.001" min="0" max="10000"/>
+                                </div>
+                                <div class="indata">
+                                    <span>Calor especifico em (J/kg.K):</span>
+                                    <input type="number" id="CQi" name="CQi" value="200" step="0.1" min="0" max="10000"/>
+                                </div>
+                            </div>
+                            <h3>Outras variaveis</h3>
+                            <div class="indata">
+                                <span>Coeficiente de calor (*Area) (J.K/s):</span>
+                                <input type="number" id="coef" name="coef" value="40" min="0" max="10000"/>
+                            </div>
+                            <div class="indata">
+                                <span>Divisões:</span>
+                                <input type="number" id="ndiv" name="ndiv" value="40" min="6" max="80"/>
+                            </div>
+                        </form>
+                        <div class="boxbuttons">
+                            <button id="startconv">Iniciar</button>
+                            <button id="pauseconv">Parar</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <img id="myimg" class="myimg" src="stenio.jpg" alt="Minha Foto"/>
+            <div id="divinfo" class="divinfo">
+                <span>Autor: Stênio Vinicios de Medeiros</span>
+                <span>Portifolio: <a href="https://steniovm.github.io/steniovm/" alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+                <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+            </div>
+        </footer>
+        <div style="height: 20px;">
+            <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+            <b>Uma produção original 
+            <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+        </div>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
+</html>

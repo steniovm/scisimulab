@@ -1,0 +1,444 @@
+@font-face {
+    font-family: Gorditas;
+    src: url("./assets/Gorditas-Regular.ttf") format("truetype"), url("./assets/Gorditas-Bold.ttf") format("truetype");
+  }
+body{
+    height: auto;
+    width: auto;
+    background-color: #8BA;
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    background-color: #7458e4;
+    border: solid 5px #F5EA14;
+    border-radius: 10px;
+    padding: 4px;
+    box-shadow: 0 0 1em;
+    /*max-width: 18vw;*/
+    /*min-width: 245px;*/
+    font-size: xx-large;
+}
+main>*,main>*>*{
+    margin-top: 10px;
+}
+b{
+    font-weight: bold;
+    font-family: Gorditas;
+    padding: 5px 0;
+}
+i{
+    font-style: italic;
+}
+input, button{
+    max-width: 90%;
+    background: #bbb;
+    background-color: #bbb;
+    accent-color: #888;
+    border: none;
+    margin: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+input[type="range"]{
+    min-width: 50px;
+}
+input[type="number"]{
+    width: 30%;
+    border-radius: 10px;
+    background-color: #acacfc;
+    text-align: center;
+}
+#gamerconfig{
+    display: flex;
+    flex-direction: column;
+    top: 2vh;
+    left: 5%;
+    position: fixed;
+    z-index: 1;
+    background-color: #7458e4;
+    border: solid 5px #F5EA14;
+    border-radius: 10px;
+    padding: 5px;
+    max-height: 100vh;
+    /*width: min-content;*/
+    max-width: 80vw;
+    box-shadow: 0 0 1em;
+    /*display: none;/*voltar a desativado*/
+    font-size: xx-large;
+}
+#gamerplay{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#divtime{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#divtime>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Iniciar, #bRestart,#Saveps{
+    max-width: 400px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: bold;
+    border: solid black 2px;
+    border-color: black;
+    padding: 0 15px;
+    font-family: Gorditas;
+    box-shadow: 0.2em 0.3em 0.4em #333;
+    font-size: xx-large;
+}
+#Saveps{
+    background-color: #d92689;
+    color: #ebd602;
+}
+textarea{
+    height:17vh;
+    /*width: 50vw;*/
+    resize: none;
+    font-size: large;
+    background-color: #e5f5f5;
+    border: none; 
+    scrollbar-width: thin;
+    scrollbar-color: #303030 #e5e5e5;
+}
+::-webkit-scrollbar {
+    width: 2px;
+}
+::-webkit-scrollbar-track {
+    background: #e5e5e5;
+}
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    padding: 0 4px;
+    border: solid #222 1px ;
+    min-width: 25%;
+}
+.labelshow{
+    background-color: goldenrod;
+    min-width: 0;
+}
+.labeltime{
+    background-color: #fcfcac;
+    min-width: 0;
+    width: 65px;
+    height: 60px;
+    padding: 10px 1px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 0.1em 0.2em 0.4em #333;
+}
+#formconf{
+    display: flex;
+    /*flex-wrap: wrap;*/
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5px;
+    border: solid 2px black;
+    border-radius: 20px;
+    background-color: gold;
+    font-family: Gorditas;
+    box-shadow: 0 0 0.5em;
+}
+h4{
+    background-color: #79be6b;
+    padding: 5px 0;
+    border-radius: 5px;
+    margin-top: 2px;
+    font-family: Gorditas;
+}
+span{
+    font-weight: bold;
+}
+.myimg{
+    min-height:60px;
+}
+.divinfo{
+    display: flex;
+    flex-direction: column;
+}
+.audio{
+    accent-color: #f3f300;
+}
+#inVel{
+    accent-color: #2393f3;
+}
+.radioop{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: start;
+    font-weight: bold;
+}
+.radioop>img{
+    height: 10vh;
+}
+#field{
+    position: relative;
+    height: 100vh;
+    margin: auto;
+    margin-top: 0;
+    box-shadow: 0 0 1em;
+}
+#fieldprotect{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+}
+#Soccerfield{
+    height: 100vh;
+    max-width: 100vw;
+}
+#divplac, #divactiv{
+    display: flex;
+    flex-direction: column;
+}
+#divplac>div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #f5f535;
+    box-shadow: 0.2em 0.3em 0.4em #333;
+}
+.plac{
+    font-weight: bold;
+    text-align: center;
+    background-color: #ffff17;
+    max-width: 2em;
+}
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.ballgame,.cabec,.algar{
+    display: block;
+    position: absolute;
+    height: 8%;
+    /*superior esquerdo*/
+    top: 0%;
+    left: 0;
+}
+.enf{
+    border-radius: 40%;
+    background-color: #e90;
+    box-shadow: 0 0 3em #e90;
+}
+.ballgame{
+    height: 4%;
+    /*meio campo*/
+    top: 48%;
+    left: 47%;
+}
+#arrow{
+    position: absolute;
+    height: 12vh;
+    top:10%;
+    left: 70%;
+    transform: rotate(0deg);
+}
+#touchbox{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    /*display: flex;*/
+    flex-direction: column;
+    justify-content: space-between;
+    display: none;
+}
+.cellbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: transparent;
+    border: solid 2px #00000080;
+    border-radius: 50%;
+    width: min-content;
+    /*display: none;*/
+}
+.cellbox>div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.cellbt{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    border: solid 2px #00000080;
+    border-radius: 50%;
+    height: 10vh;
+    width: 10vh;
+    padding: 5%;
+}
+#cellcontrol{
+    border-radius: 5%;
+    top:20%;
+    left:80%;
+    align-self: end;
+}
+#cellboxexitfs{
+    border-radius: 5%;
+    top:5%;
+    left:5%;
+    align-self: center;
+}
+.cellgir{
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cellhead{
+    background-size: cover;
+    border-radius: 5%;
+    color: #000000aa;
+    font-weight: bold;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#cellplc{
+    width: 20vh;
+}
+#gircell{
+    background-color: #00000080;
+    border: solid 1px black;
+    border-radius: 10px;
+    display: none;
+    top: 20%;
+    left: 20%;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    width: auto;
+    max-width: 50%;
+
+}
+#gircell>*{
+    max-width: 50%;
+    font-size: large;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+@media screen and (MAX-width: 950px) {
+    main{
+        border: solid 1px #F5EA14;
+        border-radius: 5px;
+        box-shadow: 0 0 1em;
+        font-size:medium;
+    }
+    main>*,main>*>*{
+        margin-top: 2px;
+    }
+    b{
+        font-weight: normal;
+        padding: 1px 0;
+        font-size: large;
+    }
+    input, button{
+        margin: 2px;
+    }
+    input[type="range"]{
+        min-width: 20px;
+    }
+    #gamerconfig{
+        top: 0;
+        left: 0;
+        border: solid 2px #F5EA14;
+        border-radius: 5px;
+        padding: 1px;
+        max-height: 100vh;
+        max-width: 100vw;
+        box-shadow: 0 0 1em;
+        font-size: medium;
+        overflow:auto;
+    }
+    #Iniciar, #bRestart,#Saveps{
+        max-width: 100%;
+        border-radius: 2px;
+        padding: 0 0;
+        font-size: medium;
+    }
+    textarea{
+        height:20vh;
+        font-size: medium;
+    }
+    label{
+        padding: 0 1px;
+        min-width: 5%;
+        font-size: initial;
+    }
+    .labeltime{
+        width: 35px;
+        height: 30px;
+        padding: 1px 1px;
+        font-size: x-large;
+        font-weight: normal;
+    }
+    h1{
+        font-size: large;
+        margin: 1px;
+        border: solid 1px black;
+    }
+    h4{
+        padding: 2px 0;
+        border-radius: 2px;
+        margin-top: 1px;
+    }
+    .myimg{
+        min-height:20px;
+    }
+    .radioop>img{
+        height: 5vh;
+    }
+    .plac{
+        font-weight: normal;
+    }
+    #arrow{
+        height: 6vh;
+    }
+    .cellbt{
+        height: 7vh;
+        width: 7vh;
+        padding: 2%;
+    }
+    .cellhead{
+        font-weight: normal;
+        font-size: large;
+    }
+}
+@media screen and (MAX-width: 390px){
+    textarea{
+        height:5vh;
+    }
+    #formconf {
+        flex-wrap: wrap;
+    }
+} 

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Cinemática Relativistica" />
+        <meta property="og:description" content="Movimento Segundo a Teoria da Relatividade Restrita" />
+        <meta property="og:locale" content="pt-br" />
+        <meta property="og:image" itemprop="image" content="imgs/presentetion.gif" />
+        <meta property="og:image:type" content="image/gif" />
+        <meta property="og:image:alt" content="Imagem do sistema solar viajando pela Via-láctea" />
+        <meta property="og:description" content="Simulador de Viagem em Velocidade Relativistica" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+        <link rel="stylesheet" href="style.css" />
+        <title>Relatividade Restrita</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>Cinemática Relativistica</h1>
+        <main>
+            <h3 class="titlescreen">Referencial do Planeta</h3>
+            <canvas id="canvasrefplaneta" width="600" height="150">Erro na renderização de elemento canvas</canvas>
+            <h3 class="titlescreen">Referencial da Nave</h3>
+            <canvas id="canvasrefnave" width="600" height="150">Erro na renderização de elemento canvas</canvas>
+            <section>
+                <div class="param">
+                    <h3>Parâmetros</h3>
+                    <form id="condform">
+                        <label>
+                            <span>Massa da nave (kg):</span>
+                            <input id="massa" type="number" class="invalue" value="300" min="0" max="2000"/>
+                        </label>
+                        <label>
+                            <span>Velocidade da nave (c):</span>
+                            <input id="veloc" type="number" class="invalue" value="0.5" min="0" max="0.99" step="0.01"/>
+                        </label>
+                        <label>
+                            <span id="disreal">Distância (
+                                <select id="distunit">
+                                    <option>UA</option>
+                                    <option>ly</option>
+                                    <option>pc</option>
+                                </select>):
+                            </span>
+                            <span id="dislent" class="hidemode">Distância (m):</span>
+                            <input id="dist" type="number" class="invalue" value="1" min="0" max="10" step="0.1"/>
+                        </label>
+                    </form>
+                    <div class="boxbuttons">
+                        <button id="startcond">Iniciar</button>
+                        <button id="pausecond">Parar</button>
+                    </div>
+                    <h3 id="titlemode">Modo de simulação: Real</h3>
+                    <button id="altermod">Alternar</button>
+                    <div id="optional" class="hidemode">
+                        <label>
+                            <span>Valor de c (m/s):</span>
+                            <input id="velocC" type="number" class="invalue" value="1000" min="0"/>
+                        </label>
+                    </div>
+                </div>
+                <div class="boxbuttons">
+                    <ul id="veic" class="select">
+                        <h3>Veiculo</h3>
+                        <li>
+                            <input type="radio" id="imgn1" name="imgnave" checked/>
+                            <label for="imgn1"><img class="imgnave" src="imgs/imgnave01.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn2" name="imgnave"/>
+                            <label for="imgn2"><img class="imgnave" src="imgs/imgnave02.png"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn3" name="imgnave"/>
+                            <label for="imgn3"><img class="imgnave" src="imgs/imgnave03.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn4" name="imgnave"/>
+                            <label for="imgn4"><img class="imgnave" src="imgs/imgnave04.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn5" name="imgnave"/>
+                            <label for="imgn5"><img class="imgnave" src="imgs/imgnave05.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn6" name="imgnave"/>
+                            <label for="imgn6"><img class="imgnave" src="imgs/imgnave06.svg"/></label>
+                        </li>
+                    </ul>
+                    <ul id="veicC" class="select hidemode">
+                        <h3>Veiculo</h3>
+                        <li>
+                            <input type="radio" id="imgn7" name="imgnave"/>
+                            <label for="imgn7"><img class="imgnave" src="imgs/imgnave07.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn8" name="imgnave"/>
+                            <label for="imgn8"><img class="imgnave" src="imgs/imgnave08.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn9" name="imgnave"/>
+                            <label for="imgn9"><img class="imgnave" src="imgs/imgnave09.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn10" name="imgnave"/>
+                            <label for="imgn10"><img class="imgnave" src="imgs/imgnave10.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn11" name="imgnave"/>
+                            <label for="imgn11"><img class="imgnave" src="imgs/imgnave11.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn12" name="imgnave"/>
+                            <label for="imgn12"><img class="imgnave" src="imgs/imgnave12.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn13" name="imgnave"/>
+                            <label for="imgn13"><img class="imgnave" src="imgs/imgnave13.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn14" name="imgnave"/>
+                            <label for="imgn14"><img class="imgnave" src="imgs/imgnave14.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgn15" name="imgnave"/>
+                            <label for="imgn15"><img class="imgnave" src="imgs/imgnave15.svg"/></label>
+                        </li>
+                    </ul>
+                    <ul id="dest" class="select">
+                        <h3>Destino</h3>
+                        <li>
+                            <input type="radio" id="imgp1" name="imgplanet" checked/>
+                            <label for="imgp1"><img class="imgplanet" src="imgs/imgplanet01.png"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgp2" name="imgplanet"/>
+                            <label for="imgp2"><img class="imgplanet" src="imgs/imgplanet02.png"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgp3" name="imgplanet"/>
+                            <label for="imgp3"><img class="imgplanet" src="imgs/imgplanet03.png"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgp4" name="imgplanet"/>
+                            <label for="imgp4"><img class="imgplanet" src="imgs/imgplanet04.svg"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgp5" name="imgplanet"/>
+                            <label for="imgp5"><img class="imgplanet" src="imgs/imgplanet05.png"/></label>
+                        </li>
+                        <li>
+                            <input type="radio" id="imgp6" name="imgplanet"/>
+                            <label for="imgp6"><img class="imgplanet" src="imgs/imgplanet06.svg"/></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="equations">
+                    <h3>Valores</h3>
+                    <label class="equation">
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                        <label class="result"></label>
+                    </label>
+                    <label class="equation">
+                        <span>Velocidade da luz</span>
+                        <span>c = 299792458 m/s</span>
+                    </label>
+                    <label class="equation">
+                        <span>Unidade Astrônomica</span>
+                        <span>UA = 149597870700 m</span>
+                    </label>
+                    <label class="equation">
+                        <span>Ano-Luz</span>
+                        <span>ly = 9460730472580800 m</span>
+                    </label>
+                    <label class="equation">
+                        <span>Parsec</span>
+                        <span>pc = 30856775814913673 m</span>
+                    </label>
+                </div>
+                <div class="equations">
+                    <h3>Equações</h3>
+                    <label class="equation">
+                        <span>Fator de Lorentz:</span>
+                        <img src="imgs/Lorentz.svg" alt="Equação do fator de lorentz"/>
+                    </label>
+                    <label class="equation">
+                        <span>Dilatação do tempo:</span>
+                        <img src="imgs/diltime.svg" alt="Equação da Dilatação do Tempo"/>
+                    </label>
+                    <label class="equation">
+                        <span>Contração do espaço:</span>
+                        <img src="imgs/conspace.svg" alt="Equação do Contração do Espaço"/>
+                    </label>
+                    <label class="equation">
+                        <span>Aumento da massa:</span>
+                        <img src="imgs/aumassa.svg" alt="Equação do Aumento da Massa"/>
+                    </label>
+                    <label class="equation">
+                        <span>Energia Cinética:</span>
+                        <img src="imgs/Energy.svg" alt="Equação da Energia Cinética"/>
+                    </label>
+                </div>
+            </section>
+        </main>
+        <div id="hideimages" class="hidemode">
+            <img id="pistaimg" src="imgs/pista.svg"/>
+            <img id="houseimg" src="imgs/house.svg"/>
+        </div>
+        <footer>
+            <img id="myimg" class="myimg" src="imgs/stenio.jpg" alt="Minha Foto">
+            <div id="divinfo" class="divinfo">
+                <span>Autor: Stênio Vinicios de Medeiros</span>
+                <span>Portifolio: <a href="https://steniovm.github.io/steniovm/" alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+                <span>Email: <a href="mailto:steniovm@gmail.com" alt="Meu email">steniovm@gmail.com</a></span>
+            </div>
+        </footer>
+        <div style="height: 20px;">
+            <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+            <b>Uma produção original 
+            <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+        </div>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
+</html>

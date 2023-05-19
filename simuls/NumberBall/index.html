@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Futebol: Cabeçudos X Algarismos" />
+        <meta property="og:description" content="Jogo educacional" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="reset.css" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Futebol: Cabeçudos X Algarismos</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body id="bodypage">
+    <!--<canvas width="800" height="600"></canvas>-->
+    <div id="field">
+        <img id="Soccerfield" src="./assets/Soccer_field.svg"/>
+        <img class="cabec" src="./assets/cabecudosgol.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="cabec" src="./assets/cabecudos.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="algar" src="./assets/numeros.svg"/>
+        <img class="ballgame" src="./assets/Soccer_ball.svg"/>
+        <img id="arrow" src="./assets/direction.svg"/>
+        <div id="fieldprotect"></div>
+    </div>
+    <div id="gircell">
+        <img src="./assets/gircell.svg">
+        <span>Visualize melhor com o <br/> dispositivo na horizontal</span>
+    </div>
+    <div id="touchbox">
+        <div id="cellboxexitfs" class="cellbox">
+            <div>
+                <div id="cellexitfs" class="cellbt cellhead" style="background-image: url('./assets/exit-full-screen.svg');"></div>
+                <div id="cellplc" class="cellbt cellhead">00X00</div>
+                <div id="celltim" class="cellbt cellhead">00</div>
+            </div>
+        </div>
+        <div id="cellcontrol" class="cellbox">
+            <div>
+                <div id="cellbt1" class="cellbt cellnum" style="background-image: url('./assets/Nbt1.svg');"></div>
+                <div id="cellbt2" class="cellbt cellnum" style="background-image: url('./assets/Nbt2.svg');"></div>
+                <div id="cellbt3" class="cellbt cellnum" style="background-image: url('./assets/Nbt3.svg');"></div>
+            </div>
+            <div>
+                <div id="cellbt4" class="cellbt cellnum" style="background-image: url('./assets/Nbt4.svg');"></div>
+                <div id="cellbt5" class="cellbt cellnum" style="background-image: url('./assets/Nbt5.svg');"></div>
+                <div id="cellbt6" class="cellbt cellnum" style="background-image: url('./assets/Nbt6.svg');"></div>
+            </div>
+            <div>
+                <div id="cellbt7" class="cellbt cellnum" style="background-image: url('./assets/Nbt7.svg');"></div>
+                <div id="cellbt8" class="cellbt cellnum" style="background-image: url('./assets/Nbt8.svg');"></div>
+                <div id="cellbt9" class="cellbt cellnum" style="background-image: url('./assets/Nbt9.svg');"></div>
+            </div>
+            <div>
+                <div id="cellbtl" class="cellbt cellgir" style="background-image: url('./assets/rotate-left.svg');"></div>
+                <div class="cellbt"></div>
+                <div id="cellbtr" class="cellbt cellgir" style="background-image: url('./assets/rotate-right.svg');"></div>
+            </div>
+        </div>
+        <div id="celldirec" class="cellbox">
+            <div>
+                <div id="cellbtup" class="cellbt celldir" style="background-image: url('./assets/dup.svg');"></div>
+            </div>
+            <div>
+                <div id="cellbtlf" class="cellbt celldir" style="background-image: url('./assets/dlf.svg');"></div>
+                <div class="cellbt"></div>
+                <div id="cellbtrg" class="cellbt celldir" style="background-image: url('./assets/drg.svg');"></div>
+            </div>
+            <div>
+                <div id="cellbtdw" class="cellbt celldir" style="background-image: url('./assets/ddw.svg');"></div>
+            </div>
+        </div>
+    </div>
+    <section id="gamerconfig">
+        <b>Instruções</b>
+        <Textarea readonly>
+Você controla o time dos algarismo.
+Use os números do teclado (1 a 9), para alternar o jogador que você está controlando.
+Você não pode controlar o goleiro.
+Use as teclas "<" e ">" para controlar a direção que irá chutar a bola.
+Vence o time que tiver maior número de gols ao final do tempo da partida.
+        </Textarea>
+        <b>Configurações</b>
+        <div id="formconf">
+            <label>
+                <b>Algarismos:</b>
+                <label class="radioop"><input name="alga" type="radio" value="Arab" checked/>Indú-Arabíco</label>
+                <label class="radioop"><input name="alga" type="radio" value="Roma"/>Romanos</label>
+                <label class="radioop"><input name="alga" type="radio" value="Cune"/>Cuneiformes</label>
+                <label class="radioop"><input name="alga" type="radio" value="Egip"/>Egípcio</label>
+                <label class="radioop"><input name="alga" type="radio" value="Chin"/>Chinês</label>
+                <label class="radioop"><input name="alga" type="radio" value="Maia"/>Maia</label>
+                <label class="radioop"><input name="alga" type="radio" value="Bina"/>Binário</label>
+            </label>
+            <label>
+                <b>Direcionais:</b>
+                <label class="radioop"><input name="dire" type="radio" value="arow" checked/><img src="./assets/ARROWS.png"></label>
+                <label class="radioop"><input name="dire" type="radio" value="wasd"/><img src="./assets/WASD.png"></label>
+                <label class="radioop"><input name="dire" type="radio" value="touc"/><img src="./assets/touch-screen.svg"></label>
+            </label>
+            <label>
+                <b>Tempo de jogo (s):</b>
+                <input id="inTime" type="number" value="60" min="5" max="600"/>
+                <b>Velocidade:</b>
+                <input id="inVel" type="range" value="0.7" step="0.1" min="-0.4" max="1"/>
+                <label>
+                    <b>Audio</b>
+                    <i>musica</i>
+                    <input id="Vmusic" class="audio" type="range" value="0.2" min="0" max="1" step="0.01"/>
+                    <i>efeitos</i>
+                    <input id="Vefect" class="audio" type="range" value="0.7" min="0" max="1" step="0.01"/>
+                </label>
+            </label>
+        </div>
+        <button id="Iniciar" tabindex="1" autofocus>Iniciar</button>
+        <button id="Saveps">Gravar Configurações</button>
+    </section>
+    <main>
+        <h1>NumberBall</h1>
+        <section id="gamerplay">
+            <div id="divtime">
+                <div>
+                    <b>Tempo de Jogo</b>
+                    <label id="ltime" class="labelshow labeltime">00</label>
+                </div>
+            </div>
+            <div id="divplac">
+                <b>Placar</b>
+                <div>
+                    <span>Cabeçudos</span>
+                    <label id="plc" class="labelshow plac">00</label>
+                    <span>X</span>
+                    <label id="pla" class="labelshow plac">00</label>
+                    <span>Algarismos</span>
+                </div>
+            </div>
+            <div id="divactiv">
+                <b>Jogador crontrolado</b>
+                <span id="playactiv" class="plac">0</span>
+            </div>
+            <div><button id="bRestart">Reniciar</button></div>
+        </section>
+        <a href="https://steniovm.github.io/steniovm/" target="_blank" alt="Meu portifolio de projetos">
+            <h4>Veja meus outros projetos</h4>
+        </a>
+        <div id="footer">
+            <!--<img id="myimg" class="myimg" src="./assets/stenio.jpg" alt="Minha Foto"/>-->
+            <div id="divinfo" class="divinfo">
+                <span>Autor: Stênio V. de Medeiros</span>
+                <span>Ultima atualização: 10/01/2023</span>
+                <span><a href="https://steniovm.github.io/steniovm/"  alt="Meu portifolio de projetos">steniovm.github.io/steniovm/</a></span>
+                <span><a href="mailto:steniovm@gmail.com"  alt="Meu email">Email</a></span>
+            </div>
+        </div>
+    </main>
+    <script type="text/javascript" src="scripts.js"></script>
+</body>
+<div style="height: 20px;">
+    <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+    <b style="display:flex; flex-direction:column;">Uma<br>produção<br>original 
+    <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+</div>
+</html>

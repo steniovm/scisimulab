@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="250" cy="250" r="248.789" id="gradient-1">
+      <stop offset="0" style="stop-color: #badaff"/>
+      <stop offset="1" style="stop-color: #758dff"/>
+    </radialGradient>
+    <path id="path-0" d="M 137.161 82.935 C 181.374 192.107 170.508 168.323 205.742 233.652 C 212.151 245.536 212.868 249.053 224.083 252.791 L 229.665 253.589 C 239.249 255.985 248.538 256.778 258.373 256.778" style="fill: none;"/>
+  </defs>
+  <ellipse style="fill-rule: nonzero; stroke: url(#gradient-1); stroke-miterlimit: 0; stroke-width: 16px; paint-order: stroke; fill: rgb(85, 218, 189);" cx="250" cy="250" rx="242" ry="242"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 78.15 98.884 L 431.419 101.276 L 430.622 118.82 L 78.15 118.82 L 78.15 98.884 Z"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 421.85 87.719 L 421.053 405.901 L 406.699 405.901 L 409.888 86.124 L 421.85 87.719 Z"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 430.622 385.965 L 429.825 397.927 L 75.758 403.509 L 75.758 381.18 L 430.622 385.965 Z"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 86.124 88.517 L 102.871 88.517 L 94.896 414.673 L 82.137 413.876 L 86.124 88.517 Z"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 201.754 114.035 L 201.754 232.855 C 205.228 290.178 119.809 345.679 121.212 344.498 C 122.615 343.317 189.064 265.436 185.805 227.273 L 187.4 114.035 L 201.754 114.035 Z"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(218, 85, 85);" d="M 273.525 112.44 C 273.468 112.416 260.124 317.679 274.322 323.764 C 259.142 346.534 393.653 340.938 393.939 340.51 L 396.332 325.359 C 396.332 326.349 293.461 327.285 293.461 309.41 C 282.329 311.265 288.354 112.494 288.676 112.44 L 273.525 112.44 Z"/>
+</svg>

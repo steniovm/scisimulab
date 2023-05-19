@@ -1,0 +1,299 @@
+@font-face {
+    font-family: Gorditas;
+    src: url("./assets/Gorditas-Regular.ttf") format("truetype"), url("./assets/Gorditas-Bold.ttf") format("truetype");
+  }
+body{
+    height: auto;
+    width: auto;
+    background-color: #8BA;
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    background-color: #7458e4;
+    padding: 4px;
+    max-width: 25vw;
+}
+b{
+    font-weight: bold;
+    font-family: Gorditas;
+}
+i{
+    font-style: italic;
+}
+input, button{
+    max-width: 90%;
+    background: #bbb;
+    background-color: #bbb;
+    accent-color: #888;
+    border: none;
+    margin: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+input[type="range"]{
+    min-width: 50px;
+}
+input[type="number"]{
+    width: 30%;
+    border-radius: 10px;
+    background-color: #acacfc;
+    text-align: center;
+}
+#IRaio{
+    accent-color: #2393f3;
+}
+#gamerconfig{
+    display: flex;
+    flex-direction: column;
+    top: 2vh;
+    left: 3%;
+    position: fixed;
+    z-index: 1;
+    background-color: #7458e4;
+    border: solid 5px #F5EA14;
+    border-radius: 10px;
+    padding: 5px;
+    max-height: 100vh;
+    width: min-content;
+    max-width: 80vw;
+    box-shadow: 0 0 1em;
+}
+#gamerconfig>b, label>b{
+    padding: 3px 0;
+}
+#gamerplay{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#divmord{
+    display: flex;
+    background-image: linear-gradient(to right, red, yellow 20%, green);
+    justify-content: end;
+    box-shadow: 0.05em 0.1em 0.3em #333;
+}
+#divpres{
+    display: flex;
+    background-image: linear-gradient(to right, red , blue 10%, red);
+    justify-content: end;
+    box-shadow: 0.05em 0.1em 0.3em #333;
+}
+#NMordidas,#NPresas{
+    background-color: #e5e5e5;
+    padding: 0;
+    text-overflow: clip;
+}
+#divtime{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#divtime>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Iniciar, #bRestart, #Saveps, #IniciarFS{
+    max-width: 150px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: bold;
+    border: solid black 2px;
+    border-color: black;
+    padding: 0 15px;
+    font-family: Gorditas;
+    box-shadow: 0.2em 0.3em 0.4em #333;
+}
+#Saveps{
+    background-color: #d92689;
+    font-size: small;
+    color: #ebd602;
+}
+#IniciarFS{
+    font-size: small;
+}
+textarea{
+    height:15vh;
+    width: 55vw;
+    resize: none;
+    font-size: large;
+    background-color: #e5f5f5;
+    border: none; 
+    scrollbar-width: thin;
+    scrollbar-color: #303030 #e5e5e5;
+}
+::-webkit-scrollbar {
+    width: 2px;
+}
+::-webkit-scrollbar-track {
+    background: #e5e5e5;
+}
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    padding: 0 4px;
+    border: solid #222 1px ;
+    min-width: 33%;
+}
+canvas{
+    cursor:url(./assets/crosshair.cur), default;
+}
+.labelshow{
+    background-color: goldenrod;
+    min-width: 0;
+    width: 100%;
+}
+.labeltime{
+    background-color: #acacfc;
+    min-width: 0;
+    width: 40px;
+    height: 40px;
+    padding: 10px 1px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 0.1em 0.2em 0.4em #333;
+}
+#textlog{
+    max-width: 98%;
+    height: 39vh;
+    /*background-color: #fbfbfb;*/
+    border: solid 1px black;
+    resize: none;
+    font-size: x-small;
+    margin-top: 5px;
+    scrollbar-width: unset;
+    scrollbar-color: #444 #888;
+    box-shadow: 0 0 0.4em;
+}
+#formconf{
+    display: flex;
+    flex-wrap: wrap;
+}
+#most{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:url(./assets/crosshair.cur), default;
+}
+#mostAmb{
+    display: flex;
+    border: solid 1px black;
+    padding: auto;
+    min-width: 10vw;
+    min-height: 10vw;
+    justify-content: center;
+    align-items: center;
+}
+#mostBol{
+    border-radius: 50%;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    margin: 5px;
+    border: solid 2px black;
+    border-radius: 20px;
+    background-color: gold;
+    font-family: Gorditas;
+    box-shadow: 0 0 0.5em;
+}
+h4{
+    background-color: #79be6b;
+    padding: 5px 0;
+    border-radius: 5px;
+    margin-top: 2px;
+    font-family: Gorditas;
+}
+footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+span{
+    font-weight: bold;
+}
+.myimg{
+    height: 6vh;
+    min-height:60px;
+}
+.divinfo{
+    display: flex;
+    flex-direction: column;
+}
+.audio{
+    accent-color: #f3f300;
+}
+@media screen and (MAX-width: 800px){
+    main{
+        padding: 2px;
+        width: 100vw;
+        max-width: 100%;
+        overflow: auto;
+    }
+    b,i{
+        font-weight: normal;
+        font-size: x-small;
+    }
+    input, button{
+        margin: 2px;
+        font-size: medium;
+        font-weight: unset;
+    }
+    input[type="range"]{
+        min-width: 20px;
+    }
+    input[type="number"]{
+        width: 20%;
+        border-radius: 5px;
+    }
+    #gamerconfig{
+        top: 0;
+        left: 0;
+        border: solid 2px #F5EA14;
+        border-radius: 5px;
+        padding: 2px;
+        max-height: 100vh;
+        width: min-content;
+        max-width: 100vw;
+        overflow: auto;
+    }
+    #gamerplay{
+        overflow: auto;
+    }
+    #Iniciar, #bRestart, #Saveps, #IniciarFS{
+        max-width: 50%;
+        border-radius: 5px;
+        font-weight: normal;
+        border: solid black 1px;
+        padding: 0 5px;
+        box-shadow: 0.2em 0.3em 0.2em #333;
+    }
+    textarea{
+        height:5vh;
+        width: 100vw;
+        resize: none;
+        font-size: small;
+        scrollbar-width: thin;
+    }
+    label{
+        padding: 0 1px;
+        min-width: 15%;
+    }
+    #textlog{
+        width: 98%;
+        height: 20vh;
+    }
+}

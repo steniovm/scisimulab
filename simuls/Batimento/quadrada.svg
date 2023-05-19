@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="圖層_1" x="0px" y="0px" width="564px" height="455px" viewBox="0 0 564 455" enable-background="new 0 0 564 455" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path fill="none" stroke="#808080" d="M20.5,213.5h534"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 7)">
+    <path style="stroke-width: 20px; stroke: rgb(0, 0, 0); fill-rule: nonzero; paint-order: fill; fill: none;" d="M 8.708 208.156 L 10.159 55.038 C 19.204 55.038 203.915 53.587 203.915 53.587 L 206.092 372.885 L 365.742 371.434 L 371.547 52.137 L 553.692 53.587 L 553.692 209.608"/>
+  </g>
+</svg>
