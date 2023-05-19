@@ -32,7 +32,7 @@ function restoreCookies(){
       savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
       darkmode = savecookie.darkmode;
       darkmodes();
-      nimg = parseInt(savecookie.nimg);
+      nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
       nimages.value = nimg;
    }
 }
