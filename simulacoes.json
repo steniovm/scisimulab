@@ -7,7 +7,8 @@
   "categorys": [
    "Biologia",
    "Evolução natural",
-   "Jogo"
+   "Jogo",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -20,7 +21,8 @@
    "Biologia",
    "Evolução natural",
    "Jogo",
-   "Baixar"
+   "Baixar",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -32,7 +34,8 @@
   "categorys": [
    "Matemática",
    "Números",
-   "Jogo"
+   "Jogo",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -44,7 +47,8 @@
   "categorys": [
    "Matemática",
    "Aritmética",
-   "Jogo"
+   "Jogo",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -55,7 +59,8 @@
   "thumb": "./simuls/AlgoCards/screenshot.png",
   "categorys": [
    "Algorítimo",
-   "Jogo"
+   "Jogo",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -68,7 +73,8 @@
    "Física",
    "Relatividade",
    "Cinemática",
-   "Função"
+   "Função",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -81,7 +87,8 @@
    "Física",
    "Ondas",
    "Acústica",
-   "Função"
+   "Função",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -93,7 +100,8 @@
   "categorys": [
    "Física",
    "Termologia",
-   "Termodinâmica"
+   "Termodinâmica",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -105,7 +113,8 @@
   "categorys": [
    "Física",
    "Termologia",
-   "Termodinâmica"
+   "Termodinâmica",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
@@ -118,7 +127,8 @@
    "Física",
    "Termologia",
    "Radiação",
-   "Termodinâmica"
+   "Termodinâmica",
+   "*SciSimuLab*"
   ],
   "author": "Steniovm"
  },
