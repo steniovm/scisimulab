@@ -44,7 +44,7 @@ function saveCookies(){
   console.log(savecookie);
   savecookie = {
     "darkmode": darkmode,
-    "nimg": nimg
+    "nimg": (nimg===0) ? savecookie.nimg : nimg
   };
   console.log(savecookie);
   const date = new Date();
