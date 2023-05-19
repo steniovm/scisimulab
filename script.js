@@ -40,6 +40,7 @@ function restoreCookies(){
    saveCookies();
 }
 function saveCookies(){
+  console.log(document.cookie);
   savecookie = {
     "darkmode": darkmode,
     "nimg": nimg
@@ -48,6 +49,7 @@ function saveCookies(){
   date.setTime(date.getTime() + (30 * 24 * 60 * 60 * 1000));
   const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
   document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
+  console.log(document.cookie);
 }
 //lista cards de simulações
 function listSimuls(list, tudo=false){
