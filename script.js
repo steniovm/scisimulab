@@ -19,14 +19,15 @@ let simulist = [];
 let sliders = [];
 let count = 0;
 let showslider = 0;
-let nimg = nimages.value;
+let nimg = 0;
 let darkmode = false;
-let restore = true;
 let savecookie = {
   "darkmode": darkmode,
   "nimg": nimg
 };
 console.log(document.cookie);
+//restaura cookies
+restoreCookies();
 //controle de cookies
 function restoreCookies(){
   if (document.cookie.indexOf('scisimulab')>=0){
@@ -36,7 +37,6 @@ function restoreCookies(){
       nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
       nimages.value = nimg;
    }
-   restore = false;
 }
 function saveCookies(){
   savecookie = {
@@ -102,14 +102,11 @@ function darkmodes(){
 darklightbt.addEventListener('click',darkmodes);
 //numero de imagens
 nimages.addEventListener('change',function(){
-  if (!restore){
-  nimg = nimages.value;
-  saveCookies();
+  if(!(nimg==nimages.value)){
+    nimg = nimages.value;
+    saveCookies();
   }
 });
-
-//restaura cookies
-restoreCookies();
 
 //Carrega cards de simulações
 fetch(urlsimuls)
