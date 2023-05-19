@@ -37,6 +37,7 @@ function restoreCookies(){
       nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
       nimages.value = nimg;
    }
+   saveCookies();
 }
 function saveCookies(){
   savecookie = {
