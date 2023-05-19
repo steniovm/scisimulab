@@ -34,6 +34,8 @@ function restoreCookies(){
       nimg = savecookie.nimg;
       nimages.value = nimg;
    }
+   console.log(savecookie);
+   console.log(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
 }
 function saveCookies(){
   savecookie = {
