@@ -1389,35 +1389,43 @@
  },
  {
   "name": "Equilibrio entre três forças",
-  "descript": "",
+  "descript": "Mostra, atravez de pesos e fios, como tres forças podem se equilibrar utilizando a regra do paralelograma.",
   "url": "https://www.walter-fendt.de/html5/phpt/equilibriumforces_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Mecânica",
-   "Força"
+   "Força",
+   "Vetores",
+   "Matemática"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Resultante de forças (Adição de vectores)",
-  "descript": "",
+  "descript": "Mostra gráficamente como somar vetores.",
   "url": "https://www.walter-fendt.de/html5/phpt/resultant_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força",
+   "Vetores",
+   "Matemática"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Decomposição de uma força nas suas componentes",
-  "descript": "",
+  "descript": "Mostra gráficamente como decompor vetores em retas linearmente independentes.",
   "url": "https://www.walter-fendt.de/html5/phpt/forceresolution_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Matemática",
+   "Vetores",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
@@ -1971,46 +1979,53 @@
  },
  {
   "name": "Os Polos Celestes",
-  "descript": "",
+  "descript": "Na esfera celeste existem dois pontos que parecem não girar, o Polo Norte Celeste e o Polo Sul Celeste, que são projeções do eixo da Terra. Aqui é demonstrado como a posição dos polos celestes dependem da latitude geográfica do observador.",
   "url": "https://www.walter-fendt.de/html5/abr/celestialpoles_br.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Astronomia"
+   "Astronomia",
+   "Geometria",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Movimento Aparente de uma Estrela",
-  "descript": "",
+  "descript": "Mostra o movimento de um ponto na esfera celeste com o passar do tempo.",
   "url": "https://www.walter-fendt.de/html5/abr/starposition_br.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Astronomia"
+   "Astronomia",
+   "Geometria",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Conversão de Unidades",
-  "descript": "",
+  "descript": "Converta valores em diferentes unidades para fazer a roda gigante girar.",
   "url": "https://www.walter-fendt.de/html5/mpt/conversionunits_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Aritmética"
+   "Aritmética",
+   "Jogo",
+   "Geometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Primyphos - Fatoração Prima",
-  "descript": "",
+  "descript": "Encontre os numeros primos que fatoram numeros para subir a escada.",
   "url": "https://www.walter-fendt.de/html5/mpt/primyphos_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Aritmética",
-   "Jogo"
+   "Jogo",
+   "Números"
   ],
   "author": "walter-fendt"
  },
@@ -2028,23 +2043,25 @@
  },
  {
   "name": "Ângulos em Retas Paralelas",
-  "descript": "",
+  "descript": "Mova dois pontos e acompanhe os valores dos ângulos entre as retas paralelas e secante que passam pelos pontos.",
   "url": "https://www.walter-fendt.de/html5/mpt/anglesparallel_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Números"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Soma dos Ângulos de um Triângulo",
-  "descript": "",
+  "descript": "Mova três pontos e acompanhe os ângulos do triângulo formado por eles.",
   "url": "https://www.walter-fendt.de/html5/mpt/anglestriangle_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Números"
   ],
   "author": "walter-fendt"
  },
@@ -2055,24 +2072,27 @@
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Ângulo Inscrito numa Semi-Circunferência",
-  "descript": "",
+  "descript": "Mova um ponto numa semi-circunfêrencia e veja como um triângulo inscrito numa semi-circunferência é sempre rectângulo.",
   "url": "https://www.walter-fendt.de/html5/mpt/thalescircle_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Linhas e Circunferências num Triângulo",
-  "descript": "",
+  "descript": "Mostra circuferencia circunscrita e inscrita e outros elementos na geometria do triângulo.",
   "url": "https://www.walter-fendt.de/html5/mpt/triangle_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2083,7 +2103,7 @@
  },
  {
   "name": "Quadrilátero Cíclico (Quadrilátero Inscrito)",
-  "descript": "",
+  "descript": "Mova os vértices do quadrilátero inscrito pressionado e arrastando com o mouse e acompanhe os ângulos.",
   "url": "https://www.walter-fendt.de/html5/mpt/cyclicquadrilateral_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2094,7 +2114,7 @@
  },
  {
   "name": "Quadrilátero Tangencial (Quadrilátero Circunscrito)",
-  "descript": "",
+  "descript": "Mova os vértices do quadrilátero circunscrito pressionado e arrastando com o mouse.",
   "url": "https://www.walter-fendt.de/html5/mpt/tangentialquadrilateral_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2105,7 +2125,7 @@
  },
  {
   "name": "Polígonos Regulares",
-  "descript": "",
+  "descript": "forme Polígonos Regulares Convexos e Estrelas Poligonais Regulares.",
   "url": "https://www.walter-fendt.de/html5/mpt/polygon_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2116,7 +2136,7 @@
  },
  {
   "name": "Ângulos ao Centro e Ângulos Inscritos",
-  "descript": "",
+  "descript": "Regule os ângulos de um triângulo inscrito.",
   "url": "https://www.walter-fendt.de/html5/mpt/circleangles_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2127,29 +2147,32 @@
  },
  {
   "name": "Teorema de Pitágoras 1",
-  "descript": "",
+  "descript": "Altere os tamanhos dos catetos de um triângulo retângulo e acompanhe os tamanhos dos quadrados dos catetos e da hipotenusa.",
   "url": "https://www.walter-fendt.de/html5/mpt/pythagoras2_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Teorema de Pitágoras 2",
-  "descript": "",
+  "descript": "Mostra um triângulo retângulo. Mova o ângulo reto do triângulo pressionado e arrastando com o mouse.",
   "url": "https://www.walter-fendt.de/html5/mpt/pythagoras_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Gráfico",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Círculos Gêmeos de Arquimedes",
-  "descript": "",
+  "descript": "Mova semi-circulos menores inscrito em um maior e percebe os Círculos gêmeos de Arquimedes.",
   "url": "https://www.walter-fendt.de/html5/mpt/twincircles_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2160,7 +2183,7 @@
  },
  {
   "name": "Inversão",
-  "descript": "",
+  "descript": "Forme figuras geometricas e veja as figuras espelhadas.",
   "url": "https://www.walter-fendt.de/html5/mpt/circleinversion_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2171,7 +2194,7 @@
  },
  {
   "name": "Circunferências Tangentes",
-  "descript": "",
+  "descript": "Relaciona pontos, retas e circulos.",
   "url": "https://www.walter-fendt.de/html5/mpt/tangentcircles_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2182,7 +2205,7 @@
  },
  {
   "name": "Corrente de Pappus",
-  "descript": "",
+  "descript": "Circulos inscritos em circulos.",
   "url": "https://www.walter-fendt.de/html5/mpt/papposchain_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2193,7 +2216,7 @@
  },
  {
   "name": "Sólidos Platónicos",
-  "descript": "",
+  "descript": "Veja Poliedros Regulares de varios ângulos.",
   "url": "https://www.walter-fendt.de/html5/mpt/platonicsolids_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2204,7 +2227,7 @@
  },
  {
   "name": "Volume da Esfera",
-  "descript": "Princípio de Cavalieri",
+  "descript": "Princípio de Cavalieri - Veja o volume e a área de uma esfera e de um cone em  relação à área.",
   "url": "https://www.walter-fendt.de/html5/mpt/volumesphere_pt.htm",
   "thumb": "",
   "categorys": [
@@ -2215,153 +2238,172 @@
  },
  {
   "name": "Seno, Cosseno e Tangente de um Ângulo",
-  "descript": "",
+  "descript": "Escolha entre seno, cosseno e tangente. Após isso mova o ponto para ter ângulos diferentes, o gráfico assumirá valores correspondentes ao ângulo descrito.",
   "url": "https://www.walter-fendt.de/html5/mpt/sincostan_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Geometria",
-   "Trigonometria"
+   "Trigonometria",
+   "Função",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Triângulo Esférico",
-  "descript": "",
+  "descript": "Mostra como são os ângulos e lados de um triâgulo sobre uma esfera.",
   "url": "https://www.walter-fendt.de/html5/mpt/sphericaltriangle_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Números"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Distância Esférica entre Dois Pontos",
-  "descript": "",
+  "descript": "Calcula a distância entre dois pontos na superficie de uma esfera.",
   "url": "https://www.walter-fendt.de/html5/mpt/distancesphere_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Geometria",
-   "Trigonometria"
+   "Trigonometria",
+   "Números",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Componentes de um Vector",
-  "descript": "",
+  "descript": "Introduz em um gráfico as coordenadas de um vector.",
   "url": "https://www.walter-fendt.de/html5/mpt/vector3d_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Geometria",
-   "Vetores"
+   "Vetores",
+   "Física",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Equação Vectorial de uma Reta no Espaço",
-  "descript": "",
+  "descript": "Escolha as coordenadas de dois pontos observa a reta formada e a respectiva equação vectorial. Gire o referencial para visualizar melhor.",
   "url": "https://www.walter-fendt.de/html5/mpt/line3d_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Geometria",
-   "Vetores"
+   "Vetores",
+   "Gráfico",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Declive de uma Secante / Reta Tangente",
-  "descript": "",
+  "descript": "Mostra a reta tangente a uma parábola e sua inclinação.",
   "url": "https://www.walter-fendt.de/html5/mpt/secanttangent_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Função"
+   "Função",
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Primeira e Segunda Derivada duma Função",
-  "descript": "",
+  "descript": "Desenha o gráfico de uma equação e sua primeira e segunda derivada.",
   "url": "https://www.walter-fendt.de/html5/mpt/derivative12_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Função"
+   "Função",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Tangentes ao Gráfico de uma Função",
-  "descript": "",
+  "descript": "Desenha o gráfico de uma equação e uma reta tangente.",
   "url": "https://www.walter-fendt.de/html5/mpt/tangent_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Função",
-   "Gráfico"
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Círculos Osculadores ao Gráfico de uma Função",
-  "descript": "",
+  "descript": "Desenha o gráfico de uma equação e círculos osculador a ela.",
   "url": "https://www.walter-fendt.de/html5/mpt/osculatingcircle_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Função",
-   "Gráfico"
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Epicicloides e Hipocicloides",
-  "descript": "",
+  "descript": "Mostra figuras que se formam a girar circulos que se tocão.",
   "url": "https://www.walter-fendt.de/html5/mpt/epihypocycloids_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Função",
-   "Gráfico"
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Estrofoide Reta",
-  "descript": "",
+  "descript": "Mostra a figura que se forma ao mover a reta que corta duas retas paralelas e um ponto fixo.",
   "url": "https://www.walter-fendt.de/html5/mpt/strophoid_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Função",
-   "Gráfico"
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Curvas Elípticas",
-  "descript": "",
+  "descript": "Gerá o gráfico de uma elipse degenerada movendo seus coeficientes.",
   "url": "https://www.walter-fendt.de/html5/mpt/ellipticcurve_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
    "Função",
-   "Gráfico"
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Operações com Números Complexos",
-  "descript": "",
+  "descript": "Realiza operações com numeros complexos em um plano carteziano e polar.",
   "url": "https://www.walter-fendt.de/html5/mpt/complexnumbers_pt.htm",
   "thumb": "",
   "categorys": [
    "Matemática",
-   "Números"
+   "Números",
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "walter-fendt"
  },
