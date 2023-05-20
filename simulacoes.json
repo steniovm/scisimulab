@@ -1431,157 +1431,204 @@
  },
  {
   "name": "Sistema de roldanas",
-  "descript": "",
+  "descript": "Faça subir ou descer um objeto suspenso e observe uma mola mostrando a tensão no fio. Podem ser alterados os valores do peso do objeto e das roldanas.",
   "url": "https://www.walter-fendt.de/html5/phpt/pulleysystem_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força",
+   "Vetores"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Princípio das alavancas",
-  "descript": "",
+  "descript": "Mostra uma alavanca interfixa à qual podem ser aplicadas pequenos pesos de valor unitário e varias posições.",
   "url": "https://www.walter-fendt.de/html5/phpt/lever_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Plano inclinado",
-  "descript": "",
+  "descript": "Mostra o movimento de um corpo subindo um plano inclinado a velocidade constante permitindo a observação das forças que atuam sobre o corpo nessas condições.A inclinação, o peso do corpo e o coeficiente de atrito podem ser alterados dentro de certos limites.",
   "url": "https://www.walter-fendt.de/html5/phpt/inclinedplane_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força",
+   "Vetores"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Segunda Lei de Newton",
-  "descript": "",
+  "descript": "Simula uma calha de ar tal como as utilizadas em laboratório para movimentos com aceleração constante. Os valores da massa do carrinho, da massa suspensa e do atrito, podem ser modificados.",
   "url": "https://www.walter-fendt.de/html5/phpt/newtonlaw2_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Mecânica",
-   "Força"
+   "Força",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
-  "name": "Movimento de um projéctil",
-  "descript": "",
+  "name": "Movimento de um projétil",
+  "descript": "Mostra a trajetória (e outras variáveis) de um projéctil lançado com altura, velocidade, ângulo, massa e aceleração ajustável",
   "url": "https://www.walter-fendt.de/html5/phpt/projectile_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força",
+   "Gráfico",
+   "Energia",
+   "Cinemática"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Colisões elásticas e inelásticas",
-  "descript": "",
+  "descript": "Simula colisões elásticas e inelásticas pelo choque entre dois vagões mostrando a conservação do momento linear.",
   "url": "https://www.walter-fendt.de/html5/phpt/collision_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Momentum",
+   "Força",
+   "Energia",
+   "Vetores"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Pêndulo de Newton",
-  "descript": "",
+  "descript": "Simula uma experiência muito conhecida que demonstra a conservação do momento e a conservação da energia.",
   "url": "https://www.walter-fendt.de/html5/phpt/newtoncradle_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Momentum",
+   "Energia",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Movimento circular uniforme",
-  "descript": "",
+  "descript": "Simula um movimento circular uniforme, podendo observar num sistema de eixos o gŕafico da Força, Aceleração, Velocidade e Posição em função do tempo. O raio da trajetória, a massa do objeto e o período do movimento são ajustaveis.",
   "url": "https://www.walter-fendt.de/html5/phpt/circularmotion_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Gráfico",
+   "Cinemática",
+   "Função"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Carrossel (Força centripeta)",
-  "descript": "",
+  "descript": "Mostra forças vetoriais em um carrossel de pendulo, podendo ajustar periodo, raio, comprimento dos cabos e massa dos pêndulos.",
   "url": "https://www.walter-fendt.de/html5/phpt/carousel_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Cinemática",
+   "Força",
+   "Vetores"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Montanha-russa invertida (Força centripeta)",
-  "descript": "",
+  "descript": "Encontre a altura minima para soltar um carrinho da montanha russa para que ele possa completar o loop.",
   "url": "https://www.walter-fendt.de/html5/phpt/looping_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
-  ],
-  "author": "walter-fendt"
- },
- {
-  "name": "Primeira Lei de Kepler",
-  "descript": "",
-  "url": "https://www.walter-fendt.de/html5/phpt/keplerlaw1_pt.htm",
-  "thumb": "",
-  "categorys": [
-   "Física",
-   "Mecânica"
-  ],
-  "author": "walter-fendt"
- },
- {
-  "name": "Segunda Lei de Kepler",
-  "descript": "",
-  "url": "https://www.walter-fendt.de/html5/phpt/keplerlaw2_pt.htm",
-  "thumb": "",
-  "categorys": [
-   "Física",
-   "Mecânica"
-  ],
-  "author": "walter-fendt"
- },
- {
-  "name": "Pressão hidrostática",
-  "descript": "",
-  "url": "https://www.walter-fendt.de/html5/phpt/hydrostaticpressure_pt.htm",
-  "thumb": "",
-  "categorys": [
-   "Física",
    "Mecânica",
+   "Cinemática",
+   "Energia",
    "Força"
   ],
   "author": "walter-fendt"
  },
  {
-  "name": "Impulsão nos líquidos",
-  "descript": "",
-  "url": "https://www.walter-fendt.de/html5/phpt/buoyantforce_pt.htm",
+  "name": "Primeira Lei de Kepler",
+  "descript": "Mostra a orbita de planetas ao longo do tempo podendo ajustar valores.",
+  "url": "https://www.walter-fendt.de/html5/phpt/keplerlaw1_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Cinemática",
+   "Força",
+   "Astronomia",
+   "Geometria",
+   "Gravitação",
+   "Gráfico",
+   "Matemática"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Segunda Lei de Kepler",
+  "descript": "Mostra a orbita de planetas ao longo do tempo podendo ajustar valores.",
+  "url": "https://www.walter-fendt.de/html5/phpt/keplerlaw2_pt.htm",
+  "thumb": "",
+  "categorys": [
+    "Física",
+    "Mecânica",
+    "Cinemática",
+    "Força",
+    "Astronomia",
+    "Geometria",
+    "Gravitação",
+    "Gráfico",
+    "Matemática"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Pressão hidrostática",
+  "descript": "Mostra um modo para medir a pressão hidrostática no interior de um líquido utilizando um tubo manométrico em U.",
+  "url": "https://www.walter-fendt.de/html5/phpt/hydrostaticpressure_pt.htm",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Mecânica",
+   "Força",
+   "Clima",
+   "Densidade",
+   "Hidrostática"
+  ],
+  "author": "walter-fendt"
+ },
+ {
+  "name": "Impulsão nos líquidos",
+  "descript": "Simula uma experiência simples relativa à força de empuxo num líquido: Um sólido pendurado num dinamómetro é colocado num liquido.",
+  "url": "https://www.walter-fendt.de/html5/phpt/buoyantforce_pt.htm",
+  "thumb": "",
+  "categorys": [
+    "Física",
+    "Mecânica",
+    "Força",
+    "Clima",
+    "Densidade",
+    "Hidrostática"
   ],
   "author": "walter-fendt"
  },
