@@ -3,6 +3,7 @@
 const urlsimuls = 'simulacoes.json';
 const urldata = 'scisimulab.json';
 const unimage = "unimage.svg";
+const initcategory = "";
 const stylecss = document.querySelector('link');
 const menu = document.getElementById('menu');
 const simulations = document.getElementById('simulations');
@@ -170,16 +171,19 @@ fetch(urlsimuls)
     filterall.innerHTML = `Tudo (${data.length})`;
     // Percorre as categorias e cria os elementos do menu
     categoriasnome.sort();
-    categoriasnome.forEach(categoria => {
+    let initcatnumber = -1;
+    categoriasnome.forEach((categoria,index) => {
+      if (categoria === initcategory) initcatnumber = index;
       const categoriaItem = `
       <button onclick="filtercaterogy('${categoria}')">
         ${categoria} (${categorias[categoria].length})
       </button>`
       menu.innerHTML += categoriaItem;
     });
-    listSimuls(data);
     simulist = data;
     nimages.max = data.length;
+    if(initcatnumber<0) listSimuls(simulist);
+    else listSimuls(categorias[initcatnumber]);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
