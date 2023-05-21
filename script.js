@@ -1,7 +1,7 @@
-const urlsimuls = 'https://scisimulab.vercel.app/simulacoes.json';
-const urldata = 'https://scisimulab.vercel.app/scisimulab.json';
-//const urlsimuls = 'simulacoes.json';
-//const urldata = 'scisimulab.json';
+//const urlsimuls = 'https://scisimulab.vercel.app/simulacoes.json';
+//const urldata = 'https://scisimulab.vercel.app/scisimulab.json';
+const urlsimuls = 'simulacoes.json';
+const urldata = 'scisimulab.json';
 const unimage = "unimage.svg";
 const stylecss = document.querySelector('link');
 const menu = document.getElementById('menu');
@@ -13,6 +13,16 @@ const titlecat = document.getElementById('titlecat');
 const slider = document.getElementById('slider');
 const nimages = document.getElementById('nimages');
 const darklightbt = document.getElementById('darklightbt');
+const formsimul = document.getElementById('formsimul');
+const formmenss = document.getElementById('formmenss');
+const contactforms = document.getElementById('contactforms');
+const insertform = document.getElementById('insertform');
+const contactform = document.getElementById('contactform');
+const closebt = document.getElementById('closebt');
+const btinsert = document.getElementById('btinsert');
+const btmessage = document.getElementById('btmessage');
+const spanmessage = document.getElementById('spanmessage');
+const h1message = document.getElementById('h1message');
 const categorias = {};
 const categoriasnome = [];
 let simulist = [];
@@ -106,7 +116,42 @@ nimages.addEventListener('change',function(){
     saveCookies();
   }
 });
-
+//formularios de contato
+formsimul.addEventListener('click',function(){
+  contactforms.classList.remove('hiddemdiv');
+  insertform.classList.remove('hiddemdiv');
+  contactform.classList.add('hiddemdiv');
+});
+formmenss.addEventListener('click',function(){
+  contactforms.classList.remove('hiddemdiv');
+  insertform.classList.add('hiddemdiv');
+  contactform.classList.remove('hiddemdiv');
+});
+closebt.addEventListener('click',function(){
+  contactforms.classList.add('hiddemdiv');
+  insertform.classList.add('hiddemdiv');
+  contactform.classList.add('hiddemdiv');
+});
+btinsert.addEventListener('click',function(){
+  contactforms.classList.add('hiddemdiv');
+  insertform.classList.add('hiddemdiv');
+  contactform.classList.add('hiddemdiv');
+  spanmessage.classList.remove('hiddemdiv');
+  h1message.innerHTML = "SIMULAÇÃO ENVIADA PARA ANÁLISE, Agradeçemos sua contribuição";
+  setTimeout(function(){
+    spanmessage.classList.add('hiddemdiv');
+  },1500);
+});
+btmessage.addEventListener('click',function(){
+  contactforms.classList.add('hiddemdiv');
+  insertform.classList.add('hiddemdiv');
+  contactform.classList.add('hiddemdiv');
+  spanmessage.classList.remove('hiddemdiv');
+  h1message.innerHTML = "EMAIL ENVIADO, Agradeçemos seu contato";
+  setTimeout(function(){
+    spanmessage.classList.add('hiddemdiv');
+  },1500);
+});
 //Carrega cards de simulações
 fetch(urlsimuls)
   .then(response => response.json())

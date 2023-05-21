@@ -5239,94 +5239,116 @@
  },
  {
   "name": "Teorema de Pitágoras",
-  "descript": "",
+  "descript": "Várias demostrações do Teorema de Pitágoras atraves de figuras geometricas",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_pythagoras&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_pythagoras_obr3.png",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Aritmética"
   ],
   "author": "Vascak"
  },
  {
   "name": "Pi",
-  "descript": "",
+  "descript": "Mostra graficamente o numero Pi como a relação entre o diamêtro e a circunferência.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_ludolf&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_ludolf.png",
   "categorys": [
    "Matemática",
-   "Números"
+   "Números",
+   "Geometria",
+   "Trigonometria",
+   "Aritmética"
   ],
   "author": "Vascak"
  },
  {
   "name": "Radiano",
-  "descript": "",
+  "descript": "Demostra atraves do circulo trigonométrico o conceito de radiano.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_radian&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_radian.png",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Aritmética",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Círculo unitário",
-  "descript": "",
+  "descript": "Mostra gráficos das funções trigonométricas (seno, cosseno, tangente e cotangente) em comparação com a posição no circulo unitário.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_kruznice&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_kruznice.png",
   "categorys": [
    "Matemática",
-   "Geometria"
+   "Geometria",
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Números"
   ],
   "author": "Vascak"
  },
  {
   "name": "Adição de Vetores",
-  "descript": "",
+  "descript": "Mostra em um plano cartessiano como se dá a soma de vetóres.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_vektory&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_vektory.png",
   "categorys": [
    "Matemática",
-   "Vetores"
+   "Vetores",
+   "Aritmética",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Números"
   ],
   "author": "Vascak"
  },
  {
   "name": "Agulha de Buffon",
-  "descript": "",
+  "descript": "Realiza o experimentos da Agulha de Buffon para estimar o valor da Pi",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_buffon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_buffon.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Algorítimo",
+   "Probabilidade"
   ],
   "author": "Vascak"
  },
  {
   "name": "Tabuleiro de Galton",
-  "descript": "",
+  "descript": "Mostra o funcionamento da máquina e da distribuição das bolinhas, a qual tem a ver com a distribuição binomial.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_galton&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_galton.png",
   "categorys": [
-   "Matemática"
+   "Matemática",
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Mecânica",
+   "Gráfico",
+   "Função",
+   "Números",
+   "Probabilidade",
+   "Quântica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Fita de Möbius",
-  "descript": "",
+  "descript": "Mostra um bolinha rolando infinitamente numa fita de Möbius.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_mobius&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_mobius.png",
-  "categorys": [
-   "Matemática"
-  ],
-  "author": "Vascak"
- },
- {
-  "name": "Sólido platónico",
-  "descript": "",
-  "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
-  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
   "categorys": [
    "Matemática",
    "Geometria"
@@ -5334,8 +5356,21 @@
   "author": "Vascak"
  },
  {
+  "name": "Sólido platónico",
+  "descript": "mostra os dados (d4-tetraedro, d6-cubo, d8-octaedro, d12-dudecaedro e d20- icosaedro) como Sólidos Platónicos. Permite girar os dados.",
+  "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
+  "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
+  "categorys": [
+   "Matemática",
+   "Geometria",
+   "Jogo",
+   "Números"
+  ],
+  "author": "Vascak"
+ },
+ {
   "name": "Alfabeto grego",
-  "descript": "",
+  "descript": "Digitação/caligráfia com o alfabeto Grego (mostra um teclado que ao digitar uma caneta tinteiro escreve).",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_abeceda&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_abeceda.png",
   "categorys": [

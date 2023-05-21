@@ -23,7 +23,7 @@ body {
     text-align: center;
   }
   
-  h1 {
+  h1, h2 {
     -webkit-text-stroke: 1px #999;
     font-style: italic;
     margin: 0;
@@ -201,9 +201,6 @@ body {
     text-align: start;
   }
 
-.hiddemdiv{
-  display: none;
-}
 span{
   color: #e6edf3;
 }
@@ -280,4 +277,84 @@ ul, li{
 }
 .mycard>*{
   max-width: 50%;
+}
+/*modal submit*/
+.contactforms{
+  display: flex;
+  flex-direction: column;
+  width: min-content;
+  max-width: 350px;
+  position:fixed;
+  z-index: 1;
+  top: 6%;
+  left: calc(50% - 150px);
+  background-color: #333;
+  border-radius: 15px;
+  background-color: #33333380;
+}
+.contactforms>div{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.close{
+  display: flex;
+  justify-content: end;
+  border: none;
+  background-color: #33333380;
+  margin: 0;
+  padding: 0;
+}
+.close>span{
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+  vertical-align: middle;
+}
+h2{
+  text-align: center;
+}
+form{
+  border:groove;
+  display: flex;
+  flex-direction: column;
+  width: 49%;
+  min-width: 300px;
+  background-color: #1f4558;
+  margin: auto;
+  border-radius: 15px;
+}
+form input, textarea{
+  width: 90%;
+  min-width: 200px;
+  margin: 0 5%;
+  background-color: #111;
+  font-weight: bold;
+}
+form h3{
+  margin: auto;
+}
+form label{
+  font-weight: bold;
+  margin: 0 4px;
+}
+textarea{
+  height: 14.7em;
+  border-radius: 15px;
+}
+form button{
+  width: 30%;
+  margin: auto;
+}
+#spanmessage{
+  background-color: #333;
+  width: 300px;
+}
+/*escoder elemento*/
+.hiddemdiv{
+  display: none;
 }
