@@ -3,7 +3,7 @@
 const urlsimuls = 'simulacoes.json';
 const urldata = 'scisimulab.json';
 const unimage = "unimage.svg";
-const initcategory = "";
+const initcategory = "*SciSimuLab*";
 const stylecss = document.querySelector('link');
 const menu = document.getElementById('menu');
 const simulations = document.getElementById('simulations');
@@ -180,7 +180,8 @@ fetch(urlsimuls)
     });
     simulist = data;
     nimages.max = data.length;
-    listSimuls(simulist);
+    if (categorias[initcategory].length) listSimuls(categorias[initcategory]);
+    else listSimuls(simulist);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
