@@ -171,9 +171,7 @@ fetch(urlsimuls)
     filterall.innerHTML = `Tudo (${data.length})`;
     // Percorre as categorias e cria os elementos do menu
     categoriasnome.sort();
-    let initcatnumber = -1;
-    categoriasnome.forEach((categoria,index) => {
-      if (categoria === initcategory) initcatnumber = index;
+    categoriasnome.forEach((categoria) => {
       const categoriaItem = `
       <button onclick="filtercaterogy('${categoria}')">
         ${categoria} (${categorias[categoria].length})
@@ -182,8 +180,7 @@ fetch(urlsimuls)
     });
     simulist = data;
     nimages.max = data.length;
-    if(initcatnumber<0) listSimuls(simulist);
-    else listSimuls(categorias[initcatnumber]);
+    listSimuls(simulist);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
