@@ -345,6 +345,7 @@ form label{
 textarea{
   height: 14.7em;
   border-radius: 15px;
+  color: #e6edf3;
 }
 form button{
   width: 30%;
