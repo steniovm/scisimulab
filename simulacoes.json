@@ -1634,45 +1634,67 @@
  },
  {
   "name": "Pêndulo simples",
-  "descript": "",
+  "descript": "Mostra a variação da elongação, da velocidade, da aceleração tangencial, da força e energia, durante a oscilação de um pêndulo.",
   "url": "https://www.walter-fendt.de/html5/phpt/pendulum_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações"
+   "Oscilações",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Mecânica",
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Pêndulo em mola",
-  "descript": "",
+  "descript": "Mostra a variação das grandezas associadas à oscilação de uma massa suspensa de uma mola - elongação, velocidade, aceleração, força e energia - durante a oscilação.",
   "url": "https://www.walter-fendt.de/html5/phpt/springpendulum_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações"
+   "Oscilações",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Mecânica",
+   "Ondas"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Pêndulos ligados",
-  "descript": "",
+  "descript": "Mostra dois pêndulos ligados através de uma mola com um baixo coeficiente de elasticidade. É característico desse sistemas que a energia da oscilação se transfira alternadamente de uma parte do sistema para a outra parte do sistema.",
   "url": "https://www.walter-fendt.de/html5/phpt/coupledpendula_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações"
+   "Oscilações",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Energia"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Oscilações forçadas (Ressonância)",
-  "descript": "",
+  "descript": "Um pêndulo mola é movimentado por ação externa sendo esse movimento assumido como harmônico. Assim descreve esse movimento através da função coseno como oscilações forçadas.",
   "url": "https://www.walter-fendt.de/html5/phpt/resonance_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Oscilações"
+   "Oscilações",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Energia"
   ],
   "author": "walter-fendt"
  },
@@ -2531,12 +2553,16 @@
  },
  {
   "name": "Paquímetro",
-  "descript": "",
+  "descript": "Movimente o cursor de um paquímetro para aprender como utiliza-lo e lé-lo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_posuvka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_posuvka.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Aritmética",
+   "Geometria",
+   "Matemática",
+   "Números"
   ],
   "author": "Vascak"
  },
