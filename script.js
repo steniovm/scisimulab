@@ -216,7 +216,7 @@ fetch(urldata)
       const fonteItem = document.createElement('a');
       fonteItem.classList.add("emphasis");
       fonteItem.href = fonte.url;
-      fonteItem.innerHTML = fonte.text;
+      fonteItem.innerHTML = `<img src="${fonte.thumb}" alt="imagem de colaborador"/>${fonte.text}`;
       resources.appendChild(fonteItem);
     });
   })

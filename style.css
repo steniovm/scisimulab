@@ -109,7 +109,11 @@ body {
     animation-direction: alternate;
     text-decoration: none;
   }
-  
+  .emphasis>img{
+    max-width: 3em;
+    max-height: 3em;
+    border-radius: 30%;
+  }
   /* Estilos das simulações em destaque */
   #simulations {
     text-align: center;
