@@ -291,6 +291,7 @@ ul, li{
   background-color: #333;
   border-radius: 15px;
   background-color: #33333380;
+  box-shadow: -10px 10px 40px #999;
 }
 .contactforms>div{
   display: flex;
@@ -327,6 +328,7 @@ form{
   background-color: #1f4558;
   margin: auto;
   border-radius: 15px;
+  border: none;
 }
 form input, textarea{
   width: 90%;

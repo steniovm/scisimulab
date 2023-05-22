@@ -1931,96 +1931,138 @@
  },
  {
   "name": "Processos nos gases ideais",
-  "descript": "",
+  "descript": "Mostra relações entre pressão,volume e temperatura em transformações isobáricas, isocóricas e isotérmicas em um gás confinado",
   "url": "https://www.walter-fendt.de/html5/phpt/gasprocesses_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Energia",
+   "Gráfico"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Um exemplo de dilatação do tempo",
-  "descript": "",
+  "descript": "Mostra uma nave espacial percorrendo a distância entre a Terra e Plutão, de 5 horas-luz, a velocidade relativistica (ajustável).",
   "url": "https://www.walter-fendt.de/html5/phpt/timedilation_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Relatividade"
+   "Relatividade",
+   "Astronomia",
+   "Cinemática",
+   "Função",
+   "Mecânica"
   ],
   "author": "walter-fendt"
  },
  {
-  "name": "Efeito fotoeléctrico",
-  "descript": "",
+  "name": "Efeito fotoelétrico",
+  "descript": "Mostra o esquema de um circuito que simula uma experiência realizada para a determinação da constante Planck e da energia de remoção de um eletrom. é possivel escolher o material, a cor da luz e a tensão.",
   "url": "https://www.walter-fendt.de/html5/phpt/photoeffect_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Atômica",
-   "Quântica"
+   "Quântica",
+   "Eletrodinâmica",
+   "Função",
+   "Momentum",
+   "Radiação",
+   "Semicondutores"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Teoria de Bohr para o átomo de hidrogénio",
-  "descript": "",
+  "descript": "Mostra a órbita e o numero quântico de um eletrom em diversos niveis de energia para o atômo de hidrogênio. Tanto para o modelo corpuscular quanto ondulatório.",
   "url": "https://www.walter-fendt.de/html5/phpt/bohrmodel_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Atômica",
-   "Quântica"
+   "Quântica",
+   "Energia",
+   "Química",
+   "Radiação",
+   "Nuclear",
+   "Números"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Dispersão de Rutherford",
-  "descript": "",
+  "descript": "Mostra o desvio de uma particula alfa ao ser disparada contra um nucleo atômico.",
   "url": "https://www.walter-fendt.de/html5/phpt/rutherfordscattering_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Atômica",
-   "Quântica"
+   "Quântica",
+   "Nuclear",
+   "Energia",
+   "Força",
+   "Mecânica",
+   "Probabilidade",
+   "Química",
+   "Radiação",
+   "Trigonometria",
+   "Estatística"
   ],
   "author": "walter-fendt"
  },
  {
-  "name": "Séries de decaimento radioactivo",
-  "descript": "",
+  "name": "Séries de decaimento radioativo",
+  "descript": "Mostra a sequência de decaimento de diversos isotopos radiativos.",
   "url": "https://www.walter-fendt.de/html5/phpt/decaychains_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Atômica",
    "Nuclear",
-   "Quântica"
+   "Quântica",
+   "Números",
+   "Probabilidade",
+   "Química",
+   "Radiação",
+   "Estatística"
   ],
   "author": "walter-fendt"
  },
  {
-  "name": "Decaimento radioactivo",
-  "descript": "",
+  "name": "Decaimento radioativo",
+  "descript": "Mostra o número de núcleos não transformados de uma dada substância diminuindo com o tempo segundo a expressão de decaimento radiotivo. Utiliza tanto uma figura de diversos circulos represetando os atômos mudando de cor, além do gráfico N X t",
   "url": "https://www.walter-fendt.de/html5/phpt/lawdecay_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
    "Atômica",
    "Nuclear",
-   "Quântica"
+   "Quântica",
+   "Química",
+   "Estatística",
+   "Função",
+   "Gráfico",
+   "Números",
+   "Probabilidade",
+   "Radiação"
   ],
   "author": "walter-fendt"
  },
  {
   "name": "Difração de Bragg",
-  "descript": "",
+  "descript": "Mostra a diferenciação de fase de onda eletromagnetica refletica em varias camadas de um cristal.",
   "url": "https://www.walter-fendt.de/html5/phpt/braggreflection_pt.htm",
   "thumb": "",
   "categorys": [
    "Física",
-   "Quântica"
+   "Quântica",
+   "Ondas",
+   "Radiação",
+   "Semicondutores",
+   "Trigonometria",
+   "Óptica"
   ],
   "author": "walter-fendt"
  },
