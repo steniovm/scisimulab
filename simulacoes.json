@@ -2664,7 +2664,7 @@
  },
  {
   "name": "Governador centrífugo",
-  "descript": "",
+  "descript": "Mostra um dispositivo classico que controla a velocidade de um motor usando a força centrífuga. À medida que aumenta a velocidade de um eixo, os pesos são movidos para fora reduzindo a velocidade do motor.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_watt&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_watt.png",
   "categorys": [
@@ -2672,18 +2672,21 @@
    "Mecânica",
    "Energia",
    "Força",
-   "Vetores"
+   "Vetores",
+   "Momentum",
+   "Termodinâmica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Roldanas fixas e roldanas móveis",
-  "descript": "",
+  "descript": "Mostra o ganho de força ao utilizar roldanas móveis e compara com roldanas fixas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladky&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladky.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força"
   ],
   "author": "Vascak"
  },
@@ -5161,86 +5164,115 @@
  },
  {
   "name": "Ampola de raios X",
-  "descript": "",
+  "descript": "Mostra o funcionamento de um aparelho de raio X e seu principio basico como o espalhamento bremsstrahlung.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_rentgen&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_rentgen.png",
   "categorys": [
    "Física",
    "Óptica",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Atômica",
+   "Energia",
+   "Momentum",
+   "Nuclear","Quântica",
+   "Radiação",
+   "Relatividade"
   ],
   "author": "Vascak"
  },
  {
   "name": "Experiência de Michelson-Morley",
-  "descript": "",
+  "descript": "Simula o interferômetro de Michelson-Morley para situação em que a luz nescessita do Éter luminífero e não.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_michelson&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_michelson.png",
   "categorys": [
    "Física",
    "Eletromagnetismo",
-   "Relatividade"
+   "Relatividade",
+   "Cinemática",
+   "Ondas",
+   "Radiação",
+   "Óptica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Dilatação do tempo",
-  "descript": "",
+  "descript": "Simula o experimento mental da reflexão da luz dentro de um veiculo em movimento para deduzir a dilatação do tempo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_dilatace&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_dilatace.png",
   "categorys": [
    "Física",
-   "Relatividade"
+   "Relatividade",
+   "Função",
+   "Geometria",
+   "Óptica",
+   "Cinemática"
   ],
   "author": "Vascak"
  },
  {
-  "name": "Contracção do espaço",
-  "descript": "",
+  "name": "Contração do espaço",
+  "descript": "Simula o experimento mental da reflexão da luz dentro de um veiculo em movimento para deduzir a contração do espaço.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=str_kontrakce&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/str_kontrakce.png",
   "categorys": [
    "Física",
-   "Relatividade"
+   "Relatividade",
+   "Função",
+   "Geometria",
+   "Óptica",
+   "Cinemática"
   ],
   "author": "Vascak"
  },
  {
   "name": "Modelos atômicos",
-  "descript": "",
+  "descript": "Mostra modelos 3D dos principais modelos atômicos da história (Thomson, Rutherford, Bohr, Sommerfeld e Schorodinger)",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_modely&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_modely_obr5.png",
   "categorys": [
    "Física",
    "Atômica",
    "Química",
-   "Quântica"
+   "Quântica",
+   "Nuclear"
   ],
   "author": "Vascak"
  },
  {
   "name": "Experimento de Rutherford",
-  "descript": "",
+  "descript": "Mostra o desvio de uma particula alfa ao ser disparada contra uma folha de ouro.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_rutheford&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_rutheford_obr2.png",
   "categorys": [
    "Física",
    "Atômica",
    "Química",
-   "Quântica"
+   "Quântica",
+   "Nuclear",
+   "Energia",
+   "Eletrostática",
+   "Estatística",
+   "Momentum"
   ],
   "author": "Vascak"
  },
  {
   "name": "Átomo de Bohr",
-  "descript": "",
+  "descript": "Mostra a órbita e o numero quântico de um eletrom em diversos niveis de energia para o atômo de hidrogênio, tais como seus saltos quânticos.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_vodik&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_vodik_obr2.png",
   "categorys": [
    "Física",
    "Atômica",
    "Química",
-   "Quântica"
+   "Quântica",
+   "Nuclear",
+   "Energia",
+   "Gráfico",
+   "Números",
+   "Probabilidade"
   ],
   "author": "Vascak"
  },
