@@ -2621,34 +2621,44 @@
  },
  {
   "name": "Micrómetro",
-  "descript": "",
+  "descript": "Movimente o cursor de um paquímetro para aprender como utiliza-lo e lé-lo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_mikrometr&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_mikrometr.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Aritmética",
+   "Geometria",
+   "Matemática",
+   "Números"
   ],
   "author": "Vascak"
  },
  {
   "name": "Movimento",
-  "descript": "",
+  "descript": "Mostra um carro movendo-se com velocidade ou aceleração constante, acompanhando a construção dos gráficos.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pohyb&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pohyb_obr3.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Cinemática",
+   "Gráfico",
+   "Função"
   ],
   "author": "Vascak"
  },
  {
   "name": "Movimento circular uniforme",
-  "descript": "Nesta aplicação simula-se um movimento circular uniforme, podendo o utilizador observar num sitema de eixos a evolução com o tempo de Força, Aceleração, Velocidade e Posição.",
+  "descript": "Nesta aplicação simula-se um movimento circular uniforme, podendo observar num sistema de eixos a evolução com o tempo de Força, Aceleração, Velocidade e Posição.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kruznice&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kruznice.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Gráfico",
+   "Função",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
@@ -2659,7 +2669,10 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_watt.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Energia",
+   "Força",
+   "Vetores"
   ],
   "author": "Vascak"
  },
@@ -5233,69 +5246,97 @@
  },
  {
   "name": "Espectroscópio",
-  "descript": "",
+  "descript": "Mostra o funcionamento de um espectrógrafo e as linhas de emissão de diversos elementos. ",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_spektroskop&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_spektroskop.png",
   "categorys": [
    "Física",
    "Atômica",
    "Química",
-   "Quântica"
+   "Quântica",
+   "Astronomia",
+   "Energia",
+   "Gráfico",
+   "Nuclear",
+   "Ondas",
+   "Óptica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Experiência da gota de óleo",
-  "descript": "",
+  "descript": "Reproduz o experimento de Milikan, que determina a carga do elétron a partir de gotas de óleos eletrizadas e suspensas por campo elétrico.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_millikan&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_millikan.png",
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Eletrostática",
+   "Energia",
+   "Estatística",
+   "Força",
+   "Probabilidade",
+   "Quântica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Efeito Compton",
-  "descript": "",
+  "descript": "Mostra o espalhamento de um fóton por um elétron, que resulta em uma diminuição da energia do fóton espalhado gerando raios-X ou de raios gama.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_compton&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_compton.png",
   "categorys": [
    "Física",
    "Atômica",
    "Química",
-   "Quântica"
+   "Quântica",
+   "Energia",
+   "Estatística",
+   "Momentum",
+   "Nuclear",
+   "Ondas",
+   "Probabilidade"
   ],
   "author": "Vascak"
  },
  {
   "name": "Experimento de Franck-Hertz",
-  "descript": "",
+  "descript": "Mostra um feixe de elétrons interagindo com um gás em uma ampola.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_franckhertz&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_franckhertz.png",
   "categorys": [
    "Física",
    "Atômica",
-   "Química"
+   "Química",
+   "Eletrodinâmica",
+   "Eletrostática",
+   "Energia",
+   "Gráfico",
+   "Momentum",
+   "Probabilidade",
+   "Quântica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Experimento de Davisson–Germer",
-  "descript": "",
+  "descript": "Simula um detector de luz em função do ângulo entre o feixe incidente e refletido e da tensão do colimador do emissor.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_dg&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_dg_obr2.png",
   "categorys": [
    "Física",
-   "Atômica",
-   "Química"
+   "Eletrodinâmica",
+   "Estatística",
+   "Gráfico",
+   "Radiação",
+   "Óptica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Tabela periódica",
-  "descript": "",
+  "descript": "Mostra a tabela periódica do elementos químicos com bastante detalhamento, incluindo o comportamento dos elementos ao longo da variação de temperatura.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=atom_tabulka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/atom_tabulka.png",
   "categorys": [
@@ -5307,19 +5348,21 @@
  },
  {
   "name": "Radiação",
-  "descript": "",
+  "descript": "Mostra os tipos de radiação emitida por uma amostra radioativa e suas propriedades eletromagnéticas e interação com a matéria.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_zareni&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_zareni_obr2.png",
   "categorys": [
    "Física",
    "Nuclear",
-   "Radiação"
+   "Radiação",
+   "Quântica",
+   "Atômica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Decaimento radioactivo",
-  "descript": "Logo que se inicia a simulação (com o botão \"Start\") Começa o \"decaimento\" observando-se a transformação de pontos na cor vermelha para a cor preta",
+  "descript": "Logo que se inicia a simulação começa o \"decaimento\" de isotopos radioativos observando-se a transformação de pontos na cor vermelha para a cor preta.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_rozpad&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rozpad.png",
   "categorys": [
@@ -5327,44 +5370,63 @@
    "Nuclear",
    "Quântica",
    "Radiação",
-   "Atômica"
+   "Atômica",
+   "Gráfico",
+   "Probabilidade"
   ],
   "author": "Vascak"
  },
  {
   "name": "Cadeia de decaimento",
-  "descript": "",
+  "descript": "Mostra a cadeia de decaimento nuclear de isotopos radioativos.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_rady&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rady_obr2.png",
   "categorys": [
    "Física",
    "Nuclear",
+   "Atômica",
+   "Probabilidade",
    "Quântica",
-   "Radiação"
+   "Química",
+   "Radiação",
+   "Relatividade",
+   "Momentum"
   ],
   "author": "Vascak"
  },
  {
   "name": "Reação nuclear",
-  "descript": "",
+  "descript": "Mostra os processos de Fussão, Fissão, Transmutação e reação em cadeia nuclear.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_reakce&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_reakce_obr4.png",
   "categorys": [
    "Física",
    "Nuclear",
+   "Atômica",
+   "Probabilidade",
    "Quântica",
-   "Radiação"
+   "Química",
+   "Radiação",
+   "Relatividade",
+   "Momentum"
   ],
   "author": "Vascak"
  },
  {
   "name": "Fusão nuclear - Sol",
-  "descript": "",
+  "descript": "Mostra a cadeia de processos de sintase nuclear que ocorre em estrelas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_slunce&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_slunce.png",
   "categorys": [
    "Física",
-   "Nuclear"
+   "Nuclear",
+   "Atômica",
+   "Probabilidade",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Relatividade",
+   "Momentum"
   ],
   "author": "Vascak"
  },
