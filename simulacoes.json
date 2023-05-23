@@ -5772,5 +5772,18 @@
    "Química"
   ],
   "author": "MinuteLabs"
- }
+ },
+ {
+  "name": "Stellarium",
+  "descript": "Planetário de código aberto que mostra um céu realista em três dimensões igual ao que se vê a olho nu, com binóculos ou telescópio. Incluindo constelações, coordenadas, horários e varias outras informações",
+  "url": "https://stellarium-web.org/",
+  "thumb": "https://stellarium.org/img/nd/bg-header.png",
+  "categorys": [
+    "Astronomia",
+    "Clima",
+    "Física",
+    "Geografia"
+  ],
+  "author": "Stellarium"
+  }
 ]
