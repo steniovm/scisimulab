@@ -28,6 +28,7 @@ const categorias = {};
 const categoriasnome = [];
 let simulist = [];
 let sliders = [];
+let slidersa = [];
 let count = 0;
 let showslider = 0;
 let nimg = 0;
@@ -92,7 +93,7 @@ function filtercaterogy(key){
 }
 function showsliderers(){
   sliders = document.getElementsByName('slide');
-  let slidersa = document.getElementsByClassName('mycard');
+  slidersa = document.getElementsByClassName('mycard');
   sliders[0].checked = true;
   showslider = setInterval(function(){
     count = (count+1) % sliders.length;
