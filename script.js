@@ -92,10 +92,12 @@ function filtercaterogy(key){
 }
 function showsliderers(){
   sliders = document.getElementsByName('slide');
+  let slidersa = document.getElementsByClassName('mycard');
   sliders[0].checked = true;
   showslider = setInterval(function(){
     count = (count+1) % sliders.length;
     sliders[count].checked = true;
+    slider.onclick = `window.open('${slidersa[count].href}','_blank','scrollbars=1,resizable=1');`
   },5900);
 }
 //alterna modo claro e escuro
