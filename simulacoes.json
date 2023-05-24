@@ -4748,7 +4748,7 @@
   "author": "Vascak"
  },
  {
-  "name": "Íman",
+  "name": "Imã",
   "descript": "",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_magnet&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_magnet.png",
@@ -4985,12 +4985,17 @@
  },
  {
   "name": "Experiência da dupla fenda",
-  "descript": "",
+  "descript": "Simula o experimento da difração com fendas duplas para a luz visivel com varios ajustes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_interference&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_interference.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Função",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Radiação"
   ],
   "author": "Vascak"
  },

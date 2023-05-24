@@ -3,6 +3,8 @@ Pagina com coletânea de simulações para o ensino de ciências encontradas em 
 
 <img src="logo.svg" alt="Logo do site" />
 
+<span>Simulação proprias em /simuls<span>
+
 <h2>Sobre</h2>
 <p>O SciSimuLab é uma coleção de simulações interativas de diversas fontes para aprender ciências de forma divertida e envolvente.</p>
 <p>Nosso objetivo é facilitar a busca e o acesso a simulações que abrangem diversas áreas científicas, desde física e química, biologia, matemática e muito mais.</p>
