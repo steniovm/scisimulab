@@ -100,9 +100,11 @@ function showsliderers(){
     sliders[count].checked = true;
   },5900);
 }
+/*
 function opemwindowsec(){
   window.open(slidersa[count].href,'_blank','scrollbars=1,resizable=1');
 }
+*/
 //alterna modo claro e escuro
 function darkmodes(){
   if (darkmode){
