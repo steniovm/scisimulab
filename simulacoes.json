@@ -4937,40 +4937,44 @@
  },
  {
   "name": "Prisma",
-  "descript": "",
+  "descript": "Mostra a dispersão da luz, formando um espctro colorido comumente chamado de arco-iris, ao atravesar um prisma. Podendo regular variáveis",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_hranol&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_hranol.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Reflexão total",
-  "descript": "",
+  "descript": "Mostra o fenômeno da reflexão total da luz de um laser em um jato de água oblicuo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_total&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_total.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Sintese subtrativa e aditiva",
-  "descript": "",
+  "descript": "Mostra como a formação de cores secundárias e terciárias por meio de mistura de cores primarias, tando no sistema aditivo (RGB, luzes) quanto subtrativo (CMYK, pigmentos).",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_michanibarev&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_michanibarev_obr2.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Biologia"
   ],
   "author": "Vascak"
  },
  {
   "name": "Disco de Newton",
-  "descript": "",
+  "descript": "Mostra a mistura de cores ao girar um disco multi-colorido com diferentes velocidades.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_newtonkotouc&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newtonkotouc.png",
   "categorys": [
@@ -4992,155 +4996,178 @@
  },
  {
   "name": "Espelhos",
-  "descript": "",
+  "descript": "Mostra a formação de imagens em espelhos angulados, permite a regulagem a posição do objeto, do observador e do ângulo entre os espelhos.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_zrcadla&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_zrcadla.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lente",
-  "descript": "",
+  "descript": "Simula a regulagem da curvatura das duas faces de uma lente, podendo deixa-lá bicóncova, cóncova-convexa ou biconvexa. Mostr o centro de curvatúra e o raio bem como calcula a distância focal. tambem é possivel regular o indice de refração.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_dioptrie&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dioptrie.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria",
+   "Trigonometria",
+   "Função"
   ],
   "author": "Vascak"
  },
  {
   "name": "Distância focal",
-  "descript": "",
+  "descript": "Simula um experimento montado numa bancada óptica para medir a distância focal de uma lente convergente usando o Método de Abbe e o Método de Bessel.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_ohnisko&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_ohnisko.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lente convergente",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) ao serem refratados numa lente convergente e a consequente formação de imagem.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_spojka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_spojka_obr2.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lente divergente",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) ao serem refratados numa lente divergente e a consequente formação de imagem.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_rozptylka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_rozptylka.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Defeitos de visão",
-  "descript": "",
+  "descript": "Mostra feixes de luz ao passar por lentes e chegar ao olho com Hipermetropia, Miopia e Astigmatismo. permite ajusta a diopitria das lentes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_vady&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vady_obr3.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria",
+   "Biologia"
   ],
   "author": "Vascak"
  },
  {
   "name": "Acomodação",
-  "descript": "",
+  "descript": "Mostra a acomodação do cristalino do olho para observar um objeto (uma borboleta) cuja a distância varia.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_akomodace&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_akomodace.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Biologia",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lupa",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) numa lupa ao observar uma mosquito sugando sangue.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_lupa&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_lupa.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Biologia",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Microscópio",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) num microscópio composto ao observar uma formiga.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=opt_mikroskop&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_mikroskop.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria",
+   "Biologia"
   ],
   "author": "Vascak"
  },
  {
   "name": "Telescópio Kepler",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos)num telescópio kepleriano ao observar uma espaçonave alienigena.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_kepler&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_kepler.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Astronomia",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Telescópio de Galileu",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) num telescópio galileano (ou um binóculo, ao observar um objeto à media distância",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_galileo&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_galileo.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Astronomia",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Espelho côncavo",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) ao serem refletidos num espelho côncavo e a consequente formação de imagem.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_dute&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_dute_obr2.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Espelho convexo",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) ao serem refletidos num espelho convexo e a consequente formação de imagem.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_vypukle&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_vypukle.png",
   "categorys": [
    "Física",
-   "Óptica"
+   "Óptica",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Telescópio newtoniano",
-  "descript": "",
+  "descript": "Mostra o caminho percorrido por feixes de luz notáveis (e seus prolongamentos) num telescópio newtoniano ao observar a espaçonave Enterprise.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_newton&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newton.png",
   "categorys": [
-   "Física",
-   "Óptica"
+    "Física",
+    "Óptica",
+    "Astronomia",
+    "Geometria"
   ],
   "author": "Vascak"
  },
