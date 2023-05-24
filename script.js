@@ -98,8 +98,10 @@ function showsliderers(){
   showslider = setInterval(function(){
     count = (count+1) % sliders.length;
     sliders[count].checked = true;
-    slider.onclick = `window.open('${slidersa[count].href}','_blank','scrollbars=1,resizable=1');`
   },5900);
+}
+function opemwindowsec(){
+  window.open(slidersa[count].href,'_blank','scrollbars=1,resizable=1');
 }
 //alterna modo claro e escuro
 function darkmodes(){
