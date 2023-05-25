@@ -88,6 +88,7 @@
    "Ondas",
    "Acústica",
    "Função",
+   "Gráfico",
    "*SciSimuLab*"
   ],
   "author": "Steniovm"
@@ -3026,12 +3027,17 @@
  },
  {
   "name": "Nível",
-  "descript": "",
+  "descript": "(Nescessita dispositivo móvel com acelerômetro), simula o um nível de bolha para determinar se a superficie está nivelada na horizontal.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_vodovaha_accel&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_vodovaha_accel.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Força",
+   "Geografia",
+   "Geometria",
+   "Hidrostática",
+   "Mobile"
   ],
   "author": "Vascak"
  },
@@ -3180,73 +3186,99 @@
  },
  {
   "name": "Lei da gravitação universal",
-  "descript": "",
+  "descript": "Mede a força de atração gravitacional sentida por um astronauta em relação Terra, a Lua e a soma de ambas para pontos entre a Terra e a Lua.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_newton_zakon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_newton_zakon.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Força",
+   "Função",
+   "Matemática",
+   "Astronomia",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "A intensidade do campo gravitacional",
-  "descript": "",
+  "descript": "Calcula o campo gravitacional em função da distância ao centro da Terra.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_intenzita&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_intenzita.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Campo gravítico",
-  "descript": "",
+  "descript": "Permite mapear o campo gravitacional em volta da Terra.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_centralni_pole&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_centralni_pole.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Vetores",
+   "Astronomia"
   ],
   "author": "Vascak"
  },
  {
   "name": "Campo gravítico homogéneo",
-  "descript": "",
+  "descript": "Permite mapear o campo gravitacional proximo a superficie da Terra mostrando que nesta situação pode ser considerado uniforme.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_homogenni_pole&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_homogenni_pole.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Paralelos e Meridianos da Terra",
-  "descript": "",
+  "descript": "Mostra o globo terreste, onde é possivel gira-lo livremente. Permite encontrar as coordenadas (latitudes e longitudes) de qualquer ponto.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sourad_geol&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_sourad_geol.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Geografia",
+   "Geometria",
+   "Gráfico"
   ],
   "author": "Vascak"
  },
  {
   "name": "Aceleração da gravidade",
-  "descript": "",
+  "descript": "Mostra como decompor a força peso de uma pessoa sobre a superficie da Terra em varias latitudes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_tihove_zrychleni&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_tihove_zrychleni.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Geografia",
+   "Geometria",
+   "Gráfico"
   ],
   "author": "Vascak"
  },
@@ -3408,97 +3440,139 @@
  },
  {
   "name": "Canhão de Newton",
-  "descript": "",
+  "descript": "Reproduz o experimento mental de Newton mostrando como colocar uma bola de canhão em orbita atraves do seu disparo com velocidade ideal. Encontre essa velocidade.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_kosmicke_rychlosti&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_kosmicke_rychlosti.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Geografia",
+   "Cinemática",
+   "Força",
+   "Função",
+   "Jogo",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Satélites geoestacionários",
-  "descript": "",
+  "descript": "Simula a orbita de um satélite sobre o equador Terrestre, mostrando que à uma distância bem determinada o satélite permanece sobre um ponto fixo do planeta.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_geostacionarni&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_geostacionarni.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Geografia",
+   "Função",
+   "Jogo"
   ],
   "author": "Vascak"
  },
  {
   "name": "1.ª Lei de Kepler",
-  "descript": "",
+  "descript": "Simula a orbita de vários corpos em volta do Sol mostrando que a partir da velocidade e distância inicial é possivel determinar órbitas elipticas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_sl_soustava&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_sl_soustava.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Força",
+   "Vetores",
+   "Cinemática"
   ],
   "author": "Vascak"
  },
  {
   "name": "2.ª Lei de Kepler",
-  "descript": "",
+  "descript": "Permite ajusta a órbita de um cometa em volta do Sol, mostrando que independente do raio e excentricidade sempre respeita a Lei das áreas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_2kepleruv_zakon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_2kepleruv_zakon.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Vetores",
+   "Cinemática"
   ],
   "author": "Vascak"
  },
  {
   "name": "3.ª Lei de Kepler – planetas interiores",
-  "descript": "",
+  "descript": "Mostra a orbita dos planetas rochosos em volta do Sol, e mostra que a razão entre o quadrado do periodo e o cubo do raio é constante.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vnitrni_planety&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnitrni_planety.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Aritmética",
+   "Cinemática",
+   "Força",
+   "Função",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "3.ª Lei de Kepler – planetas exteriores",
-  "descript": "",
+  "descript": "Mostra a orbita dos planetas gasosos em volta do Sol, e mostra que a razão entre o quadrado do periodo e o cubo do raio é constante.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_vnejsi_planety&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_vnejsi_planety.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Aritmética",
+   "Cinemática",
+   "Força",
+   "Função",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Sistema Solar",
-  "descript": "",
+  "descript": "Mostra a tragetória dos corpos celeste nos sistemas Geocêntrico de Ptolomeu e heliocêntrico de Copérnico.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_soustavy&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_soustavy.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Aritmética",
+   "Astronomia",
+   "Cinemática",
+   "Geografia",
+   "Geometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Fases da Lua",
-  "descript": "",
+  "descript": "Mostra o movimento do Sol, da Lua e da Terra sob vários referenciais explicando o ciclo lunar de iluminação.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_mesic_geol&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_mesic_geol.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Geografia",
+   "Geometria",
+   "Gráfico",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
@@ -3516,13 +3590,17 @@
  },
  {
   "name": "Leis de Kepler",
-  "descript": "",
+  "descript": "Em molde Star War mostra as três leis de kepler, em seguinda simula a orbita de varios corpos em torno do Sol.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kepler_zakony&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kepler_zakony.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia",
+   "Força",
+   "Vetores",
+   "Cinemática"
   ],
   "author": "Vascak"
  },
@@ -3661,12 +3739,20 @@
  },
  {
   "name": "Equação do pêndulo",
-  "descript": "",
+  "descript": "Mostra um pêndulo com comprimento ajustavel e permite acompanhar gráficamente a posição, velocidade e aceleração do pingente.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_kyvadlo&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo.png",
   "categorys": [
    "Física",
-   "Oscilações"
+   "Oscilações",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Ondas",
+   "Trigonometria",
+   "Vetores"
   ],
   "author": "Vascak"
  },
@@ -3848,13 +3934,17 @@
  },
  {
   "name": "A Dança dos Pêndulos",
-  "descript": "",
+  "descript": "Acompanha a oscilação em torno de um mesmo eixo de uma sequência de pêndulos com comprimento levemente diferente do anterior mostrando a formação de varios padrões.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnomach&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnomach.png",
   "categorys": [
    "Física",
    "Ondas",
-   "Oscilações"
+   "Oscilações",
+   "Aritmética",
+   "Função",
+   "Matemática",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
@@ -3871,13 +3961,15 @@
  },
  {
   "name": "Som",
-  "descript": "",
+  "descript": "Gera uma onda sonora, permite regular a forma e a frequência de onda alem de usar a própria voz.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_zvuk&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_zvuk.png",
   "categorys": [
    "Física",
    "Ondas",
-   "Acústica"
+   "Acústica",
+   "Função",
+   "Gráfico"
   ],
   "author": "Vascak"
  },
@@ -4238,12 +4330,14 @@
  },
  {
   "name": "Bimetal",
-  "descript": "",
+  "descript": "Mostra o encurvamento de uma lamina bimetálica ocosionado pela dilatação térmica.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_bimetal&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_bimetal.png",
   "categorys": [
    "Física",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Gráfico",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4282,12 +4376,20 @@
  },
  {
   "name": "Atmosfera terrestre",
-  "descript": "",
+  "descript": "Acompanha a pressão e a temperatura em função da altitude em varias camadas da atmosfera.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_atmosfera&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atmosfera.png",
   "categorys": [
    "Física",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Astronomia",
+   "Biologia",
+   "Clima",
+   "Energia",
+   "Geografia",
+   "Gráfico",
+   "Hidrostática",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4348,34 +4450,45 @@
  },
  {
   "name": "Campo elétrico",
-  "descript": "",
+  "descript": "Permite ajustar uma carga elétrica e mapear o campo elétrico a sua volta.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_el_pole&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_el_pole.png",
   "categorys": [
    "Física",
-   "Eletrostática"
+   "Eletrostática",
+   "Força",
+   "Função",
+   "Gráfico",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Cargas e campos",
-  "descript": "",
+  "descript": "Mapeia o campo elétrico em volta de, e entre, um conjunto de cargar. Permitindo mover as cargas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_pole&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_pole.png",
   "categorys": [
    "Física",
-   "Eletrostática"
+   "Eletrostática",
+   "Força",
+   "Gráfico",
+   "Vetores"
   ],
   "author": "Vascak"
  },
  {
   "name": "Capacitor",
-  "descript": "",
+  "descript": "Permite ajustar a área, distância, e material e tesão de um capacitor de placas paralelas para acompanhar a capacitância e a carga armazenada.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_kondenzator&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_kondenzator.png",
   "categorys": [
    "Física",
-   "Eletrostática"
+   "Eletrostática",
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Geometria"
   ],
   "author": "Vascak"
  },
@@ -4533,25 +4646,35 @@
  },
  {
   "name": "Diodo semicondutor",
-  "descript": "",
+  "descript": "Mostra o funcionamento microscópico de uma junção de semicondutores, permitindo a corrente somente em um sentido.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_dioda&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_dioda.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Semicondutores"
+   "Semicondutores",
+   "Atômica",
+   "Eletrostática",
+   "Energia",
+   "Quântica",
+   "Química"
   ],
   "author": "Vascak"
  },
  {
   "name": "Circuito retificador",
-  "descript": "",
+  "descript": "Mostra o funcionamento de uma fonte retificadora de corrente através da representação gráfica da tensão oscilante no fio.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_graetz&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_graetz.png",
   "categorys": [
    "Física",
    "Semicondutores",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -4581,13 +4704,15 @@
  },
  {
   "name": "Acumulador de chumbo",
-  "descript": "",
+  "descript": "Mostra a carga e descarga, atráves da movimentação das cargas, de uma bateria de chumbo",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_akumulator&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_akumulator.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Atômica",
+   "Função"
   ],
   "author": "Vascak"
  },
@@ -4629,13 +4754,15 @@
  },
  {
   "name": "Arco elétrico",
-  "descript": "",
+  "descript": "Mostra a geração de um Arco elétrico (faísca), atráves do aumento de tensão usando um transformador elátrico.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_oblouk&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_oblouk.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Eletromagnetismo",
+   "Energia",
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -4771,12 +4898,15 @@
  },
  {
   "name": "A Regra da Mão Direita",
-  "descript": "",
+  "descript": "Mostra o sugimento de campo magnético em volta de um fio condutor e como utilizar a mão direita para encontrá-lo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_vodic&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_vodic_obr2.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Eletrodinâmica",
+   "Energia",
+   "Gráfico"
   ],
   "author": "Vascak"
  },
@@ -4826,24 +4956,33 @@
  },
  {
   "name": "Bobina de Helmholtz",
-  "descript": "",
+  "descript": "Simula o experimento de Helmholtz em que um feixe de eletróns dentro de um campo magnético pode ter uma trajétoria circular.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_wehnelt&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_wehnelt.png",
   "categorys": [
    "Física",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Eletrodinâmica",
+   "Força",
+   "Função"
   ],
   "author": "Vascak"
  },
  {
   "name": "Alternador e dínamo",
-  "descript": "",
+  "descript": "Mostra a geração de corrente elétrica atráves de variação do fluxo magnético atraves de uma espira.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_alternator&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_alternator_obr2.png",
   "categorys": [
    "Física",
    "Eletromagnetismo",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Oscilações"
   ],
   "author": "Vascak"
  },
