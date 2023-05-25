@@ -3043,12 +3043,14 @@
  },
  {
   "name": "Vasos comunicantes",
-  "descript": "",
+  "descript": "Movimente vasos comunicantes para ver como a o nível se mantem igual, apesar de formatos diferentes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_nadoby&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_nadoby.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Densidade",
+   "Hidrostática"
   ],
   "author": "Vascak"
  },
@@ -3076,12 +3078,13 @@
  },
  {
   "name": "Bomba",
-  "descript": "",
+  "descript": "Mostra o funcionamento de dois modelos de bombas hidraulicas manuais.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pumpa&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pumpa.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Hidrostática"
   ],
   "author": "Vascak"
  },
@@ -3142,12 +3145,16 @@
  },
  {
   "name": "Centro de gravidade",
-  "descript": "",
+  "descript": "Simula um brinquedo onde um cilindro ou um cone duplo rola apoiado em duas rampas em V. Dependendo das condições de inclinação o coneduplo rola para cima apesar do centro de massa rolar para baixo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_teziste&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_teziste_obr3.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Cinemática",
+   "Força",
+   "Gravitação",
+   "Momentum"
   ],
   "author": "Vascak"
  },
@@ -4052,12 +4059,18 @@
  },
  {
   "name": "Calorímetro",
-  "descript": "",
+  "descript": "Simula o uso de um calorimetro para medir o calor perdido durante o resfriamento de várias amostras de materiais.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_kalorimetr&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kalorimetr.png",
   "categorys": [
    "Física",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Clima",
+   "Energia",
+   "Função",
+   "Química",
+   "Radiação",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4176,12 +4189,16 @@
  },
  {
   "name": "Ciclo de Carnot",
-  "descript": "",
+  "descript": "Simula um gás em uma câmara de combustão passando sucessivamente por transformações isotermicas e adiabáticas, realizando o Ciclo de Carnot.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_carnot&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_carnot.png",
   "categorys": [
    "Física",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Energia",
+   "Gráfico",
+   "Mecânica",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4505,12 +4522,13 @@
  },
  {
   "name": "Circuito elétrico",
-  "descript": "",
+  "descript": "Permite conectar varios componentes eletricos, incluindo lâmpadas,pilhas, resistores, multimetros, chaves e outros.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_obvod&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_obvod.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Energia"
   ],
   "author": "Vascak"
  },
@@ -4742,13 +4760,20 @@
  },
  {
   "name": "Característica de descarga de gás",
-  "descript": "",
+  "descript": "Mostra a ionização de uma gás por irradiação e em seguida a descarga elétrica num detector de radiação.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_va_charakteristika&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_va_charakteristika.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Atômica",
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Gráfico",
+   "Quântica",
+   "Radiação"
   ],
   "author": "Vascak"
  },
@@ -4768,13 +4793,16 @@
  },
  {
   "name": "Bobina de indução",
-  "descript": "",
+  "descript": "Simula uma bobina de indução funcionando continuamente com a produção de arco elétrico e som de estralo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_ruhmkorff&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_ruhmkorff.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Oscilações"
   ],
   "author": "Vascak"
  },
