@@ -3072,12 +3072,17 @@
  },
  {
   "name": "Pressão",
-  "descript": "",
+  "descript": "Simula o funcionamento de uma câmera de pressão positiva e negativa, com dois tipos de bomba de ar e várias esclas de medida de pressão.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_tlak&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_tlak.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Clima",
+   "Densidade",
+   "Força",
+   "Biologia",
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -4580,12 +4585,17 @@
  },
  {
   "name": "Leis de Kirchhoff",
-  "descript": "",
+  "descript": "Mostra exemplos de circuitos com multiplas malhas e utiliza as Leis de Kirchhoff para encontrar a tensão e a corrente em várias malhas e nós.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_kirchhoff&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_kirchhoff_obr2.png",
   "categorys": [
    "Física",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Algorítimo",
+   "Aritmética",
+   "Energia",
+   "Função",
+   "Matemática"
   ],
   "author": "Vascak"
  },
@@ -4652,13 +4662,21 @@
  },
  {
   "name": "Geração e recombinação",
-  "descript": "",
+  "descript": "Mostra a liberação de eletróns em uma rede cristalina de silicio atrávez do calor ou da irradiação.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_generace&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_generace.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Semicondutores"
+   "Semicondutores",
+   "Atômica",
+   "Eletrostática",
+   "Energia",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Relatividade",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4722,25 +4740,36 @@
  },
  {
   "name": "Dissociação",
-  "descript": "",
+  "descript": "Mostra o efeito da dissassociação do sal NaCL na ",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_disociace&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_disociace_obr2.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Biologia",
+   "Densidade",
+   "Energia",
+   "Função"
   ],
   "author": "Vascak"
  },
  {
   "name": "Eletrólise",
-  "descript": "",
+  "descript": "Simula um experimento de decomposição da agua em oxigenio e hidrógenio através da passagem de corrente eletrica (eletrólise).",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elkap_rozkladne&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elkap_rozkladne.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Aritmética",
+   "Clima",
+   "Densidade",
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Gráfico"
   ],
   "author": "Vascak"
  },
@@ -4760,25 +4789,38 @@
  },
  {
   "name": "Ionização - descarregar um eletroscópio",
-  "descript": "",
+  "descript": "Simula um experimento, utilizando eletroscópio, que mostra a eletrização por atrito e a deseletrização por calor.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_ionizace&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_ionizace_obr2.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Eletrostática",
+   "Energia",
+   "Quântica",
+   "Relatividade",
+   "Termologia"
   ],
   "author": "Vascak"
  },
  {
   "name": "Descarga elétrica em gases",
-  "descript": "",
+  "descript": "Mostra como, devido a ionização, um gás pode passar de isolante a condutor com o aumento da temperatura.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_vyboj_nesam&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_vyboj_nesam.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Atômica",
+   "Clima",
+   "Eletrostática",
+   "Energia",
+   "Quântica",
+   "Radiação",
+   "Semicondutores",
+   "Termologia"
   ],
   "author": "Vascak"
  },
@@ -4844,14 +4886,20 @@
  },
  {
   "name": "Osciloscópio",
-  "descript": "",
+  "descript": "Simula o funcionamento de um osciloscópio mostrando o desvio de um feixe catótico (elétrons) ao passar por campos elétricos regulados por funções de ondas.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_osciloskop&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_osciloskop.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
    "Ondas",
-   "Oscilações"
+   "Oscilações",
+   "Eletrostática",
+   "Energia",
+   "Função",
+   "Matemática",
+   "Radiação",
+   "Óptica"
   ],
   "author": "Vascak"
  },
@@ -4881,37 +4929,56 @@
  },
  {
   "name": "Fogo-de-santelmo",
-  "descript": "",
+  "descript": "Mostra o fenômeno \"Fogo-de-santelmo\" que corresponde a ionização do ar, formando faiscas semelhantes ao fogo, pelo \"pode das pontas\" em navios durante tempestades.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_elias&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_elias.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Clima",
+   "Eletrostática",
+   "Energia",
+   "Geometria",
+   "Radiação"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lâmpada de néon",
-  "descript": "",
+  "descript": "Mostra o funcionamento de uma lâmpada de neon.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_doutnavka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_doutnavka.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Eletrostática",
+   "Radiação",
+   "Semicondutores",
+   "Óptica"
   ],
   "author": "Vascak"
  },
  {
   "name": "Lâmpada fluorescente",
-  "descript": "",
+  "descript": "Mostra todo o processo eletroquimico de funcionamento de uma lâmpada fluorescente.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_zarivka&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_zarivka.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Química"
+   "Química",
+   "Atômica",
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Gráfico",
+   "Oscilações",
+   "Quântica",
+   "Radiação",
+   "Semicondutores",
+   "Óptica"
   ],
   "author": "Vascak"
  },
