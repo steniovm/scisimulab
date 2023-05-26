@@ -3056,12 +3056,17 @@
  },
  {
   "name": "Paradoxo hidrostático",
-  "descript": "",
+  "descript": "Simula dois experimentos que mostram como a pressão no fundo de um recipiente depende apenas da da altura da coluna de liquido, e não do formato do recipiente, e como isso forma um aparente paradoxo com o peso do recipiente.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_paradox&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_paradox_obr2.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Densidade",
+   "Força",
+   "Função",
+   "Geometria",
+   "Hidrostática"
   ],
   "author": "Vascak"
  },
@@ -3090,12 +3095,16 @@
  },
  {
   "name": "Ctesíbio - Engine de bombeiros",
-  "descript": "",
+  "descript": "Mostra o funcionamento de uma bomba d'agua manual de bombeiros usada para apagar incêndios.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_ktesibios&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_ktesibios.png",
   "categorys": [
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Clima",
+   "Força",
+   "Hidrostática",
+   "Jogo"
   ],
   "author": "Vascak"
  },
@@ -3303,13 +3312,15 @@
  },
  {
   "name": "Condição de imponderabilidade",
-  "descript": "",
+  "descript": "Mostra um experimento simples que possibilita constatar que em situação de queda livre o peso aparente dentro do sistema é nulo.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_beztizny&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_beztizny.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Força",
+   "Relatividade"
   ],
   "author": "Vascak"
  },
@@ -3585,13 +3596,14 @@
  },
  {
   "name": "Constelação",
-  "descript": "",
+  "descript": "Mostra o céu de um ponto na Terra, em data e hora determinada pelo usuário, com o desenho e nome das constelações no momento, se permitir acessar sua localização ela será usada.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=gp_souhvezdi_geol&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/gp_souhvezdi_geol_obr3.png",
   "categorys": [
    "Física",
    "Mecânica",
-   "Gravitação"
+   "Gravitação",
+   "Astronomia"
   ],
   "author": "Vascak"
  },
@@ -3713,12 +3725,22 @@
  },
  {
   "name": "Curvas de Lissajous",
-  "descript": "",
+  "descript": "Mostra a formação de curvas de Lissajous, que são figuras formadas quando um ponto oscila na vertical e na horizontal com frequências resoonantes porem diferentes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lissajousovy_obrazce&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lissajousovy_obrazce.png",
   "categorys": [
    "Física",
-   "Ondas"
+   "Ondas",
+   "Acústica",
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Estatística",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
@@ -4580,13 +4602,15 @@
  },
  {
   "name": "Coeficiente de temperatura",
-  "descript": "",
+  "descript": "Mostra a influência da temperatura sobre a resistividade eletrica em vários materiais.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_odpor_teplota&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_odpor_teplota.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Termodinâmica"
+   "Termologia",
+   "Energia",
+   "Função"
   ],
   "author": "Vascak"
  },
@@ -5016,37 +5040,48 @@
  },
  {
   "name": "Gerador Trifásico",
-  "descript": "",
+  "descript": "Acompanha a tensão e a corrente em cada fase de um gerador trifásico perfeitamente balançeado, mostrando que a tensão total é sempre nula.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_generator&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_generator.png",
   "categorys": [
    "Física",
    "Eletromagnetismo",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Oscilações",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Transformador",
-  "descript": "",
+  "descript": "Simula montagens de um transfomador, podendo trocar os solenoides e o regular o gerador de entrada para acompanhar a tensão de saida.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_transformator&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_transformator.png",
   "categorys": [
    "Física",
    "Eletromagnetismo",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Energia",
+   "Função"
   ],
   "author": "Vascak"
  },
  {
   "name": "Pêndulo de Waltenhofen",
-  "descript": "",
+  "descript": "Um corpo de metal maciço efetua um movimento de pêndulo passando pelos dois polos de um eletroimã. Ao ligar o eletroimã o movimento é interrompido após pouco tempo por causa do campo magnético. Se o disco tiver entalhes, o tempo para a imobilização é estendido, ou seja, o efeito de freio é fortemente reduzido.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_waltenhofen&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_waltenhofen.png",
   "categorys": [
    "Física",
    "Eletromagnetismo",
-   "Eletrodinâmica"
+   "Eletrodinâmica",
+   "Cinemática",
+   "Energia",
+   "Força",
+   "Oscilações"
   ],
   "author": "Vascak"
  },
@@ -5068,25 +5103,35 @@
  },
  {
   "name": "Circuito RLC em série",
-  "descript": "",
+  "descript": "Simula a resposta graficamente em um circuito RLC (resistor, indutor e capacitor) série, onde é possivel mudar a frequencia de entrada, a capacitância, a indutância e a resistência.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_rlc_ser&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_rlc_ser_obr3.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Oscilações",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
  {
   "name": "Circuito RLC em paralelo",
-  "descript": "",
+  "descript": "Simula a resposta graficamente em um circuito RLC (resistor, indutor e capacitor) paralelo, onde é possivel mudar a frequencia de entrada, a capacitância, a indutância e a resistência.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ac_rlc_par&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ac_rlc_par_obr3.png",
   "categorys": [
    "Física",
    "Eletrodinâmica",
-   "Eletromagnetismo"
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Gráfico",
+   "Oscilações",
+   "Trigonometria"
   ],
   "author": "Vascak"
  },
