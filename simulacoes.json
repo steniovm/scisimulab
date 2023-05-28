@@ -3782,12 +3782,16 @@
   },
   {
       "name": "Movimento circular",
-      "descript": "",
+      "descript": "Compara o movimento de duas esferas, uma que gira pressa em um circulo e outra que oscila pressa a uma mola, mostrando que o movimento circular pode ser decomposto em dois movimentos oscilatórios perpendiculares.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_pohyb_po_kruznici&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pohyb_po_kruznici.png",
       "categorys": [
           "Física",
-          "Mecânica"
+          "Mecânica",
+          "Cinemática",
+          "Função",
+          "Gráfico",
+          "Oscilações"
       ],
       "author": "Vascak"
   },
@@ -3921,23 +3925,28 @@
   },
   {
       "name": "Equação do pêndulo - Prego",
-      "descript": "",
+      "descript": "Simula o movimento de um pêndulo quando tem a trajetória interrompida por pregos no caminho da corda.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_kyvadlo_hrebik&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo_hrebik.png",
       "categorys": [
           "Física",
-          "Oscilações"
+          "Oscilações",
+          "Energia",
+          "Função"
       ],
       "author": "Vascak"
   },
   {
       "name": "Equação do pêndulo - Helicóptero",
-      "descript": "",
+      "descript": "Simula o movimento pendular de uma pessoa sendo erguida por um helicóptero, podendo variar a amplitude e o comprimento do pêndulo.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_kyvadlo2&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_kyvadlo2.png",
       "categorys": [
           "Física",
-          "Oscilações"
+          "Oscilações",
+          "Energia",
+          "Função",
+          "Cinemática"
       ],
       "author": "Vascak"
   },
@@ -4042,12 +4051,17 @@
   },
   {
       "name": "Efeito Doppler",
-      "descript": "",
+      "descript": "Reproduz o efeito de mudança de frequência aparente do som produzido por um carro de som ouvido por três observadores diferentes.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_doppler&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_doppler.png",
       "categorys": [
           "Física",
-          "Ondas"
+          "Ondas",
+          "Acústica",
+          "Cinemática",
+          "Função",
+          "Mecânica",
+          "Relatividade"
       ],
       "author": "Vascak"
   },
@@ -4149,12 +4163,20 @@
   },
   {
       "name": "Difusão molecular",
-      "descript": "",
+      "descript": "Mostra a difusão molecular em uma amostra com dois gases cada um com dez moleculas. É possivel ajustar a temperatura numa escala arbitrária de 0 a 10.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_difuze&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_difuze.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Atômica",
+          "Densidade",
+          "Energia",
+          "Estatística",
+          "Mecânica",
+          "Momentum",
+          "Probabilidade",
+          "Termologia"
       ],
       "author": "Vascak"
   },
@@ -4171,12 +4193,21 @@
   },
   {
       "name": "Distribuição de moléculas de gás pela velocidade",
-      "descript": "",
+      "descript": "Mostra a distribuição de moleculas por velocidade em uma amostra de gás, tanto gráficamente quanto visualmente.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_rozdeleni_rychlosti&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rozdeleni_rychlosti.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Atômica",
+          "Cinemática",
+          "Densidade",
+          "Energia",
+          "Estatística",
+          "Função",
+          "Gráfico",
+          "Mecânica",
+          "Termologia"
       ],
       "author": "Vascak"
   },
@@ -4254,12 +4285,15 @@
   },
   {
       "name": "Energia interna",
-      "descript": "",
+      "descript": "Simula a interação entre atômos de um pequeno solido com 3x3x3 atômos, adcionando calor e pressão.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vnitrni_energie&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vnitrni_energie_obr2.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Atômica",
+          "Energia",
+          "Termologia"
       ],
       "author": "Vascak"
   },
@@ -4481,23 +4515,17 @@
   },
   {
       "name": "Dilatação térmica",
-      "descript": "",
+      "descript": "Simula o experimento de aquecimento e resfriamento de esferas de diferentes materiais afim de comparar a dilataçao térmica, inclusive utilizando anel de Gasevante.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_roztaznost2&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
-      ],
-      "author": "Vascak"
-  },
-  {
-      "name": "Dilatação térmica",
-      "descript": "",
-      "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_roztaznost2&l=pt",
-      "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_roztaznost2.png",
-      "categorys": [
-          "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Densidade",
+          "Função",
+          "Geometria",
+          "Gráfico",
+          "Termologia"
       ],
       "author": "Vascak"
   },
