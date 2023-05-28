@@ -3797,12 +3797,20 @@
   },
   {
       "name": "Oscilação harmónica",
-      "descript": "",
+      "descript": "Utiliza um lapis presso a uma mola para desenhar uma senoide numa folha de formulário continuo.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_harmonicke_kmitani&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_harmonicke_kmitani.png",
       "categorys": [
           "Física",
-          "Oscilações"
+          "Oscilações",
+          "Força",
+          "Função",
+          "Gráfico",
+          "Matemática",
+          "Mecânica",
+          "Ondas",
+          "Oscilações",
+          "Trigonometria"
       ],
       "author": "Vascak"
   },
@@ -4224,23 +4232,31 @@
   },
   {
       "name": "Escala de temperatura",
-      "descript": "",
+      "descript": "Compara a medida da temperatura em três termometros, cada um com uma escala termométrica diferente (Celsius, Kelvin e Fahrenheit).",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_teplotni_stupnice&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplotni_stupnice.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Aritmética",
+          "Matemática",
+          "Números",
+          "Termologia"
       ],
       "author": "Vascak"
   },
   {
       "name": "Equivalente mecânico do calor",
-      "descript": "",
+      "descript": "Simula o experimento de Joule, na qual um calorimento é conectado uma pás movimentadas pela queda de pesos afim de medir o equivalente mecânico do calor.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_joule&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_joule.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Clima",
+          "Energia",
+          "Mecânica",
+          "Termologia"
       ],
       "author": "Vascak"
   },
@@ -4263,23 +4279,35 @@
   },
   {
       "name": "Estados físicos da matéria",
-      "descript": "",
+      "descript": "Simula o aquecimento de uma amostra de gela, de -10ºC até a evaporação completa a 100ºC, mostrando o gráfico de temperatura e o calor recebido em cada etapa.",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_skupenstvi&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_skupenstvi.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Clima",
+          "Energia",
+          "Função",
+          "Gráfico",
+          "Matemática",
+          "Química",
+          "Termologia"
       ],
       "author": "Vascak"
   },
   {
       "name": "Estados físicos da matéria - água",
-      "descript": "",
+      "descript": "Simula a movimentação de moleculas de agua nos três estados física (solido, liquido e gasoso).",
       "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_voda&l=pt",
       "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_voda.png",
       "categorys": [
           "Física",
-          "Termodinâmica"
+          "Termodinâmica",
+          "Atômica",
+          "Clima",
+          "Densidade",
+          "Energia",
+          "Termologia"
       ],
       "author": "Vascak"
   },
