@@ -4156,7 +4156,7 @@
     },
     {
         "name": "Modelo de Torção para Ondas Transversais",
-        "descript": "Simula, por meio de uma sequencia de pares de esferas conectadas por astes, a propagação de ondas de torção, podendo ser visualizada por diversos ângulos. tambem é possivel visualizar o fênomeno de interfêrencia.",
+        "descript": "Simula, por meio de uma sequencia de pares de esferas conectadas por hastes, a propagação de ondas de torção, podendo ser visualizada por diversos ângulos. tambem é possivel visualizar o fênomeno de interfêrencia.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_julius&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_julius.png",
         "categorys": [
@@ -4953,25 +4953,34 @@
     },
     {
         "name": "Semicondutor intrínseco",
-        "descript": "",
+        "descript": "Simula, a nivel atômico, a passagem de corrente por um semicondutor ligado em diferentes polaridades, mostrando os saltos eletrônicos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_pohyb_der&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_pohyb_der.png",
         "categorys": [
             "Física",
             "Semicondutores",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Atômica",
+            "Eletrostática",
+            "Energia",
+            "Quântica",
+            "Química"
         ],
         "author": "Vascak"
     },
     {
         "name": "Semicondutores",
-        "descript": "",
+        "descript": "Mostra a estrutura atômica de diferentes tipos de semi-condutores.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_polovodice&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_polovodice.png",
         "categorys": [
             "Física",
             "Semicondutores",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Atômica",
+            "Energia",
+            "Quântica",
+            "Química"
         ],
         "author": "Vascak"
     },
@@ -5145,13 +5154,19 @@
     },
     {
         "name": "Raio catódico",
-        "descript": "",
+        "descript": "Simula o efeito que um campo magnético pode ter sobre raios catódicos, que são feixes de eletróns.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_magnet_elektron&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_magnet_elektron.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Química"
+            "Química",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Quântica",
+            "Radiação"
         ],
         "author": "Vascak"
     },
@@ -5176,13 +5191,16 @@
     },
     {
         "name": "Tubo de Crookes - Cruz de Malta",
-        "descript": "",
+        "descript": "Simula um tubo, ou ampola, de Crookes, que é um experimento elétrico num tubo de raios catódicos, que mostra que esses raios se comportam como particulas (eletrons).",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_maltezsky_kriz&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_maltezsky_kriz.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Química"
+            "Química",
+            "Eletrostática",
+            "Radiação",
+            "Quântica"
         ],
         "author": "Vascak"
     },
@@ -5255,12 +5273,16 @@
     },
     {
         "name": "Proteção contra raios",
-        "descript": "",
+        "descript": "Simula e demonstra o funcionamento de um dispositivo de proteção para raios que pode ser instalado em redes de alta e média tensão.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_bleskojistka&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_bleskojistka.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Clima",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -5303,12 +5325,16 @@
     },
     {
         "name": "Regra de Fleming",
-        "descript": "",
+        "descript": "Simula um experimento que mostra a ação de uma força eletromagnetica induzida em uma haste percorrida por uma corrente estando imersa em um campo magnético.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_fleming&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_fleming_obr2.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Eletrodinâmica",
+            "Energia",
+            "Força",
+            "Mecânica"
         ],
         "author": "Vascak"
     },
