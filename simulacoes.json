@@ -4187,12 +4187,19 @@
     },
     {
         "name": "Movimento browniano",
-        "descript": "",
+        "descript": "Simula o movimento de uma particula maior, mas ainda comparavel, as particulas que compõe o meio, mostrando uma trajétória aleatória porém regida pelas leis da mecânica e da estatistica.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_brownuv_pohyb&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_brownuv_pohyb.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Cinemática",
+            "Estatística",
+            "Geometria",
+            "Matemática",
+            "Mecânica",
+            "Química",
+            "Atômica"
         ],
         "author": "Vascak"
     },
@@ -4217,12 +4224,24 @@
     },
     {
         "name": "Interações atómicas",
-        "descript": "",
+        "descript": "Simula, com a ajuda de gráficos as forças de interação interatômicas entrer atômos de diferentes elementos e a sua oscilação em torno de uma distância de equilibio especifica.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_atomy&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_atomy.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "Vascak"
     },
@@ -4526,12 +4545,18 @@
     },
     {
         "name": "Frigorífico",
-        "descript": "",
+        "descript": "Simula o funcionamento de um refrigerador, mostrando as trocas de calor por meios do fluxo do fluido refrigerante.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_lednicka&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_lednicka.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Função",
+            "Química",
+            "Termologia"
         ],
         "author": "Vascak"
     },
@@ -4651,23 +4676,31 @@
     },
     {
         "name": "Humidade absoluta",
-        "descript": "",
+        "descript": "Mostra em um gráfico a relação entre a humidade atmosférica absoluta e a temperatura.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_abs_vlhkost&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_abs_vlhkost.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Humidade relativa",
-        "descript": "",
+        "descript": "Mostra em um gráfico a relação entre a humidade atmosférica relativa e a temperatura.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rel_vlhkost&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rel_vlhkost.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
@@ -4695,12 +4728,13 @@
     },
     {
         "name": "Gerador de Van de Graaff",
-        "descript": "",
+        "descript": "Simula o funcionamento de um gerador de Van de Graaff (Maquina que separa cargas eletricas por atrito e acumula em uma cupula esférica), e permite conecta-lo a diversos elementos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_vandegraaff&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff_obr4.png",
         "categorys": [
             "Física",
-            "Eletrostática"
+            "Eletrostática",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -5207,7 +5241,7 @@
     },
     {
         "name": "Imã",
-        "descript": "",
+        "descript": "Mostra o campo magnético produzido por um imão móvel atravêz de linhas de campo e da interação com bússolas.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_magnet&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_magnet.png",
         "categorys": [
@@ -5218,12 +5252,13 @@
     },
     {
         "name": "Ferromagnetismo",
-        "descript": "",
+        "descript": "Compara o comportamento de um material ferromagnetico com um paramagnético ao se aproximar e afastar um imã permanente, mostrando o alinhamento dos dominios magneticos internos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_ferro&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_ferro.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Força"
         ],
         "author": "Vascak"
     },
@@ -5265,12 +5300,14 @@
     },
     {
         "name": "Indução eletromagnética",
-        "descript": "",
+        "descript": "Simula o surgimento de uma corrente induzida em um solenóide pela movimentação de um imã em seu interior ou, consequentemete, a variação do fluxo magnético.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_indukce_accel&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_indukce_accel.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -5366,7 +5403,7 @@
     },
     {
         "name": "Circuitos AC simples",
-        "descript": "Este app mostra um circuito simples, constituído por uma fonte de tensão alterna e, dependendo da opção seleccionada, uma resistência (sem indutância), um condensador ou uma bobina ideal (sem resistência). Além disso, existem aparelhos de medida para a tensão U (azul) e intensidade I (vermelho).",
+        "descript": "Mostra um circuito simples, constituído por uma fonte de tensão alterna e, dependendo da opção seleccionada, uma resistência (sem indutância), um condensador ou uma bobina ideal (sem resistência). Além disso, existem aparelhos de medida para a tensão U (azul) e intensidade I (vermelho).",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_ac_rlc&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_ac_rlc.png",
         "categorys": [
