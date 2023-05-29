@@ -3923,100 +3923,154 @@
     },
     {
         "name": "Oscilador harmônico simples",
-        "descript": "A simulação apresenta uma oscilação harmônica de um corpo bem como as variáveis relacionadas ao fenômeno, como velocidade, amplitude e energias.",
+        "descript": "Simula uma oscilação harmônica de um corpo bem como as variáveis relacionadas ao fenômeno, como velocidade, amplitude e energias plotando em um gráfico.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_mechanicky_oscilator&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_mechanicky_oscilator.png",
         "categorys": [
             "Física",
-            "Oscilações"
+            "Oscilações",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Ondas"
         ],
         "author": "Vascak"
     },
     {
         "name": "Oscilador harmônico simples - Helicóptero",
-        "descript": "A simulação apresenta o fenômeno da oscilação harmônica no contexto de um corpo suspenso. É possível acompanhar a variação das grandezas e variá-las clicando no círculo no canto superior direito.",
+        "descript": "Simulação um fenômeno de oscilação harmônica no contexto de um corpo humano suspenso por uma mola pressa a um helicóptero. É possível acompanhar a variação das grandezas e variá-las.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_pruzina&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_pruzina.png",
         "categorys": [
             "Física",
-            "Oscilações"
+            "Oscilações",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Ondas"
         ],
         "author": "Vascak"
     },
     {
         "name": "Osciladores acoplados",
-        "descript": "A aplicação permite comparar o comportamento de dois sistemas formados por osciladores acoplados, isso é, sistemas nos quais a oscilação de um dos corpos está relacionada ou restrita pela oscilação do outro.",
+        "descript": "Permite comparar o comportamento de dois sistemas formados por osciladores acoplados, isso é, sistemas nos quais a oscilação de um dos corpos está relacionada ou restrita pela oscilação do outro.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_sprazene_oscilatory&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_sprazene_oscilatory.png",
         "categorys": [
             "Física",
-            "Oscilações"
+            "Oscilações",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas"
         ],
         "author": "Vascak"
     },
     {
         "name": "Reflexão",
-        "descript": "O app traz uma simulação que retrata a lei da reflexão no qual um feixe incidente é refletido segundo um ângulo igual ao de incidência. É possível variar alguns dos parâmetros relacionados ao fenômeno.",
+        "descript": "Traz uma simulação que retrata a lei da reflexão no qual um feixe incidente é refletido segundo um ângulo igual ao de incidência. É possível variar alguns dos parâmetros relacionados ao fenômeno.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_odraz_vlneni&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_vlneni.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Geometria",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Vascak"
     },
     {
         "name": "Refração",
-        "descript": "O simulador apresenta um feixe de luz sofrendro refração ao passar de um meio para outro. É possível variar parâmetros relacionados ao fenômeno.",
+        "descript": "Apresenta um feixe de luz sofrendo refração ao passar de um meio para outro. É possível variar parâmetros relacionados ao fenômeno.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_lom_vlneni&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_lom_vlneni.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Geometria",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Vascak"
     },
     {
         "name": "Reflexão de onda em uma corda",
-        "descript": "A simulação mostra de forma bastante prática como ocorre a reflexão em cordas quando suas extremidades são fixas ou livres.",
+        "descript": "Mostra de forma bastante prática como ocorre a reflexão em cordas quando suas extremidades são fixas ou livres.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_odraz_na_konci&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_odraz_na_konci.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Geometria",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Vascak"
     },
     {
         "name": "Ondas estacionárias",
-        "descript": "A simulação mostra, sob várias perspectivas, um conjunto de esferas que oscila formando uma onda estacionária.",
+        "descript": "Mostra, sob várias perspectivas, um conjunto de esferas que oscila formando uma onda estacionária.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostojate&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostojate.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Mecânica",
+            "Oscilações",
+            "Trigonometria"
         ],
         "author": "Vascak"
     },
     {
         "name": "Ressonância",
-        "descript": "A simulação apresenta a formação dos harmônicos sonoros em um tubo para duas situações distintas.",
+        "descript": "Apresenta a formação dos harmônicos sonoros em um tubo para duas situações distintas.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=kv_rezonance&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rezonance.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria"
         ],
         "author": "Vascak"
     },
     {
         "name": "Velocidade do som",
-        "descript": "O app demonstra por meio da visualização de um raio o tempo em que a onda sonora correspondente demora para chegar ao observador. É permitido variar a distância do observador ao ponto atingido pelo raio.",
+        "descript": "Demonstra, por meio da visualização de um raio, o tempo em que a onda sonora correspondente demora para chegar ao observador. É permitido variar a distância do observador ao ponto atingido pelo raio.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_rychlost_zvuku&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_rychlost_zvuku.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Função",
+            "Mecânica",
+            "Relatividade"
         ],
         "author": "Vascak"
     },
@@ -4038,34 +4092,49 @@
     },
     {
         "name": "Onda de choque",
-        "descript": "Na aplicação é demonstrada a formação de uma onda de choque quando um corpo se desloca no meio com velocidade maior que a do som nesse meio.",
+        "descript": "Demonstra a formação de uma onda de choque quando um corpo se desloca com velocidade maior que a do som nesse meio.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_razova_vlna&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_razova_vlna.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Aritmética",
+            "Cinemática",
+            "Clima",
+            "Oscilações"
         ],
         "author": "Vascak"
     },
     {
         "name": "Princípio de Huygens",
-        "descript": "A simulação explica com base no princípio de Huygens o fenômeno da difração.",
+        "descript": "Explica com base no princípio de Huygens o fenômeno da difração.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_huygens&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_huygens.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Oscilações",
+            "Geometria",
+            "Óptica"
         ],
         "author": "Vascak"
     },
     {
         "name": "Máquina de ondas",
-        "descript": "A simulação ilustra o comportamento de diversas esferas quando liberadas para oscilar a partir a partir de instantes de tempo ligeiramente diferentes que a anterior.",
+        "descript": "Ilustra o comportamento de diversas esferas quando liberadas para oscilar a partir de instantes de tempo ligeiramente diferentes da anterior.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_vlnostroj&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_vlnostroj_obr2.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Mecânica",
+            "Oscilações",
+            "Trigonometria"
         ],
         "author": "Vascak"
     },
@@ -4087,12 +4156,18 @@
     },
     {
         "name": "Modelo de Torção para Ondas Transversais",
-        "descript": "",
+        "descript": "Simula, por meio de uma sequencia de pares de esferas conectadas por astes, a propagação de ondas de torção, podendo ser visualizada por diversos ângulos. tambem é possivel visualizar o fênomeno de interfêrencia.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_julius&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_julius.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Cinemática",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações"
         ],
         "author": "Vascak"
     },
