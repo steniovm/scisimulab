@@ -4267,12 +4267,16 @@
     },
     {
         "name": "Termómetro de Galileu",
-        "descript": "",
+        "descript": "Simula o funcionamento de um Termómetro (ou termoscópio) de Galileu, que consiste em uma coluna de agua com bolhas de vidro, essas bolhas possuem densidade levemente diferentes, de forma que afundam ou flutuam de acordo com a temperatura.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_galileo_teplomer&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_galileo_teplomer.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Densidade",
+            "Hidrostática",
+            "Termologia"
         ],
         "author": "Vascak"
     },
@@ -4468,12 +4472,19 @@
     },
     {
         "name": "Locomotiva a vapor",
-        "descript": "",
+        "descript": "Simula o funcionamento de uma locamotiva a vapor, detalhando a geração de movimento para frente e para trás.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_parnistroj&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_parnistroj.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Cinemática",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Hidrostática",
+            "Mecânica",
+            "Termologia"
         ],
         "author": "Vascak"
     },
@@ -4562,23 +4573,35 @@
     },
     {
         "name": "Lei de Hooke - 1",
-        "descript": "",
+        "descript": "Permite simular e estudar a deformação de molas, ou sistemas de molas, mediante a sustentação de pesos, acompanhando gráficamente.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_hook&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_hook.png",
         "categorys": [
             "Física",
-            "Mecânica"
+            "Mecânica",
+            "Aritmética",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico"
         ],
         "author": "Vascak"
     },
     {
         "name": "Lei de Hooke - 2",
-        "descript": "",
+        "descript": "Permite simular um ensaio de tração de uma barra metalica, acompanhando gráficamente e visualizando os limites: elástico, de proporcionalidade, de resistência e de deformação.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_young&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_young.png",
         "categorys": [
             "Física",
-            "Mecânica"
+            "Mecânica",
+            "Aritmética",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Densidade",
+            "Geometria"
         ],
         "author": "Vascak"
     },
@@ -4717,12 +4740,14 @@
     },
     {
         "name": "Máquina de Wimshurst",
-        "descript": "",
+        "descript": "Simula o funcionamento de uma máquina de wimshurst, que é um gerador eletrostático capaz de atingir altas tensões a partir do atrito de discos isolantes com setores metálicos girando.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_wimshurst&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_wimshurst.png",
         "categorys": [
             "Física",
-            "Eletrostática"
+            "Eletrostática",
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -5289,12 +5314,19 @@
     },
     {
         "name": "Lei de Ampère",
-        "descript": "",
+        "descript": "Simula a interação eletromagnetica induziada entre fios paralelos quando passa corrente eletrica por eles. Utiliza linhas da campo e regra da mão direita para melhor visualização.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_amper&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_amper.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Eletrodinâmica",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "Vascak"
     },
@@ -5313,12 +5345,15 @@
     },
     {
         "name": "Lei de Lenz",
-        "descript": "",
+        "descript": "Simula uma força eletromagnética induzida sobre um anel metálico ao se submetido a campos magnéticos oscilantes e compara com um anel descontinuo.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mag_lenz&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_lenz_obr2.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Eletrodinâmica",
+            "Energia",
+            "Força"
         ],
         "author": "Vascak"
     },
