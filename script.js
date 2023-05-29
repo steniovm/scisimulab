@@ -6,10 +6,12 @@ const unimage = "unimage.svg";
 const initcategory = "*SciSimuLab*";
 const stylecss = document.querySelector('link');
 const menu = document.getElementById('menu');
+const menua = document.getElementById('menua');
 const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
 const resources = document.getElementById('resources');
 const filterall = document.getElementById('filterall');
+const filteraut = document.getElementById('filteraut');
 const titlecat = document.getElementById('titlecat');
 const slider = document.getElementById('slider');
 const nimages = document.getElementById('nimages');
@@ -26,6 +28,8 @@ const spanmessage = document.getElementById('spanmessage');
 const h1message = document.getElementById('h1message');
 const categorias = {};
 const categoriasnome = [];
+const autores = {};
+const autoresnome = [];
 let simulist = [];
 let sliders = [];
 let slidersa = [];
@@ -85,10 +89,16 @@ function listSimuls(list, tudo=false){
   if (tudo) titlecat.innerHTML = "Todas:";
   simulations.innerHTML = simuls;
 }
-//função para filtrar simulações
+//função para filtrar simulações por categoria
 function filtercaterogy(key){
   simulations.innerHTML = "";
   listSimuls(categorias[key]);
+  titlecat.innerHTML = key+":";
+}
+//função para filtrar simulações por autor
+function filteraltor(key){
+  simulations.innerHTML = "";
+  listSimuls(autores[key]);
   titlecat.innerHTML = key+":";
 }
 function showsliderers(){
@@ -164,9 +174,10 @@ btmessage.addEventListener('click',function(){
 fetch(urlsimuls)
   .then(response => response.json())
   .then(data => {
-    // Percorre as simulações e registra as categorias
     data.sort((a, b) => a.name.localeCompare(b.name));
+    // Percorre as simulações e registra as categorias e autores
     data.forEach(simulacao => {
+      //categorias
       simulacao.categorys.forEach(categoria => {
         if (!categorias[categoria]) {
           categorias[categoria] = [];
@@ -174,9 +185,16 @@ fetch(urlsimuls)
         }
         categorias[categoria].push(simulacao);
       });
+      filterall.innerHTML = `Tudo (${data.length})`;
+      //autores
+      if (!autores[simulacao.author]) {
+        autores[simulacao.author] = [];
+        autoresnome.push(simulacao.author);
+      }
+      autores[simulacao.author].push(simulacao);
+      filteraut.innerHTML = `Todos (${data.length})`;
     });
-    filterall.innerHTML = `Tudo (${data.length})`;
-    // Percorre as categorias e cria os elementos do menu
+    // Percorre as categorias e cria os elementos do menu categorias
     categoriasnome.sort();
     categoriasnome.forEach((categoria) => {
       const categoriaItem = `
@@ -184,6 +202,15 @@ fetch(urlsimuls)
         ${categoria} (${categorias[categoria].length})
       </button>`
       menu.innerHTML += categoriaItem;
+    });
+    // Percorre as categorias e cria os elementos do menu autores
+    autoresnome.sort();
+    autoresnome.forEach((author) => {
+      const autorItem = `
+      <button onclick="filteraltor('${author}')">
+        ${author} (${autores[author].length})
+      </button>`
+      menua.innerHTML += autorItem;
     });
     simulist = data;
     nimages.max = data.length;
