@@ -1333,7 +1333,7 @@
     },
     {
         "name": "Lei de Ohm",
-        "descript": "Preve como muda a corrente quando a resistência e/ou tensão do circuito é alterada.",
+        "descript": "Preve como muda a corrente quando a resistência e/ou tensão do circuito, ou resistor, é alterada.",
         "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
         "thumb": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law-420.png",
         "categorys": [
@@ -4534,12 +4534,13 @@
     },
     {
         "name": "Moto contínuo",
-        "descript": "",
+        "descript": "Simula o funcionamento (impossivel) de várias maquinas moto-continuas, ou seja, que realiza trabalho sem consumir energia e desafia o usuário a encontrar o erro da logica de seu funcionamento.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr4.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -4809,12 +4810,13 @@
     },
     {
         "name": "Tensão, corrente e resistência",
-        "descript": "",
+        "descript": "Simula um circuito de corrente continua simples, com o fluxo de cargas, com pilhas e lâmpadas. as lâmpadas podem ser ligadas em série, paralelo ou de forma mista.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_uir&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_uir.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -4845,12 +4847,13 @@
     },
     {
         "name": "Resistência interna",
-        "descript": "",
+        "descript": "Simula e compara dois circuitos puramente resistivos de corrente continua onde é possivel variar e acompanhar a variação da tensão, resistencia e corrente.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_vnitrni_odpor&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_vnitrni_odpor.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -4872,12 +4875,15 @@
     },
     {
         "name": "Resistência elétrica",
-        "descript": "",
+        "descript": "Prevé como alterar as variáveis, área, comprimento e resistividade (material) de um condutor irá afetar sua resistência.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=ele_odpor&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/ele_odpor.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Aritmética",
+            "Energia",
+            "Função"
         ],
         "author": "Vascak"
     },
@@ -4897,37 +4903,40 @@
     },
     {
         "name": "Termístor",
-        "descript": "",
+        "descript": "Mostra como varia a corrente em um termitor (resistor variavel pela temperatura) submetido a uma tensão fixa quando sua temperatura é alterada.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_termistor&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_termistor.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Semicondutores"
+            "Semicondutores",
+            "Energia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Resistor dependente de luz",
-        "descript": "",
+        "descript": "Mostra como varia a corrente em um fotoresistor (resistor variavel pela incidencia de luz) submetido a uma tensão fixa quando sua iluminação é alterada.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_fotorezistor&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_fotorezistor.png",
         "categorys": [
             "Física",
             "Semicondutores",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Silício",
-        "descript": "",
+        "descript": "Mostra estruturas cristalinas, a nivel atômico, de atômos de silicio.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=pol_kremik&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/pol_kremik_obr2.png",
         "categorys": [
             "Física",
             "Semicondutores",
-            "Eletrodinâmica"
+            "Atômica",
+            "Química"
         ],
         "author": "Vascak"
     },
@@ -5206,13 +5215,17 @@
     },
     {
         "name": "Regiões em um tubo de Crookes",
-        "descript": "",
+        "descript": "Simula cinco diferentes tubos, ou ampolas, de Crookes (experimento elétrico num tubo de raios catódicos, que mostra que esses raios se comportam como particulas ou seja, são eletrons) mostrando que com diferentes gases o raios podem mudar sua largura e sua cor.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_trubice&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_trubice.png",
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Química"
+            "Química",
+            "Atômica",
+            "Eletrostática",
+            "Energia",
+            "Quântica"
         ],
         "author": "Vascak"
     },
