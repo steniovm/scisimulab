@@ -4546,12 +4546,19 @@
     },
     {
         "name": "Pássaro Chinês",
-        "descript": "",
+        "descript": "Mostra o funcionamento de um pássaro chinês, um brinquedo que utiliza o calor ambiente e um reservatório de agua para gerar um movimento semelhante a um passaro ciscando.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_cinsky_ptacek&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_cinsky_ptacek.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Geografia",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "Vascak"
     },
@@ -4608,12 +4615,18 @@
     },
     {
         "name": "Pressão capilar",
-        "descript": "",
+        "descript": "Simula um experimento mostrando a pressão capilar atraves de tubos soprados por uma pessoas. Pressão capilar é a diferença em pressão através da interface entre dois fluidos imiscíveis.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_kapilarni_tlak&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_kapilarni_tlak.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Densidade",
+            "Geometria",
+            "Termologia",
+            "Força",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "Vascak"
     },
@@ -4648,34 +4661,46 @@
     },
     {
         "name": "Ponto de ebulição - Pressão atmosférica",
-        "descript": "",
+        "descript": "Mostra um gráfico com a temperatura de ebulição da agua em função da pressão, também um termômetro mergulhado na água em ebulição e ilustração de um panela de pressão ou de uma camera de vácuo.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplota_varu.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Ponto de ebulição - Altitude",
-        "descript": "",
+        "descript": "Mostra um gráfico com a temperatura de ebulição da agua em função da altitude, uma coluna de mércurio variando com a pressão na altitude escolhida e um termômetro mergulhado na água em ebulição.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_teplota_varu_vyska&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_teplota_varu_vyska.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Pressão atmosférica - Altitude",
-        "descript": "",
+        "descript": "Mostra um gráfico com a pressão atmosférica em função da altitude e uma coluna de mércurio variando com esta pressão",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_vyska_tlak&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vyska_tlak.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
@@ -4730,12 +4755,16 @@
     },
     {
         "name": "Ponto de orvalho",
-        "descript": "",
+        "descript": "Mostra em um gráfico a relação entre a humidade atmosférica relativa e a temperatura e então calcula o ponto de orvalho e humidade absoluta.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_rosny_bod&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_rosny_bod.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Função",
+            "Geografia",
+            "Termologia"
         ],
         "author": "Vascak"
     },
