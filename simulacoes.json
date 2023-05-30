@@ -4377,81 +4377,108 @@
     },
     {
         "name": "Transferência de energia por convecção",
-        "descript": "A simulação demonstra a transmissão de calor por meio da convecção, na qual há movimento de fluido em decorrência da diferença de temperatura.",
+        "descript": "Simula a transmissão de calor por meio da convecção, na qual há movimento de fluido em decorrência da diferença de temperatura.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_proudeni_energie&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_proudeni_energie.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Densidade",
+            "Hidrostática",
+            "Mecânica",
+            "Termologia"
         ],
         "author": "Vascak"
     },
     {
         "name": "Transferência de energia por radiação",
-        "descript": "A simulação demonstra o funcionamento de um fogão solar com a possiblidade de escolha entre hemisfério norte e sul.",
+        "descript": "Simula o funcionamento de um fogão solar com a possiblidade de escolha entre hemisfério norte e sul.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_zareni_energie&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_zareni_energie.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Densidade",
+            "Hidrostática",
+            "Mecânica",
+            "Termologia",
+            "Energia",
+            "Geometria",
+            "Radiação",
+            "Óptica"
         ],
         "author": "Vascak"
     },
     {
         "name": "Transferência de energia por condução",
-        "descript": "A simulação demonstra a transmissão de calor por condução em uma barra acompanhando a temperatura em diferentes pontos com a ajuda de termômetros e outras velas que se despregam ao serem aquecidas.",
+        "descript": "Simula a transmissão de calor por condução em uma barra acompanhando a temperatura em diferentes pontos com a ajuda de termômetros e outras velas que se despregam ao serem aquecidas.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_vedeni_energie&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_vedeni_energie.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Clima",
+            "Termologia",
+            "Energia",
+            "Geometria"
         ],
         "author": "Vascak"
     },
     {
         "name": "Representação gráfica isotérmica da Ley de Boyle-Marriote",
-        "descript": "A simulação apresenta uma transformação isotérmica e o diagrama PV associado a essa transformação.",
+        "descript": "Simula uma transformação isotérmica mostrando o diagrama PV associado a essa transformação.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izotermicky_dej&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izotermicky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
-            "Gráfico"
+            "Gráfico",
+            "Energia",
+            "Densidade"
         ],
         "author": "Vascak"
     },
     {
         "name": "Representação gráfica isobárica da Lei de Gay-Lussac",
-        "descript": "A simulação apresenta uma expansão isobárica e o diagrama PV associado a essa transformação.",
+        "descript": "Simula uma expansão isobárica mostrando o diagrama PV associado a essa transformação.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izobaricky_dej&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izobaricky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
-            "Gráfico"
+            "Gráfico",
+            "Energia",
+            "Densidade"
         ],
         "author": "Vascak"
     },
     {
         "name": "Representação gráfica isocórica da Lei de Charles",
-        "descript": "A simulação apresenta uma expansão isocórica, ou isovolumétrica, e o diagrama PV associado a essa transformação.",
+        "descript": "A simulação apresenta uma expansão isocórica, ou isovolumétrica, mostrando o diagrama PV associado a essa transformação.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_izochoricky_dej&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_izochoricky_dej.png",
         "categorys": [
             "Física",
             "Termodinâmica",
-            "Gráfico"
+            "Gráfico",
+            "Energia",
+            "Densidade"
         ],
         "author": "Vascak"
     },
     {
         "name": "Sistema adiabático",
-        "descript": "A simulação demonstra uma compressão adiabática, que ocorre rapidamente sem trocas de calor com o meio externo.",
+        "descript": "Simula uma compressão adiabática, que ocorre rapidamente sem trocas de calor com o meio externo, mostrando o diagrama PV.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_adiabaticky_dej&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_adiabaticky_dej.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Gráfico",
+            "Energia",
+            "Densidade"
         ],
         "author": "Vascak"
     },
@@ -4490,45 +4517,57 @@
     },
     {
         "name": "Motor de dois tempos",
-        "descript": "A aplicação demonstra o funcionamento de dois motores de dois tempos. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
+        "descript": "Demonstra o funcionamento de dois motores de dois tempos. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_dvoutakt&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_dvoutakt.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Energia",
+            "Mecânica",
+            "Força"
         ],
         "author": "Vascak"
     },
     {
         "name": "Motor quatro tempos",
-        "descript": "A aplicação demonstra o funcionamento de dois motores de quatro tempos. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
+        "descript": "Demonstra o funcionamento de dois motores de quatro tempos. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_ctyrtakt&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_ctyrtakt.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Energia",
+            "Mecânica",
+            "Força"
         ],
         "author": "Vascak"
     },
     {
         "name": "Motor a diesel",
-        "descript": "A aplicação demonstra o funcionamento de dois motores diesel. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
+        "descript": "Demonstra o funcionamento de dois motores diesel. É possível variar a velocidade de cada um individualmente e comparar seus comportamentos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_diesel&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_diesel.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Energia",
+            "Mecânica",
+            "Força"
         ],
         "author": "Vascak"
     },
     {
         "name": "Motor Wankel",
-        "descript": "A aplicação demonstra o funcionamento de um motor pouco conhecido, o motor Wankel. O app traz dois motores e é possíevl variar as velocidades e comparar seus funcionamentos.",
+        "descript": "Demonstra o funcionamento de um motor pouco conhecido, o motor Wankel. Traz dois motores e é possíevl variar as velocidades e comparar seus funcionamentos.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?f=mf_wankel&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_wankel.png",
         "categorys": [
             "Física",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Energia",
+            "Mecânica",
+            "Força"
         ],
         "author": "Vascak"
     },
