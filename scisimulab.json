@@ -149,6 +149,11 @@
             "text":"- MinuteLabs, MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
             "url": "https://minutelabs.io/",
             "thumb": "https://cdn.minutelabs.io/logos/logo-minutelabs-on.jpg"
+        },
+        {
+            "text":"- LabFis-IFC, Laboratório Virtual de Física da Universidade Federal do Ceará.",
+            "url": "https://www.laboratoriovirtual.fisica.ufc.br/",
+            "thumb": "https://static.wixstatic.com/media/e02095_e4c985d9086b4c589843118dc57f97cb~mv2.png"
         }
     ]
 }
