@@ -249,7 +249,7 @@ fetch(urldata)
     data.fontes.forEach(fonte => {
       const fonteItem = document.createElement('a');
       fonteItem.classList.add("emphasis");
-      fonteItem.href = fonte.url+"#disqus_thread";
+      fonteItem.href = (fonte.url) ? fonte.url+"#disqus_thread" : "https://www.scisimulab.com.br/#disqus_thread";
       fonteItem.innerHTML = `<img src="${fonte.thumb}" alt="imagem de colaborador"/>${fonte.text}`;
       resources.appendChild(fonteItem);
     });
