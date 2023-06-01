@@ -6791,456 +6791,537 @@
     },
     {
       "name": "Ressonância em uma Cavidade com Ar",
-      "descript": "",
+      "descript": "Nesta simulação um alto-falante colocado na boca de um cano produz som com frequência bem definida. A frequência pode ser escolhida no intervalo de 300 Hz à 1000 Hz através de um cursor.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/ressonancia-com-uma-cavidade-com-ar",
       "thumb": "https://static.wixstatic.com/media/e02095_c65277f849d64088922cd67cde4dd24c~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ressonanciacavidade.png",
       "categorys": [
         "Física",
-        "Ondas"
+        "Ondas",
+        "Acústica",
+        "Função",
+        "Oscilações"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Interferômetro de Michelson",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo do funcionamento do interferômetro de Michelson usado em laboratórios de ensino de física.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/interferometro-de-michelson-microondas",
       "thumb": "https://static.wixstatic.com/media/e02095_49d213722ef246fe90b1dad6c98e7d97~mv2.jpg/v1/crop/x_3,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/interferometromichelsonmicroondas_edited.jpg",
       "categorys": [
         "Física",
-        "Ondas"
+        "Ondas",
+        "Geometria",
+        "Oscilações",
+        "Óptica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Interferômetro de Fabry-Perot para Micro-Ondas",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo do funcionamento do interferômetro de Michelson em um arranjo experimental para micro-ondas.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/interferometro-de-fabry-perot",
       "thumb": "https://static.wixstatic.com/media/e02095_84f8dca199084740b83032f77bcb4f5d~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/interferometrofabry.png",
       "categorys": [
         "Física",
-        "Ondas"
+        "Ondas",
+        "Geometria",
+        "Oscilações",
+        "Óptica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Interferômetro de Michelson",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo do funcionamento do interferômetro de Michelson em um arranjo experimental para micro-ondas.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/interferometro-michelson",
       "thumb": "https://static.wixstatic.com/media/e02095_347abd022648406d96a3a126fdfc4a11~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/interferometromichelson.png",
       "categorys": [
         "Física",
-        "Ondas"
+        "Ondas",
+        "Geometria",
+        "Oscilações",
+        "Óptica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Dilatação Térmica",
-      "descript": "",
+      "descript": "Esta simulação representa um Dilatômetro Linear que permite o estudo da dilatação térmica de 5 materiais diferentes em função da variação da temperatura com a utilização de um BANHO TÉRMICO. O BANHO TÉRMICO, faz circular um líquido (representado em azul) no interior de um tubo oco (amostra), aquecendo-o.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/dilatacao-termica",
       "thumb": "https://static.wixstatic.com/media/e02095_9536417701bb4e5886f5bc6b1a7d9aed~mv2.png/v1/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/expansaotermina.png",
       "categorys": [
         "Física",
-        "Termodinâmica"
+        "Termodinâmica",
+        "Geometria",
+        "Termologia"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Transformações Gasosas",
-      "descript": "",
+      "descript": "Esta simulação representa um cilindro que pode ser preenchido parcialmente com um gás (dentre 4 opções) nas CNTP. Cada gás tem uma quantidade fixa de moles.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/transformacoes-gasosas",
       "thumb": "https://static.wixstatic.com/media/e02095_f4f828593c294298b24a3b7a83529fc0~mv2.png/v1/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/transformacoesgasosas.png",
       "categorys": [
         "Física",
-        "Termodinâmica"
+        "Termodinâmica",
+        "Energia",
+        "Função",
+        "Termologia"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Força Magnética",
-      "descript": "",
+      "descript": "Nesta simulação uma partícula com carga negativa (elétron) ou com carga positiva (pósitron) é lançada em uma região onde há um campo magnético (a velocidade de lançamento da partícula é sempre perpendicular ao campo magnético).",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/forca-magnetica",
       "thumb": "https://static.wixstatic.com/media/e02095_4f347dbbccd54b988dd491b129778ab4~mv2.jpg/v1/crop/x_0,y_9,w_1244,h_750/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/forcamagnetica_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Eletromagnetismo",
+        "Eletrostática",
+        "Força",
+        "Função",
+        "Geometria",
+        "Vetores"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Amperímetro",
-      "descript": "",
+      "descript": "Esta simulação permite estudar o funcionamento da função amperímetro de um multímetro digital. Na simulação somente a função amperímetro está ativa.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/amperimetro",
       "thumb": "https://static.wixstatic.com/media/e02095_930c6fb268e449edb38f0981908f156a~mv2.jpg/v1/crop/x_7,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/amperimetro_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Resistores Não-Ôhmicos",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo da corrente elétrica alternada em função da tensão alternada aplicada em um resistor (filamento de uma lâmpada).",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/resistores-nao-ohmicos",
       "thumb": "https://static.wixstatic.com/media/e02095_8b3a560a4b2f479b91d258fa744ca4b3~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/resistoresnaoohmicos.png",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Ohmímetro",
-      "descript": "",
+      "descript": "Esta simulação permite estudar o funcionamento da função ohmímetro de um multímetro digital. Na simulação somente a função ohmímetro está ativa.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/ohmimetro",
       "thumb": "https://static.wixstatic.com/media/e02095_0caa248141b44e618c03f31be391b0a1~mv2.jpg/v1/crop/x_31,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Capacitores",
-      "descript": "",
+      "descript": "Esta simulação permite estudar a capacitância de um capacitor de placas paralelas e o funcionamento de um capacímetro digital.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/capacitores",
       "thumb": "https://static.wixstatic.com/media/e02095_212ac18e37304a5090cb0482772d6585~mv2.jpg/v1/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/capacitores_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Eletrostática",
+        "Função",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Circuito RC",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo do circuito RC formado por um resistor e um capacitor ligados em série a uma fonte de tensão contínua.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/circuito-rc",
       "thumb": "https://static.wixstatic.com/media/e02095_cd753dd586a44f02975551bba3442c1e~mv2.jpg/v1/crop/x_65,y_0,w_1234,h_744/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/circuitorc_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Eletrostática",
+        "Função"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Voltímetro",
-      "descript": "",
+      "descript": "Esta simulação permite estudar o funcionamento da função voltímetro de um multímetro digital. Na simulação somente a função voltímetro está ativa.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/voltimetro",
       "thumb": "https://static.wixstatic.com/media/e02095_5dca4511b0c74ee3b0bb90648fcc8e46~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/voltimetro.png",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Resistores Ôhmicos",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo da corrente elétrica em função da tensão aplicada em um resistor. Há 6 resistores diferentes.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/resistores-ohmicos",
       "thumb": "https://static.wixstatic.com/media/e02095_f03dd352c3e04d04ada250eed810f9a6~mv2.jpg/v1/crop/x_15,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/resistoresohmicos_edited.jpg",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Transformadores",
-      "descript": "",
+      "descript": "Esta simulação permite o estudo do funcionamento de um transformador de voltagem. Diversas combinações de bobinas podem ser utilizadas no primário e secundário do transformador.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/transformadores",
       "thumb": "https://static.wixstatic.com/media/e02095_3de44886daa648c1bc046be125cb491e~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/transformadores.png",
       "categorys": [
         "Física",
-        "Eletrodinâmica"
+        "Eletrodinâmica",
+        "Eletromagnetismo",
+        "Matemática"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Refração em uma Lâmina de Faces Paralelas",
-      "descript": "",
+      "descript": "A simulação permite estudar a refração da luz e o desvio lateral de um raio de luz que incide em uma lâmina de faces paralelas. O ângulo de incidência pode ser variado.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/lamina-de-faces-paralelas",
       "thumb": "https://static.wixstatic.com/media/e02095_e6dd2842b5074ad2bafb688a0a7e6c11~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/lamina.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Olho Humano: Defeitos da Visão",
-      "descript": "",
+      "descript": "Esta simulação permite estudar os defeitos da visão (miopia e hipermetropia) e suas correções. Há 6 opções de olhos. Os olhos da simulação ou são míopes ou hipermétropes.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/olho-humano-defeitos-visao",
       "thumb": "https://static.wixstatic.com/media/e02095_962c765c96624208933509b60aedc469~mv2.jpg/v1/crop/x_13,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/olho_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Biologia",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Lei de Malus",
-      "descript": "",
+      "descript": "Esta simulação permite medir a intensidade de luz que passa por um polarizador e em seguida por um analisador em função de suas posições angulares relativas e assim verificar a Lei de Malus.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/lei-malus",
       "thumb": "https://static.wixstatic.com/media/e02095_e6873b83140c49fdbdee2550b86afbe8~mv2.jpg/v1/crop/x_6,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/malus_edited_edited_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria",
+        "Trigonometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Difração em uma Fenda",
-      "descript": "",
+      "descript": "Esta simulação permite estudar a difração da luz em uma fenda simples. Há três opções de comprimentos de onda (cores) e somente o comprimento de onda da luz vermelha é conhecido.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/difracao-em-uma-fenda",
       "thumb": "https://static.wixstatic.com/media/e02095_4ab2a93d27ed41dd882cc3160eee2916~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/fenda.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria",
+        "Ondas",
+        "Oscilações"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Espelho Côncavo",
-      "descript": "",
+      "descript": "Esta simulação permite determinar a distância focal de um espelho côncavo pela localização da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/espelho-concavo",
       "thumb": "https://static.wixstatic.com/media/e02095_173e065b8e9c4ce2b8ca4b84da69ed40~mv2.jpg/v1/crop/x_41,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/espelhoconcavo_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Refração",
-      "descript": "",
+      "descript": "Esta simulação permite estudar a refração da luz em diferentes materiais. O arranjo “experimental” simulado se assemelha ao que é normalmente utilizado em laboratórios de ensino de física.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/refracao",
       "thumb": "https://static.wixstatic.com/media/e02095_471e7028c3ca4aef80a5da932487de8e~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/refracao.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Princípio de Fermat: Reflexão",
-      "descript": "",
+      "descript": "Esta simulação permite verificar que, segundo o Princípio de Fermat, na reflexão da luz o caminho percorrido pela luz entre dois pontos situados em um meio, mas passando por um ponto em um espelho será aquele para o qual o tempo de percurso é mínimo.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/principio-de-fermat-reflexao",
       "thumb": "https://static.wixstatic.com/media/e02095_92b603462a214c4ba627ff0528021d3f~mv2.jpg/v1/crop/x_5,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fermatreflexao_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria",
+        "Trigonometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Polarização - Atividade Óptica",
-      "descript": "",
+      "descript": "Esta simulação permite estudar a atividade óptica de uma substância em função do comprimento de onda (da cor) da luz utilizada, da concentração da solução e do comprimento que a luz percorre dentro da solução.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/polarizacao",
       "thumb": "https://static.wixstatic.com/media/e02095_29058ba74c2d42b8bdb8ea343d360935~mv2.png/v1/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/polariza%C3%A7%C3%A3o.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Função",
+        "Geometria",
+        "Trigonometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Lentes Divergentes",
-      "descript": "",
+      "descript": "Esta simulação permite a determinação da distância focal de uma lente divergente.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/lentes-divergentes",
       "thumb": "https://static.wixstatic.com/media/e02095_a434c332dd0944cbab7ae4e955943517~mv2.jpg/v1/crop/x_16,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/lentesdivergentes_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Prismas",
-      "descript": "",
+      "descript": "Esta simulação permite estudar o comportamento de um raio de luz ao incidir em um prisma. É possível verificar que o desvio sofrido por um raio de luz em um prisma passa por um mínimo.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/prismas",
       "thumb": "https://static.wixstatic.com/media/e02095_477111e365b747a091cf2632e9da5f9e~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/prismas.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria",
+        "Trigonometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Princípio de Fermat: Refração",
-      "descript": "",
+      "descript": "Esta simulação permite verificar que, segundo o Princípio de Fermat, na refração da luz o caminho percorrido pela luz entre dois pontos situados em meios diferentes será aquele para o qual o tempo de percurso é mínimo.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/princ%C3%ADpio-de-fermat-refracao",
       "thumb": "https://static.wixstatic.com/media/e02095_039d044d69c048629a0c0eeccc8246f3~mv2.jpg/v1/crop/x_30,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fermatrefracao_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria",
+        "Trigonometria",
+        "Função"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Redes de Difração",
-      "descript": "",
+      "descript": "Esta simulação permite estudar a difração da luz em redes de difração. Há três opções de comprimentos de onda (cores), uma rede com 80 linhas/mm permite determinar os comprimentos de onda.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/redes-de-difracao",
       "thumb": "https://static.wixstatic.com/media/e02095_9e97acc6666341e688519ebebb6ed490~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/redes.png",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Função",
+        "Ondas"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Lentes Convergentes",
-      "descript": "",
+      "descript": "Esta simulação permite a determinação da distância focal de uma lente convergente pela determinação da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/lentes-convergentes",
       "thumb": "https://static.wixstatic.com/media/e02095_5d6013b00a3a48529f918648008a2404~mv2.jpg/v1/crop/x_17,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/lentesconvergentes_edited.jpg",
       "categorys": [
         "Física",
-        "Óptica"
+        "Óptica",
+        "Geometria"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Determinação da Razão Carga/Massa do Elétron",
-      "descript": "",
+      "descript": "Nesta simulação um feixe de elétrons é lançado em uma região onde há um campo magnético (a velocidade de lançamento dos elétrons é sempre perpendicular ao campo magnético). A trajetória dos elétrons pode ser visualizada por uma linha azul. A velocidade dos elétrons pode ser variada, alterando o potencial de aceleração (V).",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/razao-carga-massa-do-eletron",
       "thumb": "https://static.wixstatic.com/media/e02095_32cd499f11834adda146b791d2b3c025~mv2.jpg/v1/crop/x_5,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/determincacaorazao_edited.jpg",
       "categorys": [
-        "Física"
+        "Física",
+        "Energia",
+        "Eletrodinâmica",
+        "Eletromagnetismo",
+        "Eletrostática",
+        "Função",
+        "Quântica",
+        "Química",
+        "Atômica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Difração de Elétrons",
-      "descript": "",
+      "descript": "Na simulação Difração de Elétrons um círculo representa a visão frontal do globo de vidro de um tubo de difração de elétrons. Uma fonte de 6.3 V representa a fonte que alimenta o filamento do tubo que, quando aquecido, libera elétrons pelo efeito termiônico, também chamado de efeito Edson.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/difracao-de-eletrons",
       "thumb": "https://static.wixstatic.com/media/e02095_78c58c1f699e4648923ea7402b5dab9b~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/difracaoeletrons.png",
       "categorys": [
-        "Física"
-      ],
-      "author": "LabFis-IFC"
-    },
-    {
-      "name": "Interferômetro de Michelson",
-      "descript": "",
-      "url": "https://www.laboratoriovirtual.fisica.ufc.br/interfer-michelson-micro-ondas",
-      "thumb": "https://static.wixstatic.com/media/e02095_a263c8ef92df4daca07976e74f656628~mv2.jpg/v1/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/interferometromichelsonmicroondas_edited.jpg",
-      "categorys": [
-        "Física"
+        "Física",
+        "Atômica",
+        "Função",
+        "Geometria",
+        "Radiação",
+        "Quântica",
+        "Óptica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Experimento da Gota de Óleo de Millikan",
-      "descript": "",
+      "descript": "Na experiência de Millikan, gotas de óleo produzidas por um pulverizador, são lançadas em uma região onde existe um campo elétrico que é produzido aplicando-se uma diferença de potencial elétrico entre as placas paralelas de um capacitor.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/experimento-gota-oleo-millikan",
       "thumb": "https://static.wixstatic.com/media/e02095_c232fceb0f9249358d54c8276321c264~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/experimentodagota.png",
       "categorys": [
-        "Física"
+        "Física",
+        "Atômica",
+        "Química",
+        "Eletrostática",
+        "Energia",
+        "Estatística",
+        "Força",
+        "Probabilidade",
+        "Quântica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Experimento de Franck-Hertz",
-      "descript": "",
+      "descript": "Esta simulação apresenta um tubo evacuado contento mercúrio (ou argônio ou neônio). No interior do tubo elétrons são liberados no catodo e acelerados pelo potencial positivo de um anodo, ou grade aceleradora (situado em uma posição intermediária dentro do tubo).",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/experimento-de-frank-hertz",
       "thumb": "https://static.wixstatic.com/media/e02095_9ea1cfa78ed5441481318d089da64df6~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/experimentofrackHertzpng.png",
       "categorys": [
-        "Física"
-      ],
-      "author": "LabFis-IFC"
-    },
-    {
-      "name": "Interferômetro de Fabry-Perot para Micro-Ondas",
-      "descript": "",
-      "url": "https://www.laboratoriovirtual.fisica.ufc.br/interferometrofabryperotmicroondas",
-      "thumb": "https://static.wixstatic.com/media/e02095_77d87efdc24a46e486d322801ee51156~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/interferometrofabry.png",
-      "categorys": [
-        "Física"
-      ],
-      "author": "LabFis-IFC"
-    },
-    {
-      "name": "Micro-Ondas",
-      "descript": "",
-      "url": "https://www.laboratoriovirtual.fisica.ufc.br/interferometro-de-michelson",
-      "thumb": "https://static.wixstatic.com/media/e02095_3e5cb51117c04dbdb720590594572627~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/interferometromichelson.png",
-      "categorys": [
-        "Física"
+        "Física",
+        "Atômica",
+        "Química",
+        "Eletrodinâmica",
+        "Eletrostática",
+        "Energia",
+        "Gráfico",
+        "Momentum",
+        "Probabilidade",
+        "Quântica"
       ],
       "author": "LabFis-IFC"
     },
     {
       "name": "Adição de vetores",
-      "descript": "",
+      "descript": "Nessa simulação dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
       "url": "https://ophysics.com/k1.html",
       "thumb": "https://ophysics.com/images/thumbs/k1thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Adição e subtração de vetores",
-      "descript": "",
+      "descript": "Esta é uma simulação de adição e subtração de vetores. É possível variar o tamanho e a orientação do vetor.",
       "url": "https://ophysics.com/k2.html",
       "thumb": "https://ophysics.com/images/thumbs/k2thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Componentes do Vetor",
-      "descript": "",
+      "descript": "Esta é uma simples simulação que permite ao estudante informar a intensidade e a direção do vetor e com base nessas informações mostrar as componentes x e y desse vetor numericamente e graficamente.",
       "url": "https://ophysics.com/k3.html",
       "thumb": "https://ophysics.com/images/thumbs/k3thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Prática de adição e subtração de vetores",
-      "descript": "",
+      "descript": "O simulador tem como objetivo somar e subtrair vetores de forma prática.",
       "url": "https://ophysics.com/k3b.html",
       "thumb": "https://ophysics.com/images/thumbs/k3bthumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Aceleração Uniforme em Uma Dimensão: Gráficos de Movimento",
-      "descript": "",
+      "descript": "A simulação tem como objetivo auxiliar todos a terem um melhor entendimento a respeito da relação de diversas variáveis relacionadas ao movimento uniformemente acelerado.",
       "url": "https://ophysics.com/k4.html",
       "thumb": "https://ophysics.com/images/thumbs/k4thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Gráficos de Posição, Velocidade e Aceleração versus Tempo",
-      "descript": "",
+      "descript": "A simulação permite ajustar o gráfico de velocidade x tempo com o objetivo de verificar as alterações provocadas nos gráficos de posição e aceleração.",
       "url": "https://ophysics.com/k4b.html",
       "thumb": "https://ophysics.com/images/thumbs/k4bthumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Gráficos cinemáticos: ajuste a aceleração",
-      "descript": "",
+      "descript": "O simulador apresenta os gráficos de posição, velocidade e aceleração com relação ao tempo. Mediante o ajuste do gráfico da aceleração é possível acompanhar as alterações desencadedas nos demais gráficos.",
       "url": "https://ophysics.com/k5.html",
       "thumb": "https://ophysics.com/images/thumbs/k5thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7251,7 +7332,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k5athumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7262,7 +7346,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k6thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7273,7 +7360,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k7thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7284,7 +7374,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k8thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7295,7 +7388,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k9thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7306,7 +7402,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k10thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   },
@@ -7317,7 +7416,10 @@
       "thumb": "https://ophysics.com/images/thumbs/k11thumb.jpeg",
       "categorys": [
           "Física",
-          "Cinemática"
+          "Cinemática",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria"
       ],
       "author": "Ophysics"
   }
