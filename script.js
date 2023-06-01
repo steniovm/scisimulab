@@ -69,7 +69,7 @@ function listSimuls(list, tudo=false){
   list.forEach((simulacao,index) => {
     if (index<nimg){
     simuls += (`
-    <a class="card" href="${simulacao.url}">
+    <a class="card" href="${simulacao.url}#disqus_thread">
       <h3>${simulacao.name}</h3>
       <img src="${simulacao.thumb ? simulacao.thumb : unimage}" alt="imagem da simulação ${simulacao.name}"/>
       <p>${simulacao.descript}</p>
@@ -78,7 +78,7 @@ function listSimuls(list, tudo=false){
     </a>
     `);} else {
       simuls += (`
-    <a class="card" href="${simulacao.url}">
+    <a class="card" href="${simulacao.url}#disqus_thread">
       <h3>${simulacao.name}</h3>
       <label><strong>Categorias: </strong>${simulacao.categorys.join(', ')}</label>
       <label><strong>Autor: </strong>${simulacao.author}</label>
@@ -233,7 +233,7 @@ fetch(urldata)
       <li>
         <input type="radio" id="slide${i}" name="slide">
         <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
-        <a class="card mycard" href="${mysimul[i].url}">
+        <a class="card mycard" href="${mysimul[i].url}#disqus_thread">
           <div>
               <h3>${mysimul[i].name}</h3>
               <label><strong>Categorias: </strong>${mysimul[i].categorys.join(', ')}</label>
@@ -249,7 +249,7 @@ fetch(urldata)
     data.fontes.forEach(fonte => {
       const fonteItem = document.createElement('a');
       fonteItem.classList.add("emphasis");
-      fonteItem.href = fonte.url;
+      fonteItem.href = fonte.url+"#disqus_thread";
       fonteItem.innerHTML = `<img src="${fonte.thumb}" alt="imagem de colaborador"/>${fonte.text}`;
       resources.appendChild(fonteItem);
     });
