@@ -7422,5 +7422,95 @@
           "Trigonometria"
       ],
       "author": "Ophysics"
-  }
+  },
+  {
+    "name": "Atrito: puxando uma caixa em uma superfície horizontal",
+    "descript": "",
+    "url": "https://ophysics.com/f1.html",
+    "thumb": "https://ophysics.com/images/thumbs/f1thumb.jpeg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+},
+{
+    "name": "Atrito estático e cinético em um plano inclinado",
+    "descript": "",
+    "url": "https://ophysics.com/f2.html",
+    "thumb": "https://ophysics.com/images/thumbs/f2thumb.jpeg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+},
+{
+    "name": "Atwood's Machine / Atwood's Incline",
+    "descript": "",
+    "url": "https://ophysics.com/f3.html",
+    "thumb": "https://ophysics.com/images/thumbs/f3thumb.jpeg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+},
+{
+    "name": "O pêndulo cônico",
+    "descript": "",
+    "url": "https://ophysics.com/f4.html",
+    "thumb": "https://ophysics.com/images/thumbs/f4thumb.jpeg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+},
+{
+    "name": "Pêndulo Cônico: 3D",
+    "descript": "",
+    "url": "https://ophysics.com/f5.html",
+    "thumb": "https://ophysics.com/images/thumbs/f5thumb2.jpg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+},
+{
+    "name": "Órbitas elípticas e a 2ª Lei de Kepler",
+    "descript": "",
+    "url": "https://ophysics.com/f6.html",
+    "thumb": "https://ophysics.com/images/thumbs/f6thumb.jpeg",
+    "categorys": [
+        "Física",
+        "Cinemática",
+        "Força",
+        "Vetores",
+        "Gráfico",
+        "Trigonometria"
+    ],
+    "author": "Ophysics"
+}
 ]
