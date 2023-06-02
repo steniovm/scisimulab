@@ -7327,7 +7327,7 @@
   },
   {
       "name": "Cinemática 1D: gráficos de velocidade x tempo",
-      "descript": "",
+      "descript": "Esta simulação mostra o gráfico de velocidade x tempo para um objeto que se move ao longo de uma linha reta. Ajuste as velocidades e o intervalo de tempo.",
       "url": "https://ophysics.com/k5a.html",
       "thumb": "https://ophysics.com/images/thumbs/k5athumb.jpeg",
       "categorys": [
@@ -7341,7 +7341,7 @@
   },
   {
       "name": "Aceleração uniforme em uma dimensão",
-      "descript": "",
+      "descript": "Esta é uma simulação do movimento de um carro em aceleração uniforme. A posição inicial, a velocidade inicial e a aceleração do carro podem ser ajustadas.",
       "url": "https://ophysics.com/k6.html",
       "thumb": "https://ophysics.com/images/thumbs/k6thumb.jpeg",
       "categorys": [
@@ -7355,7 +7355,7 @@
   },
   {
       "name": "Cinemática em uma dimensão: sistema de dois objetos",
-      "descript": "",
+      "descript": "Esta é uma simulação de dois carros se movendo em uma dimensão. Pode ajustar a posição inicial, velocidade inicial e aceleração, assistir a uma animação do movimento dos carros e também ver o gráfico de posição versus tempo.",
       "url": "https://ophysics.com/k7.html",
       "thumb": "https://ophysics.com/images/thumbs/k7thumb.jpeg",
       "categorys": [
@@ -7369,7 +7369,7 @@
   },
   {
       "name": "Movimento do projétil",
-      "descript": "",
+      "descript": "Explore o movimento do projétil alterando as condições iniciais e observando as mudanças resultantes no movimento do projétil.",
       "url": "https://ophysics.com/k8.html",
       "thumb": "https://ophysics.com/images/thumbs/k8thumb.jpeg",
       "categorys": [
@@ -7377,13 +7377,14 @@
           "Cinemática",
           "Vetores",
           "Gráfico",
-          "Trigonometria"
+          "Trigonometria",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Explorando os conceitos de movimento de projéteis",
-      "descript": "",
+      "descript": "Quatro projéteis são lançados sobre o nível do solo em ângulos de 20, 30, 45 e 60 graus. Os alunos podem explorar vários tipos de movimento de projéteis e responder a questões conceituais sobre o tempo no ar, velocidade inicial horizontal e vertical e resultante.",
       "url": "https://ophysics.com/k9.html",
       "thumb": "https://ophysics.com/images/thumbs/k9thumb.jpeg",
       "categorys": [
@@ -7391,13 +7392,14 @@
           "Cinemática",
           "Vetores",
           "Gráfico",
-          "Trigonometria"
+          "Trigonometria",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Movimento do Projétil: Tranquilize o Macaco",
-      "descript": "",
+      "descript": "Há um macaco pendurado em um galho de árvore. Seu objetivo é atirar no macaco (com um dardo tranquilizante, é claro). O macaco vai soltar o galho no momento em que você disparar a arma tranquilizante.",
       "url": "https://ophysics.com/k10.html",
       "thumb": "https://ophysics.com/images/thumbs/k10thumb.jpeg",
       "categorys": [
@@ -7405,13 +7407,14 @@
           "Cinemática",
           "Vetores",
           "Gráfico",
-          "Trigonometria"
+          "Trigonometria",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Velocidade Relativa: Barco Atravessando um Rio",
-      "descript": "",
+      "descript": "Esta é uma simulação destinada a ajudar os alunos a compreender os conceitos de velocidade relativa e adição de vetores.",
       "url": "https://ophysics.com/k11.html",
       "thumb": "https://ophysics.com/images/thumbs/k11thumb.jpeg",
       "categorys": [
@@ -7419,13 +7422,14 @@
           "Cinemática",
           "Vetores",
           "Gráfico",
-          "Trigonometria"
+          "Trigonometria",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
     "name": "Atrito: puxando uma caixa em uma superfície horizontal",
-    "descript": "",
+    "descript": "Uma caixa sendo puxada ao longo de uma superfície horizontal por uma corda. Os alunos podem usar a simulação para explorar os efeitos do atrito estático e cinético e sua relação com a força normal da superfície.",
     "url": "https://ophysics.com/f1.html",
     "thumb": "https://ophysics.com/images/thumbs/f1thumb.jpeg",
     "categorys": [
@@ -7434,13 +7438,14 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Mecânica"
     ],
     "author": "Ophysics"
 },
 {
     "name": "Atrito estático e cinético em um plano inclinado",
-    "descript": "",
+    "descript": "Uma caixa sendo puxada ao longo de um plano inclinado por uma corda. Os alunos podem usar a simulação para explorar os efeitos do atrito estático e cinético e sua relação com a inclinação do plano.",
     "url": "https://ophysics.com/f2.html",
     "thumb": "https://ophysics.com/images/thumbs/f2thumb.jpeg",
     "categorys": [
@@ -7449,13 +7454,14 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Mecânica"
     ],
     "author": "Ophysics"
 },
 {
     "name": "Atwood's Machine / Atwood's Incline",
-    "descript": "",
+    "descript": "Dois objetos presos um ao outro por uma corda sem massa. A corda passa por uma polia sem massa e sem atrito. Pode-se ajustar as massas dos dois objetos, o ângulo da inclinação e o coeficiente de atrito entre a massa m e a inclinação.",
     "url": "https://ophysics.com/f3.html",
     "thumb": "https://ophysics.com/images/thumbs/f3thumb.jpeg",
     "categorys": [
@@ -7464,13 +7470,14 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Mecânica"
     ],
     "author": "Ophysics"
 },
 {
     "name": "O pêndulo cônico",
-    "descript": "",
+    "descript": "Um pêndulo cônico consiste em um objeto preso a uma corda e movendo-se em um círculo horizontal. O comprimento da corda é fixo, ajuste o raio, a velocidade da animação e o ângulo de visão.",
     "url": "https://ophysics.com/f4.html",
     "thumb": "https://ophysics.com/images/thumbs/f4thumb.jpeg",
     "categorys": [
@@ -7479,13 +7486,14 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Mecânica"
     ],
     "author": "Ophysics"
 },
 {
     "name": "Pêndulo Cônico: 3D",
-    "descript": "",
+    "descript": "Um pêndulo cônico consiste em um objeto preso a uma corda e movendo-se em um círculo horizontal. Ajuste o comprimento da corda, a velocidade, a velocidade da animação e o ângulo de visão.",
     "url": "https://ophysics.com/f5.html",
     "thumb": "https://ophysics.com/images/thumbs/f5thumb2.jpg",
     "categorys": [
@@ -7494,13 +7502,14 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Mecânica"
     ],
     "author": "Ophysics"
 },
 {
     "name": "Órbitas elípticas e a 2ª Lei de Kepler",
-    "descript": "",
+    "descript": "Uma simulação de um planeta orbitando um sol. Pode-se ajustar a velocidade inicial do planeta, a distância inicial do centro do planeta ao centro do sol e a massa do sol. A órbita será elíptica, circular, parabólica ou hiperbólica, dependendo das condições iniciais. Mostra a 2ª Lei de Kepler do traço do movimento planetário para ver a órbita elíptica dividida em oito fatias de área igual, cada uma varrida em tempos iguais.",
     "url": "https://ophysics.com/f6.html",
     "thumb": "https://ophysics.com/images/thumbs/f6thumb.jpeg",
     "categorys": [
@@ -7509,8 +7518,4278 @@
         "Força",
         "Vetores",
         "Gráfico",
-        "Trigonometria"
+        "Trigonometria",
+        "Astronomia",
+        "Gravitação",
+        "Mecânica"
     ],
     "author": "Ophysics"
-}
+  },
+  {
+        "name": "Conservação da Energia Mecânica: Massa em uma Mola Vertical",
+        "descript": "Mostra uma massa oscilando na extremidade de uma mola. As energias cinética, gravitacional e potencial elástica são apresentadas em gráficos. Ajuste a massa e a constante da mola.",
+        "url": "https://ophysics.com/e1.html",
+        "thumb": "https://ophysics.com/images/thumbs/e1thumb.jpg",
+        "categorys": [
+            "Física",
+            "Energia",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Oscilações",
+            "Mecânica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Momento e Energia: Colisões Elásticas e Inelásticas",
+        "descript": "Uma colisão em uma dimensão entre duas massas inicialmente deslizando uma em direção à outra em uma superfície sem atrito. Explore a conservação da energia e do momento, a elasticidade e a velocidade relativa. Ajuste as velocidades iniciais, massas e elasticidade.",
+        "url": "https://ophysics.com/e2.html",
+        "thumb": "https://ophysics.com/images/thumbs/e2thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Energia",
+            "Mecânica",
+            "Momentum"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Momentum & Energy: Explosive Collisions",
+        "descript": "Duas massas inicialmente deslizando ou estacionárias em uma superfície sem atrito com uma carga explosiva entre elas. Explorar a conservação da energia e do momento. Ajuste a velocidade inicial, as massas das caixas e a energia explosiva.",
+        "url": "https://ophysics.com/e2a.html",
+        "thumb": "https://ophysics.com/images/thumbs/e2athumb.jpg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Energia",
+            "Mecânica",
+            "Momentum"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "O pêndulo balístico",
+        "descript": "Um pêndulo balístico é um dispositivo usado para determinar a velocidade de uma bala.",
+        "url": "https://ophysics.com/e3.html",
+        "thumb": "https://ophysics.com/images/thumbs/e3thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Energia",
+            "Função",
+            "Momentum"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "O pêndulo balístico \"Quiz\"",
+        "descript": "A velocidade inicial não é mostrada - ela deve ser determinada pelo usuário.",
+        "url": "https://ophysics.com/e4.html",
+        "thumb": "https://ophysics.com/images/thumbs/e4thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Energia",
+            "Função",
+            "Jogo",
+            "Momentum"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Deixando cair uma massa sobre outra massa oscilante",
+        "descript": "Uma massa oscilando na ponta de uma mola, então tem outra massa caindo sobre ela. Pode escolher que a massa caia quando a massa oscilante estiver em sua posição de equilíbrio ou em seu deslocamento máximo do equilíbrio e ajustar a massa do objeto que está sendo solto.",
+        "url": "https://ophysics.com/e5.html",
+        "thumb": "https://ophysics.com/images/thumbs/e5thumb.jpg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Energia",
+            "Função",
+            "Momentum",
+            "Oscilações"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Centro de massa: pessoa em uma jangada flutuante",
+        "descript": "Uma pessoa caminhando em uma jangada flutuante. Pode-se ajustar a massa da jangada, a massa da pessoa e a velocidade da animação.",
+        "url": "https://ophysics.com/e6.html",
+        "thumb": "https://ophysics.com/images/thumbs/e6thumb.jpg",
+        "categorys": [
+            "Física",
+            "Cinemática",
+            "Força",
+            "Vetores",
+            "Gráfico",
+            "Trigonometria",
+            "Momentum"
+        ],
+        "author": "Ophysics"
+    },
+    {
+      "name": "Movimento Harmônico Simples, Movimento Circular e Ondas Transversais",
+      "descript": "Uma exploração das relações entre Movimento Harmônico Simples, Movimento Circular Uniforme e Movimento de Onda Transversal.",
+      "url": "https://ophysics.com/w0.html",
+      "thumb": "https://ophysics.com/images/thumbs/w0thumb.jpg",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Movimento Harmônico Simples: Massa em uma Mola",
+      "descript": "Mostra a oscilação de uma caixa presa a uma mola. Ajuste a posição inicial da caixa, a massa da caixa e a constante da mola.",
+      "url": "https://ophysics.com/w1.html",
+      "thumb": "https://ophysics.com/images/thumbs/w1thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Questionário de gráficos de oscilação",
+      "descript": "É mostrado um gráfico de movimento para um objeto oscilante. Pode ser de posição, velocidade, aceleração ou força. De quatro outros gráficos de grandesas diferente deve escolher aquele que corresponde ao movimento mostrado no gráfico original.",
+      "url": "https://ophysics.com/w1a.html",
+      "thumb": "https://ophysics.com/images/thumbs/w1athumb.jpeg",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Tutorial de Movimento Harmônico Simples",
+      "descript": "Várias etapas sobre Movimento Harmônico Simples, mostrando derivações das equações para posição, velocidade, aceleração e período de um objeto em movimento harmônico simples.",
+      "url": "https://ophysics.com/w1b.html",
+      "thumb": "https://ophysics.com/images/thumbs/w1bthumb.jpeg",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas Tutorial",
+      "descript": "Tutorial sobre os fundamentos das ondas mecânicas. Incorpora muitas simulações  muitas informações gerais sobre ondas.",
+      "url": "https://ophysics.com/waves1.html",
+      "thumb": "https://ophysics.com/images/onespring.gif",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Interferência e sobreposição de pulsos de onda",
+      "descript": "Subreposição de dois pulsos de ondas. Pode-se alterar a altura e a largura dos pulsos, bem como a velocidade da animação.",
+      "url": "https://ophysics.com/w2.html",
+      "thumb": "https://ophysics.com/images/thumbs/w2thumb.jpg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Interferência e Sobreposição de Pulso de Onda 2",
+      "descript": "Dois pulsos de onda movendo-se ao longo da mesma corda em direções opostas. Quando se sobrepõem sua soma é mostrado o princípio da superposição.",
+      "url": "https://ophysics.com/w2a.html",
+      "thumb": "https://ophysics.com/images/thumbs/w2athumb.jpg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Prática de Sobreposição de Pulso de Onda",
+      "descript": "Interferência de dois pulsos de onda em uma corda. Escolha as formas dos pulsos movendo manualmente pontos e mova os pulsos para ver a sobreposição.",
+      "url": "https://ophysics.com/w2b.html",
+      "thumb": "https://ophysics.com/images/thumbs/w2bthumb.jpg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Superposição de Ondas Transversais",
+      "descript": "Simulação da superposição de duas ondas movendo-se no mesmo meio.",
+      "url": "https://ophysics.com/w3.html",
+      "thumb": "https://ophysics.com/images/thumbs/w3thumb.jpg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Função",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Animação de Movimento Harmônico Simples de Oscilações",
+      "descript": "Relacionando MHS ao movimento circular uniforme.",
+      "url": "https://ophysics.com/w4.html",
+      "thumb": "https://ophysics.com/images/thumbs/w4thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas longitudinais",
+      "descript": "Ondas longitudinais e estacionárias animadas.",
+      "url": "https://ophysics.com/w5.html",
+      "thumb": "https://ophysics.com/images/thumbs/w5thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Noções básicas de ondas longitudinais e transversais",
+      "descript": "Mostra ondas estacionárias em cordas e em colunas de ar abertas e fechadas. Pode-se escolher uma corda ou colunas de ar, bem como o harmônico específico. Mostra as ondas de deslocamento transversal e longitudinal.",
+      "url": "https://ophysics.com/w6.html",
+      "thumb": "https://ophysics.com/images/thumbs/w6thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas estacionárias",
+      "descript": "Mostra ondas estacionárias em cordas e em colunas de ar abertas e fechadas. Pode-se escolher uma corda ou colunas de ar, bem como o harmônico específico. Mostra as ondas de deslocamento transversal e longitudinal.",
+      "url": "https://ophysics.com/w7.html",
+      "thumb": "https://ophysics.com/images/thumbs/w7thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações",
+          "Acústica"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas estacionárias em cordas",
+      "descript": "Ondas estacionárias em cordas. Pode-se ajustar a frequência vibracional, a densidade linear e a tensão da corda.",
+      "url": "https://ophysics.com/w8.html",
+      "thumb": "https://ophysics.com/images/thumbs/w8thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Função",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Reflexão de pulso de onda (extremidades livres e fixas)",
+      "descript": "Um pulso de onda ricocheteando na extremidade de uma corda. A ponta da corda pode ser fixa ou livre, e há opções para mostrar as ondas não perturbadas incidentes e refletidas.",
+      "url": "https://ophysics.com/w9.html",
+      "thumb": "https://ophysics.com/images/thumbs/w9thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ressonância de Colunas de Ar",
+      "descript": "Mostrar como funciona o processo de ressonância de ondas sonoras em colunas de ar.",
+      "url": "https://ophysics.com/w10.html",
+      "thumb": "https://ophysics.com/images/thumbs/w10thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações",
+          "Acústica"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ressonância de Coluna de Ar com Ondas Longitudinais",
+      "descript": "Permite observar duas ondas estacionárias. Pode-se ajustar o comprimento do tubo e da onda.",
+      "url": "https://ophysics.com/w10b.html",
+      "thumb": "https://ophysics.com/images/thumbs/w10bthumb.jpeg",
+      "categorys": [
+          "Física",
+          "Gráfico",
+          "Ondas",
+          "Oscilações",
+          "Acústica"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "O efeito Doppler e Sonic Boom",
+      "descript": "Permite explorar o efeito Doppler para som e Sonic Boom. Pode-se ajustar a velocidade da fonte e do observador de som.",
+      "url": "https://ophysics.com/w11.html",
+      "thumb": "https://ophysics.com/images/thumbs/w11thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações",
+          "Acústica"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Interferência de ondas de superfície em 3D",
+      "descript": "Simulação em 3D que mostra a interferência de ondas de superfície. Visualize de vários ângulos e ajuste a frequência, amplitude e distância entre as duas fontes de onda.",
+      "url": "https://ophysics.com/w12.html",
+      "thumb": "https://ophysics.com/images/thumbs/w12thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Vetores",
+          "Gráfico",
+          "Ondas",
+          "Oscilações",
+          "Função"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas de superfície",
+      "descript": "Uma simulação de uma onda de superfície. Pode-se ajustar a amplitude, o comprimento de onda e a velocidade da onda. Mostra que o movimento da partícula na onda é circular.",
+      "url": "https://ophysics.com/w13.html",
+      "thumb": "",
+      "categorys": [
+          "Física",
+          "Força",
+          "Vetores",
+          "Gráfico",
+          "Trigonometria",
+          "Ondas",
+          "Oscilações"
+      ],
+      "author": "Ophysics"
+  },
+  {
+        "name": "Mistura de luz",
+        "descript": "",
+        "url": "https://ophysics.com/l1.html",
+        "thumb": "https://ophysics.com/images/thumbs/l1thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Mistura de pigmentos de cores",
+        "descript": "",
+        "url": "https://ophysics.com/l2.html",
+        "thumb": "https://ophysics.com/images/thumbs/l2thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Polarização da Luz",
+        "descript": "",
+        "url": "https://ophysics.com/l3.html",
+        "thumb": "https://ophysics.com/images/thumbs/l3thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Difração e interferência de fenda dupla",
+        "descript": "",
+        "url": "https://ophysics.com/l4.html",
+        "thumb": "https://ophysics.com/images/thumbs/l4thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Interferência de Fenda Dupla",
+        "descript": "",
+        "url": "https://ophysics.com/l5.html",
+        "thumb": "https://ophysics.com/images/thumbs/l5thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Laboratório de Grade de Difração Laser",
+        "descript": "",
+        "url": "https://ophysics.com/l5b.html",
+        "thumb": "https://ophysics.com/images/thumbs/l5bthumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Thin Film Interference",
+        "descript": "",
+        "url": "https://ophysics.com/l6.html",
+        "thumb": "https://ophysics.com/images/thumbs/l6thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Reflexão e refração",
+        "descript": "",
+        "url": "https://ophysics.com/l7.html",
+        "thumb": "https://ophysics.com/images/thumbs/l7thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Dispersão de luz",
+        "descript": "",
+        "url": "https://ophysics.com/l8.html",
+        "thumb": "https://ophysics.com/images/thumbs/l8thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Espelhos planos",
+        "descript": "",
+        "url": "https://ophysics.com/l9.html",
+        "thumb": "https://ophysics.com/images/thumbs/l9thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Espelhos Côncavos e Convexos",
+        "descript": "",
+        "url": "https://ophysics.com/l10.html",
+        "thumb": "https://ophysics.com/images/thumbs/l10thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Simulação de espelho esférico do iPad",
+        "descript": "",
+        "url": "https://ophysics.com/l11.html",
+        "thumb": "https://ophysics.com/images/thumbs/l11thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Lentes Côncavas e Convexas",
+        "descript": "",
+        "url": "https://ophysics.com/l12.html",
+        "thumb": "https://ophysics.com/images/thumbs/l12thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Simulação de lente para iPad",
+        "descript": "",
+        "url": "https://ophysics.com/l13.html",
+        "thumb": "https://ophysics.com/images/thumbs/l13thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Lente de refração e aberração esférica",
+        "descript": "",
+        "url": "https://ophysics.com/l14.html",
+        "thumb": "https://ophysics.com/images/thumbs/l14thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Lentes e",
+        "descript": "",
+        "url": "https://ophysics.com/l15.html",
+        "thumb": "https://ophysics.com/images/thumbs/l15thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Formação de Imagens 2D por Lentes",
+        "descript": "",
+        "url": "https://ophysics.com/l15b.html",
+        "thumb": "https://ophysics.com/images/thumbs/l15bthumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Ótica do olho humano",
+        "descript": "",
+        "url": "https://ophysics.com/l16.html",
+        "thumb": "https://ophysics.com/images/thumbs/l16thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Formação do arco-íris",
+        "descript": "",
+        "url": "https://ophysics.com/l17.html",
+        "thumb": "https://ophysics.com/images/thumbs/l17thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Formação do arco-íris em 3D",
+        "descript": "",
+        "url": "https://ophysics.com/l18.html",
+        "thumb": "https://ophysics.com/images/thumbs/l18thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "AP Física 2 Problema de refração",
+        "descript": "",
+        "url": "https://ophysics.com/l19.html",
+        "thumb": "https://ophysics.com/images/thumbs/l19thumb.jpg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Formação de imagem com lentes convexas",
+        "descript": "",
+        "url": "https://ophysics.com/l20.html",
+        "thumb": "https://ophysics.com/images/thumbs/l20thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+      "name": "Lei de Coulomb com dois objetos carregados",
+      "descript": "",
+      "url": "https://ophysics.com/em1.html",
+      "thumb": "https://ophysics.com/images/thumbs/em1thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "O experimento da gota de óleo de Millikan",
+      "descript": "",
+      "url": "https://ophysics.com/em2.html",
+      "thumb": "https://ophysics.com/images/thumbs/em2thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Laboratório de relação carga/massa do elétron",
+      "descript": "",
+      "url": "https://ophysics.com/em2a.html",
+      "thumb": "https://ophysics.com/images/thumbs/em2athumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Ondas Eletromagnéticas",
+      "descript": "",
+      "url": "https://ophysics.com/em3.html",
+      "thumb": "https://ophysics.com/images/thumbs/em3thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Campo elétrico e potencial",
+      "descript": "",
+      "url": "https://ophysics.com/em4.html",
+      "thumb": "https://ophysics.com/images/thumbs/em4thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Circuito Elétrico com Quatro Lâmpadas Idênticas",
+      "descript": "",
+      "url": "https://ophysics.com/em4a.html",
+      "thumb": "https://ophysics.com/images/thumbs/em4athumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Laboratório de capacitores",
+      "descript": "",
+      "url": "https://ophysics.com/em5.html",
+      "thumb": "https://ophysics.com/images/thumbs/em5thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Partícula carregada em um campo elétrico",
+      "descript": "",
+      "url": "https://ophysics.com/em6.html",
+      "thumb": "https://ophysics.com/images/thumbs/em6thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Partícula carregada em um campo magnético",
+      "descript": "",
+      "url": "https://ophysics.com/em7.html",
+      "thumb": "https://ophysics.com/images/thumbs/em7thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Partícula carregada em um campo magnético 3D",
+      "descript": "",
+      "url": "https://ophysics.com/em8.html",
+      "thumb": "https://ophysics.com/images/mag3d.jpg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Equipotenciais e campo elétrico de duas cargas",
+      "descript": "",
+      "url": "https://ophysics.com/em9.html",
+      "thumb": "https://ophysics.com/images/thumbs/em9thumb.jpeg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Motor DC",
+      "descript": "",
+      "url": "https://ophysics.com/em10.html",
+      "thumb": "https://ophysics.com/images/thumbs/em10thumb.jpg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+      "name": "Indução Eletromagnética",
+      "descript": "",
+      "url": "https://ophysics.com/em11.html",
+      "thumb": "https://ophysics.com/images/thumbs/em11thumb.jpg",
+      "categorys": [
+          "Física",
+          "Geometria",
+          "Gráfico",
+          "Oscilações",
+          "Eletrodinâmica",
+          "Eletromagnetismo",
+          "Eletrostática"
+      ],
+      "author": "Ophysics"
+  },
+  {
+        "name": "Fundamentos do movimento de rolamento + cicloides",
+        "descript": "",
+        "url": "https://ophysics.com/r1a.html",
+        "thumb": "https://ophysics.com/images/thumbs/r1athumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Rotação, Deslizamento, Rolamento e Atrito",
+        "descript": "",
+        "url": "https://ophysics.com/r1.html",
+        "thumb": "https://ophysics.com/images/thumbs/r1thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Rotação: Movimento de Rolagem",
+        "descript": "",
+        "url": "https://ophysics.com/r2.html",
+        "thumb": "https://ophysics.com/images/thumbs/r2thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Momento de inércia: rolar e deslizar em um plano inclinado",
+        "descript": "",
+        "url": "https://ophysics.com/r3.html",
+        "thumb": "https://ophysics.com/images/thumbs/r3thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Inércia rotacional e torque",
+        "descript": "",
+        "url": "https://ophysics.com/r4.html",
+        "thumb": "https://ophysics.com/images/thumbs/r4thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Laboratório de inércia rotacional (escolha de três cenários)",
+        "descript": "",
+        "url": "https://ophysics.com/r5.html",
+        "thumb": "https://ophysics.com/images/thumbs/r5thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Problema de equilíbrio: barra sustentada por cabo",
+        "descript": "",
+        "url": "https://ophysics.com/r6.html",
+        "thumb": "https://ophysics.com/images/thumbs/r6thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Angular Momentum Collision",
+        "descript": "",
+        "url": "https://ophysics.com/r7.html",
+        "thumb": "https://ophysics.com/images/thumbs/r7thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Atirando balas verticalmente para cima em dois blocos de madeira",
+        "descript": "",
+        "url": "https://ophysics.com/r8.html",
+        "thumb": "https://ophysics.com/images/thumbs/r8thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Momento Angular: Pessoa em Plataforma Rotativa",
+        "descript": "",
+        "url": "https://ophysics.com/r9.html",
+        "thumb": "https://ophysics.com/images/thumbs/r9thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Função",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
+        ],
+        "author": "Ophysics"
+    },
+{
+        "name": "Flutuabilidade",
+        "descript": "",
+        "url": "https://ophysics.com/fl1.html",
+        "thumb": "https://ophysics.com/images/thumbs/fl1thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Função",
+            "Hidrostática"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Dinâmica dos Fluidos e a Equação de Bernoulli",
+        "descript": "",
+        "url": "https://ophysics.com/fl2.html",
+        "thumb": "https://ophysics.com/images/thumbs/fl2thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Função",
+            "Hidrostática"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Níveis de energia de hidrogênio",
+        "descript": "Uma simulação de um diagrama de nível de energia atômica do átomo de hidrogênio.",
+        "url": "https://ophysics.com/m1.html",
+        "thumb": "https://ophysics.com/images/thumbs/m1thumb.jpg",
+        "categorys": [
+            "Física",
+            "Atômica",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Momentum",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Relatividade"            
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Ferramentas básicas para desenho de circuitos elétricos",
+        "descript": "",
+        "url": "https://ophysics.com/t1.html",
+        "thumb": "https://ophysics.com/images/thumbs/t1thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Ferramentas de Desenho de Mecânica",
+        "descript": "",
+        "url": "https://ophysics.com/t2.html",
+        "thumb": "https://ophysics.com/images/thumbs/t2thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Criador de gráficos",
+        "descript": "",
+        "url": "https://ophysics.com/t3.html",
+        "thumb": "https://ophysics.com/images/thumbs/t3thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Gráficos de múltipla escolha com quatro opções",
+        "descript": "",
+        "url": "https://ophysics.com/t4.html",
+        "thumb": "https://ophysics.com/images/thumbs/t4thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Ilusão óptica de movimento harmônico simples",
+        "descript": "",
+        "url": "https://ophysics.com/fs1.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs1thumb.jpeg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Mola em queda com massas acopladas",
+        "descript": "",
+        "url": "https://ophysics.com/fs2.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs2thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Onda de pêndulo em duas dimensões",
+        "descript": "",
+        "url": "https://ophysics.com/fs3.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs3thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Art Maker",
+        "descript": "",
+        "url": "https://ophysics.com/fs4.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs4thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Diagramas de Voronoi usando cones",
+        "descript": "",
+        "url": "https://ophysics.com/fs5.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs5thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Fazendo malabarismo com 13 bolas",
+        "descript": "",
+        "url": "https://ophysics.com/fs6.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs6thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Embaralhamento perfeito de cartas",
+        "descript": "",
+        "url": "https://ophysics.com/fs7.html",
+        "thumb": "https://ophysics.com/images/thumbs/fs7thumb.jpg",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Números",
+            "Óptica"
+        ],
+        "author": "Ophysics"
+    },
+    {
+        "name": "Chemthink – Estrutura Atômica (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/429/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-9.11.30-PM-393x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – A Natureza Particulada da Matéria (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/429/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-8.35.40-PM-352x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Formação de íons (versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/ionstutorial-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Ligação Iônica (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.25.44-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Fórmulas Iônicas (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ions/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-9.42.52-AM-336x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Ligação Covalente (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ions/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.32.52-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Formas Moleculares (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-bonding/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-16-at-1.26.18-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – O Comportamento dos Gases (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-bonding/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/gasbehaviorlaunchimage-1-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink*** – Precipita Simulação de Laboratório",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-formulas/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-14-at-9.26.18-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Reações Químicas (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-formulas/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.51.13-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Chemthink – Isótopos (Versão HTML5)",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/436/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.49.12-PM-413x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Foguete de 2 estágios",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/436/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-23-at-9.20.47-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Acelerômetro",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-molecular-shapes/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/IMG_0078-459x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Polarização de Lata de Alumínio",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-molecular-shapes/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.35.24-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de Aceleração Angular",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-gases/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.27.54-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório Atwood",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-gases/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.52-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de Carregamento de Balões",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-precipitates-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-23-at-4.20.27-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Marrons Comem Verdes",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-precipitates-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.10.02-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Padrões de batida",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.45.41-AM-371x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Encargos e Campos",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Construtor de centro de massa",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-isotopes/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-20-at-7.19.07-PM-404x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "jogo de carregamento",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/chemthink-isotopes/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-12.55.55-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Fluxo de Elétrons do Circuito",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/2-stage-rocket/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-11.43.19-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de Carrinhos de Colisão",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/2-stage-rocket/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-9.11.17-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Filtros coloridos",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/accerometer/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.07.42-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Lei de Coulomb",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/accerometer/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.22.23-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Construtor de circuito DC",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.54.15-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de Densidade",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-10.45.39-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Dissolvendo um Cristal de Sal",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.06.06-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Interferência de Fenda Dupla",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-13-at-3.35.22-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Drude Modelo de Condução",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/atwood-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-14-at-1.17.05-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Jogo de Campo Elétrico",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/atwood-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.45.10-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de Paisagens Eletrostáticas",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-6.14.56-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Resfriamento Evaporativo",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-24-at-9.19.58-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Galaxy Simulator",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.48.20-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Correspondência de gráfico",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-3.53.36-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Gráficos e Rampas",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/beat-patterns/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Gravitação",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/beat-patterns/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "pinguim com fome",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.19.48-AM-442x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Jogo de impulso de Keiki",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-10.59.17-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Lei da Reflexão e Tutorial de Imagens Espelhadas Planas",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.43.23-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Princípio do menor tempo",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Laboratório de lentes e espelhos",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/charging-game/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.31.58-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Massas e Molas",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/charging-game/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.13.33-PM-398x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Simulação de fusão e ebulição",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-11.21.23-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "O macaco e o tratador",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Movimento orbital",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-2.59.23-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Osmose",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/colored-filters/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Fosfolipídios",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/colored-filters/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Simulador de projéteis",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/coulombs-law/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "pista de corrida",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/coulombs-law/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Refração",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.32.17-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Adição de cores RGB",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.04.36-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Iluminação RGB",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/density-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-05-at-6.10.35-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "barco fluvial",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/density-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-9.48.51-PM-331x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "trenó foguete",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.35.26-AM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Montanha russa",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.25.39-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Movimento de satélite",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-27-at-8.14.35-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Simulador de onda simples",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.35-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "pára-quedismo",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.17.58-PM-290x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Slinky Lab",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.10.19-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Iluminação de palco",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/electric-field-game/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-11-at-3.53.01-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Simulador de Ondas Estacionárias",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/electric-field-game/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.06.01-PM-460x306.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Sobreposto",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.34.08-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "canhão de bola de tênis",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/09/Screen-Shot-2015-10-07-at-3.46.49-PM-460x288.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Turd the Target",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-12.03.02-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Turd the Target 2 – Turd-a-Pult!",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-1.37.12-PM-460x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Adição de vetores",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/67/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-7.59.40-PM.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Jogo de adivinhação de vetores",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/67/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.02.49-PM-460x307.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Simulação de Água",
+        "descript": "",
+        "url": "https://www.simbucket.com/simulation/graph-matching/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.31.04-PM-392x350.png",
+        "categorys": [
+            "Física",
+            "Química"
+        ],
+        "author": "SimBucket."
+    },
+    {
+        "name": "Irwin e Ruthie",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/irwin-and-ruthie/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/irwin-and-ruthie.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "carro sem motorista",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/driverless-car/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/driverless-car.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Modelo Foguete",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/model-rocket/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/model-rocket.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "No cruzamento",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/at-the-crossroads/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/at-the-crossroads.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Telescópio Cassegrain",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/cassegrain-telescope/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/telescope.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Noite de formatura",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/prom-night/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/prom-night.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Irwin 2D",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/irwin-2d/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/irwin-ruthie-2d.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Patos Doppler",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/doppler-ducks/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/doppler-duck.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "bobsled",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/bobsled/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bobsled.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Canhão de Newton",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/newtons-cannon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/newtons-cannon.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Violino",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/violin/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/violin.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Galeria de retratos",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/portrait-gallery/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/portrait-gallery.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Nado Borboleta",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/butterfly-stroke/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/butterfly-stroke.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Cliff Diver",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/cliff-diver/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/cliff-diver.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Pressão do pneu",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/tire-pressure/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/tire-pressure.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Navio pirata",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/pirate-ship/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pirate-ship-battle.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Arco e flecha",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/bow-and-arrow/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bow-and-arrow.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Aerobarco Everglades",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/everglades-airboat/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/everglades-airboat.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Balão de ar quente",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/hot-air-balloon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-air-balloon.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Elevador",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/elevator/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/elevator.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Avião",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/airplane/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/airplane.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "velocista",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/sprinter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/sprinter.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "loja de malte",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/malt-shop/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/malt-shop.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "cavalo e carroça",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/horse-and-cart/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/horse-and-cart.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Fonte de água",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/water-fountain/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/water-fountain.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Tiro com arco",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/archery/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/archery-2.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Fases da lua",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/phases-of-the-moon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/phases-of-the-moon.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Tetherball",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/tetherball/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/tetherball.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "loop o loop",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/loop-the-loop/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/loop-the-loop.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "o sonho de clark",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/clarkes-dream/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/clarke-dream.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Câmara de Treinamento de Astronautas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/astronaut-training-chamber/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/astronaut-training-chamber.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Ande na corda bamba",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/walk-the-tightrope/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/walk-the-tightrope.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "maçã de newton",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/newtons-apple/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/newtons-apple.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Estação Espacial",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/space-station/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/next-gen-space-station.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Jornada Para Marte",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/journey-to-mars/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/journey-to-mars.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Testes de Balística",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/ballistics-tests/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ballistics-tests.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Boneco de teste de colisão",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/crash-test-dummy/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/crash-test-dummy.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Carros bate-bate",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/bumper-cars/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "colisões",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/collisions/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars-2.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Turbina de vento",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/wind-turbine/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/wind-turbine.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Rampa E Piano",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/ramp-and-piano/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ramp-piano.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "ver serra",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/see-saw/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/see-saw.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Ponte levadiça",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/drawbridge/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/drawbridge.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Movimento orbital",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/orbital-motion/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/orbital-motion.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Monociclo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/unicycle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/unicycle.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Yo Yo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/yo-yo/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/yo-yo.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "pista de boliche",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/bowling-alley/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bowling-alley.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Bloquear e derrubar",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/block-and-tackle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/block-and-tackle.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Trampolim",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/trampoline/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/trampoline.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Partículas de alta energia",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/high-energy-particles/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/high-energy-particles.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Montanha russa",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/roller-coaster/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/roller-coaster.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Salto de esqui",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/ski-jump/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ski-jump.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "A Marina",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/the-marina/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/the-marina.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Motor Térmico",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/heat-engine/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/heat-engine.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "forno quente",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/hot-oven/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-oven.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Treinamento de mergulho",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/scuba-training/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/scuba-training.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "balão fugitivo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/runaway-balloon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/runway-balloon.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Flauta pan",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/pan-flute/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pan-flute.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "onda do estádio",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/stadium-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stadium-wave.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Lago Stow",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/stow-lake/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stow-lake.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Onda de luz",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/light-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/light-wave.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "óculos cor de rosa",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/rose-colored-glasses/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rose-colored-glasses.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "corte de diamante",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/diamond-cut/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/diamond-cut.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Menos tempo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/least-time/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/least-time.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Lentes de contato",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/contact-lens/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/contact-lens.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Lupa",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/magnifying-glass/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/magnifying-glass.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Casa de boneca",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/dollhouse/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/dollhouse.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Luzes de letreiro",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/marquee-lights/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/marquee-lights.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Lanterna",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/flashlight/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashlight.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Pára-raios",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/lightning-rod/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/lightning-rod.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Lei de Coulomb",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/coulombs-law/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/coulombs-law.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "luz neon piscando",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/flashing-neon-light/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashing-neon-light.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Linhas de energia",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/power-lines/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-lines.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Telégrafo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/telegraph/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/telegraph.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Analogias Elétricas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/electric-analogies/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-analogies.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Tela sensível ao toque",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/touch-screen/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/touch-screen.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Galvanômetro",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/galvanometer/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/galvanometer.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "linhas de campo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/field-lines/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/field-lines.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Rastros de Partículas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/particle-tracks/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/particle-tracks.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "campainha",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/doorbell/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/doorbell.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Motor elétrico",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/electric-motor/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-motor.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Transformador CA",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/ac-transformer/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ac-transformer.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Corridas pré-escolares",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/preschool-races/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/preschool-races.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "cores atômicas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/atomic-colors/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/atomic-colors.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Zoológico de Partículas Subatômicas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/subatomic-particle-zoo/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/subatomic-particle-zoo.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Aula de Marie Curie",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/marie-curies-classroom/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/marie-curies-classroom.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Datação por radiocarbono",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/radiocarbon-dating/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/radiocarbon-dating.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Buraco negro",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/black-hole/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/black-hole.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Posição e Deslocamento",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/position-displacement/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/displacement.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Velocidade Relativa",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/relative-velocity/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/relative-velocity.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de masmorra",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Average-Velocity/simulation/Dungeon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Dungeon-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação da Primeira Lei",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/first-law/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/first-law-new.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de fricção",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/friction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/friction.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Corpo Livre",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Problem-Solving-1/simulation/Free-Body-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Free-Body-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação da Terceira Lei",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Newtons-Third-Law/simulation/Third-Law-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Third-Law-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de canhão",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Projectile-Motion/simulation/Cannon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/cannon.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Velocidade Angular",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/angular-speed/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/angular-speed-sim.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "goleiro",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/centripetal-force/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hockey-cp.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de oscilações",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Pendulum/simulation/Oscillations-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Oscillations-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Potência e Eficiência",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Power-and-Efficiency/simulation/Power-and-Efficiency-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-efficiency.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "colisão de carro",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Inelastic-Collisions/simulation/Car-Collision?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Car-Collision.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Manto de Gelo Elétrico",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Coulombs-Law/simulation/Electric-Ice-Sheet?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Electric-Ice-Sheet.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Campos Elétricos",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/electric-field/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-field.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de Capacitores",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/physics/rc-circuit/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rc-circuit.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de resistor",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Resistors-in-Series/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/resistor.jpg?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de resistor",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Resistors-in-Parallel/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Resistor-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Simulação de resistor",
+        "descript": "",
+        "url": "https://www.ck12.org/physics/Resistor-Circuits/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Resistor-Simulation.PNG?_build=202305291230",
+        "categorys": [
+            "Física",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Ir pescar",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/density/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/density.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "airbag",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/decomposition-reaction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/decomposition-reaction.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Pacote Quente Pacote Frio",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/exothermic-and-endothermic/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/exothermic-and-endothermic.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Bateria",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/redox-reaction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/battery.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Balanceamento de Equações Químicas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/balancing-chemical-equations/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/balancing-chemical-equations.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Sabão",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/soap/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/soap.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Construindo pontes",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/kinetic-theory/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/kinetic.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Estradas Salgadas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/freezing-point/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/freezing-point.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "cheiros rápidos",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/diffusion/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/diffusion.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Assuntos Aéreos",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/what-is-air/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/what-is-air.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Mudança de fase",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/phases-of-matter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/phases-of-matter.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Estados da matéria",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/states-of-matter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/states-of-matter.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Gotas pingando",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/intermolecular-forces/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/intermolecular-forces.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Ao redor do mundo",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/boiling-point/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/boiling-point.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Rock Candy",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/solubility/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/solubility.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Soda sem gás vs. com gás",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/le-chateliers-principle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/le-chateliers-principle.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Acampamento - Mudanças Químicas e Físicas",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/campout/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/campout.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Desafio do Construtor de Átomos",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/atom-builder/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/atom-builder.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Experimento da folha de ouro de Rutherford",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/gold-foil/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/gold-foil.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Massa atômica média",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/average-atomic-mass/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/average-atomic-mass.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "carnaval toupeira",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/mole-carnival/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/mole-carnival.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Luzes de neon",
+        "descript": "",
+        "url": "https://interactives.ck12.org/simulations/chemistry/bohr-model-of-electron/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
+        "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/bohr-model-of-electron.jpg?_build=202305291230",
+        "categorys": [
+            "Química",
+            "Jogo"
+        ],
+        "author": "ck12."
+    },
+    {
+        "name": "Mola Simples",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/single-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_spring1.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Mola Dupla",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/double-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_spring.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum1.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo com ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/direction-field-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-direction-field.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "campo de direção",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/chaotic-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum2.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "pêndulo caótico",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/compare-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-compare.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Dois pêndulos ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "caóticos",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/double-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_pendulum.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "pêndulo ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/moveable-double-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-double-pendulum.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "móvel",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/inverted-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-pendulum.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "pêndulo duplo",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/inverted-double-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-double-pendulum.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo duplo ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/2d-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_spring_2d.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "móvel",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/double-2d-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_spring_2d.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo Vibratório ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/collide-blocks-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_collide_blocks.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Invertido",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/cart-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo Duplo ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/dangle-stick-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_dangle_stick.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Invertido",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/rigid-body-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_rigid-body.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Mola 2D",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/collision-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_collision.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Mola Dupla ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/contact-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_contact.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "2D",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/roller-single-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_RollerSimple.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Blocos em colisão",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/roller-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_RollerSpring.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Carrinho + Pêndulo",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/roller-double-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_RollerDouble.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Vara pendurada",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/roller-flight-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_RollerFlight.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Forças ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/rigid-body-roller-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_body_roller.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "de Corpo Rígido",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/roller/brachistochrone-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Brachistochrone.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Colisões ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/billiards-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Billiards.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "de corpos rígidos",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/chain-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Chain.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Forças de contato ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/newtons-cradle-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Newtons-cradle.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "de corpo rígido",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/do-nothing-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_do_nothing.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Montanha russa",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/pendulum-clock-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum_clock.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Montanha- ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/car-suspension-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Car-suspension.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "russa com mola",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/double-pendulum2-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_double_pendulum2.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Montanha russa ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/cart-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum2.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "com duas bolas",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/mars-moon-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_Mars-moon.png",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Montanha-russa ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/curved-objects-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_curved_objects.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "com voo",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/pile-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_pile.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Montanha- ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/pile-attract-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_pile_attract.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "russa de corpo rígido",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/shapes-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_shapes.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "braquistócrona",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pde/string-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_string.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Bilhar",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/rigid-double-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_double_pendulum.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Corrente Pendurada",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/compare-double-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_compare_double_pendulum.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "berço de newton",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/molecule2-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_molecule2.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Não faça nada ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/molecule3-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_molecule3.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "moedor",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/molecule4-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_molecule4.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Relógio de pêndulo",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/molecule5-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_molecule5.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "suspensão do carro",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/molecule6-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_molecule6.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Pêndulo duplo ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/chain-of-springs-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_chain_of_springs.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "com motor de física",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/springs/collide-spring-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_collide_spring.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "Carrinho + Pêndulo ",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/pendulum/reaction-pendulum-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_reaction_pendulum.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    },
+    {
+        "name": "com Motor de Física",
+        "descript": "",
+        "url": "https://www.myphysicslab.com/engine2D/mutual-attract-en.html",
+        "thumb": "https://www.myphysicslab.com/home-page/pic_mutual_attract.gif",
+        "categorys": [
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
+        ],
+        "author": "myphysicslab"
+    }
 ]
