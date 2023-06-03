@@ -7952,30 +7952,23 @@
   },
   {
         "name": "Mistura de luz",
-        "descript": "",
+        "descript": "Misture cores basicas de luz com brilho ajustável. Arraste os círculos para misturar. Altere as intensidades de luz.",
         "url": "https://ophysics.com/l1.html",
         "thumb": "https://ophysics.com/images/thumbs/l1thumb.jpeg",
         "categorys": [
             "Física",
-            "Geometria",
-            "Gráfico",
-            "Ondas",
-            "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Biologia"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Mistura de pigmentos de cores",
-        "descript": "",
+        "descript": "Mistura de pigmentos de cores basicas com brilho ajustável. Arraste os círculos para misturar. Altere o nível de cada um dos pigmentos.",
         "url": "https://ophysics.com/l2.html",
         "thumb": "https://ophysics.com/images/thumbs/l2thumb.jpeg",
         "categorys": [
             "Física",
-            "Geometria",
-            "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
@@ -8901,7 +8894,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – A Natureza Particulada da Matéria (Versão HTML5)",
@@ -8912,7 +8905,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Formação de íons (versão HTML5)",
@@ -8923,7 +8916,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Ligação Iônica (Versão HTML5)",
@@ -8934,7 +8927,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Fórmulas Iônicas (Versão HTML5)",
@@ -8945,7 +8938,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Ligação Covalente (Versão HTML5)",
@@ -8956,7 +8949,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Formas Moleculares (Versão HTML5)",
@@ -8967,7 +8960,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – O Comportamento dos Gases (Versão HTML5)",
@@ -8978,7 +8971,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink*** – Precipita Simulação de Laboratório",
@@ -8989,7 +8982,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Reações Químicas (Versão HTML5)",
@@ -9000,7 +8993,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Chemthink – Isótopos (Versão HTML5)",
@@ -9011,7 +9004,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Foguete de 2 estágios",
@@ -9022,7 +9015,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Acelerômetro",
@@ -9033,7 +9026,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Polarização de Lata de Alumínio",
@@ -9044,7 +9037,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de Aceleração Angular",
@@ -9055,7 +9048,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório Atwood",
@@ -9066,7 +9059,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de Carregamento de Balões",
@@ -9077,7 +9070,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Marrons Comem Verdes",
@@ -9088,7 +9081,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Padrões de batida",
@@ -9099,7 +9092,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Encargos e Campos",
@@ -9110,7 +9103,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Construtor de centro de massa",
@@ -9121,7 +9114,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "jogo de carregamento",
@@ -9132,7 +9125,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Fluxo de Elétrons do Circuito",
@@ -9143,7 +9136,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de Carrinhos de Colisão",
@@ -9154,7 +9147,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Filtros coloridos",
@@ -9165,7 +9158,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Lei de Coulomb",
@@ -9176,7 +9169,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Construtor de circuito DC",
@@ -9187,7 +9180,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de Densidade",
@@ -9198,7 +9191,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Dissolvendo um Cristal de Sal",
@@ -9209,7 +9202,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Interferência de Fenda Dupla",
@@ -9220,7 +9213,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Drude Modelo de Condução",
@@ -9231,7 +9224,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Jogo de Campo Elétrico",
@@ -9242,7 +9235,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de Paisagens Eletrostáticas",
@@ -9253,7 +9246,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Resfriamento Evaporativo",
@@ -9264,7 +9257,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Galaxy Simulator",
@@ -9275,7 +9268,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Correspondência de gráfico",
@@ -9286,7 +9279,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Gráficos e Rampas",
@@ -9297,7 +9290,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Gravitação",
@@ -9308,7 +9301,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "pinguim com fome",
@@ -9319,7 +9312,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Jogo de impulso de Keiki",
@@ -9330,7 +9323,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Lei da Reflexão e Tutorial de Imagens Espelhadas Planas",
@@ -9341,7 +9334,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Princípio do menor tempo",
@@ -9352,7 +9345,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Laboratório de lentes e espelhos",
@@ -9363,7 +9356,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Massas e Molas",
@@ -9374,7 +9367,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Simulação de fusão e ebulição",
@@ -9385,7 +9378,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "O macaco e o tratador",
@@ -9396,7 +9389,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Movimento orbital",
@@ -9407,7 +9400,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Osmose",
@@ -9418,7 +9411,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
@@ -9429,7 +9422,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Fosfolipídios",
@@ -9440,7 +9433,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Simulador de projéteis",
@@ -9451,7 +9444,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "pista de corrida",
@@ -9462,7 +9455,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Refração",
@@ -9473,7 +9466,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Adição de cores RGB",
@@ -9484,7 +9477,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Iluminação RGB",
@@ -9495,7 +9488,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "barco fluvial",
@@ -9506,7 +9499,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "trenó foguete",
@@ -9517,7 +9510,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Montanha russa",
@@ -9528,7 +9521,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Movimento de satélite",
@@ -9539,7 +9532,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Simulador de onda simples",
@@ -9550,7 +9543,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "pára-quedismo",
@@ -9561,7 +9554,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Slinky Lab",
@@ -9572,7 +9565,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Iluminação de palco",
@@ -9583,7 +9576,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Simulador de Ondas Estacionárias",
@@ -9594,7 +9587,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Sobreposto",
@@ -9605,7 +9598,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "canhão de bola de tênis",
@@ -9616,7 +9609,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Turd the Target",
@@ -9627,7 +9620,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Turd the Target 2 – Turd-a-Pult!",
@@ -9638,7 +9631,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Adição de vetores",
@@ -9649,7 +9642,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Jogo de adivinhação de vetores",
@@ -9660,7 +9653,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Simulação de Água",
@@ -9671,7 +9664,7 @@
             "Física",
             "Química"
         ],
-        "author": "SimBucket."
+        "author": "SimBucket"
     },
     {
         "name": "Irwin e Ruthie",
@@ -9682,7 +9675,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "carro sem motorista",
@@ -9693,7 +9686,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Modelo Foguete",
@@ -9704,7 +9697,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "No cruzamento",
@@ -9715,7 +9708,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Telescópio Cassegrain",
@@ -9726,7 +9719,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Noite de formatura",
@@ -9737,7 +9730,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Irwin 2D",
@@ -9748,7 +9741,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Patos Doppler",
@@ -9759,7 +9752,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "bobsled",
@@ -9770,7 +9763,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Canhão de Newton",
@@ -9781,7 +9774,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Violino",
@@ -9792,7 +9785,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Galeria de retratos",
@@ -9803,7 +9796,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Nado Borboleta",
@@ -9814,7 +9807,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Cliff Diver",
@@ -9825,7 +9818,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Pressão do pneu",
@@ -9836,7 +9829,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Navio pirata",
@@ -9847,7 +9840,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Arco e flecha",
@@ -9858,7 +9851,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Aerobarco Everglades",
@@ -9869,7 +9862,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Balão de ar quente",
@@ -9880,7 +9873,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Elevador",
@@ -9891,7 +9884,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Avião",
@@ -9902,7 +9895,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "velocista",
@@ -9913,7 +9906,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "loja de malte",
@@ -9924,7 +9917,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "cavalo e carroça",
@@ -9935,7 +9928,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Fonte de água",
@@ -9946,7 +9939,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Tiro com arco",
@@ -9957,7 +9950,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Fases da lua",
@@ -9968,7 +9961,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Tetherball",
@@ -9979,7 +9972,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "loop o loop",
@@ -9990,7 +9983,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "o sonho de clark",
@@ -10001,7 +9994,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Câmara de Treinamento de Astronautas",
@@ -10012,7 +10005,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Ande na corda bamba",
@@ -10023,7 +10016,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "maçã de newton",
@@ -10034,7 +10027,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Estação Espacial",
@@ -10045,7 +10038,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Jornada Para Marte",
@@ -10056,7 +10049,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Testes de Balística",
@@ -10067,7 +10060,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Boneco de teste de colisão",
@@ -10078,7 +10071,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Carros bate-bate",
@@ -10089,7 +10082,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "colisões",
@@ -10100,7 +10093,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Turbina de vento",
@@ -10111,7 +10104,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Rampa E Piano",
@@ -10122,7 +10115,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "ver serra",
@@ -10133,7 +10126,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Ponte levadiça",
@@ -10144,7 +10137,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Movimento orbital",
@@ -10155,7 +10148,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Monociclo",
@@ -10166,7 +10159,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Yo Yo",
@@ -10177,7 +10170,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "pista de boliche",
@@ -10188,7 +10181,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Bloquear e derrubar",
@@ -10199,7 +10192,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Trampolim",
@@ -10210,7 +10203,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Partículas de alta energia",
@@ -10221,7 +10214,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Montanha russa",
@@ -10232,7 +10225,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Salto de esqui",
@@ -10243,7 +10236,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "A Marina",
@@ -10254,7 +10247,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Motor Térmico",
@@ -10265,7 +10258,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "forno quente",
@@ -10276,7 +10269,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Treinamento de mergulho",
@@ -10287,7 +10280,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "balão fugitivo",
@@ -10298,7 +10291,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Flauta pan",
@@ -10309,7 +10302,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "onda do estádio",
@@ -10320,7 +10313,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Lago Stow",
@@ -10331,7 +10324,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Onda de luz",
@@ -10342,7 +10335,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "óculos cor de rosa",
@@ -10353,7 +10346,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "corte de diamante",
@@ -10364,7 +10357,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Menos tempo",
@@ -10375,7 +10368,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Lentes de contato",
@@ -10386,7 +10379,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Lupa",
@@ -10397,7 +10390,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Casa de boneca",
@@ -10408,7 +10401,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Luzes de letreiro",
@@ -10419,7 +10412,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Lanterna",
@@ -10430,7 +10423,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Pára-raios",
@@ -10441,7 +10434,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Lei de Coulomb",
@@ -10452,7 +10445,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "luz neon piscando",
@@ -10463,7 +10456,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Linhas de energia",
@@ -10474,7 +10467,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Telégrafo",
@@ -10485,7 +10478,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Analogias Elétricas",
@@ -10496,7 +10489,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Tela sensível ao toque",
@@ -10507,7 +10500,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Galvanômetro",
@@ -10518,7 +10511,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "linhas de campo",
@@ -10529,7 +10522,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Rastros de Partículas",
@@ -10540,7 +10533,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "campainha",
@@ -10551,7 +10544,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Motor elétrico",
@@ -10562,7 +10555,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Transformador CA",
@@ -10573,7 +10566,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Corridas pré-escolares",
@@ -10584,7 +10577,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "cores atômicas",
@@ -10595,7 +10588,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Zoológico de Partículas Subatômicas",
@@ -10606,7 +10599,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Aula de Marie Curie",
@@ -10617,7 +10610,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Datação por radiocarbono",
@@ -10628,7 +10621,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Buraco negro",
@@ -10639,7 +10632,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Posição e Deslocamento",
@@ -10650,7 +10643,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Velocidade Relativa",
@@ -10661,7 +10654,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de masmorra",
@@ -10672,7 +10665,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação da Primeira Lei",
@@ -10683,7 +10676,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de fricção",
@@ -10694,7 +10687,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Corpo Livre",
@@ -10705,7 +10698,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação da Terceira Lei",
@@ -10716,7 +10709,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de canhão",
@@ -10727,7 +10720,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Velocidade Angular",
@@ -10738,7 +10731,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "goleiro",
@@ -10749,7 +10742,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de oscilações",
@@ -10760,7 +10753,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Potência e Eficiência",
@@ -10771,7 +10764,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "colisão de carro",
@@ -10782,7 +10775,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Manto de Gelo Elétrico",
@@ -10793,7 +10786,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Campos Elétricos",
@@ -10804,7 +10797,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de Capacitores",
@@ -10815,7 +10808,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de resistor",
@@ -10826,7 +10819,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de resistor",
@@ -10837,7 +10830,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Simulação de resistor",
@@ -10848,7 +10841,7 @@
             "Física",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Ir pescar",
@@ -10859,7 +10852,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "airbag",
@@ -10870,7 +10863,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Pacote Quente Pacote Frio",
@@ -10881,7 +10874,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Bateria",
@@ -10892,7 +10885,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Balanceamento de Equações Químicas",
@@ -10903,7 +10896,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Sabão",
@@ -10914,7 +10907,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Construindo pontes",
@@ -10925,7 +10918,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Estradas Salgadas",
@@ -10936,7 +10929,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "cheiros rápidos",
@@ -10947,7 +10940,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Assuntos Aéreos",
@@ -10958,7 +10951,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Mudança de fase",
@@ -10969,7 +10962,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Estados da matéria",
@@ -10980,7 +10973,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Gotas pingando",
@@ -10991,7 +10984,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Ao redor do mundo",
@@ -11002,7 +10995,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Rock Candy",
@@ -11013,7 +11006,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Soda sem gás vs. com gás",
@@ -11024,7 +11017,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Acampamento - Mudanças Químicas e Físicas",
@@ -11035,7 +11028,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Desafio do Construtor de Átomos",
@@ -11046,7 +11039,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Experimento da folha de ouro de Rutherford",
@@ -11057,7 +11050,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Massa atômica média",
@@ -11068,7 +11061,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "carnaval toupeira",
@@ -11079,7 +11072,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Luzes de neon",
@@ -11090,7 +11083,7 @@
             "Química",
             "Jogo"
         ],
-        "author": "ck12."
+        "author": "CK12"
     },
     {
         "name": "Mola Simples",
@@ -11791,5 +11784,2265 @@
             "Função"
         ],
         "author": "myphysicslab"
+    },
+    {
+        "name": "na Estátua da Liberdade",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/the_new_colossus.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Emissões veiculares de dióxido de carbono",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/climate_change_vehicle_emissions.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uso histórico de energia nos EUA",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/climate_change_historical_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Mapa de geração de eletricidade dos EUA, por Dan Schroeder",
+        "descript": "",
+        "url": "http://physics.weber.edu/schroeder/energy/PowerPlantsMap.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Adição de vetores",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/vector_addition.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Padrões de adição de vetores",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/vector_spin.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Diagramas de movimento",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/motion_diagrams.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Velocidade Constante vs. Aceleração Constante",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_constantv_constanta.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Correspondência de gráficos (gráficos de posição + velocidade)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graph_matching.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento 1-D: gráficos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graphs.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Aceleração Constante, Mesma Física",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/constant_acceleration.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Pousando um foguete",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graphs_twoa.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Tarefa de classificação - classificação por aceleração",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ranking_acceleration.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Rampa do Galileu (com som)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Galileos_ramp.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Velocidade relativa: corrida em uma calçada em movimento",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/relative_velocity_race.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Corrida entre uma bola lançada e uma lançada horizontalmente",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/2Dmotion_race.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um carrinho de balística",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ballistics_cart.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do projétil (velocidade e ângulo definidos)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/projectile1.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do projétil (defina os componentes da velocidade inicial)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/projectile2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do projétil (com diagrama de movimento, componentes de velocidade e gráficos)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do projétil (com diagrama de movimento e componentes de velocidade)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion_nographs.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do projétil (alterando o ângulo de lançamento)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion_spray.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "vetores inteiros",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/whole_vectors.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O macaco e o caçador",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/monkey_hunter.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento com Aceleração Constante",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/constant_acceleration_lab.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Força e movimento em 1D",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/force_motion_1D.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "a força normal",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/normal_force.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fricção estática",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/static_friction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "física do elevador",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/elevator_physics.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "máquina de atwood",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Atwoods_machine.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Força e movimento em 1D, com atrito",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/force_motion_1D_friction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Atrito em uma inclinação",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/friction_on_ramp.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Tarefa de classificação - classificação por força líquida",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ranking_force.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento circular",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circular_motion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma bola em uma corda",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ball_on_string.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um disco em uma plataforma giratória",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circular_disk_turntable.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gravitron (modelo de passeio de carnaval)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circular_carnival_ride.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Carro em uma curva inclinada",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/banked_turn.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Momento e Impulso",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/impulse.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Colisões em 1 Dimensão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Colisões em 1 dimensão, com gráficos de barras",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D_bargraphs.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - colisão 1-D com gráficos de barras interativos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D_bargraphs_interactive.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Centro de massa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/centerofmass.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento do centro de massa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_motion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movimento sem força externa líquida",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_noforce.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Energia cinética e trabalho",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/work_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Bola em uma rampa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ramp.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Comparando rampas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ramps.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gráficos de energia - objeto deslizando por uma rampa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/energy_rampslide.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gráficos de energia - objeto deslizando por uma rampa (com mola)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/energy_rampslide_spring.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gráficos de energia para pousar um foguete",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/energy_graphs_twoa.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gráficos de barra de energia para um pêndulo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/pendulum_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um pêndulo balístico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ballistic_pendulum.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "interações gravitacionais",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interações gravitacionais - evolução do tempo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction_evolve.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um sistema binário",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_binary_system.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A Terra e o Sol",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_Earth_Sun.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A Terra e o Sol - múltiplas Terras",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_multiEarth_Sun.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Órbitas e Energia",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_orbits_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O sistema solar interior",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/inner_solar_system_new.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Planeta mais próximo da Terra (em média)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/solar_system_average_distance.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Assistência gravitacional (estilingue)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_slingshot.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Comparando a cinemática rotacional e o movimento 1-D",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/rotationalkinematics_1Dmotion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Rotação de uma porta giratória",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/revolving_door.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Equilíbrio estático - uma viga equilibrada",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/balanced_beam.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Equilíbrio estático - três maneiras de calcular o torque",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/torque_three_ways.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Equilíbrio estático - uma haste articulada",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/hinged_rod.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um bloco e uma polia",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um bloco e uma polia, com gráficos de barra de energia",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A máquina de Atwood, revisitada",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Atwoods_machine_with_pulley.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Máquina de Atwood, com gráficos de barra de energia",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Atwoods_machine_with_pulley_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Rolando - quatro exibições",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/rolling.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Como funciona um carro com tração dianteira",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/rolling_car_driving.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Rolando - o problema da bola de boliche",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/bowling_ball.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Pulando em um carrossel",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/jumping_on_merrygoround.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um cilindro de aceleração",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/accelerating_cylinder.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Descendo uma rampa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/energy_ramp_roll.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Conectando movimento harmônico simples e movimento circular uniforme",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/SHM_circular_motion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma bola em uma mola",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_graphs.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma bola em uma mola - gráficos de energia",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_energy.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma bola em uma mola - com amortecimento (atrito)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_damped.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma onda de primavera (semelhante à onda de pêndulo)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/spring_wave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um pêndulo simples",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/pendulum.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um pêndulo simples, com amortecimento",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/simple_pendulum_damped.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A força de empuxo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/fluid_buoyant_force.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Peso aparente (e a força de empuxo)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/fluid_apparent_weight.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Pressão em um fluido estático",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/pressure.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Continuidade - fluido em um tubo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/fluid_in_a_pipe.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Há um buraco no meu balde",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/holeinmybucket.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Bola caindo em um fluido viscoso",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ball_in_viscous_fluid.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Termômetro",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/thermometer.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Expansão térmica",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/linear_thermal_expansion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Adicione calor à água",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/heat_addHeat.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Misture gelo e água",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ice_and_water.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gás ideal",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Gás ideal (sem histograma)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma versão circular da simulação anterior",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph_circle.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Difusão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/diffusion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "movimento browniano",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/brownian_motion.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "lei de resfriamento de newton",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Newton_cooling.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "diagrama PV",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Processos isotérmicos, isobáricos e isocóricos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_heattransfer.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Comparando processos isotérmicos e adiabáticos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_isothermal_adiabatic.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Comparando processos isotérmicos e adiabáticos - versão Química",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_isothermal_adiabatic_chem.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um exemplo de ciclo termodinâmico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_cycle.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Por que um processo adiabático muda de temperatura",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/adiabatic_mechanism.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fluxo de energia em uma máquina térmica",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/thermo_heat_engine.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fluxo de energia em um ar condicionado ou geladeira",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/thermo_air_conditioner.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma onda transversal",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/wave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma onda longitudinal",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/longitudinalwave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma onda longitudinal em uma mola",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/longitudinal_wave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um filme de ondas e um gráfico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/wave_movie_and_graph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Medindo a velocidade do som",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/speed_of_sound.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O efeito Doppler",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/doppler.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O efeito Doppler, com gráficos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/dopplergraph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interferência construtiva e destrutiva",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/interference.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interferência de pulsos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/interference_of_pulses.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "batidas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/beats.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexões",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/reflections.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Ondas estacionárias em uma corda",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/transverse_standing_wave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Ondas estacionárias em um tubo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/longitudinal_standing_wave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fotocopiar uma onda (obturador rolante)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/rolling_shutter.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fotocopiando um fidget spinner (obturador rolante)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/fidget_spinner_on_scanner.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "um eletroscópio",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/electroscope.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um eletroscópio e uma barra carregada",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/electroscope_charged_rod.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Coulomb",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/coulomb1.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Coulomb, plotagem versus várias funções de r",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/coulomb2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Coulomb - interações entre partículas carregadas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/coulomb_interaction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Coulomb - interações entre partículas carregadas - evolução do tempo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/coulomb_interaction_evolve.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Campo elétrico perto de duas cargas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/EField.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Energia potencial para duas cargas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/potential2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Força e energia potencial para duas cargas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/force_PE2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Campo elétrico e potencial elétrico em 1-D",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/field_potential3.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Conectando Força e Energia; ",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/connections_FEUV.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Campo e Potencial",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_EField.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma carga em um campo elétrico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/field_and_string.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma carga em uma corda em um campo elétrico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_1charge.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - determine o valor da carga",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_charge.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - determine os dois valores de carga",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_field_potential.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - determine os dois valores de carga dos gráficos",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_Coulomb.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - classifique as três cargas com base em sua magnitude",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/battery.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um circuito básico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ohm.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "lei de ohm",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ohm_IVgraph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Ohm - gráfico de corrente x tensão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ohm_IRgraph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Lei de Ohm - gráfico de corrente x resistência",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_intro.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Caixas de energia - uma introdução",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_parallel.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Caixas de energia - circuito paralelo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_series.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Caixas de potência - circuito em série",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_combination.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Caixas de energia - circuito de combinação",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/ranking_resistance.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Tarefa de classificação - classificação por resistência",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/RC_circuit.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Circuito Resistor-Capacitor (RC)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_RC.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Caixas de energia - circuito série RC",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_field.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A força sobre uma partícula carregada em um campo magnético",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_field_sim.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A trilha atrás de uma partícula carregada movendo-se em um campo magnético",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/threeD_magnetism.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma partícula carregada movendo-se em três dimensões",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/mass_spectrometer.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Espectrômetro de massa",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/cyclotron.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "um ciclotron",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/BField.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O campo magnético perto de dois fios condutores de corrente",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/magnetic_field_1D.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O campo magnético em 1 dimensão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/current_interaction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "A força entre os fios condutores de corrente",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/DC_motor.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um motor de corrente contínua",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_3currents.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - classifique as três correntes com base em sua magnitude",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/magnet_loop.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Animação de um ímã e um loop",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/magnet_loop_move.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Mova um ímã perto de um loop",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/loop_and_field.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Movendo um loop através de um campo magnético",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/motional_emf.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "fem de movimento",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/EM_railgun.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "canhão elétrico eletromagnético",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/electric_generator.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um gerador elétrico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/RLC_impedance_triangle.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "O triângulo de impedância",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/RLC_circuit.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Circuito RLC",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/threeD_EMwave.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Visualização 3D de uma onda EM",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/visible_spectrum.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Visualização do espectro visível",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/solar_sailboat.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Vela solar (pressão de radiação)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/EM_Doppler.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Efeito Doppler para ondas EM",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_onepolarizer.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Um polarizador (luz incidente polarizada)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Três polarizadores (luz incidente não polarizada)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_curtain.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Três polarizadores - o que há por trás da cortina?",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_filter.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Atividade óptica",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/color_mix.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Mistura de cores (aditivo + subtrativo)",
+        "descript": "",
+        "url": "http://sahyun.net/physics/html5/reflection.htm",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexão de um espelho plano, de Steven Sahyun",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/reflection_time.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexão e o papel do tempo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/reflection_time_law.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexão, o papel do tempo e a lei da reflexão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Plane_Mirror_HowTall.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Qual a altura que um espelho deve ter para que você possa se ver por inteiro?",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Diagrama de raios para um espelho convergente, divergente ou plano",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_curtain.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Teste a si mesmo - o que está por trás da cortina? ",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_focal_length.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "(Espelhos)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Teste você mesmo - encontre a distância focal",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time_update.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Espelhos e tempo (o papel do tempo na formação da imagem)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time_graph.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Espelhos e tempo (o papel do tempo na formação da imagem) - arrastável",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/final_curtain1.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Espelhos e tempo (o papel do tempo na formação da imagem) - gráfico",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/final_curtain2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - encontre a distância focal do objeto atrás da cortina (I)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/WhereEye.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - encontre a distância focal do objeto atrás da cortina (II)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Lenses.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA?",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/lenses_revised.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Diagrama de raios para uma lente convergente ou divergente",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/lenses_curtain.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Boa variação da simulação anterior de John Welch, mostrando a lente mudando de forma",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle1.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Teste a si mesmo - o que está por trás da cortina? ",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "(Lentes)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle3.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - encontre a distância focal da lente (I)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_WhereEye1.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - encontre a distância focal da lente (II)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_WhereEye2.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - encontre a distância focal da lente (III)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/marching_band_model.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA? ",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction_time.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "(EU)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction_time_Snell.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA? ",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "(II)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction_block.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Modelo de banda marcial para refração",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction_three_layer.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Refração e o papel do tempo",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/refraction_TIR.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Refração, o papel do tempo e a lei de Snell",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/prism.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Refração",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/rainbow.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Refração em um bloco retangular",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/2Dinterference.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Refração em três camadas",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/2Dinterference_point.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexão interna total (um modelo de uma fibra óptica)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/diffraction.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "um prisma",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/double_slit.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Fazendo um arco-íris",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/diffraction_grating.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interferência em 2D",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/reflection_transmission.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interferência em 2D: explorando a diferença de comprimento de caminho",
+        "descript": "",
+        "url": "https://loganms.github.io/ThinFilmInterferenceSimulation/",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Difração de uma única fenda",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/Newtons_rings.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Difração de fenda única e padrão de interferência de fenda dupla",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/blackbody_radiation.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Uma grade de difração",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/emission_spectra.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Reflexão e transmissão",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/halflife.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Interferência de filme fino (de Logan Scheiner)",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/symmetry.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "anéis de newton",
+        "descript": "",
+        "url": "http://physics.bu.edu/~duffy/HTML5/DLA4c.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Radiação de corpo negro",
+        "descript": "",
+        "url": "http://physics.weber.edu/schroeder/html5/",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "espectro atômico",
+        "descript": "",
+        "url": "https://web.pa.msu.edu/people/bauer/HTML5course/contents2018.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Meia-vida",
+        "descript": "",
+        "url": "https://phet.colorado.edu/en/simulations/category/html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Simetria",
+        "descript": "",
+        "url": "http://www.tandftechnology.com/Physics/Programs/Labs/index.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
+    },
+    {
+        "name": "Agregação limitada por difusão",
+        "descript": "",
+        "url": "https://foothill.edu/astronomy/astrosims.html",
+        "thumb": "",
+        "categorys": [
+            "Física"
+        ],
+        "author": "physics.bu.edu"
     }
 ]
