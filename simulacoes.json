@@ -7975,7 +7975,7 @@
     },
     {
         "name": "Polarização da Luz",
-        "descript": "",
+        "descript": "Ondas não polarizadas passam por uma fenda vertical, deixando apenas seus componentes verticais. Esta onda transversal vertical se aproxima de uma fenda vertical. Girando a fenda, apenas uma componente da onda pode passar.",
         "url": "https://ophysics.com/l3.html",
         "thumb": "https://ophysics.com/images/thumbs/l3thumb.jpeg",
         "categorys": [
@@ -7990,7 +7990,7 @@
     },
     {
         "name": "Difração e interferência de fenda dupla",
-        "descript": "",
+        "descript": "A luz sendo difratada por uma fenda dupla. Altere o comprimento de onda, a distância entre as fendas, a distância até a tela e a altura do ponto onde as ondas se juntam. Procure pontos de interferência construtiva ou destrutiva.",
         "url": "https://ophysics.com/l4.html",
         "thumb": "https://ophysics.com/images/thumbs/l4thumb.jpeg",
         "categorys": [
@@ -8005,7 +8005,7 @@
     },
     {
         "name": "Interferência de Fenda Dupla",
-        "descript": "",
+        "descript": "Difração de luz por uma fenda dupla. Ajuste a distância entre as fendas e o comprimento de onda da luz. Veja o padrão de interferência no caminho e na tela de projeção.",
         "url": "https://ophysics.com/l5.html",
         "thumb": "https://ophysics.com/images/thumbs/l5thumb.jpeg",
         "categorys": [
@@ -8020,7 +8020,7 @@
     },
     {
         "name": "Laboratório de Grade de Difração Laser",
-        "descript": "",
+        "descript": "Um típico laboratório de difração de laser configurado. Examine a configuração na janela 3D que mostra um laser, uma grade de difração e uma tela. ",
         "url": "https://ophysics.com/l5b.html",
         "thumb": "https://ophysics.com/images/thumbs/l5bthumb.jpeg",
         "categorys": [
@@ -8034,8 +8034,8 @@
         "author": "Ophysics"
     },
     {
-        "name": "Thin Film Interference",
-        "descript": "",
+        "name": "Interferência em filme fino",
+        "descript": "As ondas de luz refletem nas superfícies frontal e traseira de um filme fino transparente. As duas ondas primárias refletidas interferem, às vezes de forma construtiva. Ajuste o índice de refração, a espessura do filme fino e o comprimento de onda da luz incidente.",
         "url": "https://ophysics.com/l6.html",
         "thumb": "https://ophysics.com/images/thumbs/l6thumb.jpeg",
         "categorys": [
@@ -8050,7 +8050,7 @@
     },
     {
         "name": "Reflexão e refração",
-        "descript": "",
+        "descript": "Mostra a reflexão e a refração de um raio de luz incidindo de um meio para outro. Ajuste o índice de refração de cada um dos dois materiais, bem como o ângulo de incidência.",
         "url": "https://ophysics.com/l7.html",
         "thumb": "https://ophysics.com/images/thumbs/l7thumb.jpeg",
         "categorys": [
@@ -8065,7 +8065,7 @@
     },
     {
         "name": "Dispersão de luz",
-        "descript": "",
+        "descript": "Prima de dispersão de cores ala Pink Floyd. Ajuste o angulo de incidencia e os indices de refração para luz vermelha e violeta.",
         "url": "https://ophysics.com/l8.html",
         "thumb": "https://ophysics.com/images/thumbs/l8thumb.jpeg",
         "categorys": [
@@ -8080,195 +8080,172 @@
     },
     {
         "name": "Espelhos planos",
-        "descript": "",
+        "descript": "Formação da imagem em um espelho plano. Mova a parte superior ou inferior da seta vermelha para ver o efeito na imagem.",
         "url": "https://ophysics.com/l9.html",
         "thumb": "https://ophysics.com/images/thumbs/l9thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Espelhos Côncavos e Convexos",
-        "descript": "",
+        "descript": "Formação de imagens em espelhos côncavos e convexos. Mova a ponta da seta Objeto ou o ponto marcado como foco.",
         "url": "https://ophysics.com/l10.html",
         "thumb": "https://ophysics.com/images/thumbs/l10thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Simulação de espelho esférico do iPad",
-        "descript": "",
+        "descript": "Simulação de espelho côncavo e convexo otimizada para uso em dispositivos móveis.",
         "url": "https://ophysics.com/l11.html",
         "thumb": "https://ophysics.com/images/thumbs/l11thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Mobile"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Lentes Côncavas e Convexas",
-        "descript": "",
+        "descript": "formação da imagem em lentes côncavas e convexas. Mova a ponta da seta \"Objeto\" para mover o objeto. Mova o ponto denominado \"Focus\" para alterar a distância focal.",
         "url": "https://ophysics.com/l12.html",
         "thumb": "https://ophysics.com/images/thumbs/l12thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Simulação de lente para iPad",
-        "descript": "",
+        "descript": "Simulação de lente côncava e convexa otimizada para dispositivos móveis.",
         "url": "https://ophysics.com/l13.html",
         "thumb": "https://ophysics.com/images/thumbs/l13thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Mobile"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Lente de refração e aberração esférica",
-        "descript": "",
+        "descript": "Mostra a refração realista de raios paralelos passando por uma lente convexa com superfícies esféricas. Ajuste curvatura para cada lado da lente, o índice de refração e o nível de zoom. O fato de os raios paralelos não convergirem em um único ponto é devido à aberração esférica.",
         "url": "https://ophysics.com/l14.html",
         "thumb": "https://ophysics.com/images/thumbs/l14thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
-        "name": "Lentes e",
-        "descript": "",
+        "name": "Lentes e Aberração Cromática",
+        "descript": "Mostra a curvatura dos raios vermelho e violeta de cada extremidade do espectro visível conforme ocorre nas lentes. Ajuste os raios das superfícies esféricas e o índice de refração das lentes.",
         "url": "https://ophysics.com/l15.html",
         "thumb": "https://ophysics.com/images/thumbs/l15thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Formação de Imagens 2D por Lentes",
-        "descript": "",
+        "descript": "Mostra imagens formadas por lentes côncavas e convexas, mas esta mostra as imagens de objetos bidimensionais. Mude o tamanho e forma e observe as imagens formadas.",
         "url": "https://ophysics.com/l15b.html",
         "thumb": "https://ophysics.com/images/thumbs/l15bthumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Ótica do olho humano",
-        "descript": "",
+        "descript": "Demonstra a ótica do olho humano e várias lentes que podem ser usadas para corrigir a visão defeituosa.",
         "url": "https://ophysics.com/l16.html",
         "thumb": "https://ophysics.com/images/thumbs/l16thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
+            "Biologia",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Formação do arco-íris",
-        "descript": "",
+        "descript": "Mostra a refração, reflexão e dispersão que um raio de luz solar atinge uma gota de chuva esférica.",
         "url": "https://ophysics.com/l17.html",
         "thumb": "https://ophysics.com/images/thumbs/l17thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Formação do arco-íris em 3D",
-        "descript": "",
+        "descript": "Simula processos envolvidos na formação de um arco-íris em 3D. Mude o ângulo do sol acima da horizontal e observe como a posição do arco-íris muda.",
         "url": "https://ophysics.com/l18.html",
         "thumb": "https://ophysics.com/images/thumbs/l18thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
-        "name": "AP Física 2 Problema de refração",
-        "descript": "",
+        "name": "Problema de refração",
+        "descript": "Mostra por que vêmos dois pontos na parte inferior do vidro quando o ângulo de incidência original é pequeno o suficiente, por que o segundo ponto fica mais brilhante quando o ângulo crítico de incidência é atingido.",
         "url": "https://ophysics.com/l19.html",
         "thumb": "https://ophysics.com/images/thumbs/l19thumb.jpg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Formação de imagem com lentes convexas",
-        "descript": "",
+        "descript": "Mostra a formação de imagem usando uma lente convexa. PErmite alterar o zoom.",
         "url": "https://ophysics.com/l20.html",
         "thumb": "https://ophysics.com/images/thumbs/l20thumb.jpeg",
         "categorys": [
             "Física",
             "Geometria",
             "Gráfico",
-            "Ondas",
-            "Oscilações",
             "Óptica"
         ],
         "author": "Ophysics"
