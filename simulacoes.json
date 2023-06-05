@@ -8879,7 +8879,7 @@
     {
         "name": "Chemthink – A Natureza Particulada da Matéria",
         "descript": "Você explorará a natureza particulada da matéria e responderá a um pequeno questionário sobre: elementos, compostos e misturas, Sólidos, líquidos e gases, Átomos e moléculas",
-        "url": "https://www.simbucket.com/simulation/429/",
+        "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-8.35.40-PM-352x350.png",
         "categorys": [
             "Física",
@@ -8891,7 +8891,7 @@
     {
         "name": "Chemthink – Formação de íons",
         "descript": "Você explorará a formação de íons e responderá a um pequeno questionário sobre: contando prótons, nêutrons e elétrons, estrutura de pontos de Lewis para íons.",
-        "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
+        "url": "https://www.simbucket.com/simulation/chemthink-ions/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/ionstutorial-460x350.png",
         "categorys": [
             "Física",
@@ -8901,20 +8901,21 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Ligação Iônica (Versão HTML5)",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.25.44-AM-460x350.png",
+        "name": "Chemthink – Ligação Iônica",
+        "descript": "Você explorará a ligação iônica e fará um breve teste sobre: como os íons se formam e por que eles se unem a forma tridimensional de um cristal iônico, contando íons em um cristal para determinar a fórmula iônica.",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-bonding/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.25.44-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Fórmulas Iônicas (Versão HTML5)",
+        "name": "Chemthink – Fórmulas Iônicas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ions/",
+        "url": "https://www.simbucket.com/simulation/chemthink-ionic-formulas/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-9.42.52-AM-336x350.png",
         "categorys": [
             "Física",
@@ -8923,9 +8924,9 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Ligação Covalente (Versão HTML5)",
+        "name": "Chemthink – Ligação Covalente",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ions/",
+        "url": "https://www.simbucket.com/simulation/436/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.32.52-AM-460x350.png",
         "categorys": [
             "Física",
@@ -8934,10 +8935,10 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Formas Moleculares (Versão HTML5)",
+        "name": "Chemthink – Formas Moleculares",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ionic-bonding/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-16-at-1.26.18-PM-460x350.png",
+        "url": "https://www.simbucket.com/simulation/chemthink-molecular-shapes/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-16-at-1.26.18-PM-220x170.png",
         "categorys": [
             "Física",
             "Química"
@@ -8945,9 +8946,9 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – O Comportamento dos Gases (Versão HTML5)",
+        "name": "Chemthink – O Comportamento dos Gases",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ionic-bonding/",
+        "url": "https://www.simbucket.com/simulation/chemthink-gases/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/gasbehaviorlaunchimage-1-460x350.png",
         "categorys": [
             "Física",
@@ -8958,7 +8959,7 @@
     {
         "name": "Chemthink*** – Precipita Simulação de Laboratório",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ionic-formulas/",
+        "url": "https://www.simbucket.com/simulation/chemthink-precipitates-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-14-at-9.26.18-AM-460x350.png",
         "categorys": [
             "Física",
@@ -8967,9 +8968,9 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Reações Químicas (Versão HTML5)",
+        "name": "Chemthink – Reações Químicas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-ionic-formulas/",
+        "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.51.13-PM.png",
         "categorys": [
             "Física",
@@ -8978,9 +8979,9 @@
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Isótopos (Versão HTML5)",
+        "name": "Chemthink – Isótopos",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/436/",
+        "url": "https://www.simbucket.com/simulation/chemthink-isotopes/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.49.12-PM-413x350.png",
         "categorys": [
             "Física",
@@ -8991,7 +8992,7 @@
     {
         "name": "Foguete de 2 estágios",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/436/",
+        "url": "https://www.simbucket.com/simulation/2-stage-rocket/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-23-at-9.20.47-AM.png",
         "categorys": [
             "Física",
@@ -9002,7 +9003,7 @@
     {
         "name": "Acelerômetro",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-molecular-shapes/",
+        "url": "https://www.simbucket.com/simulation/accerometer/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/IMG_0078-459x350.png",
         "categorys": [
             "Física",
@@ -9013,7 +9014,7 @@
     {
         "name": "Polarização de Lata de Alumínio",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-molecular-shapes/",
+        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.35.24-PM.png",
         "categorys": [
             "Física",
@@ -9024,7 +9025,7 @@
     {
         "name": "Laboratório de Aceleração Angular",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-gases/",
+        "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.27.54-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9035,7 +9036,7 @@
     {
         "name": "Laboratório Atwood",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-gases/",
+        "url": "https://www.simbucket.com/simulation/atwood-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.52-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9046,7 +9047,7 @@
     {
         "name": "Laboratório de Carregamento de Balões",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-precipitates-lab/",
+        "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-23-at-4.20.27-PM.png",
         "categorys": [
             "Física",
@@ -9057,7 +9058,7 @@
     {
         "name": "Marrons Comem Verdes",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-precipitates-lab/",
+        "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.10.02-AM.png",
         "categorys": [
             "Física",
@@ -9068,7 +9069,7 @@
     {
         "name": "Padrões de batida",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
+        "url": "https://www.simbucket.com/simulation/beat-patterns/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.45.41-AM-371x350.png",
         "categorys": [
             "Física",
@@ -9079,7 +9080,7 @@
     {
         "name": "Encargos e Campos",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
+        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
         "categorys": [
             "Física",
@@ -9090,7 +9091,7 @@
     {
         "name": "Construtor de centro de massa",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-isotopes/",
+        "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-20-at-7.19.07-PM-404x350.png",
         "categorys": [
             "Física",
@@ -9101,7 +9102,7 @@
     {
         "name": "jogo de carregamento",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/chemthink-isotopes/",
+        "url": "https://www.simbucket.com/simulation/charging-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-12.55.55-PM.png",
         "categorys": [
             "Física",
@@ -9112,7 +9113,7 @@
     {
         "name": "Fluxo de Elétrons do Circuito",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/2-stage-rocket/",
+        "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-11.43.19-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9123,7 +9124,7 @@
     {
         "name": "Laboratório de Carrinhos de Colisão",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/2-stage-rocket/",
+        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-9.11.17-PM.png",
         "categorys": [
             "Física",
@@ -9134,7 +9135,7 @@
     {
         "name": "Filtros coloridos",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/accerometer/",
+        "url": "https://www.simbucket.com/simulation/colored-filters/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.07.42-AM.png",
         "categorys": [
             "Física",
@@ -9145,7 +9146,7 @@
     {
         "name": "Lei de Coulomb",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/accerometer/",
+        "url": "https://www.simbucket.com/simulation/coulombs-law/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.22.23-PM.png",
         "categorys": [
             "Física",
@@ -9156,7 +9157,7 @@
     {
         "name": "Construtor de circuito DC",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
+        "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.54.15-PM.png",
         "categorys": [
             "Física",
@@ -9167,7 +9168,7 @@
     {
         "name": "Laboratório de Densidade",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
+        "url": "https://www.simbucket.com/simulation/density-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-10.45.39-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9178,7 +9179,7 @@
     {
         "name": "Dissolvendo um Cristal de Sal",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
+        "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.06.06-AM.png",
         "categorys": [
             "Física",
@@ -9189,7 +9190,7 @@
     {
         "name": "Interferência de Fenda Dupla",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
+        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-13-at-3.35.22-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9200,7 +9201,7 @@
     {
         "name": "Drude Modelo de Condução",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/atwood-lab/",
+        "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-14-at-1.17.05-PM.png",
         "categorys": [
             "Física",
@@ -9211,7 +9212,7 @@
     {
         "name": "Jogo de Campo Elétrico",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/atwood-lab/",
+        "url": "https://www.simbucket.com/simulation/electric-field-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.45.10-PM.png",
         "categorys": [
             "Física",
@@ -9222,7 +9223,7 @@
     {
         "name": "Laboratório de Paisagens Eletrostáticas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
+        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-6.14.56-AM.png",
         "categorys": [
             "Física",
@@ -9233,7 +9234,7 @@
     {
         "name": "Resfriamento Evaporativo",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
+        "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-24-at-9.19.58-AM.png",
         "categorys": [
             "Física",
@@ -9244,7 +9245,7 @@
     {
         "name": "Galaxy Simulator",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
+        "url": "https://www.simbucket.com/simulation/67/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.48.20-PM.png",
         "categorys": [
             "Física",
@@ -9255,7 +9256,7 @@
     {
         "name": "Correspondência de gráfico",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
+        "url": "https://www.simbucket.com/simulation/graph-matching/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-3.53.36-PM.png",
         "categorys": [
             "Física",
@@ -9266,7 +9267,7 @@
     {
         "name": "Gráficos e Rampas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/beat-patterns/",
+        "url": "https://www.simbucket.com/simulation/graphs-and-ramps/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
         "categorys": [
             "Física",
@@ -9277,7 +9278,7 @@
     {
         "name": "Gravitação",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/beat-patterns/",
+        "url": "https://www.simbucket.com/simulation/gravitation/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
         "categorys": [
             "Física",
@@ -9288,7 +9289,7 @@
     {
         "name": "pinguim com fome",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
+        "url": "https://www.simbucket.com/simulation/hungry-penguin/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.19.48-AM-442x350.png",
         "categorys": [
             "Física",
@@ -9299,7 +9300,7 @@
     {
         "name": "Jogo de impulso de Keiki",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
+        "url": "https://www.simbucket.com/simulation/keikis-impulse-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-10.59.17-AM.png",
         "categorys": [
             "Física",
@@ -9310,7 +9311,7 @@
     {
         "name": "Lei da Reflexão e Tutorial de Imagens Espelhadas Planas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
+        "url": "https://www.simbucket.com/simulation/law-of-reflection-and-plane-mirror-images-tutorial/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.43.23-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9321,7 +9322,7 @@
     {
         "name": "Princípio do menor tempo",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
+        "url": "https://www.simbucket.com/simulation/least-time-principle/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
         "categorys": [
             "Física",
@@ -9332,7 +9333,7 @@
     {
         "name": "Laboratório de lentes e espelhos",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/charging-game/",
+        "url": "https://www.simbucket.com/simulation/lens-and-mirror-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.31.58-AM.png",
         "categorys": [
             "Física",
@@ -9343,7 +9344,7 @@
     {
         "name": "Massas e Molas",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/charging-game/",
+        "url": "https://www.simbucket.com/simulation/masses-and-springs/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.13.33-PM-398x350.png",
         "categorys": [
             "Física",
@@ -9354,7 +9355,7 @@
     {
         "name": "Simulação de fusão e ebulição",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
+        "url": "https://www.simbucket.com/simulation/melting-and-boiling/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-11.21.23-AM.png",
         "categorys": [
             "Física",
@@ -9365,7 +9366,7 @@
     {
         "name": "O macaco e o tratador",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
+        "url": "https://www.simbucket.com/simulation/the-monkey-and-the-zookeeper/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
         "categorys": [
             "Física",
@@ -9376,7 +9377,7 @@
     {
         "name": "Movimento orbital",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
+        "url": "https://www.simbucket.com/simulation/orbital-motion/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-2.59.23-PM.png",
         "categorys": [
             "Física",
@@ -9387,7 +9388,7 @@
     {
         "name": "Osmose",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
+        "url": "https://www.simbucket.com/simulation/osmosis/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
         "categorys": [
             "Física",
@@ -9398,7 +9399,7 @@
     {
         "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/colored-filters/",
+        "url": "https://www.simbucket.com/simulation/painting-with-cyan-magenta-and-yellow/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9409,7 +9410,7 @@
     {
         "name": "Fosfolipídios",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/colored-filters/",
+        "url": "https://www.simbucket.com/simulation/phospholipids/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
         "categorys": [
             "Física",
@@ -9420,7 +9421,7 @@
     {
         "name": "Simulador de projéteis",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/coulombs-law/",
+        "url": "https://www.simbucket.com/simulation/projectile-simulator/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
         "categorys": [
             "Física",
@@ -9431,7 +9432,7 @@
     {
         "name": "pista de corrida",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/coulombs-law/",
+        "url": "https://www.simbucket.com/simulation/racetrack/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9442,7 +9443,7 @@
     {
         "name": "Refração",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
+        "url": "https://www.simbucket.com/simulation/refraction/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.32.17-PM.png",
         "categorys": [
             "Física",
@@ -9453,7 +9454,7 @@
     {
         "name": "Adição de cores RGB",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
+        "url": "https://www.simbucket.com/simulation/color-addition/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.04.36-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9464,7 +9465,7 @@
     {
         "name": "Iluminação RGB",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/density-lab/",
+        "url": "https://www.simbucket.com/simulation/rgb-lighting/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-05-at-6.10.35-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9475,7 +9476,7 @@
     {
         "name": "barco fluvial",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/density-lab/",
+        "url": "https://www.simbucket.com/simulation/riverboat/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-9.48.51-PM-331x350.png",
         "categorys": [
             "Física",
@@ -9486,7 +9487,7 @@
     {
         "name": "trenó foguete",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
+        "url": "https://www.simbucket.com/simulation/rocket-sled/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.35.26-AM.png",
         "categorys": [
             "Física",
@@ -9497,7 +9498,7 @@
     {
         "name": "Montanha russa",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
+        "url": "https://www.simbucket.com/simulation/roller-coaster/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.25.39-PM.png",
         "categorys": [
             "Física",
@@ -9508,7 +9509,7 @@
     {
         "name": "Movimento de satélite",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
+        "url": "https://www.simbucket.com/simulation/satellite-motion/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-27-at-8.14.35-PM.png",
         "categorys": [
             "Física",
@@ -9519,7 +9520,7 @@
     {
         "name": "Simulador de onda simples",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
+        "url": "https://www.simbucket.com/simulation/simple-wave-simulator/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.35-PM.png",
         "categorys": [
             "Física",
@@ -9530,7 +9531,7 @@
     {
         "name": "pára-quedismo",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
+        "url": "https://www.simbucket.com/simulation/skydiving/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.17.58-PM-290x350.png",
         "categorys": [
             "Física",
@@ -9541,7 +9542,7 @@
     {
         "name": "Slinky Lab",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
+        "url": "https://www.simbucket.com/simulation/slinky-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.10.19-PM.png",
         "categorys": [
             "Física",
@@ -9552,7 +9553,7 @@
     {
         "name": "Iluminação de palco",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/electric-field-game/",
+        "url": "https://www.simbucket.com/simulation/stage-lighting/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-11-at-3.53.01-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9563,7 +9564,7 @@
     {
         "name": "Simulador de Ondas Estacionárias",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/electric-field-game/",
+        "url": "https://www.simbucket.com/simulation/standing-wave-simulator/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.06.01-PM-460x306.png",
         "categorys": [
             "Física",
@@ -9574,7 +9575,7 @@
     {
         "name": "Sobreposto",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
+        "url": "https://www.simbucket.com/simulation/superimposer/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.34.08-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9585,7 +9586,7 @@
     {
         "name": "canhão de bola de tênis",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
+        "url": "https://www.simbucket.com/simulation/tennis-ball-cannon/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/09/Screen-Shot-2015-10-07-at-3.46.49-PM-460x288.png",
         "categorys": [
             "Física",
@@ -9596,7 +9597,7 @@
     {
         "name": "Turd the Target",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
+        "url": "https://www.simbucket.com/simulation/turd-the-target/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-12.03.02-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9607,7 +9608,7 @@
     {
         "name": "Turd the Target 2 – Turd-a-Pult!",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
+        "url": "https://www.simbucket.com/simulation/turd-the-target-2-turd-a-pult/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-1.37.12-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9618,7 +9619,7 @@
     {
         "name": "Adição de vetores",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/67/",
+        "url": "https://www.simbucket.com/simulation/vector-addition/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-7.59.40-PM.png",
         "categorys": [
             "Física",
@@ -9629,7 +9630,7 @@
     {
         "name": "Jogo de adivinhação de vetores",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/67/",
+        "url": "https://www.simbucket.com/simulation/vector-guessing-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.02.49-PM-460x307.png",
         "categorys": [
             "Física",
@@ -9640,7 +9641,7 @@
     {
         "name": "Simulação de Água",
         "descript": "",
-        "url": "https://www.simbucket.com/simulation/graph-matching/",
+        "url": "https://www.simbucket.com/simulation/water-simulation/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.31.04-PM-392x350.png",
         "categorys": [
             "Física",
