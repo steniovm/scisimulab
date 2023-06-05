@@ -8833,7 +8833,7 @@
   },
   {
       "name": "Art Maker",
-      "descript": "",
+      "descript": "Uma maneira simples e divertida de fazer arte simétrica.",
       "url": "https://ophysics.com/fs4.html",
       "thumb": "https://ophysics.com/images/thumbs/fs4thumb.jpg",
       "categorys": [
@@ -8842,14 +8842,13 @@
           "Geometria",
           "Gráfico",
           "Jogo",
-          "Números",
           "Óptica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Diagramas de Voronoi usando cones",
-      "descript": "",
+      "descript": "Um tipo de mapa é chamado de diagrama de Voronoi ou mosaico de Voronoi. Onde um plano pode ser dividido em regiões onde cada região mostra a parte do plano que está mais próxima de um dos pontos designados.",
       "url": "https://ophysics.com/fs5.html",
       "thumb": "https://ophysics.com/images/thumbs/fs5thumb.jpg",
       "categorys": [
@@ -8858,14 +8857,13 @@
           "Geometria",
           "Gráfico",
           "Jogo",
-          "Números",
           "Óptica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Fazendo malabarismo com 13 bolas",
-      "descript": "",
+      "descript": "Uma animação muito simples de como seria fazer malabarismo com 13 bolas em um padrão de cascata padrão.",
       "url": "https://ophysics.com/fs6.html",
       "thumb": "https://ophysics.com/images/thumbs/fs6thumb.jpg",
       "categorys": [
@@ -8875,23 +8873,21 @@
           "Gráfico",
           "Jogo",
           "Números",
-          "Óptica"
+          "Óptica",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Embaralhamento perfeito de cartas",
-      "descript": "",
+      "descript": "Mostra a posição de qualquer carta em um baralho padrão de 52 cartas após um certo número de embaralhamentos \"perfeitos\".",
       "url": "https://ophysics.com/fs7.html",
       "thumb": "https://ophysics.com/images/thumbs/fs7thumb.jpg",
       "categorys": [
           "Física",
           "Matemática",
-          "Geometria",
-          "Gráfico",
           "Jogo",
-          "Números",
-          "Óptica"
+          "Números"
       ],
       "author": "Ophysics"
   },
