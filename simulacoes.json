@@ -8145,7 +8145,7 @@
   },
   {
       "name": "Lentes Côncavas e Convexas",
-      "descript": "formação da imagem em lentes côncavas e convexas. Mova a ponta da seta \"Objeto\" para mover o objeto. Mova o ponto denominado \"Focus\" para alterar a distância focal.",
+      "descript": "Formação da imagem em lentes côncavas e convexas. Mova a ponta da seta \"Objeto\" para mover o objeto. Mova o ponto denominado \"Focus\" para alterar a distância focal.",
       "url": "https://ophysics.com/l12.html",
       "thumb": "https://ophysics.com/images/thumbs/l12thumb.jpeg",
       "categorys": [
@@ -8285,6 +8285,7 @@
           "Geometria",
           "Gráfico",
           "Oscilações",
+          "Força",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8300,7 +8301,8 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Quântica",
+          "Força",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8316,7 +8318,8 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Quântica",
+          "Força",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8333,9 +8336,9 @@
           "Geometria",
           "Gráfico",
           "Oscilações",
+          "Ondas",
           "Eletrodinâmica",
-          "Eletromagnetismo",
-          "Eletrostática"
+          "Eletromagnetismo"
       ],
       "author": "Ophysics"
   },
@@ -8348,9 +8351,6 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
-          "Eletrodinâmica",
-          "Eletromagnetismo",
           "Eletrostática"
       ],
       "author": "Ophysics"
@@ -8364,10 +8364,10 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
           "Eletrodinâmica",
           "Eletromagnetismo",
-          "Eletrostática"
+          "Eletrostática",
+          "Energia"
       ],
       "author": "Ophysics"
   },
@@ -8380,10 +8380,10 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
           "Eletrodinâmica",
           "Eletromagnetismo",
-          "Eletrostática"
+          "Eletrostática",
+          "Energia"
       ],
       "author": "Ophysics"
   },
@@ -8396,10 +8396,11 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
           "Eletrodinâmica",
           "Eletromagnetismo",
-          "Eletrostática"
+          "Eletrostática",
+          "Energia",
+          "Força"
       ],
       "author": "Ophysics"
   },
@@ -8412,10 +8413,11 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Energia",
           "Eletrodinâmica",
           "Eletromagnetismo",
-          "Eletrostática"
+          "Eletrostática",
+          "Força"
       ],
       "author": "Ophysics"
   },
@@ -8428,7 +8430,8 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Força",
+          "Energia",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8444,7 +8447,8 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Força",
+          "Energia",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8460,7 +8464,8 @@
           "Física",
           "Geometria",
           "Gráfico",
-          "Oscilações",
+          "Energia",
+          "Força",
           "Eletrodinâmica",
           "Eletromagnetismo",
           "Eletrostática"
@@ -8479,7 +8484,9 @@
           "Oscilações",
           "Eletrodinâmica",
           "Eletromagnetismo",
-          "Eletrostática"
+          "Eletrostática",
+          "Energia",
+          "Força"
       ],
       "author": "Ophysics"
   },
@@ -8492,18 +8499,18 @@
           "Física",
           "Aritmética",
           "Cinemática",
-          "Força",
-          "Energia",
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Geometria",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Rotação, Deslizamento, Rolamento e Atrito",
-      "descript": "",
+      "descript": "Rolamento com e sem deslizamento. Pode-se alterar o tipo de objeto (esfera sólida, cilindro sólido, etc.), a massa, o raio, o coeficiente de atrito e a velocidade inicial.",
       "url": "https://ophysics.com/r1.html",
       "thumb": "https://ophysics.com/images/thumbs/r1thumb.jpeg",
       "categorys": [
@@ -8511,17 +8518,17 @@
           "Aritmética",
           "Cinemática",
           "Força",
-          "Energia",
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Rotação: Movimento de Rolagem",
-      "descript": "",
+      "descript": "Movimento de rolamento de vários objetos. Selecione um ou mais objetos, a massa e o raio do(s) objeto(s), ângulo de inclinação.",
       "url": "https://ophysics.com/r2.html",
       "thumb": "https://ophysics.com/images/thumbs/r2thumb.jpeg",
       "categorys": [
@@ -8533,13 +8540,14 @@
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Momento de inércia: rolar e deslizar em um plano inclinado",
-      "descript": "",
+      "descript": "Cinco objetos em um plano inclinado. As diferentes distribuições de massa fazem com que os objetos rolantes tenham diferentes inércias rotacionais.",
       "url": "https://ophysics.com/r3.html",
       "thumb": "https://ophysics.com/images/thumbs/r3thumb.jpeg",
       "categorys": [
@@ -8549,15 +8557,15 @@
           "Força",
           "Energia",
           "Função",
-          "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Inércia rotacional e torque",
-      "descript": "",
+      "descript": "Um objeto circular montado em um eixo através de seu centro com um torque constante. Objetos com inércia rotacional variável (esfera sólida, casca esférica, cilindro sólido, casca cilíndrica) podem ser escolhidos e a massa e o raio do objeto podem ser ajustados.",
       "url": "https://ophysics.com/r4.html",
       "thumb": "https://ophysics.com/images/thumbs/r4thumb.jpeg",
       "categorys": [
@@ -8569,13 +8577,14 @@
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Laboratório de inércia rotacional (escolha de três cenários)",
-      "descript": "",
+      "descript": "Um objeto em rotação com várias forças aplicadas a ele. Eles podem escolher uma única força constante, uma força de tensão causada por uma única massa em queda ou uma situação do tipo máquina de madeira com duas massas suspensas. Muitos fatores podem ser ajustados, incluindo todas as massas, o raio do objeto em rotação e a distribuição de massa do objeto em rotação.",
       "url": "https://ophysics.com/r5.html",
       "thumb": "https://ophysics.com/images/thumbs/r5thumb.jpeg",
       "categorys": [
@@ -8587,13 +8596,14 @@
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Problema de equilíbrio: barra sustentada por cabo",
-      "descript": "",
+      "descript": "Um problema de equilíbrio ajustável envolvendo uma barra uniforme com uma massa sobre ela. A barra tem um eixo na extremidade esquerda e é sustentada na extremidade direita por um cabo. A massa da barra e da caixa, o comprimento da barra, a posição da caixa e o ângulo do cabo podem ser ajustados.",
       "url": "https://ophysics.com/r6.html",
       "thumb": "https://ophysics.com/images/thumbs/r6thumb.jpeg",
       "categorys": [
@@ -8605,31 +8615,32 @@
           "Função",
           "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
   {
-      "name": "Angular Momentum Collision",
-      "descript": "",
+      "name": "Momentum Angular em Colisões",
+      "descript": "Uma bola de argila é lançada contra uma barra vertical fina com um eixo na extremidade superior. A bola colide e gruda na barra que começa a girar.",
       "url": "https://ophysics.com/r7.html",
       "thumb": "https://ophysics.com/images/thumbs/r7thumb.jpeg",
       "categorys": [
           "Física",
-          "Aritmética",
           "Cinemática",
           "Força",
           "Energia",
           "Função",
-          "Oscilações",
           "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica",
+          "Momentum"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Atirando balas verticalmente para cima em dois blocos de madeira",
-      "descript": "",
+      "descript": "Duas armas idênticas disparando balas verticalmente para cima em blocos de madeira idênticos. Uma arma atira diretamente no centro de massa do bloco de madeira, a outra arma pode atirar em qualquer lugar do bloco. Então, um bloco sobe sem girar, o outro gira enquanto sobe.",
       "url": "https://ophysics.com/r8.html",
       "thumb": "https://ophysics.com/images/thumbs/r8thumb.jpeg",
       "categorys": [
@@ -8639,15 +8650,15 @@
           "Força",
           "Energia",
           "Função",
-          "Oscilações",
-          "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica",
+          "Momentum"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Momento Angular: Pessoa em Plataforma Rotativa",
-      "descript": "",
+      "descript": "Uma plataforma cilíndrica sólida rotativa com uma pessoa em cima. Ajuste a massa da plataforma e da pessoa, e o raio da plataforma e o caminho da pessoa, para ver como essas mudanças afetam a velocidade angular do sistema e a força centrípeta necessária para manter a pessoa na plataforma.",
       "url": "https://ophysics.com/r9.html",
       "thumb": "https://ophysics.com/images/thumbs/r9thumb.jpeg",
       "categorys": [
@@ -8658,8 +8669,8 @@
           "Energia",
           "Função",
           "Oscilações",
-          "Trigonometria",
-          "Vetores"
+          "Vetores",
+          "Mecânica"
       ],
       "author": "Ophysics"
   },
@@ -8779,48 +8790,43 @@
   },
   {
       "name": "Ilusão óptica de movimento harmônico simples",
-      "descript": "",
+      "descript": "Uma representação visual simples de movimento harmônico simples. Cada uma das bolas laranja se move em movimento harmônico simples.",
       "url": "https://ophysics.com/fs1.html",
       "thumb": "https://ophysics.com/images/thumbs/fs1thumb.jpeg",
       "categorys": [
           "Física",
-          "Matemática",
           "Geometria",
-          "Gráfico",
-          "Jogo",
-          "Números",
+          "Oscilações",
           "Óptica"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Mola em queda com massas acopladas",
-      "descript": "",
+      "descript": "Duas massas acopladas às extremidades superior e inferior de uma mola vertical ideal. A massa superior é inicialmente mantida no lugar, enquanto o peso da massa inferior causa o alongamento inicial da mola.",
       "url": "https://ophysics.com/fs2.html",
       "thumb": "https://ophysics.com/images/thumbs/fs2thumb.jpg",
       "categorys": [
           "Física",
-          "Matemática",
-          "Geometria",
           "Gráfico",
-          "Jogo",
-          "Números",
-          "Óptica"
+          "Energia",
+          "Função",
+          "Mecânica",
+          "Oscilações"
       ],
       "author": "Ophysics"
   },
   {
       "name": "Onda de pêndulo em duas dimensões",
-      "descript": "",
+      "descript": "Uma animação simples mostrando o movimento da onda de pêndulo em duas dimensões.",
       "url": "https://ophysics.com/fs3.html",
       "thumb": "https://ophysics.com/images/thumbs/fs3thumb.jpg",
       "categorys": [
           "Física",
-          "Matemática",
           "Geometria",
           "Gráfico",
-          "Jogo",
-          "Números",
+          "Ondas",
+          "Oscilações",
           "Óptica"
       ],
       "author": "Ophysics"
