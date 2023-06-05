@@ -8640,7 +8640,7 @@
     },
 {
         "name": "Flutuabilidade",
-        "descript": "",
+        "descript": "Ajuste a densidade do fluido, a densidade do objeto e a viscosidade do fluido. e veja a animação de flutuar ou afundar.",
         "url": "https://ophysics.com/fl1.html",
         "thumb": "https://ophysics.com/images/thumbs/fl1thumb.jpeg",
         "categorys": [
@@ -8656,7 +8656,7 @@
     },
     {
         "name": "Dinâmica dos Fluidos e a Equação de Bernoulli",
-        "descript": "",
+        "descript": "Um fluido incompressível fluindo através de um tubo. Ajuste a altura, pressão, velocidade e raio do tubo. A velocidade e a pressão podem ser calculadas usando a equação de Bernoulli.",
         "url": "https://ophysics.com/fl2.html",
         "thumb": "https://ophysics.com/images/thumbs/fl2thumb.jpeg",
         "categorys": [
@@ -8692,7 +8692,7 @@
     },
     {
         "name": "Ferramentas básicas para desenho de circuitos elétricos",
-        "descript": "",
+        "descript": "Montar diagramas de alta qualidade de circuitos elétricos básicos.",
         "url": "https://ophysics.com/t1.html",
         "thumb": "https://ophysics.com/images/thumbs/t1thumb.jpeg",
         "categorys": [
@@ -8701,13 +8701,14 @@
             "Geometria",
             "Gráfico",
             "Jogo",
-            "Números"
+            "Números",
+            "Eletrodinâmica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Ferramentas de Desenho de Mecânica",
-        "descript": "",
+        "descript": "Criar diagramas relacionados a várias situações de mecânica. Massas, polias, inclinações, molas, polias e muito mais.",
         "url": "https://ophysics.com/t2.html",
         "thumb": "https://ophysics.com/images/thumbs/t2thumb.jpeg",
         "categorys": [
@@ -8716,13 +8717,14 @@
             "Geometria",
             "Gráfico",
             "Jogo",
-            "Números"
+            "Números",
+            "Mecânica"
         ],
         "author": "Ophysics"
     },
     {
         "name": "Criador de gráficos",
-        "descript": "",
+        "descript": "Fazer gráficos de alta qualidade. Muitas opções estão disponíveis, incluindo linear, senoidal, exponencial, inversa, parabólica e muito mais.",
         "url": "https://ophysics.com/t3.html",
         "thumb": "https://ophysics.com/images/thumbs/t3thumb.jpeg",
         "categorys": [
@@ -8737,7 +8739,7 @@
     },
     {
         "name": "Gráficos de múltipla escolha com quatro opções",
-        "descript": "",
+        "descript": "Use esta planilha quando precisar de quatro gráficos diferentes para as opções de uma pergunta de múltipla escolha.",
         "url": "https://ophysics.com/t4.html",
         "thumb": "https://ophysics.com/images/thumbs/t4thumb.jpeg",
         "categorys": [
@@ -8863,35 +8865,38 @@
         "author": "Ophysics"
     },
     {
-        "name": "Chemthink – Estrutura Atômica (Versão HTML5)",
-        "descript": "",
+        "name": "Chemthink – Estrutura Atômica",
+        "descript": "Você explorará a estrutura atômica e responderá a um pequeno questionário sobre: massa, carga, função das partículas subatômicas, prótons, nêutrons e elétrons.",
         "url": "https://www.simbucket.com/simulation/429/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-9.11.30-PM-393x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – A Natureza Particulada da Matéria (Versão HTML5)",
-        "descript": "",
+        "name": "Chemthink – A Natureza Particulada da Matéria",
+        "descript": "Você explorará a natureza particulada da matéria e responderá a um pequeno questionário sobre: elementos, compostos e misturas, Sólidos, líquidos e gases, Átomos e moléculas",
         "url": "https://www.simbucket.com/simulation/429/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-8.35.40-PM-352x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "Chemthink – Formação de íons (versão HTML5)",
-        "descript": "",
+        "name": "Chemthink – Formação de íons",
+        "descript": "Você explorará a formação de íons e responderá a um pequeno questionário sobre: contando prótons, nêutrons e elétrons, estrutura de pontos de Lewis para íons.",
         "url": "https://www.simbucket.com/simulation/chemthink-the-particulate-nature-of-matter/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/ionstutorial-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
