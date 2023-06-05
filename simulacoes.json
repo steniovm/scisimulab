@@ -11111,7 +11111,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Pêndulo com ",
+        "name": "Pêndulo com campo de direção",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/direction-field-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-direction-field.png",
@@ -11125,7 +11125,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "campo de direção",
+        "name": "pêndulo caótico",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/chaotic-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum2.png",
@@ -11139,7 +11139,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "pêndulo caótico",
+        "name": "Dois pêndulos caóticos",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/compare-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-compare.png",
@@ -11153,7 +11153,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Dois pêndulos ",
+        "name": "pêndulo móvel",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
@@ -11167,7 +11167,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "caóticos",
+        "name": "pêndulo duplo",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_pendulum.gif",
@@ -11181,7 +11181,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "pêndulo ",
+        "name": "Pêndulo duplo móvel",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/moveable-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-double-pendulum.png",
@@ -11195,7 +11195,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "móvel",
+        "name": "Pêndulo Vibratório Invertido",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/inverted-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-pendulum.png",
@@ -11209,7 +11209,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "pêndulo duplo",
+        "name": "Pêndulo Duplo Invertido",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/inverted-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-double-pendulum.png",
@@ -11223,7 +11223,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Pêndulo duplo ",
+        "name": "Mola 2D",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/2d-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_spring_2d.png",
@@ -11237,7 +11237,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "móvel",
+        "name": "Mola Dupla 2D",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/double-2d-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_spring_2d.png",
@@ -11251,7 +11251,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Pêndulo Vibratório ",
+        "name": "Blocos em colisão",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/collide-blocks-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collide_blocks.png",
@@ -11265,7 +11265,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Invertido",
+        "name": "Carrinho + Pêndulo",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/cart-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum.png",
@@ -11279,7 +11279,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Pêndulo Duplo ",
+        "name": "Vara pendurada ",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/dangle-stick-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dangle_stick.png",
@@ -11293,7 +11293,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Invertido",
+        "name": "Forças de Corpo Rígido",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/rigid-body-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid-body.gif",
@@ -11307,7 +11307,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Mola 2D",
+        "name": "Colisões de corpos rígidos",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/collision-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collision.gif",
@@ -11321,7 +11321,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Mola Dupla ",
+        "name": "Forças de contato de corpo rígido",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/contact-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_contact.png",
@@ -11335,7 +11335,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "2D",
+        "name": "Montanha russa",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/roller-single-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerSimple.gif",
@@ -11349,7 +11349,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Blocos em colisão",
+        "name": "Montanha-russa com mola",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/roller-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerSpring.gif",
@@ -11363,7 +11363,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Carrinho + Pêndulo",
+        "name": "Montanha russa com duas bolas",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/roller-double-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerDouble.gif",
@@ -11377,7 +11377,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Vara pendurada",
+        "name": "Montanha-russa com voo",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/roller-flight-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerFlight.gif",
@@ -11391,7 +11391,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Forças ",
+        "name": "Montanha-russa de corpo rígido ",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/rigid-body-roller-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_body_roller.gif",
@@ -11405,7 +11405,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "de Corpo Rígido",
+        "name": "braquistócrona",
         "descript": "",
         "url": "https://www.myphysicslab.com/roller/brachistochrone-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Brachistochrone.png",
@@ -11419,7 +11419,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Colisões ",
+        "name": "Bilhar",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/billiards-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Billiards.png",
@@ -11433,7 +11433,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "de corpos rígidos",
+        "name": "Corrente Pendurada",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/chain-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Chain.png",
@@ -11447,7 +11447,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Forças de contato ",
+        "name": "berço de newton",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/newtons-cradle-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Newtons-cradle.png",
@@ -11461,7 +11461,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "de corpo rígido",
+        "name": "Não faça nada moedor",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/do-nothing-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_do_nothing.gif",
@@ -11475,7 +11475,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Montanha russa",
+        "name": "Relógio de pêndulo",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/pendulum-clock-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum_clock.gif",
@@ -11489,7 +11489,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Montanha- ",
+        "name": "suspensão do carro",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/car-suspension-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Car-suspension.png",
@@ -11503,7 +11503,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "russa com mola",
+        "name": "Pêndulo duplo com motor de física",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/double-pendulum2-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_double_pendulum2.gif",
@@ -11517,7 +11517,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Montanha russa ",
+        "name": "Carrinho + Pêndulo com Motor de Física",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/cart-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum2.gif",
@@ -11531,7 +11531,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "com duas bolas",
+        "name": "lua de marte",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/mars-moon-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Mars-moon.png",
@@ -11545,7 +11545,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Montanha-russa ",
+        "name": "Objetos curvos",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/curved-objects-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_curved_objects.gif",
@@ -11559,7 +11559,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "com voo",
+        "name": "Pilha",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/pile-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pile.gif",
@@ -11573,7 +11573,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Montanha- ",
+        "name": "Pilha Atrair",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/pile-attract-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pile_attract.gif",
@@ -11587,7 +11587,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "russa de corpo rígido",
+        "name": "Formas de polígonos",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/shapes-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_shapes.gif",
@@ -11601,7 +11601,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "braquistócrona",
+        "name": "Corda",
         "descript": "",
         "url": "https://www.myphysicslab.com/pde/string-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_string.gif",
@@ -11615,7 +11615,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Bilhar",
+        "name": "Pêndulo Duplo Rígido",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/rigid-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_double_pendulum.gif",
@@ -11629,7 +11629,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Corrente Pendurada",
+        "name": "Comparar Pêndulos Duplos ",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/compare-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_compare_double_pendulum.gif",
@@ -11643,7 +11643,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "berço de newton",
+        "name": "Molécula 2",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/molecule2-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule2.gif",
@@ -11657,7 +11657,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Não faça nada ",
+        "name": "Molécula 3",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/molecule3-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule3.gif",
@@ -11671,7 +11671,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "moedor",
+        "name": "Molécula 4",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/molecule4-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule4.gif",
@@ -11685,7 +11685,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Relógio de pêndulo",
+        "name": "Molécula 5",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/molecule5-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule5.gif",
@@ -11699,7 +11699,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "suspensão do carro",
+        "name": "Molécula 6",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/molecule6-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule6.gif",
@@ -11713,7 +11713,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Pêndulo duplo ",
+        "name": "cadeia de molas",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/chain-of-springs-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_chain_of_springs.gif",
@@ -11727,7 +11727,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "com motor de física",
+        "name": "Molas de Colisão",
         "descript": "",
         "url": "https://www.myphysicslab.com/springs/collide-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collide_spring.gif",
@@ -11741,7 +11741,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "Carrinho + Pêndulo ",
+        "name": "Pêndulo de força de reação",
         "descript": "",
         "url": "https://www.myphysicslab.com/pendulum/reaction-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_reaction_pendulum.gif",
@@ -11755,7 +11755,7 @@
         "author": "myphysicslab"
     },
     {
-        "name": "com Motor de Física",
+        "name": "Atração mutua",
         "descript": "",
         "url": "https://www.myphysicslab.com/engine2D/mutual-attract-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_mutual_attract.gif",
