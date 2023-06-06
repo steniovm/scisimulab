@@ -8884,10 +8884,12 @@
         "url": "https://ophysics.com/fs7.html",
         "thumb": "https://ophysics.com/images/thumbs/fs7thumb.jpg",
         "categorys": [
-            "Física",
             "Matemática",
             "Jogo",
-            "Números"
+            "Números",
+            "Algorítimo",
+            "Aritmética",
+            "Gráfico"
         ],
         "author": "Ophysics"
     },
@@ -8946,7 +8948,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-9.42.52-AM-336x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
@@ -8957,7 +8960,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.32.52-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
@@ -8968,7 +8972,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-16-at-1.26.18-PM-220x170.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
@@ -8979,7 +8984,10 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/gasbehaviorlaunchimage-1-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "SimBucket"
     },
@@ -8990,7 +8998,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.51.13-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica"
         ],
         "author": "SimBucket"
     },
@@ -9001,7 +9010,9 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.49.12-PM-413x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Atômica",
+            "Nuclear"
         ],
         "author": "SimBucket"
     },
@@ -9012,7 +9023,13 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-23-at-9.20.47-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica"
         ],
         "author": "SimBucket"
     },
@@ -9023,7 +9040,12 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/IMG_0078-459x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Força",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Mobile",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
@@ -9034,7 +9056,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.35.24-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrostática",
+            "Força"
         ],
         "author": "SimBucket"
     },
@@ -9045,7 +9068,10 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.27.54-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
@@ -9056,106 +9082,129 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.52-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Laboratório de Carregamento de Balões",
-        "descript": "",
+        "descript": "Simula a eletrização por atrito de um balão em um roupa de lã, em seguida mostra a interação eletrostática do balão eletrizado com condutores e isolantes.",
         "url": "https://www.simbucket.com/simulation/balloon-charging-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-23-at-4.20.27-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrostática",
+            "Força"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Marrons Comem Verdes",
-        "descript": "",
+        "descript": "Simula a relação entre um herbívoro (marrom) e plantas (verde). O ponto laranja sobreviverá?",
         "url": "https://www.simbucket.com/simulation/browns-eat-greens/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.10.02-AM.png",
         "categorys": [
-            "Física",
-            "Química"
+            "Biologia",
+            "Números",
+            "Evolução natural"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Padrões de batida",
-        "descript": "",
+        "descript": "Gera duas ondas sonoras de frequências proximas e bem definidas e apresenta os gráficos das ondas e da sobreposição delas.",
         "url": "https://www.simbucket.com/simulation/beat-patterns/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.45.41-AM-371x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Encargos e Campos",
-        "descript": "",
+        "descript": "Adcione cargas e veja seus campos elétricos.",
         "url": "https://www.simbucket.com/simulation/charges-and-fields/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrostática"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Construtor de centro de massa",
-        "descript": "",
+        "descript": "Desenhe formas diferentes e observe a mudança do centro de massa!",
         "url": "https://www.simbucket.com/simulation/center-of-mass-builder/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-20-at-7.19.07-PM-404x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo",
+            "Força",
+            "Geometria",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "jogo de carregamento",
-        "descript": "",
+        "descript": "Utilize um balão carregado e um fio terra para equilibar eletrostáticamente varios objetos.",
         "url": "https://www.simbucket.com/simulation/charging-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-12.55.55-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrostática",
+            "Jogo",
+            "Números"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Fluxo de Elétrons do Circuito",
-        "descript": "",
+        "descript": "simula o fluxo de elétrons através de um fio causado por campos elétricos criados por cargas de superfície.",
         "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-11.43.19-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Estatística",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Laboratório de Carrinhos de Colisão",
-        "descript": "",
+        "descript": "Um laboratório interativo. Bata os carros juntos e observe os resultados enquanto eles saltam, grudam ou explodem.",
         "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-9.11.17-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Filtros coloridos",
-        "descript": "",
+        "descript": "Use diferentes combinações de filtros para permitir a passagem de diferentes combinações de luz vermelha, verde e azul.",
         "url": "https://www.simbucket.com/simulation/colored-filters/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.07.42-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica",
+            "Matemática"
         ],
         "author": "SimBucket"
     },
@@ -9176,34 +9225,39 @@
     },
     {
         "name": "Construtor de circuito DC",
-        "descript": "",
+        "descript": "Crie e simule o funcionamento de circuitos com lâmpadas, baterias, fios, resistóres, chaves,voltimetros e amperimetros",
         "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.54.15-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Laboratório de Densidade",
-        "descript": "",
+        "descript": "Simulação completa de um laboratório de densidade de ciência física clássico.",
         "url": "https://www.simbucket.com/simulation/density-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-22-at-10.45.39-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Densidade",
+            "Biologia"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Dissolvendo um Cristal de Sal",
-        "descript": "",
+        "descript": "Mostra como um cristal de cloreto de sódio se dissolve.",
         "url": "https://www.simbucket.com/simulation/dissolving-a-salt-crystal/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.06.06-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Biologia",
+            "Termologia"
         ],
         "author": "SimBucket"
     },
@@ -9225,34 +9279,42 @@
     },
     {
         "name": "Drude Modelo de Condução",
-        "descript": "",
+        "descript": "Simula o movimento de eletróns em um condutor utilizando o Modelo de Drude",
         "url": "https://www.simbucket.com/simulation/drude-model-conduction/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-14-at-1.17.05-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Termologia"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Jogo de Campo Elétrico",
-        "descript": "",
+        "descript": "Crie campos elétricos para colocar a carga no gol!",
         "url": "https://www.simbucket.com/simulation/electric-field-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.45.10-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrostática",
+            "Força",
+            "Vetores",
+            "Jogo"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Laboratório de Paisagens Eletrostáticas",
-        "descript": "",
+        "descript": "Brincadeira “Paisagens eletrostáticas” realizado com papel carbono condutor, tinta metálica prateada e eletrodos.",
         "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-6.14.56-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Jogo",
+            "Números"
         ],
         "author": "SimBucket"
     },
@@ -9274,7 +9336,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.48.20-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Astronomia"
         ],
         "author": "SimBucket"
     },
@@ -9285,7 +9347,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-3.53.36-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9296,7 +9358,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Gráfico"
         ],
         "author": "SimBucket"
     },
@@ -9307,7 +9369,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Gravitação"
         ],
         "author": "SimBucket"
     },
@@ -9317,8 +9379,8 @@
         "url": "https://www.simbucket.com/simulation/hungry-penguin/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.19.48-AM-442x350.png",
         "categorys": [
-            "Física",
-            "Química"
+            "Biologia",
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9329,7 +9391,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-10.59.17-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9340,7 +9402,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.43.23-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9351,7 +9413,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9362,7 +9424,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.31.58-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9398,7 +9460,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática"
         ],
         "author": "SimBucket"
     },
@@ -9409,7 +9471,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-2.59.23-PM.png",
         "categorys": [
             "Física",
-            "Química",
+            "Astronomia",
             "Jogo"
         ],
         "author": "SimBucket"
@@ -9420,8 +9482,8 @@
         "url": "https://www.simbucket.com/simulation/osmosis/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
         "categorys": [
-            "Física",
-            "Química"
+            "Biologia",
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9442,7 +9504,7 @@
         "url": "https://www.simbucket.com/simulation/phospholipids/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
         "categorys": [
-            "Física",
+            "Biologia",
             "Química"
         ],
         "author": "SimBucket"
@@ -9454,7 +9516,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática"
         ],
         "author": "SimBucket"
     },
@@ -9465,7 +9527,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9495,7 +9557,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.04.36-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9506,7 +9568,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-05-at-6.10.35-AM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9517,7 +9579,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-9.48.51-PM-331x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9528,7 +9590,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.35.26-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9544,7 +9606,8 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia"
         ],
         "author": "SimBucket"
     },
@@ -9555,7 +9618,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-27-at-8.14.35-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Gravitação"
         ],
         "author": "SimBucket"
     },
@@ -9566,7 +9629,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.35-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Ondas"
         ],
         "author": "SimBucket"
     },
@@ -9577,7 +9640,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.17.58-PM-290x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Força"
         ],
         "author": "SimBucket"
     },
@@ -9588,7 +9651,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.10.19-PM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Ondas"
         ],
         "author": "SimBucket"
     },
@@ -9599,7 +9662,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-11-at-3.53.01-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Óptica"
         ],
         "author": "SimBucket"
     },
@@ -9610,7 +9673,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.06.01-PM-460x306.png",
         "categorys": [
             "Física",
-            "Química"
+            "Ondas"
         ],
         "author": "SimBucket"
     },
@@ -9621,7 +9684,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.34.08-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Ondas"
         ],
         "author": "SimBucket"
     },
@@ -9632,7 +9695,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/09/Screen-Shot-2015-10-07-at-3.46.49-PM-460x288.png",
         "categorys": [
             "Física",
-            "Química"
+            "Cinemática"
         ],
         "author": "SimBucket"
     },
@@ -9643,7 +9706,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-12.03.02-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9654,7 +9717,7 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-1.37.12-PM-460x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo"
         ],
         "author": "SimBucket"
     },
@@ -9680,7 +9743,8 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.02.49-PM-460x307.png",
         "categorys": [
             "Física",
-            "Química"
+            "Jogo",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
@@ -14092,16 +14156,6 @@
         "name": "Agregação limitada por difusão",
         "descript": "",
         "url": "http://physics.bu.edu/~duffy/HTML5/DLA4c.html",
-        "thumb": "",
-        "categorys": [
-            "Física"
-        ],
-        "author": "physics.bu.edu"
-    },
-    {
-        "name": "Simulação de Interferência de Filme Fino",
-        "descript": "",
-        "url": "https://loganms.github.io/ThinFilmInterferenceSimulation/",
         "thumb": "",
         "categorys": [
             "Física"
