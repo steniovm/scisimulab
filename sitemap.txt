@@ -1,4 +1,5 @@
 https://www.scisimulab.com.br/
+https://www.scisimulab.com.br/commentpolicy.html
 https://www.scisimulab.com.br/simuls/index.html
 https://www.scisimulab.com.br/simuls/BolinhasDeDarwin.html
 https://www.scisimulab.com.br/simuls/AlgoCards/index.html
@@ -12,6 +13,7 @@ https://www.scisimulab.com.br/simuls/relatividade/index.html
 https://www.scisimulab.com.br/simuls/AlphaMathics/APIs.html
 https://www.scisimulab.com.br/simuls/AlgoCards/mazecreate.html
 https://scisimulab.vercel.app/
+https://scisimulab.vercel.app/commentpolicy.html
 https://scisimulab.vercel.app/simuls/index.html
 https://scisimulab.vercel.app/simuls/AlgoCards/index.html
 https://scisimulab.vercel.app/simuls/AlphaMathics/index.html
