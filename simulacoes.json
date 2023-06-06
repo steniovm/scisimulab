@@ -14107,5 +14107,1835 @@
             "Física"
         ],
         "author": "physics.bu.edu"
+    },
+    {
+        "name": "Acelerando Elétrons",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=248",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AcceleratingChargesWithCapacitor/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Aceleração devido à gravidade em um planeta",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=314",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AccelerationOnPlanetLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Aceleração em Curvas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=515",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AccelerationForRaceCarInTurnLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Aceleração em inclinação com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=584",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AccelerationOnInclineWithPrediction//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Um Domingo Qualquer",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=293",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AnyGivenSunday/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Máquinas Atwood",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=17",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AtwoodLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "batidas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=70",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Beats/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório Bernoulli",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=269",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/BernoulliLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Flutuabilidade",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=15",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceBuoyancy/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de flutuabilidade de doces",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=531",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CandyBuoyancyLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Contêineres de Doces",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=510",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CandyContainerLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Carregamento do Capacitor no Circuito RC",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=570",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinDCChargingLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Propriedades do capacitor",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=46",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CapacitorPropertiesLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Carga no Campo Magnético",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=54",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ChargeinMagFieldLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Carga se movendo através do campo magnético básico",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=381",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ChargeMovingThroughMagneticFieldSimple/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Carregando um capacitor em um circuito DC",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=380",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinDCChargingLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Aceleração Circular",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=389",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularAcceleration/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Forças Circulares",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=26",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularForceLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Atrito Circular",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=24",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularFrictionTestTrack/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de aprendizado de movimento circular",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=21",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Força Circular Clássica",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=22",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ClassicCircularForceLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Força Circular Clássica com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=560",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ClassicCircularForceWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Joey saltando do penhasco com previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=527",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/JumpingJoeyCliffWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Aproximação mais próxima entre as partículas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=376",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ClosestApproachLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Espelhos Convergentes",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=387",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ConvergingMirrorLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Leis de Coulomb",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=44",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CoulombsLawLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Curling Momentum",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=374",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CurlingStoneMomentumLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Mergulhador do mar profundo",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=19",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DeepSeaDiverLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "difração da luz",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=72",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DiffractionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de inclinação para baixo do disco",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=392",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DiskDownIncline/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Distância para Destruição",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=65",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DistanceToDestruction/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Efeito Doppler",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=71",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DopplerLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório Doppler com previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=622",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DopplerWithPredictions//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de entrega de drones",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=342",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DroneDeliveryLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório da Torre de Basculamento",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=552",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DumpTowerLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Torre de despejo com laboratório de parcelas salvas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=589",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DumpTowerLab2//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Eficiência de um Motor Ideal",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=262",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CarnotEngineLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Força Elástica",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=14",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElastic/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Equivalente Elétrico de Calor",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=263",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ElectricalEquivalentOfHeatLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Espectro Eletromagnético com Grade de Difração",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=386",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EMSpectrum/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Espectro EM visto usando laboratório de grade de difração",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=245",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EMSpectrum/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de espectros de emissão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=246",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EmissionSpectra/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Perda de energia no salto",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=33",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório guiado sobre perda de energia em ressaltos",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=32",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossGuidedLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Perda de energia em salto com previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=613",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Transformações de energia",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=37",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyTransformationLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Equações do Movimento",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=285",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EquationsOfMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Padre Brown em uma velocidade constante",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=508",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FatherBrownConstantSpeedLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Aceleração Constante Father Brown",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=509",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FatherBrownAccelerationLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de movimento vertical de fogos de artifício",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=351",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FireworkVerticalMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Taxa de fluxo de um dispensador com laboratório de previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=591",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateFromBeverageDispenserPredictionsLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Taxa de Fluxo do Laboratório Dispensador",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=346",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateFromBeverageDispenserLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Vazão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=348",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Taxa de Fluxo com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=540",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Fluidos em um laboratório U-Tube",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=259",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/YouTubeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Direção da Força Relativa ao Laboratório de Movimento",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=20",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceDirectionRelativeToMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Força Elétrica Minilaboratório",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=45",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElectricMiniLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Force Electric MiniLab com números",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=375",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElectricMiniwithNumbers/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Caçamba de Força de Gravidade",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=8",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityBucketLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de garrafa de água de gravidade forçada",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=512",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityWaterBottleLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Força Normal no Laboratório da Estação Espacial",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=23",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceNormalSpaceStationLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Forças em um Laboratório de Inclinação",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=312",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForcesOnInclineLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Gráficos de movimento de estilo livre",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=286",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingOfMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Frequência do Laboratório de Gap de Energia",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=252",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLevelLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de fricção",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=13",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceFriction/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Atrito com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=610",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceFrictionPrediction//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Gás na Caixa",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=232",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GasInBox/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Gráfico de Movimento Simples",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=4",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingBoatMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Graphing of Motion Lab (Rápido)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=491",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingOfMotionLabQuick//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Representando graficamente o movimento de dois estágios",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=6",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingDragRacerMotionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Chute de Futebol Solo a Solo",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=393",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GroundToGroundSoccerKickLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de oscilações guiadas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=60",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OscillationGuidedLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "laboratório de meia-vida",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=250",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Half-LifeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de transferência de calor",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=241",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HeatTransferGasesLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Transferência de calor com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=556",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HeatTransferGasesWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de oscilações horizontais",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=57",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HorizontalOscillationsLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de oscilações horizontais com amortecimento",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=58",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HorizontalOscillationswDampingLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "laboratório de impulso",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=28",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ImpulseLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório do Impulse Versão 2",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=396",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Impulsev2Lab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Impulso com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=555",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ImpulseWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Plano Inclinado",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=16",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InclinedPlaneLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Corrente Induzida",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=276",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InducedCurrentLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Intensidade",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=69",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/IntensityLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Ondas Interferentes",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=62",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InterferingWaves/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Resistência interna com previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=599",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InternalResistanceOfBatteryWithPrediction/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de energia cinética",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=394",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de energia cinética",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=534",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de energia cinética com previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=535",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "laboratório de lentes",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=77",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/LensLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Aceleração circular ao vivo (somente telefone)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=594",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AccelerationinCircleLiveLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Campo magnético do fio",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=53",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FieldFromWire/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Indução magnética",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=55",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MagneticFlux/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Distribuição Maxwell",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=235",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MaxwellDistribution/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Medição de Tensão e Frequência em AC Lab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=561",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FrequencyVoltageACPowerSupplyLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Equivalente Mecânico de Calor",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=264",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MechanicalEquivalentOfHeatLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de gotas de óleo Millikan",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=224",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MillikanOilDropLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Momento de inércia da polia",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=41",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/UnwindingCableLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "2ª Lei de Newton Simples",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=11",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawwithGraphsLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Sistema da 2ª Lei de Newton",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=12",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "2ª Lei de Newton com Photogates",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=288",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawPhotogateLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Leis de Newton com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=511",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawLabWithPredictions//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Lei de Ohm com medidores analógicos",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=378",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OhmsLawAnalogMeters/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Lei de Ohm com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=558",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OhmsLawWithPredictionsLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Oscilações",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=59",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OscillationLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Circuitos Paralelos",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=49",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ParallelCircuitLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de princípios de Pascal",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=260",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PascalsPrincipleLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Pendulum PocketLab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=496",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumPocketLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "pêndulos",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=186",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "laboratório fotoelétrico",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=255",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PhotoelectricEffect/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Pré-laboratório de aceleração Photogate",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=287",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MeasuringPhotogateAccelerationPrelab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Queda Livre PocketLab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=513",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PocketLabFreefallLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Pêndulo PocketLab com previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=574",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumPredictionPocketLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Pressão do PocketLab abaixo de um laboratório de fluidos",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=530",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PocketLabPressureBelowFluidLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Poder da Lâmpada",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=320",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PowerOfLight/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Poder da Luz com Laboratório de Previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=573",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/LightBulbPowerWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Prevendo a velocidade no local em uma rampa",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=503",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpeedAtLocationOnRamp//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Projéteis",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=25",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ProjectileLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "polias",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=31",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PulleyLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "PVC Queda Livre",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=7",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PVCFreefallLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Emissão Radiante de Luz",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=253",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadiantEmission/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Detecção de Radiação",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=249",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadiationDetectionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de blindagem radioativa",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=251",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadioactiveShieldingLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Rail Gun",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=274",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RailGunLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Circuitos RC",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=52",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCCircuitLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "RC no Laboratório AC",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=384",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinACLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de bateria real",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=379",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InternalResistanceOfBattery/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Lâmpadas Reais de NJ",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=564",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RealLightbulbsOfNJLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Refletindo Ondas",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=61",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ReflectingWaves/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Refração da Luz",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=76",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RefractionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Resistência do Fio",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=50",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceOfWireLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Resistência do Fio baseada na Lei de Ohm",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=51",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceOfWireChallengeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Resistência do Fio à Tensão com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=569",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceFromVoltageLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Curva de Ressonância",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=563",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResonanceCurveLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Tubos de Ressonância",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=64",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResonanceTubeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Travessia do Rio",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=278",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RiverCrossingLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Travessia de rio com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=523",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RiverCrossingWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "RL em CA",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=385",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RLinACLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "RLC no Laboratório AC",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=562",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RLCinACLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de distância rolante",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=388",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório simples de distância rolante",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=490",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceSimpleLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Distância de rolagem com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=612",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Playground Satélite",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=27",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SatelliteLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Velocidade de Satélite",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=529",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SatelliteSpeedLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Escala (Torque e Equilíbrio)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=39",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ScaleLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Circuitos em série",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=48",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SeriesCircuitLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Circuitos Simples",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=47",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SimpleCircuitLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Circuito em Série Simples com Laboratório de Previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=559",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SeriesCircuitsWithPredictionsLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de velocidade térmica simples",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=395",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SimpleThermalSpeedLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "laboratório sifão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=265",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SiphonLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Distância de Parada do Tênis",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=514",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SneakerStoppingDistanceLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Chute de Futebol com Laboratório de Previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=595",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SoccerKickWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório Fluxo Solar",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=277",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SolarFluxLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Espaço ao redor do Charge Lab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=258",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpaceAroundChargeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Calor Específico do Fluido a partir da Energia Elétrica",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=499",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ElectricalDeterminationOfSpecificHeatLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Calor Específico do Líquido (Guiado)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=42",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpecificHeatGuidedLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Calor Específico do Sólido (Guiado)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=43",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpecificHeatSolidGuidedLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Velocidade do som",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=67",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpeedOfSoundLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Velocidade da onda na corda",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=66",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WaveOnStringLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Bobina Girando em Campo Magnético",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=382",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpinningCoilLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Bobina girando em campo magnético com gráfico",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=383",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpinningCoilwGraphLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Oscilação da mola com Previsão PocketLab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=577",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpringPredictionPocketLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Ondas Estacionárias",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=63",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StandingWaves/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Distância de parada",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=18",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StoppingDistanceLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Distância de parada versão 2",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=390",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StoppingDistanceVersionTwo/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Super Soaker Lab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=300",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SuperSoakerLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Ponte suspensa",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=40",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SuspensionBridge/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "A maneira como um espelho funciona 2 Laboratório",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=75",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WayMirror2Lab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de como um espelho funciona",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=74",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WayMirrorLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de como um espelho funciona (Plane Mirror)",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=73",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WayMirrorPlaneLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Velocidade térmica com laboratório de previsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=629",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ThermalSpeedWithPredictionLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de tubos de raios catódicos de Thompson",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=225",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ThompsonetomLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Esteira",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=487",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TreadmillPaceLab//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Exploração Triangular",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=391",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TriangleExplorationLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Energia Gravitacional Universal",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=38",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GravitationalPELab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Gravidade Universal",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=9",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/UniversalGravityLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Minilaboratório de Gravidade Universal",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=10",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityOnPlanetMiniLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Exploração Vetorial com Previsões",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=611",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/VectorLabWithPredictions//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Velocidade de Repulsão",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=377",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/VelocityFromRepulsionLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Laboratório de Torque de Garrafa de Água",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=551",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TorqueWithWaterBottle//images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Comprimento de onda",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=68",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WavelengthLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Trabalhe para o Laboratório KE",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=34",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToKELab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Trabalhar para PEe Lab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=36",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToPEeLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
+    },
+    {
+        "name": "Trabalhe para PEg Lab",
+        "descript": "",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=35",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToPEgLab/images/OverviewPicture.png",
+        "categorys": [
+            "Física"
+        ],
+        "author": "thephysicsaviary"
     }
 ]
