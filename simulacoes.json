@@ -9320,62 +9320,75 @@
     },
     {
         "name": "Resfriamento Evaporativo",
-        "descript": "",
+        "descript": "Esta é uma simulação de resfriamento evaporativo, água quente é adicionada ao recipiente e com o passar do tempo nota-se que apenas as moléculas menos agitadas permanecem nele.",
         "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-24-at-9.19.58-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Galaxy Simulator",
-        "descript": "",
+        "descript": "O simulador tem como objetivo demonstrar, dentre outros fatos, como uma galáxia é afetada por um buraco negro em seu centro, como a massa de uma estrela afeta seu comportamento e como estrelas binárias são formadas.",
         "url": "https://www.simbucket.com/simulation/67/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.48.20-PM.png",
         "categorys": [
             "Física",
-            "Astronomia"
+            "Astronomia",
+            "Gravitação",
+            "Força",
+            "Números"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Correspondência de gráfico",
-        "descript": "",
+        "descript": "A aplicaçao é uma introdução ao clássico problema físico de correspondência no gráfico onde você deverá andar para frente ou para trás para encontrar a posição correspondente no gráfico de posição por tempo.",
         "url": "https://www.simbucket.com/simulation/graph-matching/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-3.53.36-PM.png",
         "categorys": [
             "Física",
-            "Jogo"
-        ],
-        "author": "SimBucket"
-    },
-    {
-        "name": "Gráficos e Rampas",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/graphs-and-ramps/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
-        "categorys": [
-            "Física",
+            "Jogo",
+            "Cinemática",
+            "Função",
             "Gráfico"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "Gravitação",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/gravitation/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
+        "name": "Gráficos e Rampas",
+        "descript": "A simulação interativa solicita ao usuário que ajuste a rampa para que os resultados correspondam aos exibidos em um gráfico de posição e velocidade.",
+        "url": "https://www.simbucket.com/simulation/graphs-and-ramps/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
         "categorys": [
             "Física",
-            "Gravitação"
+            "Gráfico",
+            "Função",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "pinguim com fome",
-        "descript": "",
+        "name": "Gravitação",
+        "descript": "Trata-se de uma simulação mostrando a força gravitacional entre dois objetos.",
+        "url": "https://www.simbucket.com/simulation/gravitation/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
+        "categorys": [
+            "Física",
+            "Gravitação",
+            "Astronomia",
+            "Força",
+            "Vetores"
+        ],
+        "author": "SimBucket"
+    },
+    {
+        "name": "Pinguim com fome",
+        "descript": "Esse é um jogo para duas pessoas nas quais deve-se fazer com que os pinguins cheguem aos bolos mas evitem as bombas.",
         "url": "https://www.simbucket.com/simulation/hungry-penguin/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.19.48-AM-442x350.png",
         "categorys": [
@@ -9386,45 +9399,60 @@
     },
     {
         "name": "Jogo de impulso de Keiki",
-        "descript": "",
+        "descript": "A aplicação é um jogo na qual o objetivo é refazer os passos de Keiki por meio do cálculo de grandezas como impulso e quantidade de movimento.",
         "url": "https://www.simbucket.com/simulation/keikis-impulse-game/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-10.59.17-AM.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Matemática",
+            "Mecânica",
+            "Momentum"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Lei da Reflexão e Tutorial de Imagens Espelhadas Planas",
-        "descript": "",
+        "descript": "Na primeira parte do tutorial é mostrado como um feixe de laser obedece a lei da reflexão quando incide em um espelho. Na segunda parte é mostrado como essa lei pode ser utilizada para prever o que um olho humano verá ao olhar para esse espelho.",
         "url": "https://www.simbucket.com/simulation/law-of-reflection-and-plane-mirror-images-tutorial/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-26-at-8.43.23-PM-460x350.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Biologia",
+            "Geometria"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Princípio do menor tempo",
-        "descript": "",
+        "descript": "A aplicação pretente responder ao questionamento: \"Como a luz decide qual caminho percorrer até chegar a um objeto?\". A física nos diz que ela obedece ao princípio do menor tempo, retratado nessa simulação pelo problema do guarda salva vidas.",
         "url": "https://www.simbucket.com/simulation/least-time-principle/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Cinemática",
+            "Geometria",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Laboratório de lentes e espelhos",
-        "descript": "",
+        "descript": "A simulação permite a variação da posição do objeto para verificação das características da imagem formada.",
         "url": "https://www.simbucket.com/simulation/lens-and-mirror-lab/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.31.58-AM.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Geometria",
+            "Trigonometria",
+            "Gráfico"
         ],
         "author": "SimBucket"
     },
@@ -9444,63 +9472,75 @@
     },
     {
         "name": "Simulação de fusão e ebulição",
-        "descript": "",
+        "descript": "Nessa simulação um cubo de gelo é derretido e continuamente aquecido até que chegue à ebulição.",
         "url": "https://www.simbucket.com/simulation/melting-and-boiling/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-11.21.23-AM.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Termodinâmica",
+            "Termologia",
+            "Clima"
         ],
         "author": "SimBucket"
     },
     {
         "name": "O macaco e o tratador",
-        "descript": "",
+        "descript": "A simulação retrata o clássico problema físico de se atingir um alvo em queda livre.",
         "url": "https://www.simbucket.com/simulation/the-monkey-and-the-zookeeper/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
         "categorys": [
             "Física",
-            "Cinemática"
+            "Cinemática",
+            "Força",
+            "Função",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Movimento orbital",
-        "descript": "",
+        "descript": "Trata-se de uma simulação exibindo a essência do movimento dos planetas ao redor do Sol.",
         "url": "https://www.simbucket.com/simulation/orbital-motion/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-2.59.23-PM.png",
         "categorys": [
             "Física",
             "Astronomia",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Osmose",
-        "descript": "",
+        "descript": "A simulação mostra o deslocamento de água através de uma membrana semi-permeável entre duas regiões, uma de maior concentração de soluto e uma cm menor concentração.",
         "url": "https://www.simbucket.com/simulation/osmosis/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
         "categorys": [
             "Biologia",
-            "Óptica"
-        ],
-        "author": "SimBucket"
-    },
-    {
-        "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/painting-with-cyan-magenta-and-yellow/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
-        "categorys": [
-            "Física",
             "Química"
         ],
         "author": "SimBucket"
     },
     {
+        "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
+        "descript": "A simulação permite a utilização de pigmentos de cores ciano, magenta e amarelo para colorir uniformes de escolas.",
+        "url": "https://www.simbucket.com/simulation/painting-with-cyan-magenta-and-yellow/",
+        "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
+        "categorys": [
+            "Física",
+            "Óptica",
+            "Aritmética"
+        ],
+        "author": "SimBucket"
+    },
+    {
         "name": "Fosfolipídios",
-        "descript": "",
+        "descript": "A simulação mostra moléculas se agregando espontâneamente em diferentes formas de organização.",
         "url": "https://www.simbucket.com/simulation/phospholipids/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
         "categorys": [
@@ -9511,23 +9551,34 @@
     },
     {
         "name": "Simulador de projéteis",
-        "descript": "",
+        "descript": "A aplicação é uma simulação de lançamento de foguetes. É possível controlar a altura de lançamento, o ângulo e velocidade inicial.",
         "url": "https://www.simbucket.com/simulation/projectile-simulator/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
         "categorys": [
             "Física",
-            "Cinemática"
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Trigonometria"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "pista de corrida",
-        "descript": "",
+        "name": "Pista de corrida",
+        "descript": "Use as setas para conduzir o carro pela pista com o menor número de movimentos.",
         "url": "https://www.simbucket.com/simulation/racetrack/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Mecânica",
+            "Vetores",
+            "Força"
         ],
         "author": "SimBucket"
     },
@@ -10248,13 +10299,14 @@
     },
     {
         "name": "Movimento orbital",
-        "descript": "",
+        "descript": "Trata-se de uma simulação exibindo a essência do movimento dos planetas ao redor do Sol.",
         "url": "https://interactives.ck12.org/simulations/physics/orbital-motion/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/orbital-motion.jpg?_build=202305291230",
         "categorys": [
             "Física",
             "Jogo",
-            "Química"
+            "Química",
+            "Astronomia"
         ],
         "author": "CK12"
     },
@@ -10336,7 +10388,8 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia"
         ],
         "author": "CK12"
     },
@@ -11490,7 +11543,8 @@
             "Gráfico",
             "Função",
             "Química",
-            "Jogo"
+            "Jogo",
+            "Energia"
         ],
         "author": "myphysicslab"
     },
@@ -12869,7 +12923,7 @@
     },
     {
         "name": "Gás ideal",
-        "descript": "",
+        "descript": "gas ideal, medio termodinamica estatistica",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas.html",
         "thumb": "",
         "categorys": [
@@ -13616,7 +13670,7 @@
     },
     {
         "name": "Circuito RLC",
-        "descript": "",
+        "descript": "circuito rlc eletrico elétrico corrente elétrica capacitor resistor eletromagnetismo",
         "url": "http://physics.bu.edu/~duffy/HTML5/RLC_circuit.html",
         "thumb": "",
         "categorys": [
@@ -14474,11 +14528,17 @@
     },
     {
         "name": "Efeito Doppler",
-        "descript": "",
+        "descript": "Reproduz o efeito de mudança de frequência aparente do som produzido por um carro de som ouvido por três observadores diferentes.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=71",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DopplerLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Função",
+            "Mecânica",
+            "Relatividade"
         ],
         "author": "thephysicsaviary"
     },
@@ -15724,11 +15784,17 @@
     },
     {
         "name": "Velocidade do som",
-        "descript": "",
+        "descript": "Demonstra, por meio da visualização de um raio, o tempo em que a onda sonora correspondente demora para chegar ao observador. É permitido variar a distância do observador ao ponto atingido pelo raio.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=67",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpeedOfSoundLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Função",
+            "Mecânica",
+            "Relatividade"
         ],
         "author": "thephysicsaviary"
     },
@@ -16028,7 +16094,8 @@
         "url": "https://simufisica.com/simulacoes/gravitacao/",
         "thumb": "https://simufisica.com/images/gravitacao.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Gravitação"
         ],
         "author": "SimuFísica"
     },
@@ -16168,7 +16235,12 @@
         "url": "https://simufisica.com/simulacoes/motor-eletrico/",
         "thumb": "https://simufisica.com/images/motor-eletrico.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Força",
+            "Eletromagnetismo",
+            "Energia",
+            "Jogo"
         ],
         "author": "SimuFísica"
     },
