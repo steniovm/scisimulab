@@ -16130,7 +16130,7 @@
     },
     {
         "name": "Lançamento de projéteis",
-        "descript": "lancamento projeteis projetil obliquo medio cinematica classica",
+        "descript": "Lancamento projeteis projetil obliquo medio cinematica classica",
         "url": "https://simufisica.com/simulacoes/lancamento-projeteis/",
         "thumb": "https://simufisica.com/images/lancamento-projeteis.png",
         "categorys": [
@@ -16140,7 +16140,7 @@
     },
     {
         "name": "Gás ideal",
-        "descript": "gas ideal, medio termodinamica estatistica",
+        "descript": "Gas ideal, medio termodinamica estatistica",
         "url": "https://simufisica.com/simulacoes/gas-ideal/",
         "thumb": "https://simufisica.com/images/gas-ideal.png",
         "categorys": [
@@ -16150,7 +16150,7 @@
     },
     {
         "name": "Consumo de energia elétrica",
-        "descript": "consumo energia eletrica, medio eletromagnetismo",
+        "descript": "Consumo energia eletrica, medio eletromagnetismo",
         "url": "https://simufisica.com/simulacoes/consumo-energia-eletrica/",
         "thumb": "https://simufisica.com/images/consumo-energia-eletrica.png",
         "categorys": [
@@ -16160,7 +16160,7 @@
     },
     {
         "name": "Gravitação",
-        "descript": "gravitacao, medio superior classica astronomia astrofisica",
+        "descript": "Gravitacao, medio superior classica astronomia astrofisica",
         "url": "https://simufisica.com/simulacoes/gravitacao/",
         "thumb": "https://simufisica.com/images/gravitacao.png",
         "categorys": [
@@ -16171,7 +16171,7 @@
     },
     {
         "name": "Conservação de energia mecânica",
-        "descript": "conservacao energia mecanica, medio classica",
+        "descript": "Conservacao energia mecanica, medio classica",
         "url": "https://simufisica.com/simulacoes/conservacao-energia-mecanica/",
         "thumb": "https://simufisica.com/images/conservacao-energia-mecanica.png",
         "categorys": [
@@ -16181,7 +16181,7 @@
     },
     {
         "name": "Pêndulos acoplados",
-        "descript": "pendulo pendulos acoplados acoplado sistemas dinamicos dinâmicos",
+        "descript": "Pendulo pendulos acoplados acoplado sistemas dinamicos dinâmicos",
         "url": "https://simufisica.com/simulacoes/pendulos-acoplados/",
         "thumb": "https://simufisica.com/images/pendulos-acoplados.png",
         "categorys": [
@@ -16191,7 +16191,7 @@
     },
     {
         "name": "Forças e campos eletrostáticos",
-        "descript": "forca eletrica elétrica eletrostatica campo eletrico elétrico cargas carga pontual pontuais puntiformes puntiforme eletromagnetismo",
+        "descript": "Força elétrica eletrostatica campo elétrico cargas carga pontual pontuais puntiformes puntiforme eletromagnetismo",
         "url": "https://simufisica.com/simulacoes/forcas-e-campos-eletrostaticos/",
         "thumb": "https://simufisica.com/images/for%C3%A7as-campos-eletrostaticos.png",
         "categorys": [
@@ -16201,7 +16201,7 @@
     },
     {
         "name": "Propagação da função de onda",
-        "descript": "propagacao funcao mecanica mecânica quântica quantica moderna pacote",
+        "descript": "Propagacao funcao mecânica quântica moderna pacote",
         "url": "https://simufisica.com/simulacoes/propagacao-funcao-de-onda/",
         "thumb": "https://simufisica.com/images/propagacao-funcao-de-onda.png",
         "categorys": [
@@ -16211,7 +16211,7 @@
     },
     {
         "name": "Circuito RLC",
-        "descript": "circuito rlc eletrico elétrico corrente elétrica capacitor resistor eletromagnetismo",
+        "descript": "Circuito rlc elétrico corrente elétrica capacitor resistor eletromagnetismo",
         "url": "https://simufisica.com/simulacoes/circuito-rlc/",
         "thumb": "https://simufisica.com/images/circuito-rlc.png",
         "categorys": [
@@ -16221,7 +16221,7 @@
     },
     {
         "name": "Laboratório virtual: queda livre",
-        "descript": "laboratorio virtual, superior experimental cinematica",
+        "descript": "Laboratorio virtual, superior experimental cinematica",
         "url": "https://simufisica.com/simulacoes/queda-livre/",
         "thumb": "https://simufisica.com/images/queda-livre.png",
         "categorys": [
@@ -16231,7 +16231,7 @@
     },
     {
         "name": "Lab. virtual: interferômetro de Michelson",
-        "descript": "laboratorio laboratório interferometro superior experimental optica otica",
+        "descript": "Laboratório interferometro superior experimental optica otica",
         "url": "https://simufisica.com/simulacoes/interferometro-michelson/",
         "thumb": "https://simufisica.com/images/interferometro-michelson.png",
         "categorys": [
@@ -16241,7 +16241,7 @@
     },
     {
         "name": "Cargas em um condutor",
-        "descript": "cargas livres elétricas eletricas energia potencial eletrica força",
+        "descript": "Cargas livres elétricas eletricas energia potencial eletrica força",
         "url": "https://simufisica.com/simulacoes/cargas-em-um-condutor/",
         "thumb": "https://simufisica.com/images/cargas-em-um-condutor.png",
         "categorys": [
@@ -16251,7 +16251,7 @@
     },
     {
         "name": "Dinâmica de dois gases",
-        "descript": "dinamica dois gases medio superior",
+        "descript": "Dinamica dois gases medio superior",
         "url": "https://simufisica.com/simulacoes/dinamica-dois-gases/",
         "thumb": "https://simufisica.com/images/dinamica-dois-gases.png",
         "categorys": [
@@ -16261,7 +16261,7 @@
     },
     {
         "name": "Laboratório virtual: pêndulo simples",
-        "descript": "laboratorio pendulo simples, superior experimental oscilacoes classica",
+        "descript": "Laboratorio pendulo simples, superior experimental oscilacoes classica",
         "url": "https://simufisica.com/simulacoes/pendulo-simples/",
         "thumb": "https://simufisica.com/images/pendulo.png",
         "categorys": [
@@ -16271,7 +16271,7 @@
     },
     {
         "name": "Sistema massa-mola",
-        "descript": "medio superior classica oscilacoes ",
+        "descript": "Medio superior classica oscilacoes ",
         "url": "https://simufisica.com/simulacoes/massa-mola/",
         "thumb": "https://simufisica.com/images/massa-mola.png",
         "categorys": [
@@ -16281,7 +16281,7 @@
     },
     {
         "name": "Reflexão, refração e dispersão",
-        "descript": "medio superior optica geometrica luz reflexao refracao dispersao",
+        "descript": "Medio superior optica geometrica luz reflexao refracao dispersao",
         "url": "https://simufisica.com/simulacoes/reflexao-refracao-dispersao/",
         "thumb": "https://simufisica.com/images/reflexao.png",
         "categorys": [
@@ -16291,7 +16291,7 @@
     },
     {
         "name": "Pêndulo duplo",
-        "descript": "pendulo superior oscilacoes classica",
+        "descript": "Pendulo superior oscilacoes classica",
         "url": "https://simufisica.com/simulacoes/pendulo-duplo/",
         "thumb": "https://simufisica.com/images/pendulo-duplo.png",
         "categorys": [
@@ -16301,7 +16301,7 @@
     },
     {
         "name": "Motor elétrico",
-        "descript": "motor eletrico motor dc motor ac superior eletromagnetismo magnetismo eletrica",
+        "descript": "Motor eletrico dc ac superior eletromagnetismo magnetismo eletrica",
         "url": "https://simufisica.com/simulacoes/motor-eletrico/",
         "thumb": "https://simufisica.com/images/motor-eletrico.png",
         "categorys": [
@@ -16316,7 +16316,7 @@
     },
     {
         "name": "Espectrometria de massa",
-        "descript": "superior eletromagnetismo magnetismo eletrica ",
+        "descript": "Superior eletromagnetismo magnetismo eletrica ",
         "url": "https://simufisica.com/simulacoes/espectrometria-massa/",
         "thumb": "https://simufisica.com/images/espectrometria-massa.png",
         "categorys": [
@@ -16326,7 +16326,7 @@
     },
     {
         "name": "Pêndulo esférico",
-        "descript": "esferico, superior classica oscilacoes",
+        "descript": "Esferico, superior classica oscilacoes",
         "url": "https://simufisica.com/simulacoes/pendulo-esferico/",
         "thumb": "https://simufisica.com/images/pendulo-esferico.png",
         "categorys": [
@@ -16336,7 +16336,7 @@
     },
     {
         "name": "Armadilha magneto-óptica",
-        "descript": "optica otica superior quantica magnetismo termodinamica",
+        "descript": "Optica otica superior quantica magnetismo termodinamica",
         "url": "https://simufisica.com/simulacoes/armadilha-magneto-optica/",
         "thumb": "https://simufisica.com/images/armadilha.png",
         "categorys": [
@@ -16346,7 +16346,7 @@
     },
     {
         "name": "Orbitais do hidrogênio",
-        "descript": "hidrogenio superior quantica quimica quântica química",
+        "descript": "Hidrogenio superior quântica química",
         "url": "https://simufisica.com/simulacoes/orbitais-hidrogenio/",
         "thumb": "https://simufisica.com/images/orbitais-hidrogenio.png",
         "categorys": [
@@ -16356,7 +16356,7 @@
     },
     {
         "name": "Distribuição de Boltzmann",
-        "descript": "distribuicao superior termodinamica estatistica",
+        "descript": "Distribuicao superior termodinamica estatistica",
         "url": "https://simufisica.com/simulacoes/distribuicao-boltzmann/",
         "thumb": "https://simufisica.com/images/distribuicao-boltzmann.png",
         "categorys": [
@@ -16366,7 +16366,7 @@
     },
     {
         "name": "Transições atômicas com pulsos de luz",
-        "descript": "transicoes transicao pulso superior quantica optica otica estatistica",
+        "descript": "Transicoes pulso superior quantica optica otica estatistica",
         "url": "https://simufisica.com/simulacoes/transicoes-pulsos-luz/",
         "thumb": "https://simufisica.com/images/transicoes-pulsos-luz.png",
         "categorys": [
@@ -16376,7 +16376,7 @@
     },
     {
         "name": "Eco de fótons",
-        "descript": "fotons superior quantica quântica otica optica",
+        "descript": "Fotons superior quântica otica optica",
         "url": "https://simufisica.com/simulacoes/eco-fotons/",
         "thumb": "https://simufisica.com/images/eco-fotons.png",
         "categorys": [
@@ -16386,7 +16386,7 @@
     },
     {
         "name": "Caminhada aleatória",
-        "descript": "aleatoria andar bebado superior estatistica",
+        "descript": "Aleatoria andar bebado superior estatistica",
         "url": "https://simufisica.com/simulacoes/caminhada-aleatoria/",
         "thumb": "https://simufisica.com/images/caminhada-aleatoria.png",
         "categorys": [
@@ -16396,7 +16396,7 @@
     },
     {
         "name": "Ondas",
-        "descript": "medio ondulatoria",
+        "descript": "Medio ondulatoria",
         "url": "https://simufisica.com/simulacoes/ondas/",
         "thumb": "https://simufisica.com/images/ondas.png",
         "categorys": [
@@ -16406,7 +16406,7 @@
     },
     {
         "name": "Ondas em uma cavidade",
-        "descript": "superior ondulatoria optica otica",
+        "descript": "Superior ondulatoria optica otica",
         "url": "https://simufisica.com/simulacoes/ondas-cavidade/",
         "thumb": "https://simufisica.com/images/ondas-cavidade.png",
         "categorys": [
@@ -16416,7 +16416,7 @@
     },
     {
         "name": "Cavidades ópticas",
-        "descript": "opticas otica superior ondas estacionarias",
+        "descript": "Opticas otica superior ondas estacionarias",
         "url": "https://simufisica.com/simulacoes/cavidades-opticas/",
         "thumb": "https://simufisica.com/images/cavidade-optica.png",
         "categorys": [
@@ -16426,7 +16426,7 @@
     },
     {
         "name": "Potencial elétrico de cargas pontuais",
-        "descript": "eletrico medio eletrica",
+        "descript": "Eletrico medio eletrica",
         "url": "https://simufisica.com/simulacoes/potencial-eletrico/",
         "thumb": "https://simufisica.com/images/potencial-eletrico.png",
         "categorys": [
@@ -16436,7 +16436,7 @@
     },
     {
         "name": "Ressonância em sistemas atômicos",
-        "descript": "ressonancia atomicos superior bloch optica otica",
+        "descript": "Ressonancia atomicos superior bloch optica otica",
         "url": "https://simufisica.com/simulacoes/ressonancia-sistema-dois-niveis/",
         "thumb": "https://simufisica.com/images/sistema-dois-niveis.png",
         "categorys": [
@@ -16446,7 +16446,7 @@
     },
     {
         "name": "Ressonâncias em sistema de três níveis",
-        "descript": "ressonancia equações bloch autler townes 3 niveis óptica atômica mecânica mecanica quântica quantica",
+        "descript": "Ressonancia equações bloch autler townes 3 niveis óptica atômica mecânica quântica",
         "url": "https://simufisica.com/simulacoes/ressonancias-sistema-tres-niveis/",
         "thumb": "https://simufisica.com/images/ressonancias-sistema-tres-niveis.png",
         "categorys": [
@@ -16456,7 +16456,7 @@
     },
     {
         "name": "Interferência quântica",
-        "descript": "interferencia quantica superior",
+        "descript": "Interferencia quantica superior",
         "url": "https://simufisica.com/simulacoes/interferencia-quantica/",
         "thumb": "https://simufisica.com/images/interferencia-quantica.png",
         "categorys": [
@@ -16466,7 +16466,7 @@
     },
     {
         "name": "Estimativa de pi",
-        "descript": "superior monte carlo estatistica matematica",
+        "descript": "Superior monte carlo estatistica matematica",
         "url": "https://simufisica.com/simulacoes/estimativa-pi/",
         "thumb": "https://simufisica.com/images/estimativa-pi.png",
         "categorys": [
@@ -16476,7 +16476,7 @@
     },
     {
         "name": "Movimento retrógrado dos planetas",
-        "descript": "superior órbitas orbitas retrogrado planetárias planetarias astronomia epiciclos história historia heliocêntrico geocêntrico",
+        "descript": "Superior órbitas retrogrado planetárias astronomia epiciclos história heliocêntrico geocêntrico",
         "url": "https://simufisica.com/simulacoes/modelo-heliocentrico-geocentrico/",
         "thumb": "https://simufisica.com/images/movimento-retrogrado.png",
         "categorys": [
@@ -16486,7 +16486,7 @@
     },
     {
         "name": "Propagação de epidemias",
-        "descript": "superior propagacao pandemia covid covid-19 novo coronavírus coronavirus ",
+        "descript": "Superior propagacao pandemia covid covid-19 novo coronavírus coronavirus ",
         "url": "https://simufisica.com/simulacoes/propagacao-epidemias/",
         "thumb": "https://simufisica.com/images/propagacao-epidemias.png",
         "categorys": [
