@@ -8987,7 +8987,8 @@
             "Química",
             "Atômica",
             "Termodinâmica",
-            "Termologia"
+            "Termologia",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
@@ -9052,14 +9053,14 @@
     {
         "name": "Polarização de Lata de Alumínio",
         "descript": "A simulação demonstra como um corpo eletricamente carregado é capaz de atrair um corpo neutro.",
-        "url": "https://www.simbucket.com/simulation/aluminum-can-polarization/",
+        "url": "https://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Aluminum-Can-Polarization/Aluminum-Can-Polarization-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.35.24-PM.png",
         "categorys": [
             "Física",
             "Eletrostática",
             "Força"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Laboratório de Aceleração Angular",
@@ -9078,7 +9079,7 @@
     {
         "name": "Laboratório Atwood",
         "descript": "A simulação traz a clássica máquina de Atwood utilizada para demonstrar a segunda lei de Newton e também a conservação da energia.",
-        "url": "https://www.simbucket.com/simulation/atwood-lab/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Atwoods-Machine/Atwoods-Machine-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.52-AM-460x350.png",
         "categorys": [
             "Física",
@@ -9087,7 +9088,7 @@
             "Mecânica",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Laboratório de Carregamento de Balões",
@@ -9109,14 +9110,16 @@
         "categorys": [
             "Biologia",
             "Números",
-            "Evolução natural"
+            "Evolução natural",
+            "Estatística",
+            "Probabilidade"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Padrões de batida",
         "descript": "Gera duas ondas sonoras de frequências proximas e bem definidas e apresenta os gráficos das ondas e da sobreposição delas.",
-        "url": "https://www.simbucket.com/simulation/beat-patterns/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Waves-and-Sound/Beats",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.45.41-AM-371x350.png",
         "categorys": [
             "Física",
@@ -9126,18 +9129,18 @@
             "Ondas",
             "Oscilações"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Encargos e Campos",
         "descript": "Adcione cargas e veja seus campos elétricos.",
-        "url": "https://www.simbucket.com/simulation/charges-and-fields/",
+        "url": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
         "categorys": [
             "Física",
             "Eletrostática"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Construtor de centro de massa",
@@ -9156,9 +9159,9 @@
         "author": "SimBucket"
     },
     {
-        "name": "jogo de carregamento",
+        "name": "Jogo de carregamento",
         "descript": "Utilize um balão carregado e um fio terra para equilibar eletrostáticamente varios objetos.",
-        "url": "https://www.simbucket.com/simulation/charging-game/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Charging/Charging-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-12.55.55-PM.png",
         "categorys": [
             "Física",
@@ -9166,7 +9169,7 @@
             "Jogo",
             "Números"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Fluxo de Elétrons do Circuito",
@@ -9185,7 +9188,7 @@
     {
         "name": "Laboratório de Carrinhos de Colisão",
         "descript": "Um laboratório interativo. Bata os carros juntos e observe os resultados enquanto eles saltam, grudam ou explodem.",
-        "url": "https://www.simbucket.com/simulation/collision-carts-lab/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Momentum-and-Collisions/Collision-Carts/Collision-Carts-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-9.11.17-PM.png",
         "categorys": [
             "Física",
@@ -9194,24 +9197,24 @@
             "Momentum",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Filtros coloridos",
         "descript": "Use diferentes combinações de filtros para permitir a passagem de diferentes combinações de luz vermelha, verde e azul.",
-        "url": "https://www.simbucket.com/simulation/colored-filters/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Color-Filters",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.07.42-AM.png",
         "categorys": [
             "Física",
             "Óptica",
             "Matemática"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Lei de Coulomb",
         "descript": "Relaciona a força eletrostática às cargas e à distância entre os objetos.",
-        "url": "https://www.simbucket.com/simulation/coulombs-law/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Coulomb-s-Law/Coulomb-s-Law-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.22.23-PM.png",
         "categorys": [
             "Física",
@@ -9221,7 +9224,7 @@
             "Função",
             "Jogo"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Construtor de circuito DC",
@@ -9257,14 +9260,16 @@
             "Física",
             "Química",
             "Biologia",
-            "Termologia"
+            "Termologia",
+            "Estatística",
+            "Probabilidade"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Interferência de Fenda Dupla",
         "descript": "Difração de luz por uma fenda dupla. Ajuste a distância entre as fendas e o comprimento de onda da luz. Veja o padrão de interferência no caminho e na tela de projeção.",
-        "url": "https://www.simbucket.com/simulation/double-slit-interference/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Youngs-Experiment",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-13-at-3.35.22-PM-460x350.png",
         "categorys": [
             "Física",
@@ -9275,7 +9280,7 @@
             "Oscilações",
             "Óptica"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Drude Modelo de Condução",
@@ -9286,14 +9291,15 @@
             "Física",
             "Eletrodinâmica",
             "Eletrostática",
-            "Termologia"
+            "Termologia",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Jogo de Campo Elétrico",
         "descript": "Crie campos elétricos para colocar a carga no gol!",
-        "url": "https://www.simbucket.com/simulation/electric-field-game/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Put-the-Charge-in-the-Goal/Put-the-Charge-in-the-Goal-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.45.10-PM.png",
         "categorys": [
             "Física",
@@ -9302,12 +9308,12 @@
             "Vetores",
             "Jogo"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Laboratório de Paisagens Eletrostáticas",
         "descript": "Brincadeira “Paisagens eletrostáticas” realizado com papel carbono condutor, tinta metálica prateada e eletrodos.",
-        "url": "https://www.simbucket.com/simulation/electrostatics-landscapes-lab/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Electrostatics-Landscapes/Electrostatics-Landscapes-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-6.14.56-AM.png",
         "categorys": [
             "Física",
@@ -9316,7 +9322,7 @@
             "Jogo",
             "Números"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Resfriamento Evaporativo",
@@ -9327,7 +9333,8 @@
             "Física",
             "Química",
             "Termodinâmica",
-            "Termologia"
+            "Termologia",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
@@ -9362,7 +9369,7 @@
     {
         "name": "Gráficos e Rampas",
         "descript": "A simulação interativa solicita ao usuário que ajuste a rampa para que os resultados correspondam aos exibidos em um gráfico de posição e velocidade.",
-        "url": "https://www.simbucket.com/simulation/graphs-and-ramps/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/1-D-Kinematics/Graphs-and-Ramps",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.37.28-PM.png",
         "categorys": [
             "Física",
@@ -9370,12 +9377,12 @@
             "Função",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Gravitação",
         "descript": "Trata-se de uma simulação mostrando a força gravitacional entre dois objetos.",
-        "url": "https://www.simbucket.com/simulation/gravitation/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Gravitational-Fields/Gravitational-Fields-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-3.07.25-PM.png",
         "categorys": [
             "Física",
@@ -9384,7 +9391,7 @@
             "Força",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Pinguim com fome",
@@ -9393,7 +9400,9 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.19.48-AM-442x350.png",
         "categorys": [
             "Biologia",
-            "Jogo"
+            "Jogo",
+            "Estatística",
+            "Probabilidade"
         ],
         "author": "SimBucket"
     },
@@ -9430,7 +9439,7 @@
     {
         "name": "Princípio do menor tempo",
         "descript": "A aplicação pretente responder ao questionamento: \"Como a luz decide qual caminho percorrer até chegar a um objeto?\". A física nos diz que ela obedece ao princípio do menor tempo, retratado nessa simulação pelo problema do guarda salva vidas.",
-        "url": "https://www.simbucket.com/simulation/least-time-principle/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Refraction-and-Lenses/Least-Time-Principle/Least-Time-Principle-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
         "categorys": [
             "Física",
@@ -9440,7 +9449,7 @@
             "Gráfico",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Laboratório de lentes e espelhos",
@@ -9459,7 +9468,7 @@
     {
         "name": "Massas e Molas",
         "descript": "Descreve a Lei de Hooke por meio de massas e molas, realiza movimentos periódicos mostrando conservação de energia.",
-        "url": "https://www.simbucket.com/simulation/masses-and-springs/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Waves-and-Sound/Mass-on-a-Spring/Mass-on-a-Spring-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.13.33-PM-398x350.png",
         "categorys": [
             "Física",
@@ -9468,7 +9477,7 @@
             "Força",
             "Energia"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Simulação de fusão e ebulição",
@@ -9480,14 +9489,15 @@
             "Química",
             "Termodinâmica",
             "Termologia",
-            "Clima"
+            "Clima",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
     {
         "name": "O macaco e o tratador",
         "descript": "A simulação retrata o clássico problema físico de se atingir um alvo em queda livre.",
-        "url": "https://www.simbucket.com/simulation/the-monkey-and-the-zookeeper/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/The-Monkey-and-the-Zookeeper/The-Monkey-and-the-Zookeeper-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
         "categorys": [
             "Física",
@@ -9496,12 +9506,12 @@
             "Função",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Movimento orbital",
         "descript": "Trata-se de uma simulação exibindo a essência do movimento dos planetas ao redor do Sol.",
-        "url": "https://www.simbucket.com/simulation/orbital-motion/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Orbital-Motion/Orbital-Motion-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-07-at-2.59.23-PM.png",
         "categorys": [
             "Física",
@@ -9513,7 +9523,7 @@
             "Gravitação",
             "Vetores"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Osmose",
@@ -9522,21 +9532,22 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
         "categorys": [
             "Biologia",
-            "Química"
+            "Química",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
         "descript": "A simulação permite a utilização de pigmentos de cores ciano, magenta e amarelo para colorir uniformes de escolas.",
-        "url": "https://www.simbucket.com/simulation/painting-with-cyan-magenta-and-yellow/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Painting-with-CMY",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
         "categorys": [
             "Física",
             "Óptica",
             "Aritmética"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Fosfolipídios",
@@ -9545,14 +9556,15 @@
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
         "categorys": [
             "Biologia",
-            "Química"
+            "Química",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Simulador de projéteis",
         "descript": "A aplicação é uma simulação de lançamento de foguetes. É possível controlar a altura de lançamento, o ângulo e velocidade inicial.",
-        "url": "https://www.simbucket.com/simulation/projectile-simulator/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Projectile-Simulator/Projectile-Simulator-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
         "categorys": [
             "Física",
@@ -9565,13 +9577,13 @@
             "Vetores",
             "Trigonometria"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Pista de corrida",
         "descript": "Use as setas para conduzir o carro pela pista com o menor número de movimentos.",
-        "url": "https://www.simbucket.com/simulation/racetrack/",
-        "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Race-Track/Race-Track-Interactive",
+        "thumb": "https://www.simbphysicsclassroomucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-9.03.48-AM-460x350.png",
         "categorys": [
             "Física",
             "Jogo",
@@ -9580,12 +9592,12 @@
             "Vetores",
             "Força"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Refração",
         "descript": "Apresenta um feixe de luz sofrendo refração ao passar de um meio para outro. É possível variar parâmetros relacionados ao fenômeno.",
-        "url": "https://www.simbucket.com/simulation/refraction/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Refraction-and-Lenses/Refraction/Refraction-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.32.17-PM.png",
         "categorys": [
             "Física",
@@ -9599,56 +9611,70 @@
             "Vetores",
             "Óptica"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Adição de cores RGB",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/color-addition/",
+        "descript": "Em Adição de cores RGB, observe como as três cores primárias de luz, vermelho, verde e azul (RGB) se combinam para criar as outras cores, crie tambem filtros de cores para fotos.",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/RGB-Color-Addition",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.04.36-AM-460x350.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Aritmética"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Iluminação RGB",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/rgb-lighting/",
+        "descript": "Iluminação RGB, acenda as luzes coloridas e observe o que acontece tanto com o homem diante da luz quanto com suas sombras. A cor de uma sombra pode ser complicada, e você pode descobrir que nem sempre parece ser a cor que você espera!",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Colored-Shadows",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-05-at-6.10.35-AM-460x350.png",
         "categorys": [
             "Física",
             "Óptica"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
-        "name": "barco fluvial",
-        "descript": "",
+        "name": "Barco fluvial",
+        "descript": "Um barco atravessando um riacho, você pode controlar o rumo e a velocidade do barco, bem como a força da corrente. Clássico problema do vetor de velocidade, completo com um rio corrente e um barco.",
         "url": "https://www.simbucket.com/simulation/riverboat/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-9.48.51-PM-331x350.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "trenó foguete",
-        "descript": "",
+        "name": "Trenó foguete",
+        "descript": "Ajuste o impulso do foguete, o peso, o arrasto do ar e o atrito para alterar o movimento do trenó.",
         "url": "https://www.simbucket.com/simulation/rocket-sled/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.35.26-AM.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Montanha russa",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/roller-coaster/",
+        "descript": "Observe as pessoas pequenas subirem, descerem e tudo ao redor. Mostra a energia, bem como todas as forças na montanha-russa.",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Work-and-Energy/Roller-Coaster-Model/Roller-Coaster-Model-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.25.39-PM.png",
         "categorys": [
             "Física",
@@ -9660,153 +9686,197 @@
             "Função",
             "Energia"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Movimento de satélite",
-        "descript": "",
+        "descript": "Explore o movimento de um satélite enquanto ele orbita a Terra usando valores realistas para a massa da Terra, raio orbital e velocidade do satélite.",
         "url": "https://www.simbucket.com/simulation/satellite-motion/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-27-at-8.14.35-PM.png",
         "categorys": [
             "Física",
-            "Gravitação"
+            "Gravitação",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Mecânica",
+            "Gráfico",
+            "Vetores",
+            "Trigonometria"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Simulador de onda simples",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/simple-wave-simulator/",
+        "descript": "Mostra uma onda transversal simples em uma corda ou ondas longitudinais no gás.",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Waves-and-Sound/Simple-Wave-Simulator/Simple-Wave-Simulator-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.02.35-PM.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Função",
+            "Gráfico",
+            "Oscilações"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
-        "name": "pára-quedismo",
-        "descript": "",
+        "name": "Pára-quedismo",
+        "descript": "Uma simulação do arrasto do ar (resistência do ar) encontrado durante o paraquedismo.",
         "url": "https://www.simbucket.com/simulation/skydiving/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.17.58-PM-290x350.png",
         "categorys": [
             "Física",
-            "Força"
+            "Força",
+            "Cinemática",
+            "Clima",
+            "Energia",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Slinky Lab",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/slinky-lab/",
+        "descript": "Uma corda pressa a um gerador de frequência. ajuste a densidade, tensão, amortecimento e periodo da onda",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Waves-and-Sound/Slinky-Lab/Slinky-Lab-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.10.19-PM.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Função",
+            "Gráfico",
+            "Força",
+            "Oscilações"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Iluminação de palco",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/stage-lighting/",
+        "descript": "Você pode acender 8 luzes coloridas diferentes em 8 “atores” diferentes: Frypanman, Appleman, Bananaman, Pearman, Blueberryman, Grapeman, Waterman e Eggman. Observe com espanto como eles aparentemente mudam de aparência!",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Stage-Lighting",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-11-at-3.53.01-PM-460x350.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Jogo"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Simulador de Ondas Estacionárias",
-        "descript": "",
+        "descript": "Permite criar ondas estacionárias em cordas e tubos com varias opções de ajustes e visualizações.",
         "url": "https://www.simbucket.com/simulation/standing-wave-simulator/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.06.01-PM-460x306.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Sobreposto",
-        "descript": "",
+        "descript": "Duas ondas de frequência ligeiramente diferente. O que acontece quando elas são sobrepostas uma à outra? Para discutir batidas sonoras e interferências construtivas e destrutivas.",
         "url": "https://www.simbucket.com/simulation/superimposer/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-17-at-3.34.08-PM-460x350.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "SimBucket"
     },
     {
-        "name": "canhão de bola de tênis",
-        "descript": "",
+        "name": "Canhão de bola de tênis",
+        "descript": "Dispare uma bola com um canhão para achar a distância, usa o modelo clássico de arrasto (resistência) do ar (força proporcional à velocidade) e valores padrão realistas para uma bola de tênis, ajuste a velocidade e ângulo de lançamento e o coeficiente de arrasto",
         "url": "https://www.simbucket.com/simulation/tennis-ball-cannon/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/09/Screen-Shot-2015-10-07-at-3.46.49-PM-460x288.png",
         "categorys": [
             "Física",
-            "Cinemática"
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Turd the Target",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/turd-the-target/",
+        "descript": "O nefasto “Birdman” iniciou um bombardeio aéreo no campo de futebol da escola. Cabe a você realizar cálculos de movimento de projéteis para alimentar o “Sr. Robot” para que ele possa se posicionar adequadamente no campo para coletar os excrementos em seu balde antes que sujem o campo",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Turd-the-Target",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-12.03.02-PM-460x350.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Vetores",
+            "Matemática"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Turd the Target 2 – Turd-a-Pult!",
-        "descript": "",
+        "descript": "Frustrado por suas tentativas de lançar projéteis horizontalmente no original “Turd the Target”, Birdman criou um “Turd-a-Pult” (catapulta). Para impedir o Turd-a-Pult, você deve usar seu canhão de portal para colocar portais para interceptar cocô no ar. Se você for bem-sucedido, cada bosta entrará no portal e será depositado com segurança no “Portal-Potty”. Cabe a você realizar cálculos de movimento de projéteis para alimentar o “Sr. Robot” para que ele possa apontar a arma do portal e interceptar os cocôs voadores.",
         "url": "https://www.simbucket.com/simulation/turd-the-target-2-turd-a-pult/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2015/12/Screen-Shot-2015-12-19-at-1.37.12-PM-460x350.png",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Vetores",
+            "Matemática"
         ],
         "author": "SimBucket"
     },
     {
         "name": "Adição de vetores",
         "descript": "Nessa simulação dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
-        "url": "https://www.simbucket.com/simulation/vector-addition/",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Vector-Addition/Vector-Addition-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-7.59.40-PM.png",
         "categorys": [
             "Física",
-            "Química",
             "Cinemática",
             "Vetores",
             "Gráfico",
             "Trigonometria"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Jogo de adivinhação de vetores",
-        "descript": "",
-        "url": "https://www.simbucket.com/simulation/vector-guessing-game/",
+        "descript": "Realize a soma de vetores rapidamente para pontuar.",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Vector-Guessing-Game/Vector-Guessing-Game-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.02.49-PM-460x307.png",
         "categorys": [
             "Física",
+            "Matemática",
             "Jogo",
-            "Vetores"
+            "Vetores",
+            "Geometria",
+            "Aritmética"
         ],
-        "author": "SimBucket"
+        "author": "Physicsclassroom"
     },
     {
         "name": "Simulação de Água",
-        "descript": "",
+        "descript": "Mostra como as moléculas de água aderem umas às outras e como isso muda com a temperatura.",
         "url": "https://www.simbucket.com/simulation/water-simulation/",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.31.04-PM-392x350.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Biologia",
+            "Termologia",
+            "Estatística"
         ],
         "author": "SimBucket"
     },
