@@ -9889,18 +9889,25 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/irwin-and-ruthie.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Mecânica",
+            "Gráfico"
         ],
         "author": "CK12"
     },
     {
-        "name": "carro sem motorista",
+        "name": "Carro sem motorista",
         "descript": "A simulação interativa tem o objetivo de contribuir com o aprendizado sobre adição de vetores em um contexto de um mapa no estilo dos GPS.",
         "url": "https://interactives.ck12.org/simulations/physics/driverless-car/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/driverless-car.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Vetores",
+            "Mobile",
+            "Cinemática",
+            "Força"
         ],
         "author": "CK12"
     },
@@ -9911,7 +9918,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/model-rocket.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Energia",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "CK12"
     },
@@ -9922,7 +9934,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/at-the-crossroads.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Matemática",
+            "Densidade",
+            "Geografia",
+            "Números",
+            "Aritmética"
         ],
         "author": "CK12"
     },
@@ -9933,7 +9950,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/telescope.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Óptica",
+            "Astronomia",
+            "Gráfico",
+            "Trigonometria"
         ],
         "author": "CK12"
     },
@@ -9944,7 +9965,10 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/prom-night.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Geometria",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -9955,7 +9979,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/irwin-ruthie-2d.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Vetores",
+            "Cinemática",
+            "Mecânica",
+            "Função",
+            "Gráfico"
         ],
         "author": "CK12"
     },
@@ -9966,7 +9995,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/doppler-duck.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Acústica",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -9977,7 +10012,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bobsled.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Gráfico",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -9995,7 +10035,8 @@
             "Cinemática",
             "Força",
             "Função",
-            "Vetores"
+            "Vetores",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -10006,7 +10047,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/violin.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -10017,7 +10062,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/portrait-gallery.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10028,18 +10077,27 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/butterfly-stroke.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "CK12"
     },
     {
         "name": "Cliff Diver",
-        "descript": "",
+        "descript": "Com que velocidade o mergulhador do penhasco está se movendo quando atinge a água? simule o movimento considerando a aceleração da gravidade e a resistência do ar.",
         "url": "https://interactives.ck12.org/simulations/physics/cliff-diver/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/cliff-diver.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "CK12"
     },
