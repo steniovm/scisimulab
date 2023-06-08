@@ -10103,12 +10103,18 @@
     },
     {
         "name": "Pressão do pneu",
-        "descript": "",
+        "descript": "Como a ar pode sustentar um caminhão? Encontre a pressão no pneus em razão da massa do caminhão.",
         "url": "https://interactives.ck12.org/simulations/physics/tire-pressure/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/tire-pressure.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Densidade",
+            "Força",
+            "Função",
+            "Hidrostática",
+            "Mecânica",
+            "Termologia"
         ],
         "author": "CK12"
     },
