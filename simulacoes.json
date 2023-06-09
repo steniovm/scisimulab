@@ -1808,7 +1808,8 @@
             "Força",
             "Eletromagnetismo",
             "Energia",
-            "Jogo"
+            "Jogo",
+            "Mobile"
         ],
         "author": "Walter-Fendt"
     },
@@ -3569,7 +3570,8 @@
             "Força",
             "Função",
             "Jogo",
-            "Vetores"
+            "Vetores",
+            "Oscilações"
         ],
         "author": "Vascak"
     },
@@ -9389,7 +9391,8 @@
             "Gravitação",
             "Astronomia",
             "Força",
-            "Vetores"
+            "Vetores",
+            "Mobile"
         ],
         "author": "Physicsclassroom"
     },
@@ -10120,7 +10123,7 @@
     },
     {
         "name": "Navio pirata",
-        "descript": "",
+        "descript": "Aprenda mais sobre a terceira lei de Newton e como o conceito de pares de forças nos permite entender a interação entre objetos.",
         "url": "https://interactives.ck12.org/simulations/physics/pirate-ship/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pirate-ship-battle.jpg?_build=202305291230",
         "categorys": [
@@ -10131,7 +10134,7 @@
     },
     {
         "name": "Arco e flecha",
-        "descript": "",
+        "descript": "Aprenda mais osbre a força elástica, lei de Hooke e sobre a energia armazenada em um sistema elástico tendo como contexto um arco e flecha.",
         "url": "https://interactives.ck12.org/simulations/physics/bow-and-arrow/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bow-and-arrow.jpg?_build=202305291230",
         "categorys": [
@@ -10142,7 +10145,7 @@
     },
     {
         "name": "Aerobarco Everglades",
-        "descript": "",
+        "descript": "Aprenda mais sobre a segunda lei de Newton que trata da relação entre força, massa e aceleração observando um barco impulsionado pelo vento produzido por sua hélice.",
         "url": "https://interactives.ck12.org/simulations/physics/everglades-airboat/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/everglades-airboat.jpg?_build=202305291230",
         "categorys": [
@@ -10153,7 +10156,7 @@
     },
     {
         "name": "Balão de ar quente",
-        "descript": "",
+        "descript": "A simulaçao tem como objetivo reforçar o aprendizado a respeito da segunda lei de Newton, que trata da relação entre força, massa e aceleração tendo como plano de fundo um balão de ar quente.",
         "url": "https://interactives.ck12.org/simulations/physics/hot-air-balloon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-air-balloon.jpg?_build=202305291230",
         "categorys": [
@@ -10182,7 +10185,7 @@
     },
     {
         "name": "Avião",
-        "descript": "",
+        "descript": "Explore as diferentes forças que agem em um avião em vôo, como sustentação, arrasto, força impulsora e peso.",
         "url": "https://interactives.ck12.org/simulations/physics/airplane/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/airplane.jpg?_build=202305291230",
         "categorys": [
@@ -10192,8 +10195,8 @@
         "author": "CK12"
     },
     {
-        "name": "velocista",
-        "descript": "",
+        "name": "Velocista",
+        "descript": "Aprenda mais sobre atrito estático, cinético e deslizamento analisando o movimento de um velocista ao longo de uma corrida.",
         "url": "https://interactives.ck12.org/simulations/physics/sprinter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/sprinter.jpg?_build=202305291230",
         "categorys": [
@@ -10203,8 +10206,8 @@
         "author": "CK12"
     },
     {
-        "name": "loja de malte",
-        "descript": "",
+        "name": "Milkshake deslizante",
+        "descript": "Aprenda sobre atrito cinético e como objetos deslizam até parar sob a influência da força de atrito.",
         "url": "https://interactives.ck12.org/simulations/physics/malt-shop/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/malt-shop.jpg?_build=202305291230",
         "categorys": [
@@ -10214,8 +10217,8 @@
         "author": "CK12"
     },
     {
-        "name": "cavalo e carroça",
-        "descript": "",
+        "name": "Cavalo e carroça",
+        "descript": "Aprenda mais sobre a terceira lei de Newton em duas dimensões e sobre a interação de múltiplos objetos ou corpos.",
         "url": "https://interactives.ck12.org/simulations/physics/horse-and-cart/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/horse-and-cart.jpg?_build=202305291230",
         "categorys": [
@@ -10226,7 +10229,7 @@
     },
     {
         "name": "Fonte de água",
-        "descript": "",
+        "descript": "Descubra qual a relevância do movimento de lançamento de projéteis na forma adquirida por um jato de água.",
         "url": "https://interactives.ck12.org/simulations/physics/water-fountain/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/water-fountain.jpg?_build=202305291230",
         "categorys": [
@@ -10237,7 +10240,7 @@
     },
     {
         "name": "Tiro com arco",
-        "descript": "",
+        "descript": "Aprenda mais sobre como prever a trajetória de projéteis ao tentar acertar o alvo com uma flecha.",
         "url": "https://interactives.ck12.org/simulations/physics/archery/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/archery-2.jpg?_build=202305291230",
         "categorys": [
@@ -10248,7 +10251,7 @@
     },
     {
         "name": "Fases da lua",
-        "descript": "",
+        "descript": "Aprenda como movimento contínuo da Lua ao redor da Terra e como as fases da Lua criadas pelas posições relativas da Terra, Lua e Sol nos permitem calcular o tempo simplesmente observado a forma e a orientação da Lua.",
         "url": "https://interactives.ck12.org/simulations/physics/phases-of-the-moon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/phases-of-the-moon.jpg?_build=202305291230",
         "categorys": [
@@ -10258,8 +10261,8 @@
         "author": "CK12"
     },
     {
-        "name": "Tetherball",
-        "descript": "",
+        "name": "Espirobol",
+        "descript": "Aprenda mais sobre o movimento circular no contexto de um jogo de espirobol.",
         "url": "https://interactives.ck12.org/simulations/physics/tetherball/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/tetherball.jpg?_build=202305291230",
         "categorys": [
@@ -10269,8 +10272,8 @@
         "author": "CK12"
     },
     {
-        "name": "loop o loop",
-        "descript": "",
+        "name": "Percorrendo o Lopping",
+        "descript": "Aprenda mais sobre movimento circular no contexto de uma montanha russa percorrendo um looping.",
         "url": "https://interactives.ck12.org/simulations/physics/loop-the-loop/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/loop-the-loop.jpg?_build=202305291230",
         "categorys": [
@@ -10280,8 +10283,8 @@
         "author": "CK12"
     },
     {
-        "name": "o sonho de clark",
-        "descript": "",
+        "name": "Satélites Geoestacionários",
+        "descript": "Aprenda mais sobre satélites geoestacionários e suas aplicações para comunicação.",
         "url": "https://interactives.ck12.org/simulations/physics/clarkes-dream/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/clarke-dream.jpg?_build=202305291230",
         "categorys": [
@@ -10292,7 +10295,7 @@
     },
     {
         "name": "Câmara de Treinamento de Astronautas",
-        "descript": "",
+        "descript": "Descubra a relação entre peso e massa na Terra e além dela.",
         "url": "https://interactives.ck12.org/simulations/physics/astronaut-training-chamber/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/astronaut-training-chamber.jpg?_build=202305291230",
         "categorys": [
@@ -10303,7 +10306,7 @@
     },
     {
         "name": "Ande na corda bamba",
-        "descript": "",
+        "descript": "Compreenda o conceito de inércia rotacional analisando o movimento de um equilibrista na corda bamba.",
         "url": "https://interactives.ck12.org/simulations/physics/walk-the-tightrope/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/walk-the-tightrope.jpg?_build=202305291230",
         "categorys": [
@@ -10313,8 +10316,8 @@
         "author": "CK12"
     },
     {
-        "name": "maçã de newton",
-        "descript": "",
+        "name": "Maçã de Newton",
+        "descript": "Aprenda sobre a lei da gravitação universal e o papel de Newton ao relacionar a mecânica terrestre e celeste.",
         "url": "https://interactives.ck12.org/simulations/physics/newtons-apple/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/newtons-apple.jpg?_build=202305291230",
         "categorys": [
@@ -10871,7 +10874,8 @@
             "Eletrodinâmica",
             "Força",
             "Eletromagnetismo",
-            "Energia"
+            "Energia",
+            "Mobile"
         ],
         "author": "CK12"
     },
@@ -13068,7 +13072,8 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Mobile"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13815,7 +13820,8 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/RLC_circuit.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Mobile"
         ],
         "author": "Physics.bu.edu"
     },
