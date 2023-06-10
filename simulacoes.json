@@ -10328,7 +10328,7 @@
     },
     {
         "name": "Estação Espacial",
-        "descript": "",
+        "descript": "Aprenda mais sobre órbitas em um contexto que aborda a próxima geração de estações espaciais.",
         "url": "https://interactives.ck12.org/simulations/physics/space-station/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/next-gen-space-station.jpg?_build=202305291230",
         "categorys": [
@@ -10339,7 +10339,7 @@
     },
     {
         "name": "Jornada Para Marte",
-        "descript": "",
+        "descript": "Aprenda mais sobre as leis de Kepler ao planejar uma viagem para marte.",
         "url": "https://interactives.ck12.org/simulations/physics/journey-to-mars/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/journey-to-mars.jpg?_build=202305291230",
         "categorys": [
@@ -10350,7 +10350,7 @@
     },
     {
         "name": "Testes de Balística",
-        "descript": "",
+        "descript": "Pratique conceitos de conservação da quantidade de movimento e energia analisando o caso de um pêndulo balístico.",
         "url": "https://interactives.ck12.org/simulations/physics/ballistics-tests/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ballistics-tests.jpg?_build=202305291230",
         "categorys": [
@@ -10361,7 +10361,7 @@
     },
     {
         "name": "Boneco de teste de colisão",
-        "descript": "",
+        "descript": "Aprenda como a relação entre força, tempo, impulso e quantidade de movimento afetam o resultado de uma colisão em um teste de colisão de veículos.",
         "url": "https://interactives.ck12.org/simulations/physics/crash-test-dummy/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/crash-test-dummy.jpg?_build=202305291230",
         "categorys": [
@@ -10372,7 +10372,7 @@
     },
     {
         "name": "Carros bate-bate",
-        "descript": "",
+        "descript": "Aprenda sobre a relação entre força, tempo, impulso e quantidade de movimento em colisões.",
         "url": "https://interactives.ck12.org/simulations/physics/bumper-cars/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars.jpg?_build=202305291230",
         "categorys": [
@@ -10382,8 +10382,8 @@
         "author": "CK12"
     },
     {
-        "name": "colisões",
-        "descript": "",
+        "name": "Colisões",
+        "descript": "Descubra a lei de conservação da quantidade de movimento examinando uma variedade de colisões entre carrinhos de batida.",
         "url": "https://interactives.ck12.org/simulations/physics/collisions/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars-2.jpg?_build=202305291230",
         "categorys": [
@@ -10393,8 +10393,8 @@
         "author": "CK12"
     },
     {
-        "name": "Turbina de vento",
-        "descript": "",
+        "name": "Turbina eólica",
+        "descript": "Aprenda a respeito do conceito de eficiência e como ele se relaciona à geração de energia por uma turbina eólica.",
         "url": "https://interactives.ck12.org/simulations/physics/wind-turbine/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/wind-turbine.jpg?_build=202305291230",
         "categorys": [
@@ -10405,7 +10405,7 @@
     },
     {
         "name": "Rampa E Piano",
-        "descript": "",
+        "descript": "Aprenda a relação entre força, trabalho e energia ao utilizar máquinas simples, como por exemplo, um plano inclinado.",
         "url": "https://interactives.ck12.org/simulations/physics/ramp-and-piano/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ramp-piano.jpg?_build=202305291230",
         "categorys": [
@@ -10415,8 +10415,8 @@
         "author": "CK12"
     },
     {
-        "name": "ver serra",
-        "descript": "",
+        "name": "Torque na Gangorra",
+        "descript": "Aprenda como corpos de diferentes massas podem se equilibrar em uma gangorra.",
         "url": "https://interactives.ck12.org/simulations/physics/see-saw/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/see-saw.jpg?_build=202305291230",
         "categorys": [
@@ -10427,7 +10427,7 @@
     },
     {
         "name": "Ponte levadiça",
-        "descript": "",
+        "descript": "Aprenda sobre o equilíbrio de torques no contexto de uma ponte levadiça medieval.",
         "url": "https://interactives.ck12.org/simulations/physics/drawbridge/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/drawbridge.jpg?_build=202305291230",
         "categorys": [
@@ -10456,7 +10456,7 @@
     },
     {
         "name": "Monociclo",
-        "descript": "",
+        "descript": "Compreenda o fenômeno de rolamento sem deslizamento mesmo quando há aplicação de um torque.",
         "url": "https://interactives.ck12.org/simulations/physics/unicycle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/unicycle.jpg?_build=202305291230",
         "categorys": [
@@ -10466,8 +10466,8 @@
         "author": "CK12"
     },
     {
-        "name": "Yo Yo",
-        "descript": "",
+        "name": "Ioiô",
+        "descript": "Compreenda a dinâmica de objetos em rotação no contexto de um ioiô girando.",
         "url": "https://interactives.ck12.org/simulations/physics/yo-yo/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/yo-yo.jpg?_build=202305291230",
         "categorys": [
@@ -10477,8 +10477,8 @@
         "author": "CK12"
     },
     {
-        "name": "pista de boliche",
-        "descript": "",
+        "name": "Pista de boliche",
+        "descript": "Entenda como ocorre a transição entre o movimento de deslizamento e o de giro ao arremessar uma bola em uma pista de boliche.",
         "url": "https://interactives.ck12.org/simulations/physics/bowling-alley/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bowling-alley.jpg?_build=202305291230",
         "categorys": [
@@ -10488,8 +10488,8 @@
         "author": "CK12"
     },
     {
-        "name": "Bloquear e derrubar",
-        "descript": "",
+        "name": "Máquinas simples - Vantagem mecânica",
+        "descript": "Aprenda a relação entre força, trabalho, energia e vantagem mecânica ao utilizar uma máquina simlpes.",
         "url": "https://interactives.ck12.org/simulations/physics/block-and-tackle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/block-and-tackle.jpg?_build=202305291230",
         "categorys": [
@@ -10500,7 +10500,7 @@
     },
     {
         "name": "Trampolim",
-        "descript": "",
+        "descript": "Aprenda sobre a conversão de diferentes modalidades de energias potenciais e cinética ao analisar o movimento de um jovem em um trampolim.",
         "url": "https://interactives.ck12.org/simulations/physics/trampoline/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/trampoline.jpg?_build=202305291230",
         "categorys": [
