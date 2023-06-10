@@ -135,7 +135,7 @@
     },
     {
         "name": "CentriSpace",
-        "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a a pseudo-força centrifuga é usada para criar gravidade artificial.",
+        "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a pseudo-força centrifuga é usada para criar gravidade artificial.",
         "url": "./simuls/CentriSpace/index.html",
         "thumb": "./simuls/CentriSpace/screenshot.png",
         "categorys": [
@@ -10146,7 +10146,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pirate-ship-battle.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Mecânica",
+            "Vetores",
+            "Mobile"
         ],
         "author": "CK12"
     },
@@ -10157,7 +10161,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bow-and-arrow.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10168,7 +10178,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/everglades-airboat.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10179,7 +10195,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-air-balloon.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -10208,7 +10231,15 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/airplane.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Clima",
+            "Geografia"
         ],
         "author": "CK12"
     },
@@ -10219,7 +10250,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/sprinter.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10230,7 +10267,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/malt-shop.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10241,7 +10284,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/horse-and-cart.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10252,7 +10301,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/water-fountain.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Hidrostática"
         ],
         "author": "CK12"
     },
@@ -10263,7 +10319,15 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/archery-2.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Trigonometria"
         ],
         "author": "CK12"
     },
@@ -10274,7 +10338,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/phases-of-the-moon.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Cinemática",
+            "Clima",
+            "Geografia",
+            "Trigonometria",
+            "Relatividade"
         ],
         "author": "CK12"
     },
@@ -10285,7 +10355,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/tetherball.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Trigonometria"
         ],
         "author": "CK12"
     },
@@ -10296,7 +10373,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/loop-the-loop.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10307,7 +10391,17 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/clarke-dream.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10318,7 +10412,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/astronaut-training-chamber.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Força",
+            "Gravitação",
+            "Gráfico"
         ],
         "author": "CK12"
     },
@@ -10329,7 +10427,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/walk-the-tightrope.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10340,7 +10445,15 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/newtons-apple.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10351,7 +10464,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/next-gen-space-station.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Energia"
         ],
         "author": "CK12"
     },
@@ -10362,7 +10484,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/journey-to-mars.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "CK12"
     },
@@ -10373,7 +10501,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ballistics-tests.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores",
+            "Cinemática"
         ],
         "author": "CK12"
     },
@@ -10384,7 +10519,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/crash-test-dummy.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores",
+            "Cinemática"
         ],
         "author": "CK12"
     },
@@ -10395,7 +10537,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Cinemática",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10406,7 +10555,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bumper-cars-2.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Cinemática",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10417,7 +10573,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/wind-turbine.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum"
         ],
         "author": "CK12"
     },
@@ -10428,7 +10589,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ramp-piano.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10439,7 +10609,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/see-saw.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10450,7 +10629,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/drawbridge.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10479,7 +10667,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/unicycle.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10490,7 +10685,15 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/yo-yo.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Momentum",
+            "Oscilações",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10501,7 +10704,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/bowling-alley.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Momentum",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10512,7 +10720,15 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/block-and-tackle.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10523,7 +10739,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/trampoline.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
