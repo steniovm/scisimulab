@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta property="og:title" content="Gravidade Centrifuga" />
+        <meta property="og:description" content="Gravidade Artificil por força centrifuga" />
+        <meta property="og:locale" content="pt-br" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="style.css" />
+        <title>Simulador de Gravidade Artificial por aceleração centrípeta</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+     crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>Gravidade Artificial por Aceleração Centrípeta</h1>
+        <main>
+            <section>
+                <h2>Colônia de O'Neill</h2>
+                <div>
+                    <canvas id="canvasstation" width="400" height="400">Erro na renderização de elemento canvas</canvas>
+                    <div class="param">
+                        <form id="condform">
+                            <div class="indata">
+                                <span>Raio da estação (m):</span>
+                                <input type="number" class="temper" id="inraio" name="inraio" value="100" min="1" max="1000000"/>
+                            </div>
+                            <div class="indata">
+                                <span>Rotação (RPM):</span>
+                                <input type="number" class="temper" id="inrot" name="inrot" value="3" min="0" max="1000" step="0.1"/>
+                                <span id="rpmtohz" class="convert">= 0.05 Hz</span>
+                            </div>
+                            <div class="indata">
+                                <span>Massa (Kg):</span>
+                                <input type="number" class="temper" id="inmass" name="inmass" value="1" min="0" max="200" step="0.1"/>
+                            </div>
+                        </form>
+                        <div class="results">
+                            <span id="outputv" class="convert">v = 5.00 m/s = 18.0 km/h</span>
+                            <span id="output" class="convert">a = 9.86 m/s² = 1,01 g</span>
+                        </div>
+                        <div class="boxbuttons">
+                            <button id="startcond">Iniciar</button>
+                            <button id="pausecond">Parar</button>
+                        </div>
+                        <div class="unclass">
+                            <canvas id="canvaspeso" width="70" height="160">Erro na renderização de elemento canvas</canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <img id="myimg1" class="myimg" src="../stenio.jpg" alt="Foto Stenio"/>
+            <img id="myimg2" class="myimg" src="renammagalhaes.jpeg" alt="Foto Renam"/>
+            <div id="divinfo" class="divinfo">
+                <span>Autores:</span>
+                <span>Stênio Vinicios de Medeiros</span>
+                <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"  alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+                <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+                <span>Renan Magalhães</span>
+                <span>Linkedin: <a href="https://www.linkedin.com/in/renan-mello-magalh%C3%A3es-b1828951/"  alt="Meu Linkedin">https://www.linkedin.com/in/renan-mello-magalhães-b1828951/</a></span>
+            </div>
+        </footer>
+        <div style="height: 20px;">
+            <img src="../../logo.svg" alt="logo SciSimuLab" style="height: 20px;"/>
+            <b>Uma produção original 
+            <a href="https://scisimulab.com.br/" target="_blank"><i>Sci Simu Lab</i></a></b>
+        </div>
+        <script type="text/javascript" src="scripts.js"></script>
+    </body>
+</html>

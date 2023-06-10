@@ -134,6 +134,24 @@
         "author": "Steniovm"
     },
     {
+        "name": "CentriSpace",
+        "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a a pseudo-força centrifuga é usada para criar gravidade artificial.",
+        "url": "./simuls/CentriSpace/index.html",
+        "thumb": "./simuls/CentriSpace/screenshot.png",
+        "categorys": [
+            "Física",
+            "Gravitação",
+            "Força",
+            "Cinemática",
+            "Astronomia",
+            "Clima",
+            "Função",
+            "Mecânica",
+            "*SciSimuLab*"
+        ],
+        "author": "RenanMagalhães"
+    },
+    {
         "name": "Pensamento Computacional",
         "descript": "Faça um algorítimos para ajudar o personagem a devolver seu VHS para a locadora.",
         "url": "https://avamec.mec.gov.br/ava-mec-ws/instituicao/seb/conteudo/modulo/1421/mini-games/Algoritmos/index.html",

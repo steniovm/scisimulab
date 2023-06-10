@@ -1,0 +1,131 @@
+:root {
+    --neutral-green: #9FCFBF;
+    --light-grey: #bdbdbd;
+    --yellow-transp: #bdbd004d;
+    --red-transp: #bd00004d;
+    --blue-transp: #0000bd4d;
+}
+body {
+    background-color: var(--neutral-green);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h1,h2,h3{
+    margin: 2px;
+}
+button{
+    font-weight: bold;
+    font-size: large;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    min-width: 70px;
+    background-color: #9da;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+section{
+    border:solid black 1px;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+span{
+    font-weight: bold;
+    white-space: nowrap;
+}
+.myimg{
+    height: 16vh;
+    min-height:60px;
+    padding: 1vh;;
+}
+.divinfo{
+    display: flex;
+    flex-direction: column;
+}
+canvas{
+    cursor:all-scroll;
+    border:1px solid #000000;
+    background-color: #000;
+}
+section>div{
+    display: flex;
+    flex-direction: row;
+}
+.param{
+    display: flex;
+    flex-direction: column;
+}
+.boxbuttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+.condform{
+    display: flex;
+    flex-direction: column;
+    background-color: #bbc;
+}
+.subform{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+label{
+    border: solid 1px #333;
+    display: flex;
+    flex-direction: row;
+}
+input{
+    width: 50px;
+    border-radius: 20px;
+    background-color: #eeb;
+    border: none;
+    text-align: end;
+}
+.indata{
+    border: solid 1px rgba(51, 51, 51, 0.2);
+    display: flex;
+    flex-direction: row;
+    width: min-content;
+    white-space: nowrap;
+    padding: 0 4px;
+}
+.results{
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+}
+.unclass{
+    display: unset;
+    justify-content: center;
+}
+
+@media screen and (MAX-width: 650px) {
+    section>div{
+        flex-direction: column;
+    }
+    .myimg{
+        height: 8vh;
+        min-height:30px;
+        padding: 0;
+    }
+    footer{
+        flex-direction: column-reverse;
+        width: 90%;
+    }
+    .divinfo>span{
+        white-space: unset;
+    }
+}
