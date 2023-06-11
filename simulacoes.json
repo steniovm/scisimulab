@@ -8665,7 +8665,6 @@
         "thumb": "https://ophysics.com/images/thumbs/r8thumb.jpeg",
         "categorys": [
             "Física",
-            "Aritmética",
             "Cinemática",
             "Força",
             "Energia",
@@ -12005,7 +12004,7 @@
     },
     {
         "name": "Bilhar",
-        "descript": "",
+        "descript": "Simula o movimento de varias bolas de bilhar quando interagem entre si, com as paredes e com a mesa. É possivel alterar varios parâmetras, como atrito e elasticidade.",
         "url": "https://www.myphysicslab.com/engine2D/billiards-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Billiards.png",
         "categorys": [
@@ -12013,7 +12012,14 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Cinemática",
+            "Força",
+            "Jogo",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12032,16 +12038,18 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "berço de newton",
-        "descript": "",
+        "name": "Berço de Newton",
+        "descript": "Mosta o movimento oscilatório, com gráficos, de uma combinação popular de pêndulos conhecida como berço de Newton, evidenciando a conservação do momento linear e da energia.",
         "url": "https://www.myphysicslab.com/engine2D/newtons-cradle-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Newtons-cradle.png",
         "categorys": [
             "Física",
-            "Matemática",
-            "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia",
+            "Mecânica",
+            "Oscilações",
+            "Momentum"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12341,7 +12349,7 @@
     },
     {
         "name": "Atração mutua",
-        "descript": "",
+        "descript": "Simula a trajetória de varios corpos que se atraem gravitacionalmente.",
         "url": "https://www.myphysicslab.com/engine2D/mutual-attract-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_mutual_attract.gif",
         "categorys": [
@@ -12349,7 +12357,12 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Astronomia",
+            "Energia",
+            "Gravitação",
+            "Força",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -14456,16 +14469,13 @@
     },
     {
         "name": "Fazendo um arco-íris",
-        "descript": "",
+        "descript": "Uma representação de como um arco-íris é formado.Quando a luz branca do Sol entra em uma gota, ela se refrata na gota, sofre uma reflexão interna total na parte de trás da gota e depois se refrata de volta para o ar, resultando em dispersão",
         "url": "http://physics.bu.edu/~duffy/HTML5/rainbow.html",
         "thumb": "",
         "categorys": [
             "Física",
             "Ondas",
-            "Acústica",
-            "Cinemática",
             "Geometria",
-            "Mecânica",
             "Trigonometria",
             "Vetores",
             "Óptica",
