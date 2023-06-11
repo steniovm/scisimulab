@@ -10789,12 +10789,17 @@
     },
     {
         "name": "A Marina",
-        "descript": "",
+        "descript": "As ondas no mar sobre difração ao passar pelos portões de uma marina, veja como se formão os padrões de refração com uma ou duas fendas (portões)",
         "url": "https://interactives.ck12.org/simulations/physics/the-marina/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/the-marina.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11038,12 +11043,18 @@
     },
     {
         "name": "Analogias Elétricas",
-        "descript": "",
+        "descript": "Simula o funcionamento de uma roda d'agua para gerar eletrícidade. Pode-se projetar varias configurações, como geradores em série e paralelos, variar a resistência do consumidor, etc.",
         "url": "https://interactives.ck12.org/simulations/physics/electric-analogies/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-analogies.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Clima",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "CK12"
     },
@@ -11164,12 +11175,20 @@
     },
     {
         "name": "Aula de Marie Curie",
-        "descript": "",
+        "descript": "Analise o decaimento radioativo de varios elementos e isotópos. veja o tempo de meia-vida, as particulas emitidas e os subprodutos formados.",
         "url": "https://interactives.ck12.org/simulations/physics/marie-curies-classroom/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/marie-curies-classroom.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Energia",
+            "Momentum",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "CK12"
     },
@@ -11416,13 +11435,19 @@
         "author": "CK12"
     },
     {
-        "name": "airbag",
-        "descript": "",
+        "name": "Airbag",
+        "descript": "Analise o funcionamento físico e químico de um airbag, compare o efeito de varias substâncias explosivas e suas quantidades e descubra qual é mais recomendada.",
         "url": "https://interactives.ck12.org/simulations/chemistry/decomposition-reaction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/decomposition-reaction.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11439,12 +11464,19 @@
     },
     {
         "name": "Bateria",
-        "descript": "",
+        "descript": "Simula o funcionamento de uma batéria quimica para gerar eletricidade e fazer uma lanterna funcionar. Pode-se escolher e comparar os materias usados na bateria.",
         "url": "https://interactives.ck12.org/simulations/chemistry/redox-reaction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/battery.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Gráfico",
+            "Números",
+            "Atômica",
+            "Semicondutores"
         ],
         "author": "CK12"
     },
@@ -11508,12 +11540,17 @@
     },
     {
         "name": "Assuntos Aéreos",
-        "descript": "",
+        "descript": "Mostra a composição quimica do ar atmosférico.",
         "url": "https://interactives.ck12.org/simulations/chemistry/what-is-air/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/what-is-air.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Clima",
+            "Densidade",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11552,12 +11589,21 @@
     },
     {
         "name": "Ao redor do mundo",
-        "descript": "",
+        "descript": "Simula a ebulição da água em diversas altitudes e locais ao redor do mundo.",
         "url": "https://interactives.ck12.org/simulations/chemistry/boiling-point/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/boiling-point.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Biologia",
+            "Clima",
+            "Energia",
+            "Função",
+            "Geografia",
+            "Gráfico",
+            "Hidrostática",
+            "Termologia",
+            "Termodinâmica"
         ],
         "author": "CK12"
     },
@@ -11585,12 +11631,15 @@
     },
     {
         "name": "Acampamento - Mudanças Químicas e Físicas",
-        "descript": "",
+        "descript": "Análise e indentifique transformações físicas e químicas que ocorrem em um acampamento.",
         "url": "https://interactives.ck12.org/simulations/chemistry/campout/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/campout.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Física",
+            "Jogo",
+            "Energia",
+            "Clima"
         ],
         "author": "CK12"
     },
@@ -11833,21 +11882,27 @@
     },
     {
         "name": "Blocos em colisão",
-        "descript": "",
+        "descript": "Simula um experimento em que dois blocos, um livre e um presso a uma mola, podem interagir e obterem movimentos oscilatórios e aleatórios.",
         "url": "https://www.myphysicslab.com/springs/collide-blocks-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collide_blocks.png",
         "categorys": [
             "Física",
             "Matemática",
-            "Geometria",
+            "Cinemática",
             "Gráfico",
-            "Função"
+            "Função",
+            "Estatística",
+            "Mecânica",
+            "Força",
+            "Momentum",
+            "Oscilações",
+            "Probabilidade"
         ],
         "author": "MyPhysicsLab"
     },
     {
         "name": "Carrinho + Pêndulo",
-        "descript": "",
+        "descript": "Mostra o movimento combinado de um pêndulo e uma mola horizontal, pode-se alterar a posição inicial, a gravidade, a massa, o comprimento do pêndulo, a rigidez da mola ou o atrito (amortecimento).",
         "url": "https://www.myphysicslab.com/pendulum/cart-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum.png",
         "categorys": [
@@ -11855,7 +11910,14 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -11889,7 +11951,7 @@
     },
     {
         "name": "Colisões de corpos rígidos",
-        "descript": "",
+        "descript": "Mostrar objetos colidindo em 2 dimensões. Pode-se controlar quatro \"propulsores\". em dois dos blocos. As teclas J,K,L,I (e também as setas) controlam o empuxo no bloco2. Também pode-se definir a gravidade, elasticidade (salto) e amortecimento (atrito) e a massa de um dos blocos.",
         "url": "https://www.myphysicslab.com/engine2D/collision-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collision.gif",
         "categorys": [
@@ -11897,7 +11959,15 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Cinemática",
+            "Estatística",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Probabilidade",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -11989,8 +12059,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "braquistócrona",
-        "descript": "",
+        "name": "Braquistócrona",
+        "descript": "Dados dois pontos, ao longo de qual caminho você pode deslizar mais rápido? Veja se consegue escolher o caminho mais rápido nesta simulação do famoso problema da Braquistócrona.",
         "url": "https://www.myphysicslab.com/roller/brachistochrone-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Brachistochrone.png",
         "categorys": [
@@ -11998,7 +12068,8 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Momentum"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12025,7 +12096,7 @@
     },
     {
         "name": "Corrente Pendurada",
-        "descript": "",
+        "descript": "Vários corpos rígidos conectados por juntas flexíveis formando uma corda,Mova as peças individualemnte, altere a gravidade, elasticidade (salto) e amortecimento (atrito).",
         "url": "https://www.myphysicslab.com/engine2D/chain-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Chain.png",
         "categorys": [
@@ -12033,7 +12104,11 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Estatística"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12111,7 +12186,7 @@
     },
     {
         "name": "Carrinho + Pêndulo com Motor de Física",
-        "descript": "",
+        "descript": "Simula um carrinho se movendo ao longo de uma pista horizontal com um pêndulo suspenso nela. Controle exercer uma força de sobre a mola, pode-se alterar a gravidade, rigidez da mola, elasticidade e amortecimento (atrito).",
         "url": "https://www.myphysicslab.com/engine2D/cart-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_cart_pendulum2.gif",
         "categorys": [
@@ -12119,7 +12194,14 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12195,15 +12277,18 @@
     },
     {
         "name": "Corda",
-        "descript": "",
+        "descript": "Simula um pulso de onda se propagando em uma corda sob tensão. Altere a densidade, tensão, amortecimento (atrito), número de pontos e intervalo de tempo.",
         "url": "https://www.myphysicslab.com/pde/string-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_string.gif",
         "categorys": [
             "Física",
             "Matemática",
-            "Geometria",
             "Gráfico",
-            "Função"
+            "Força",
+            "Função",
+            "Energia",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12223,15 +12308,17 @@
     },
     {
         "name": "Comparar Pêndulos Duplos ",
-        "descript": "",
+        "descript": "Mostra o movimento de dois pêndulos duplos quase idênticos. Voce pode reparar que os movimentos inciam quase iguais e com o tempo se diferenciam caóticamente.",
         "url": "https://www.myphysicslab.com/pendulum/compare-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_compare_double_pendulum.gif",
         "categorys": [
             "Física",
             "Matemática",
-            "Geometria",
-            "Gráfico",
-            "Função"
+            "Estatística",
+            "Função",
+            "Mecânica",
+            "Oscilações",
+            "Probabilidade"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12306,8 +12393,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "cadeia de molas",
-        "descript": "",
+        "name": "Cadeia de molas",
+        "descript": "Mostra uma cadeia de molas e massas com pontos de fixação fixos. Pode-se mover os ponto de fixação e alterar o número de elos da corrente, gravidade, massa, rigidez da mola e amortecimento (atrito). Tambêm pode arrastar uma massa individual.",
         "url": "https://www.myphysicslab.com/springs/chain-of-springs-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_chain_of_springs.gif",
         "categorys": [
@@ -12315,7 +12402,13 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Energia",
+            "Estatística",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12635,12 +12728,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "a força normal",
-        "descript": "",
+        "name": "A força normal",
+        "descript": "Em uma caixa em repouso sobre uma mesa você pode aplicar uma força verticale acompanhar o diagrama de corpo livre completo da caixa, com a força gravitacional, a força normal e a força vertical que você aplica.",
         "url": "http://physics.bu.edu/~duffy/HTML5/normal_force.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13221,11 +13318,17 @@
     },
     {
         "name": "A força de empuxo",
-        "descript": "",
+        "descript": "Investigue do que depende a força de empuxo (e do que não depende). Usando um bloco de baixa densidade em um recipiente com fluido com alguma fração submersa e desidades ajustaveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/fluid_buoyant_force.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13898,12 +14001,22 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "A força sobre uma partícula carregada em um campo magnético",
-        "descript": "",
+        "name": "Força sobre uma partícula carregada em um campo magnético",
+        "descript": "Investige a força que um campo magnético exerce sobre uma partícula carregada. Veja varias situações de valor de carga, de velocidade inicial e de ângulo entre a velocidade e o angulo. Aproveite para rever os conceitos de movimento circular.",
         "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_field.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores",
+            "Trigonometria"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13969,11 +14082,17 @@
     },
     {
         "name": "A força entre os fios condutores de corrente",
-        "descript": "",
+        "descript": "Explorar a força entre fios condutores de corrente longos e retos transversais a tela. Ajuste a posição e corrente em cada fio e veja a força sobre eles.",
         "url": "http://physics.bu.edu/~duffy/HTML5/current_interaction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14621,7 +14740,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Aceleração devido à gravidade em um planeta",
@@ -14631,7 +14750,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Aceleração em Curvas",
@@ -14641,7 +14760,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Aceleração em inclinação com laboratório de previsão",
@@ -14651,7 +14770,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Um Domingo Qualquer",
@@ -14661,7 +14780,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Máquinas Atwood",
@@ -14671,7 +14790,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "batidas",
@@ -14681,7 +14800,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório Bernoulli",
@@ -14691,7 +14810,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Flutuabilidade",
@@ -14701,7 +14820,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de flutuabilidade de doces",
@@ -14711,7 +14830,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Contêineres de Doces",
@@ -14721,7 +14840,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Carregamento do Capacitor no Circuito RC",
@@ -14731,7 +14850,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Propriedades do capacitor",
@@ -14741,7 +14860,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Carga no Campo Magnético",
@@ -14751,7 +14870,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Carga se movendo através do campo magnético básico",
@@ -14761,7 +14880,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Carregando um capacitor em um circuito DC",
@@ -14771,7 +14890,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Aceleração Circular",
@@ -14781,7 +14900,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Forças Circulares",
@@ -14791,7 +14910,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Atrito Circular",
@@ -14801,7 +14920,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de aprendizado de movimento circular",
@@ -14811,7 +14930,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Força Circular Clássica",
@@ -14821,7 +14940,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Força Circular Clássica com Previsões",
@@ -14831,7 +14950,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Joey saltando do penhasco com previsão",
@@ -14841,7 +14960,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Aproximação mais próxima entre as partículas",
@@ -14851,7 +14970,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Espelhos Convergentes",
@@ -14861,7 +14980,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Leis de Coulomb",
@@ -14871,7 +14990,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Curling Momentum",
@@ -14881,7 +15000,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Mergulhador do mar profundo",
@@ -14891,7 +15010,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "difração da luz",
@@ -14901,7 +15020,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de inclinação para baixo do disco",
@@ -14911,7 +15030,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Distância para Destruição",
@@ -14921,7 +15040,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Efeito Doppler",
@@ -14937,7 +15056,7 @@
             "Mecânica",
             "Relatividade"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório Doppler com previsões",
@@ -14947,7 +15066,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de entrega de drones",
@@ -14957,7 +15076,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório da Torre de Basculamento",
@@ -14967,7 +15086,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Torre de despejo com laboratório de parcelas salvas",
@@ -14977,7 +15096,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Eficiência de um Motor Ideal",
@@ -14987,7 +15106,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Força Elástica",
@@ -14997,7 +15116,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Equivalente Elétrico de Calor",
@@ -15007,7 +15126,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Espectro Eletromagnético com Grade de Difração",
@@ -15017,7 +15136,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Espectro EM visto usando laboratório de grade de difração",
@@ -15027,7 +15146,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de espectros de emissão",
@@ -15037,7 +15156,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Perda de energia no salto",
@@ -15047,7 +15166,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório guiado sobre perda de energia em ressaltos",
@@ -15057,7 +15176,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Perda de energia em salto com previsão",
@@ -15067,7 +15186,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Transformações de energia",
@@ -15077,7 +15196,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Equações do Movimento",
@@ -15087,7 +15206,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Padre Brown em uma velocidade constante",
@@ -15097,7 +15216,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Aceleração Constante Father Brown",
@@ -15107,7 +15226,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de movimento vertical de fogos de artifício",
@@ -15117,7 +15236,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Taxa de fluxo de um dispensador com laboratório de previsões",
@@ -15127,7 +15246,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Taxa de Fluxo do Laboratório Dispensador",
@@ -15137,7 +15256,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Vazão",
@@ -15147,7 +15266,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Taxa de Fluxo com Previsões",
@@ -15157,7 +15276,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Fluidos em um laboratório U-Tube",
@@ -15167,7 +15286,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Direção da Força Relativa ao Laboratório de Movimento",
@@ -15177,7 +15296,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Força Elétrica Minilaboratório",
@@ -15187,7 +15306,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Force Electric MiniLab com números",
@@ -15197,7 +15316,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Caçamba de Força de Gravidade",
@@ -15207,7 +15326,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de garrafa de água de gravidade forçada",
@@ -15217,7 +15336,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Força Normal no Laboratório da Estação Espacial",
@@ -15227,7 +15346,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Forças em um Laboratório de Inclinação",
@@ -15237,7 +15356,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Gráficos de movimento de estilo livre",
@@ -15247,7 +15366,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Frequência do Laboratório de Gap de Energia",
@@ -15257,7 +15376,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de fricção",
@@ -15267,7 +15386,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Atrito com laboratório de previsão",
@@ -15277,7 +15396,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Gás na Caixa",
@@ -15287,7 +15406,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Gráfico de Movimento Simples",
@@ -15297,7 +15416,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Graphing of Motion Lab (Rápido)",
@@ -15307,7 +15426,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Representando graficamente o movimento de dois estágios",
@@ -15317,7 +15436,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Chute de Futebol Solo a Solo",
@@ -15327,7 +15446,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de oscilações guiadas",
@@ -15337,7 +15456,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "laboratório de meia-vida",
@@ -15347,7 +15466,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de transferência de calor",
@@ -15357,7 +15476,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Transferência de calor com laboratório de previsão",
@@ -15367,7 +15486,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de oscilações horizontais",
@@ -15377,7 +15496,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de oscilações horizontais com amortecimento",
@@ -15387,7 +15506,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "laboratório de impulso",
@@ -15397,7 +15516,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório do Impulse Versão 2",
@@ -15407,7 +15526,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Impulso com laboratório de previsão",
@@ -15417,7 +15536,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Plano Inclinado",
@@ -15427,7 +15546,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Corrente Induzida",
@@ -15437,7 +15556,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Intensidade",
@@ -15447,7 +15566,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Ondas Interferentes",
@@ -15457,7 +15576,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Resistência interna com previsão",
@@ -15467,7 +15586,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de energia cinética",
@@ -15477,7 +15596,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de energia cinética",
@@ -15487,7 +15606,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de energia cinética com previsões",
@@ -15497,7 +15616,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "laboratório de lentes",
@@ -15507,7 +15626,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Aceleração circular ao vivo (somente telefone)",
@@ -15517,7 +15636,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Campo magnético do fio",
@@ -15527,7 +15646,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Indução magnética",
@@ -15537,7 +15656,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Distribuição Maxwell",
@@ -15547,7 +15666,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Medição de Tensão e Frequência em AC Lab",
@@ -15557,7 +15676,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Equivalente Mecânico de Calor",
@@ -15567,7 +15686,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de gotas de óleo Millikan",
@@ -15577,7 +15696,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Momento de inércia da polia",
@@ -15587,17 +15706,24 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "2ª Lei de Newton Simples",
-        "descript": "",
+        "descript": "Investigue os fatores que afetam a aceleração de um objeto em uma superfície horizontal sem atrito. Use um gráfico de posição versus tempo e um gráfico de velocidade versus tempo para obter a aceleração do objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=11",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawwithGraphsLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Estatística",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Sistema da 2ª Lei de Newton",
@@ -15607,17 +15733,24 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "2ª Lei de Newton com Photogates",
-        "descript": "",
+        "descript": "Investigue os fatores que afetam a aceleração de um objeto em uma superfície horizontal sem atrito. Utilize dois sensores óticos para encontrar a aceleração do objeto. Pode-se variar parâmetros como força motriz e massa total e ver como a aceleração é afetada por cada mudança.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=288",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawPhotogateLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Estatística",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Leis de Newton com Previsões",
@@ -15627,7 +15760,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Lei de Ohm com medidores analógicos",
@@ -15637,7 +15770,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Lei de Ohm com Previsões",
@@ -15647,7 +15780,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Oscilações",
@@ -15657,7 +15790,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuitos Paralelos",
@@ -15667,7 +15800,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de princípios de Pascal",
@@ -15677,7 +15810,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Pendulum PocketLab",
@@ -15687,7 +15820,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "pêndulos",
@@ -15697,7 +15830,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "laboratório fotoelétrico",
@@ -15707,7 +15840,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Pré-laboratório de aceleração Photogate",
@@ -15717,7 +15850,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Queda Livre PocketLab",
@@ -15727,7 +15860,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Pêndulo PocketLab com previsão",
@@ -15737,7 +15870,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Pressão do PocketLab abaixo de um laboratório de fluidos",
@@ -15747,7 +15880,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Poder da Lâmpada",
@@ -15757,7 +15890,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Poder da Luz com Laboratório de Previsão",
@@ -15767,7 +15900,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Prevendo a velocidade no local em uma rampa",
@@ -15777,7 +15910,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Projéteis",
@@ -15787,7 +15920,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "polias",
@@ -15797,7 +15930,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "PVC Queda Livre",
@@ -15807,7 +15940,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Emissão Radiante de Luz",
@@ -15817,7 +15950,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Detecção de Radiação",
@@ -15827,7 +15960,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de blindagem radioativa",
@@ -15837,7 +15970,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Rail Gun",
@@ -15847,7 +15980,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuitos RC",
@@ -15857,7 +15990,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "RC no Laboratório AC",
@@ -15867,7 +16000,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de bateria real",
@@ -15877,7 +16010,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Lâmpadas Reais de NJ",
@@ -15887,7 +16020,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Refletindo Ondas",
@@ -15897,7 +16030,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Refração da Luz",
@@ -15907,7 +16040,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Resistência do Fio",
@@ -15917,7 +16050,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Resistência do Fio baseada na Lei de Ohm",
@@ -15927,7 +16060,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Resistência do Fio à Tensão com Previsões",
@@ -15937,7 +16070,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Curva de Ressonância",
@@ -15947,7 +16080,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Tubos de Ressonância",
@@ -15957,7 +16090,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Travessia do Rio",
@@ -15967,7 +16100,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Travessia de rio com laboratório de previsão",
@@ -15977,7 +16110,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "RL em CA",
@@ -15987,7 +16120,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "RLC no Laboratório AC",
@@ -15997,7 +16130,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de distância rolante",
@@ -16007,7 +16140,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório simples de distância rolante",
@@ -16017,7 +16150,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Distância de rolagem com laboratório de previsão",
@@ -16027,7 +16160,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Playground Satélite",
@@ -16037,7 +16170,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Velocidade de Satélite",
@@ -16047,7 +16180,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Escala (Torque e Equilíbrio)",
@@ -16057,7 +16190,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuitos em série",
@@ -16067,7 +16200,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuitos Simples",
@@ -16077,7 +16210,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuito em Série Simples com Laboratório de Previsão",
@@ -16087,7 +16220,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de velocidade térmica simples",
@@ -16097,7 +16230,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "laboratório sifão",
@@ -16107,7 +16240,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Distância de Parada do Tênis",
@@ -16117,7 +16250,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Chute de Futebol com Laboratório de Previsão",
@@ -16127,7 +16260,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório Fluxo Solar",
@@ -16137,7 +16270,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Espaço ao redor do Charge Lab",
@@ -16147,7 +16280,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Calor Específico do Fluido a partir da Energia Elétrica",
@@ -16157,7 +16290,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Calor Específico do Líquido (Guiado)",
@@ -16167,7 +16300,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Calor Específico do Sólido (Guiado)",
@@ -16177,7 +16310,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Velocidade do som",
@@ -16193,7 +16326,7 @@
             "Mecânica",
             "Relatividade"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Velocidade da onda na corda",
@@ -16203,7 +16336,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Bobina Girando em Campo Magnético",
@@ -16213,7 +16346,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Bobina girando em campo magnético com gráfico",
@@ -16223,7 +16356,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Oscilação da mola com Previsão PocketLab",
@@ -16233,7 +16366,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Ondas Estacionárias",
@@ -16243,7 +16376,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Distância de parada",
@@ -16253,7 +16386,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Distância de parada versão 2",
@@ -16263,7 +16396,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Super Soaker Lab",
@@ -16273,7 +16406,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Ponte suspensa",
@@ -16283,7 +16416,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "A maneira como um espelho funciona 2 Laboratório",
@@ -16293,7 +16426,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de como um espelho funciona",
@@ -16303,7 +16436,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de como um espelho funciona (Plane Mirror)",
@@ -16313,7 +16446,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Velocidade térmica com laboratório de previsão",
@@ -16323,7 +16456,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de tubos de raios catódicos de Thompson",
@@ -16333,7 +16466,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Esteira",
@@ -16343,7 +16476,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Exploração Triangular",
@@ -16353,7 +16486,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Energia Gravitacional Universal",
@@ -16363,7 +16496,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Gravidade Universal",
@@ -16373,7 +16506,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Minilaboratório de Gravidade Universal",
@@ -16383,7 +16516,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Exploração Vetorial com Previsões",
@@ -16393,7 +16526,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Velocidade de Repulsão",
@@ -16403,7 +16536,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Laboratório de Torque de Garrafa de Água",
@@ -16413,7 +16546,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Comprimento de onda",
@@ -16423,7 +16556,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Trabalhe para o Laboratório KE",
@@ -16433,7 +16566,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Trabalhar para PEe Lab",
@@ -16443,7 +16576,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Trabalhe para PEg Lab",
@@ -16453,7 +16586,7 @@
         "categorys": [
             "Física"
         ],
-        "author": "Thephysicsaviary"
+        "author": "ThePhysicSaviary"
     },
     {
         "name": "Lançamento de projéteis",
