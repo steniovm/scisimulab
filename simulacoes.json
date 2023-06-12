@@ -14894,12 +14894,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "batidas",
-        "descript": "",
+        "name": "Batidas",
+        "descript": "Visualizar a formação de batidas e a relação entre o número de batidas por segundo e a frequência de batidas ouvida pelo observador.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=70",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Beats/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Gráfico",
+            "Função",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
