@@ -10750,7 +10750,7 @@
     },
     {
         "name": "Partículas de alta energia",
-        "descript": "",
+        "descript": "Descubra a relação entre velocidade e energia cinética no contexto de um acelerador de partículas.",
         "url": "https://interactives.ck12.org/simulations/physics/high-energy-particles/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/high-energy-particles.jpg?_build=202305291230",
         "categorys": [
@@ -10778,7 +10778,7 @@
     },
     {
         "name": "Salto de esqui",
-        "descript": "",
+        "descript": "Aprenda sobre a conservação da energia no contexto de um salto de ski.",
         "url": "https://interactives.ck12.org/simulations/physics/ski-jump/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ski-jump.jpg?_build=202305291230",
         "categorys": [
@@ -10805,7 +10805,7 @@
     },
     {
         "name": "Motor Térmico",
-        "descript": "",
+        "descript": "Aprenda sobre a conversão de energia térmica em energia mecânica no contexto de um motor térmico.",
         "url": "https://interactives.ck12.org/simulations/physics/heat-engine/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/heat-engine.jpg?_build=202305291230",
         "categorys": [
@@ -10815,8 +10815,8 @@
         "author": "CK12"
     },
     {
-        "name": "forno quente",
-        "descript": "",
+        "name": "Forno quente",
+        "descript": "Aprenda sobre a relação entre energia térmica e temperatura no contexto de um forno de cozinha.",
         "url": "https://interactives.ck12.org/simulations/physics/hot-oven/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-oven.jpg?_build=202305291230",
         "categorys": [
@@ -10827,7 +10827,7 @@
     },
     {
         "name": "Treinamento de mergulho",
-        "descript": "",
+        "descript": "Aprenda sobre as condições de flutuação e sua relação com a pressão e a gravidade.",
         "url": "https://interactives.ck12.org/simulations/physics/scuba-training/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/scuba-training.jpg?_build=202305291230",
         "categorys": [
@@ -10837,8 +10837,8 @@
         "author": "CK12"
     },
     {
-        "name": "balão fugitivo",
-        "descript": "",
+        "name": "Balão fugitivo",
+        "descript": "Aprenda sobre a lei de combinação de gases e como ela pode ser usada para entender o comportamento de um balão.",
         "url": "https://interactives.ck12.org/simulations/physics/runaway-balloon/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/runway-balloon.jpg?_build=202305291230",
         "categorys": [
@@ -10848,8 +10848,8 @@
         "author": "CK12"
     },
     {
-        "name": "Flauta pan",
-        "descript": "",
+        "name": "Flauta de Pan",
+        "descript": "Aprenda sobre harmônicos sonoros numa coluna de ar ao observar de perto o son produzido por uma flauta de Pan.",
         "url": "https://interactives.ck12.org/simulations/physics/pan-flute/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pan-flute.jpg?_build=202305291230",
         "categorys": [
@@ -10859,8 +10859,8 @@
         "author": "CK12"
     },
     {
-        "name": "onda do estádio",
-        "descript": "",
+        "name": "Onda do estádio",
+        "descript": "Por meio da clássica \"onda\" nos estádios, aprenda mais sobre importantes conceitos de ondulatória.",
         "url": "https://interactives.ck12.org/simulations/physics/stadium-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stadium-wave.jpg?_build=202305291230",
         "categorys": [
@@ -10871,7 +10871,7 @@
     },
     {
         "name": "Lago Stow",
-        "descript": "",
+        "descript": "Aprenda sobre os padrões de interferência de ondas na água.",
         "url": "https://interactives.ck12.org/simulations/physics/stow-lake/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stow-lake.jpg?_build=202305291230",
         "categorys": [
@@ -10882,7 +10882,7 @@
     },
     {
         "name": "Onda de luz",
-        "descript": "",
+        "descript": "Aprenda mais sobre a luz como uma onda eletromagnética e como relacionar sua frequência e comprimento de onda aos campos eletromagnéticos.",
         "url": "https://interactives.ck12.org/simulations/physics/light-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/light-wave.jpg?_build=202305291230",
         "categorys": [
@@ -10892,8 +10892,8 @@
         "author": "CK12"
     },
     {
-        "name": "óculos cor de rosa",
-        "descript": "",
+        "name": "Óculos cor de rosa",
+        "descript": "Veja o mundo através de uma coloração diferente, entenda a natureza das cores.",
         "url": "https://interactives.ck12.org/simulations/physics/rose-colored-glasses/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rose-colored-glasses.jpg?_build=202305291230",
         "categorys": [
@@ -10903,8 +10903,8 @@
         "author": "CK12"
     },
     {
-        "name": "corte de diamante",
-        "descript": "",
+        "name": "Corte de diamante",
+        "descript": "Aprenda sobre refração, reflexão e reflexão total no contexto de um raio de luz atravessando um diamante.",
         "url": "https://interactives.ck12.org/simulations/physics/diamond-cut/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/diamond-cut.jpg?_build=202305291230",
         "categorys": [
@@ -10915,7 +10915,7 @@
     },
     {
         "name": "Menos tempo",
-        "descript": "",
+        "descript": "Explore como a lei de Snell pode ser deduzida do princípio do menor tempo e como raios de luz mudam de direção em interfaces de contato entre materiais.",
         "url": "https://interactives.ck12.org/simulations/physics/least-time/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/least-time.jpg?_build=202305291230",
         "categorys": [
@@ -10926,7 +10926,7 @@
     },
     {
         "name": "Lentes de contato",
-        "descript": "",
+        "descript": "Aprenda como raios de luz de objetos distantes são focados por lentes de contato no seu olho.",
         "url": "https://interactives.ck12.org/simulations/physics/contact-lens/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/contact-lens.jpg?_build=202305291230",
         "categorys": [
@@ -10951,7 +10951,7 @@
     },
     {
         "name": "Casa de boneca",
-        "descript": "",
+        "descript": "Aprenda sobre a análise de um painel de circuitos no contexto de uma casa de bonecas realista.",
         "url": "https://interactives.ck12.org/simulations/physics/dollhouse/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/dollhouse.jpg?_build=202305291230",
         "categorys": [
