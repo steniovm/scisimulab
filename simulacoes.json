@@ -11158,7 +11158,20 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/atomic-colors.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Clima",
+            "Função",
+            "Gráfico",
+            "Função",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Termologia",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11347,13 +11360,19 @@
         "author": "CK12"
     },
     {
-        "name": "colisão de carro",
-        "descript": "",
+        "name": "Colisão de carro",
+        "descript": "Explore como a velocidade, a energia e o momento mudam durante colisões de carros simulados.",
         "url": "https://www.ck12.org/physics/Inelastic-Collisions/simulation/Car-Collision?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Car-Collision.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11507,12 +11526,18 @@
     },
     {
         "name": "Construindo pontes",
-        "descript": "",
+        "descript": "Mostra a dilatação termica em um junta de dilatação de uma ponte para temperaturas de -50ºC a 100ºC, bem como o que acontece quando não há junta de dilatação.",
         "url": "https://interactives.ck12.org/simulations/chemistry/kinetic-theory/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/kinetic.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Clima",
+            "Densidade",
+            "Função",
+            "Física",
+            "Geometria",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11528,13 +11553,19 @@
         "author": "CK12"
     },
     {
-        "name": "cheiros rápidos",
-        "descript": "",
+        "name": "Velocidade dos cheiros",
+        "descript": "Teste o tempo que demora para sentir diversos cheiros emanados a uma certa distância de você, determine a velocidade que os cheiros se espalham no ar.",
         "url": "https://interactives.ck12.org/simulations/chemistry/diffusion/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/diffusion.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Biologia",
+            "Jogo",
+            "Cinemática",
+            "Clima",
+            "Densidade",
+            "Estatística",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11677,13 +11708,18 @@
         "author": "CK12"
     },
     {
-        "name": "carnaval toupeira",
-        "descript": "",
+        "name": "Carnaval em mols",
+        "descript": "Veja quantos atômos há em certa quantidade massa em varios matériais do nosso cotidiano, converta unidades e veja a equivalência.",
         "url": "https://interactives.ck12.org/simulations/chemistry/mole-carnival/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/mole-carnival.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Física",
+            "Aritmética",
+            "Densidade",
+            "Matemática",
+            "Números"
         ],
         "author": "CK12"
     },
@@ -11770,28 +11806,31 @@
     },
     {
         "name": "Dois pêndulos caóticos",
-        "descript": "",
+        "descript": "Dois pêndulos acionados que começam quase de forma idêntica demonstrando a sensibilidade às condições iniciais de sistemas caóticos. A princípio parece um único pêndulo, mas espere um minuto e você verá que os dois pêndulos divergem em seu comportamento. Ajuste parâmetros como: diferença de ângulo inicial, amplitude de acionamento, frequência, massa, gravidade e amortecimento e posição inicial.",
         "url": "https://www.myphysicslab.com/pendulum/compare-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-compare.png",
         "categorys": [
             "Física",
             "Matemática",
+            "Clima",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Função",
+            "Estatística"
         ],
         "author": "MyPhysicsLab"
     },
     {
         "name": "pêndulo móvel",
-        "descript": "",
+        "descript": "Um pêndulo preso a um ponto de suporte móvel ou \"bloco âncora\". Altere parâmetros como gravidade, comprimento do pêndulo, amortecimento, amplitude, frequência e força de vibração periódica.",
         "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
         "categorys": [
             "Física",
-            "Matemática",
             "Geometria",
             "Gráfico",
+            "Função",
             "Função"
         ],
         "author": "MyPhysicsLab"
@@ -11937,7 +11976,7 @@
     },
     {
         "name": "Forças de Corpo Rígido",
-        "descript": "",
+        "descript": "Mostrar objetos se movendo em 2 dimensões com várias forças aplicadas. Pode-se controlar quatro \"propulsores\" em dois dos blocos e ajustar a gravidade, o amortecimento (atrito) e a massa de um dos blocos.",
         "url": "https://www.myphysicslab.com/engine2D/rigid-body-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid-body.gif",
         "categorys": [
@@ -11945,7 +11984,16 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Cinemática",
+            "Estatística",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Probabilidade",
+            "Trigonometria",
+            "Vetores",
+            "Oscilações"
         ],
         "author": "MyPhysicsLab"
     },
@@ -11973,7 +12021,7 @@
     },
     {
         "name": "Forças de contato de corpo rígido",
-        "descript": "",
+        "descript": "Mostra objetos colidindo e empurrando uns contra os outros. Lida com forças de contato constantes onde os objetos pressionam contra o chão, a parede ou uns aos outros.",
         "url": "https://www.myphysicslab.com/engine2D/contact-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_contact.png",
         "categorys": [
@@ -11981,7 +12029,15 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Cinemática",
+            "Estatística",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Probabilidade",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12263,7 +12319,7 @@
     },
     {
         "name": "Formas de polígonos",
-        "descript": "",
+        "descript": "Mostrando a variedade de formas possíveis e como esses objetos se interagem.Exercerça uma força de mola no objetos para mudar sua posição. Tente alterar a gravidade, elasticidade (salto) e amortecimento (atrito). Veja as forças que atuam nos objetos.",
         "url": "https://www.myphysicslab.com/engine2D/shapes-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_shapes.gif",
         "categorys": [
@@ -12271,7 +12327,11 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Estatística",
+            "Mecânica",
+            "Probabilidade",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -12769,11 +12829,12 @@
     },
     {
         "name": "Máquina de atwood",
-        "descript": "",
+        "descript": "Ilustra uma máquina de Atwood, que são dois blocos conectados por um fio passando por uma polia (neste caso, de massa desprezível). Ajuste as massas, veja a aceleração adiquirida e os esquemas de forças",
         "url": "http://physics.bu.edu/~duffy/HTML5/Atwoods_machine.html",
         "thumb": "",
         "categorys": [
             "Física",
+            "Aritmética",
             "Cinemática",
             "Força",
             "Mecânica",
@@ -12793,11 +12854,18 @@
     },
     {
         "name": "Atrito em uma inclinação",
-        "descript": "",
+        "descript": "Ajuste o ângulo da inclinação e veja o que acontece com os vários componentes de forças sobre um corpo. Observe o atrito estático necessário para manter o bloco em repouso em cada inclinação.",
         "url": "http://physics.bu.edu/~duffy/HTML5/friction_on_ramp.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12948,11 +13016,18 @@
     },
     {
         "name": "Bola em uma rampa",
-        "descript": "",
+        "descript": "Observe o tempo de descida de uma bola em uma rampa com varias inclinações.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ramp.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13018,24 +13093,36 @@
     },
     {
         "name": "interações gravitacionais",
-        "descript": "",
+        "descript": "Mova as partículas e altere suas massas. Essas partículas interagem por meio da gravidade, então você pode ver a força gravitacional líquida em cada uma, bem como as forças gravitacionais individuais.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Interações gravitacionais - evolução do tempo",
-        "descript": "",
+        "descript": "Os objetos começam com velocidades aleatórias e você pode obter alguns padrões interessantes. Mova as partículas e altere suas massas. Essas partículas interagem por meio da gravidade, então você pode ver a força gravitacional líquida em cada uma, bem como as forças gravitacionais individuais.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction_evolve.html",
         "thumb": "",
         "categorys": [
             "Física",
+            "Aritmética",
             "Astronomia",
             "Cinemática",
             "Força",
+            "Função",
             "Gravitação",
             "Mecânica",
             "Trigonometria",
@@ -13045,7 +13132,7 @@
     },
     {
         "name": "Um sistema binário",
-        "descript": "",
+        "descript": "As velocidades dos dois objetos são inicialmente iguais e opostas. Mova os objetos e altere suas massas. Esses objetos interagem por meio da gravidade, então você pode ver a força gravitacional em cada um.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_binary_system.html",
         "thumb": "",
         "categorys": [
@@ -13097,7 +13184,7 @@
     },
     {
         "name": "Órbitas e Energia",
-        "descript": "",
+        "descript": "Mostra a energia associada à Terra enquanto ela orbita o Sol. Pode-se alterar a velocidade inicial da Terra. Mostra três gráficos, todos em função do tempo: da energia cinética da Terra, da energia potencial gravitacional do sistema Terra-Sol e da energia mecânica total, que é a soma da energia cinética com a energia potencial gravitacional.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_orbits_energy.html",
         "thumb": "",
         "categorys": [
@@ -13135,11 +13222,19 @@
     },
     {
         "name": "Assistência gravitacional (estilingue)",
-        "descript": "",
+        "descript": "Um modelo simples de como funciona uma assistência gravitacional (também conhecida como estilingue gravitacional). Observe como isso muda o caminho da sonda e aumenta significativamente sua velocidade.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_slingshot.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13229,12 +13324,14 @@
     },
     {
         "name": "Máquina de Atwood, com gráficos de barra de energia",
-        "descript": "",
+        "descript": "Mostra o fluxo de energia para uma máquina de Atwood, que sãodois blocos conectados por um fio que passa por uma polia.Veja a energia de sete perspectivas diferentes, desde definir o sistema como sendo a Terra e os dois blocos e a polia, até apenas um dos blocos ou apenas a polia.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Atwoods_machine_with_pulley_energy.html",
         "thumb": "",
         "categorys": [
             "Física",
             "Cinemática",
+            "Energia",
+            "Função",
             "Força",
             "Mecânica",
             "Gráfico",
@@ -13430,11 +13527,20 @@
     },
     {
         "name": "Bola caindo em um fluido viscoso",
-        "descript": "",
+        "descript": "Observe a gravidade específica e a viscosidade de diferentes matériais. A gravidade específica é a razão entre a densidade desse material e a densidade da água.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ball_in_viscous_fluid.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Cinemática",
+            "Densidade",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14191,11 +14297,16 @@
     },
     {
         "name": "Animação de um ímã e um loop",
-        "descript": "",
+        "descript": "Observe um imã passando por uma bobina com velocidade constante. Os gráficos mostram o fluxo magnético através de cada espira da bobina, em função do tempo, bem como a fem induzida na bobina em função do tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/magnet_loop.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14342,11 +14453,15 @@
     },
     {
         "name": "Atividade óptica",
-        "descript": "",
+        "descript": "Mostra o que acontece quando a luz polarizada passa por um material opticamente ativo (filtro). A luz que pelo filtro polarizador tem sua direção de polarização girada, mas cores diferentes são giradas em quantidades diferentes. Ajuste o ângulo do eixo de transmissão de cada polarizador.",
         "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_filter.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Matemática",
+            "Óptica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14501,12 +14616,15 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Boa variação da simulação anterior de John Welch, mostrando a lente mudando de forma",
-        "descript": "",
+        "name": "Lentes regulaveis",
+        "descript": "Simula a formação de imagens atraves de lentes convergentes e divergentes, podendo ajustar a posição e altura do objeto e a distância focal da lente para observar os raios notáveis e a imagem formada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/lenses_revised.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14881,12 +14999,13 @@
     },
     {
         "name": "Laboratório de Máquinas Atwood",
-        "descript": "",
+        "descript": "Pratiquem o laboratório Atwood. Ajuste as massas e a escolha o planeta. Colete dados de posição versus tempo e de velocidade versus tempo. Veja como a aceleração do sistema muda com mudanças em ∆m e com mudanças na massa total.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=17",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AtwoodLab/images/OverviewPicture.png",
         "categorys": [
             "Física",
             "Cinemática",
+            "Gráfico",
             "Força",
             "Mecânica",
             "Vetores"
@@ -16487,11 +16606,19 @@
     },
     {
         "name": "Bobina girando em campo magnético com gráfico",
-        "descript": "",
+        "descript": "Observe os gráficos de fluxo magnético e força eletromotriz versus tempo para uma bobina girando em um campo magnético. Variar o tamanho da bobina, a taxa na qual a bobina gira e a intensidade do campo magnético.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=383",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpinningCoilwGraphLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Geometria",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16959,12 +17086,22 @@
     },
     {
         "name": "Armadilha magneto-óptica",
-        "descript": "Optica otica superior quantica magnetismo termodinamica",
+        "descript": "Apresenta o funcionamento de uma armadilha magneto-óptica para aprisionar e resfriar átomos até poucos milikelvins de temperatura. O modelo é baseado em um ensemble de gás não interagente que estão sujeitos às forças dos seis feixes de luz, sendo três pares contra-propagantes.",
         "url": "https://simufisica.com/simulacoes/armadilha-magneto-optica/",
         "thumb": "https://simufisica.com/images/armadilha.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Óptica",
+            "Quântica",
+            "Eletromagnetismo",
+            "Termodinâmica",
+            "Eletrodinâmica",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Termologia"
         ],
         "author": "SimuFísica"
     },
