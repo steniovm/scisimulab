@@ -10962,7 +10962,7 @@
     },
     {
         "name": "Luzes de letreiro",
-        "descript": "",
+        "descript": "Aprenda diferentes formas de ligar os fios em um circuito e como o brilho da lâmpada depende de como elas são ligadas ao circuito.",
         "url": "https://interactives.ck12.org/simulations/physics/marquee-lights/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/marquee-lights.jpg?_build=202305291230",
         "categorys": [
@@ -10973,7 +10973,7 @@
     },
     {
         "name": "Lanterna",
-        "descript": "",
+        "descript": "Aprenda sobre circuitos elétricos, corrente elétrica, resistência elétrica e potência elétrica ao observar o funcionamento de uma lanterna.",
         "url": "https://interactives.ck12.org/simulations/physics/flashlight/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashlight.jpg?_build=202305291230",
         "categorys": [
@@ -10983,8 +10983,8 @@
         "author": "CK12"
     },
     {
-        "name": "Pára-raios",
-        "descript": "",
+        "name": "Para-raios",
+        "descript": "Aprenda sobre carga elétrica, campo elétrico e potencial elétrico em uma situação envolvendo um raio atingindo um para-raio.",
         "url": "https://interactives.ck12.org/simulations/physics/lightning-rod/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/lightning-rod.jpg?_build=202305291230",
         "categorys": [
@@ -11009,8 +11009,8 @@
         "author": "CK12"
     },
     {
-        "name": "luz neon piscando",
-        "descript": "",
+        "name": "Luz neon piscando",
+        "descript": "Aprenda como capacitores são utilizados em circuitos para criar eventos transientes como luzes piscando.",
         "url": "https://interactives.ck12.org/simulations/physics/flashing-neon-light/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashing-neon-light.jpg?_build=202305291230",
         "categorys": [
@@ -11021,7 +11021,7 @@
     },
     {
         "name": "Linhas de energia",
-        "descript": "",
+        "descript": "Aprenda mais sobre a relação entre potencial elétrico, corrente elétrica e resistência elétrica em uma situação relacionada à linhas de transmissão de energia em alta tensão.",
         "url": "https://interactives.ck12.org/simulations/physics/power-lines/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-lines.jpg?_build=202305291230",
         "categorys": [
@@ -11032,7 +11032,7 @@
     },
     {
         "name": "Telégrafo",
-        "descript": "",
+        "descript": "Explore o código morse e descubra como sinais podem ser transmitidos por grandes distâncias itilizando-se máquinas de telégrafo baseadas no eletromagnetismo.",
         "url": "https://interactives.ck12.org/simulations/physics/telegraph/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/telegraph.jpg?_build=202305291230",
         "categorys": [
@@ -11060,7 +11060,7 @@
     },
     {
         "name": "Tela sensível ao toque",
-        "descript": "",
+        "descript": "Aprenda sobre capacitores em série e em paralelo ao analisar o funcionamento de telas touch-screen.",
         "url": "https://interactives.ck12.org/simulations/physics/touch-screen/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/touch-screen.jpg?_build=202305291230",
         "categorys": [
@@ -11071,7 +11071,7 @@
     },
     {
         "name": "Galvanômetro",
-        "descript": "",
+        "descript": "Compreenda como o campo magnético produzido por correntes elétricas em espiras pode ser usado para construir instrumentos de medição como voltímetros e amperímetros.",
         "url": "https://interactives.ck12.org/simulations/physics/galvanometer/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/galvanometer.jpg?_build=202305291230",
         "categorys": [
@@ -11081,8 +11081,8 @@
         "author": "CK12"
     },
     {
-        "name": "linhas de campo",
-        "descript": "",
+        "name": "Linhas de campo",
+        "descript": "Entenda o tamanho e forma do campo magnético terrestre e explore o campo magnético de outros planetas.",
         "url": "https://interactives.ck12.org/simulations/physics/field-lines/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/field-lines.jpg?_build=202305291230",
         "categorys": [
@@ -11093,7 +11093,7 @@
     },
     {
         "name": "Rastros de Partículas",
-        "descript": "",
+        "descript": "Compreenda como forças magnéticas aplicadas a partículas carregadas eletricamente fazem com que elas se desloquem em trajetórias circulares e como o rastro dessas trajetórias proporcionam indícios de suas naturezas.",
         "url": "https://interactives.ck12.org/simulations/physics/particle-tracks/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/particle-tracks.jpg?_build=202305291230",
         "categorys": [
@@ -11103,8 +11103,8 @@
         "author": "CK12"
     },
     {
-        "name": "campainha",
-        "descript": "",
+        "name": "Campainha",
+        "descript": "Compreenda como o campo magnético produzido por uma bobina pode ser utilizado para criar um sistema de uma campainha.",
         "url": "https://interactives.ck12.org/simulations/physics/doorbell/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/doorbell.jpg?_build=202305291230",
         "categorys": [
@@ -11131,7 +11131,7 @@
     },
     {
         "name": "Transformador CA",
-        "descript": "",
+        "descript": "Aprenda como é feita a conversão de alta tensão produzida em usinas para baixa tensão utilizada em residências, por exemplo.",
         "url": "https://interactives.ck12.org/simulations/physics/ac-transformer/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ac-transformer.jpg?_build=202305291230",
         "categorys": [
@@ -11142,7 +11142,7 @@
     },
     {
         "name": "Corridas pré-escolares",
-        "descript": "",
+        "descript": "Aprenda sobre a relação entre energia cinética rotacional e translacional e como há conversão entre ambas quando um objeto descem uma rampa rolando.",
         "url": "https://interactives.ck12.org/simulations/physics/preschool-races/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/preschool-races.jpg?_build=202305291230",
         "categorys": [
@@ -11152,8 +11152,8 @@
         "author": "CK12"
     },
     {
-        "name": "cores atômicas",
-        "descript": "",
+        "name": "Cores atômicas",
+        "descript": "Explore o modelo atômico de Bohr ao estudar a absorção e emissão de luz por gases simples.",
         "url": "https://interactives.ck12.org/simulations/physics/atomic-colors/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/atomic-colors.jpg?_build=202305291230",
         "categorys": [
@@ -11164,7 +11164,7 @@
     },
     {
         "name": "Zoológico de Partículas Subatômicas",
-        "descript": "",
+        "descript": "Aprenda mais sobre a variedade de partículas subatômicas existentes e suas características e propriedades.",
         "url": "https://interactives.ck12.org/simulations/physics/subatomic-particle-zoo/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/subatomic-particle-zoo.jpg?_build=202305291230",
         "categorys": [
@@ -11194,7 +11194,7 @@
     },
     {
         "name": "Datação por radiocarbono",
-        "descript": "",
+        "descript": "Aprena como funciona a datação por radiocarbono feita por arqueologistas e antropólogos.",
         "url": "https://interactives.ck12.org/simulations/physics/radiocarbon-dating/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/radiocarbon-dating.jpg?_build=202305291230",
         "categorys": [
@@ -11205,7 +11205,7 @@
     },
     {
         "name": "Buraco negro",
-        "descript": "",
+        "descript": "Observe um relógio desacelerar na presença do campo magnético massivo de um buraco negro.",
         "url": "https://interactives.ck12.org/simulations/physics/black-hole/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/black-hole.jpg?_build=202305291230",
         "categorys": [
