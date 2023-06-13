@@ -117,6 +117,24 @@
              "Radiação"
             ],
             "author": "Steniovm"
+           },
+           {
+               "name": "CentriSpace",
+               "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a pseudo-força centrifuga é usada para criar gravidade artificial.",
+               "url": "./simuls/CentriSpace/index.html",
+               "thumb": "./simuls/CentriSpace/screenshot.png",
+               "categorys": [
+                   "Física",
+                   "Gravitação",
+                   "Força",
+                   "Cinemática",
+                   "Astronomia",
+                   "Clima",
+                   "Função",
+                   "Mecânica",
+                   "*SciSimuLab*"
+               ],
+               "author": "RenanMagalhães"
            }
     ],
     "fontes":[
