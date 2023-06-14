@@ -11464,13 +11464,22 @@
         "author": "CK12"
     },
     {
-        "name": "Ir pescar",
-        "descript": "",
+        "name": "Pescar - anzou na profundidade certa",
+        "descript": "Ao ir pescar, conecte diferentes materiais ao anzou para faze-lo flutuar ou afundar.",
         "url": "https://interactives.ck12.org/simulations/chemistry/density/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/density.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Biologia",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Física",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11493,12 +11502,18 @@
     },
     {
         "name": "Pacote Quente Pacote Frio",
-        "descript": "",
+        "descript": "Mostra reações endotérmicas e exotérmicas ao misturar substâncias em bolsas de termicas de primeiros socorros.",
         "url": "https://interactives.ck12.org/simulations/chemistry/exothermic-and-endothermic/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/exothermic-and-endothermic.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Clima",
+            "Física",
+            "Gráfico",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11536,12 +11551,14 @@
     },
     {
         "name": "Sabão",
-        "descript": "",
+        "descript": "Mostra como o sabão ajuda a tirar manchas de tecidos, escolha entre o tipo de mancha e o tipo de solvente e veja o comportamento das moleculas.",
         "url": "https://interactives.ck12.org/simulations/chemistry/soap/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/soap.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia"
         ],
         "author": "CK12"
     },
@@ -11564,12 +11581,20 @@
     },
     {
         "name": "Estradas Salgadas",
-        "descript": "",
+        "descript": "Mostra, por meio de animação de moleculas, como adicionar sal (cloreto de sódio ou de calcio) pode derreter o gelo sem aumentar a temperatura.",
         "url": "https://interactives.ck12.org/simulations/chemistry/freezing-point/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/freezing-point.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Clima",
+            "Densidade",
+            "Estatística",
+            "Gráfico",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11607,35 +11632,50 @@
         "author": "CK12"
     },
     {
-        "name": "Mudança de fase",
-        "descript": "",
+        "name": "Mudança de Fase",
+        "descript": "Mostra o comportamento de moleculas de água ao aquecer ou resfriar uma amostra, promovendo assim mudanças de fase entre solído, liquido e gasoso.",
         "url": "https://interactives.ck12.org/simulations/chemistry/phases-of-matter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/phases-of-matter.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Energia",
+            "Estatística",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
     {
         "name": "Estados da matéria",
-        "descript": "",
+        "descript": "Observe o comportamento de molecúlas de agua quando em pedras de gela, em água liquida e quando em vapor d'agua.",
         "url": "https://interactives.ck12.org/simulations/chemistry/states-of-matter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/states-of-matter.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Energia",
+            "Estatística",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
     {
         "name": "Gotas pingando",
-        "descript": "",
+        "descript": "Mostra o formato de gotas de diferentes liquidos (hexano, clorofórnio e água)enquanto caem e depois de cair sobre a superficie. Mostra como o formato varia com as forças intermoleculares e com a tensão superficial.",
         "url": "https://interactives.ck12.org/simulations/chemistry/intermolecular-forces/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/intermolecular-forces.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Clima",
+            "Força",
+            "Hidrostática"
         ],
         "author": "CK12"
     },
@@ -11660,24 +11700,36 @@
         "author": "CK12"
     },
     {
-        "name": "Rock Candy",
-        "descript": "",
+        "name": "Rock Candy - Palitos de cristais de açúcar",
+        "descript": "Ajuste alguns parâmetros e observe como são formados cristais em um barbante mergulhado em uma solução de água e açúcar.",
         "url": "https://interactives.ck12.org/simulations/chemistry/solubility/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/solubility.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Densidade",
+            "Gráfico",
+            "Termologia",
+            "Termodinâmica"
         ],
         "author": "CK12"
     },
     {
-        "name": "Soda sem gás vs. com gás",
-        "descript": "",
+        "name": "Soda - sem gás vs com gás",
+        "descript": "Ajuste paramêtros como: pressão, volume, quantidade de CO2 e Temperatura em uma garrafa de refrigerante e veja como varia a concentração de gás dissouvido no liquido.",
         "url": "https://interactives.ck12.org/simulations/chemistry/le-chateliers-principle/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/le-chateliers-principle.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Clima",
+            "Densidade",
+            "Gráfico",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11697,34 +11749,65 @@
     },
     {
         "name": "Desafio do Construtor de Átomos",
-        "descript": "",
+        "descript": "Adcioone Protons, Eletrons e Neutrons para montar os átomos faltantes na tabela periódica.",
         "url": "https://interactives.ck12.org/simulations/chemistry/atom-builder/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/atom-builder.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Energia",
+            "Eletrostática",
+            "Matemática",
+            "Nuclear",
+            "Números",
+            "Quântica",
+            "Radiação"
         ],
         "author": "CK12"
     },
     {
         "name": "Experimento da folha de ouro de Rutherford",
-        "descript": "",
+        "descript": "Reproduz o experimento de Rutherford, com ampliação mostrando a interação entre as particulas e os atómos da folha de ouro.",
         "url": "https://interactives.ck12.org/simulations/chemistry/gold-foil/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/gold-foil.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Densidade",
+            "Eletrostática",
+            "Energia",
+            "Estatística",
+            "Gráfico",
+            "Mecânica",
+            "Nuclear",
+            "Números",
+            "Probabilidade",
+            "Quântica",
+            "Radiação"
         ],
         "author": "CK12"
     },
     {
-        "name": "Massa atômica média",
-        "descript": "",
+        "name": "Massa Atômica no corpo humano",
+        "descript": "Veja como varia a massa de uma pessoa alterando apenas a proporção de isotópos dos diferentes elementos que compõem o corpo",
         "url": "https://interactives.ck12.org/simulations/chemistry/average-atomic-mass/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/average-atomic-mass.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Atômica",
+            "Biologia",
+            "Densidade",
+            "Estatística",
+            "Física",
+            "Gráfico",
+            "Matemática",
+            "Nuclear",
+            "Quântica",
+            "Radiação"
         ],
         "author": "CK12"
     },
@@ -11745,13 +11828,25 @@
         "author": "CK12"
     },
     {
-        "name": "Luzes de neon",
-        "descript": "",
+        "name": "Luzes de Neon",
+        "descript": "Mostra como saltos quanticos de eletrons gera luz de diferentes e especificos comprimentos de onda em lâmpadas de Neon.",
         "url": "https://interactives.ck12.org/simulations/chemistry/bohr-model-of-electron/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/bohr-model-of-electron.jpg?_build=202305291230",
         "categorys": [
             "Química",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Estatística",
+            "Física",
+            "Gráfico",
+            "Nuclear",
+            "Números",
+            "Ondas",
+            "Quântica",
+            "Radiação",
+            "Óptica"
         ],
         "author": "CK12"
     },
