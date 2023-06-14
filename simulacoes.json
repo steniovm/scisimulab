@@ -10960,13 +10960,16 @@
         "author": "CK12"
     },
     {
-        "name": "Casa de boneca",
+        "name": "Casa de Boneca",
         "descript": "Aprenda sobre a análise de um painel de circuitos no contexto de uma casa de bonecas realista.",
         "url": "https://interactives.ck12.org/simulations/physics/dollhouse/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/dollhouse.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico"
         ],
         "author": "CK12"
     },
@@ -12944,11 +12947,19 @@
     },
     {
         "name": "Carro em uma curva inclinada",
-        "descript": "",
+        "descript": "Mostra um carro fazendo uma curva inclinada. O carro deve experimentar um movimento circular uniforme, movendo-se em um círculo horizontal. Você vê a visão traseira e aérea do carro, bem como o diagrama de corpo livre. Ajuste a velocidade, o angulo, o atrito e o raioda curva e veja em que condições o carro derrapa ou não.",
         "url": "http://physics.bu.edu/~duffy/HTML5/banked_turn.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Força",
+            "Função",
+            "Jogo",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12964,21 +12975,35 @@
     },
     {
         "name": "Colisões em 1 Dimensão",
-        "descript": "",
+        "descript": "Observe a colisão entrer dois carrinhos, varie massa, velocidade e elasticidade e acompanhe o momento (quantidade de movimento) dos carrinhos pelo gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Colisões em 1 dimensão, com gráficos de barras",
-        "descript": "",
+        "descript": "Observe a colisão entrer dois carrinhos, varie massa, velocidade e elasticidade e acompanhe o momento (quantidade de movimento) dos carrinhos pelo gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D_bargraphs.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12994,11 +13019,18 @@
     },
     {
         "name": "Centro de massa",
-        "descript": "",
+        "descript": "Dado três particulas, com massas ajustáveis mas posições fixas, mostra a posição do centro centro de massa.",
         "url": "http://physics.bu.edu/~duffy/HTML5/centerofmass.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Estatística",
+            "Geometria",
+            "Gravitação",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14196,11 +14228,16 @@
     },
     {
         "name": "Circuito Resistor-Capacitor (RC)",
-        "descript": "",
+        "descript": "Um circuito RC em série (resistor-capacitor), envolvendo um resistor, um capacitor, uma bateria e um interruptor. Observe no gráfico a tensão no resistor e no capacitor.Ajuste os valores da resistência e da capacitância. Mova a chave para posições de carga e descarga e veja o que muda.",
         "url": "http://physics.bu.edu/~duffy/HTML5/RC_circuit.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14423,12 +14460,22 @@
     },
     {
         "name": "Circuito RLC",
-        "descript": "circuito rlc eletrico elétrico corrente elétrica capacitor resistor eletromagnetismo",
+        "descript": "Mostra várias representações matématicas para um circuito RLC Série como: Triângulo de impedância; Gráfico de tensão versus tempo e Gráfico da corrente de pico em função da frequência. Ajuste resistência, capacitância, indutância e frequência.",
         "url": "http://physics.bu.edu/~duffy/HTML5/RLC_circuit.html",
         "thumb": "",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16134,11 +16181,13 @@
     },
     {
         "name": "Circuitos Paralelos",
-        "descript": "",
+        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito paralelo com até três componentes passivos. Ajuste as resistências e escolha entre baterias ideais a baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=49",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ParallelCircuitLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16324,11 +16373,16 @@
     },
     {
         "name": "Circuitos RC",
-        "descript": "",
+        "descript": "Investige os fatores que afetam a taxa de descarga de um capacitor. Altere a resistência e a capacitância no circuito e monitore a descarga do capacitor e encontrer a meia-vida do capacitor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=52",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCCircuitLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16534,31 +16588,38 @@
     },
     {
         "name": "Circuitos em série",
-        "descript": "",
+        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito em série com até três componentes passivos. Regule os valores das resistências e escolha entre baterias ideais e baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=48",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SeriesCircuitLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Circuitos Simples",
-        "descript": "",
+        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito com apenas um componente passivo. Ajuste a resistência e escolha entre baterias ideais e baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=47",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SimpleCircuitLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Circuito em Série Simples com Laboratório de Previsão",
-        "descript": "",
+        "name": "Circuito em Série Simples e a Corrente",
+        "descript": "Encontrem rapidamente a relação entre o número de resistores em um circuito em série e a corrente através desse circuito.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=559",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SeriesCircuitsWithPredictionsLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Números"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16593,12 +16654,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Chute de Futebol com Laboratório de Previsão",
-        "descript": "",
+        "name": "Chute - Futebol com Laboratório de Previsão",
+        "descript": "Chute uma bola de futebol em vários ângulos diferentes para encontrar a relação entre o ângulo e a distância horizontal percorrida pela bola.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=595",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SoccerKickWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17059,12 +17128,22 @@
     },
     {
         "name": "Circuito RLC",
-        "descript": "Circuito rlc elétrico corrente elétrica capacitor resistor eletromagnetismo",
+        "descript": "Simula a dinâmica das cargas e das correntes elétricas em um circuito RLC.Altere os valores da fonte de tensão, do capacitor C, do resistor R e do indutor I. Veja os gráficos das cargas ou correntes em função do tempo.",
         "url": "https://simufisica.com/simulacoes/circuito-rlc/",
         "thumb": "https://simufisica.com/images/circuito-rlc.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -17306,13 +17385,18 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Cavidades ópticas",
-        "descript": "Opticas otica superior ondas estacionarias",
+        "name": "Cavidades Ópticas",
+        "descript": "Conheça a estabilidade de cavidades ópticas a partir de parâmetros como distância entre os espelhos e seus raios de curvatura.",
         "url": "https://simufisica.com/simulacoes/cavidades-opticas/",
         "thumb": "https://simufisica.com/images/cavidade-optica.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Geometria",
+            "Ondas",
+            "Radiação",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "SimuFísica"
     },
