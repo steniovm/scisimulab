@@ -11348,7 +11348,7 @@
         "author": "CK12"
     },
     {
-        "name": "goleiro",
+        "name": "Goleiro",
         "descript": "",
         "url": "https://interactives.ck12.org/simulations/physics/centripetal-force/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hockey-cp.jpg?_build=202305291230",
@@ -13178,11 +13178,20 @@
     },
     {
         "name": "Comparando rampas",
-        "descript": "",
+        "descript": "Compara o tempo que duas bolinhas demorar para percorrer uma mesma distância horizontal, sendo aceleradas inicialmente pela descida em rampas. Mude as alturas e comprimentos das rampas para analisar o efeito da inclinação.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ramps.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13384,12 +13393,18 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Comparando a cinemática rotacional e o movimento 1-D",
-        "descript": "",
+        "name": "Movimento Rotacional vs Movimento Linear",
+        "descript": "Compare o movimento de uma bola, que é influenciado apenas pela gravidade, ao de um disco, que tem uma aceleração angular constante no sentido anti-horário. Você pode ver o diagrama de movimento da bola e do disco, os gráficos da posição, velocidade e aceleração da bola e gráficos da posição angular do disco, velocidade angular e aceleração angular.",
         "url": "http://physics.bu.edu/~duffy/HTML5/rotationalkinematics_1Dmotion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13496,11 +13511,15 @@
     },
     {
         "name": "Como funciona um carro com tração dianteira",
-        "descript": "",
+        "descript": "Mostra o papel do atrito na condução de um carro. Neste caso, um carro de tração dianteira. Sem nenhum atrito, o motor gira as rodas dianteiras, mas as rodas dianteiras simplesmente escorregam na estrada sem atrito e o carro não se move. Se houver atrito atuando apenas nas rodas dianteiras, a força de atrito estático atua para evitar que as rodas dianteiras deslizem - essa é a força que impulsiona o carro para frente. Para as rodas traseiras, o atrito estático só precisa fornecer o torque necessário para manter as rodas traseiras rolando sem escorregar.",
         "url": "http://physics.bu.edu/~duffy/HTML5/rolling_car_driving.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13819,22 +13838,36 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Comparando processos isotérmicos e adiabáticos",
-        "descript": "",
+        "name": "Processos Isotérmicos vs Adiabáticos",
+        "descript": "Veja a diferença entre processos à temperatura constante (isotérmicos) e processos adiabático. Observe os caminhos diagrama PV, nos processos isotérmicos não tem variação de temperatura, portanto a variação de energia interna é zero, mas nos processos adiabáticos o calor transferido é zero.",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_isothermal_adiabatic.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Comparando processos isotérmicos e adiabáticos - versão Química",
-        "descript": "",
+        "name": "Processos Isotérmicos vs Adiabáticos - versão Química",
+        "descript": "Veja a diferença entre processos à temperatura constante (isotérmicos) e processos adiabático. Observe os caminhos diagrama PV. Esta é a versão Química da simulação, com o sinal do trabalho oposto ao definido pelos físicos. Na versão Química, o trabalho é positivo se o trabalho é realizado no sistema pela vizinhança.",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_isothermal_adiabatic_chem.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17091,11 +17124,16 @@
     },
     {
         "name": "Comprimento de onda",
-        "descript": "",
+        "descript": "Investige a relação entre a velocidade, a frequência e o comprimento de onda da onda bidimensional se propagando radialmente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=68",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WavelengthLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
