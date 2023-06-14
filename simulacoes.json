@@ -10843,7 +10843,17 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/runway-balloon.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Química",
+            "Termodinâmica"
         ],
         "author": "CK12"
     },
@@ -11109,7 +11119,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/doorbell.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Mecânica",
+            "Oscilações",
+            "Eletromagnetismo"
         ],
         "author": "CK12"
     },
@@ -11218,12 +11232,16 @@
     },
     {
         "name": "Buraco negro",
-        "descript": "Observe um relógio desacelerar na presença do campo magnético massivo de um buraco negro.",
+        "descript": "Observe um relógio desacelerar na presença do campo gravitacional massivo de um buraco negro.",
         "url": "https://interactives.ck12.org/simulations/physics/black-hole/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/black-hole.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Gravitação",
+            "Mecânica",
+            "Relatividade"
         ],
         "author": "CK12"
     },
@@ -13955,11 +13973,14 @@
     },
     {
         "name": "Campo elétrico perto de duas cargas",
-        "descript": "",
+        "descript": "Regule o valor e a posição de duas cargas elétricas e veja como muda o campo elétrico na região em volta.",
         "url": "http://physics.bu.edu/~duffy/HTML5/EField.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13984,12 +14005,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Campo elétrico e potencial elétrico em 1-D",
-        "descript": "",
+        "name": "Campo elétrico e potencial elétrico em 1D",
+        "descript": "veja os gráficos do campo e do potencial elétrico ao longo da reta que passa por duas cargas eletricas. Regule o valor das cargas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/field_potential3.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14104,42 +14129,58 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Caixas de energia - uma introdução",
-        "descript": "",
+        "name": "Caixas de energia - Introdução",
+        "descript": "Visa familiarizá-lo com o conceito de caixas de energia. Uma maneira de calcular a potência é multiplicar a tensão e a corrente. Nesta simulação a tensão é plotada no eixo vertical e a corrente no eixo horizontal, o que significa que a área retangular mostrada na caixa representa a potência daquele elemento de circuito específico. Regule a tesão da fonte e a resistência do resistor.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_intro.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Caixas de energia - circuito paralelo",
-        "descript": "",
+        "name": "Caixas de Energia - Circuito Paralelo",
+        "descript": "Mostra caixas de energia para um circuito com três resistores em paralelo. Regule a tesão da fonte e as resistências dos resistores.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_parallel.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Caixas de potência - circuito em série",
-        "descript": "",
+        "name": "Caixas de Energia - Circuito Série",
+        "descript": "Mostra caixas de energia para um circuito com três resistores em série. Regule a tesão da fonte e as resistências dos resistores.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_series.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Caixas de energia - circuito de combinação",
-        "descript": "",
+        "name": "Caixas de Energia - Circuito de Combinação",
+        "descript": "Mostra caixas de energia para um circuito com três resistores e duas chaves. Abra e feche as chaves, regule a tesão da fonte e as resistências dos resistores.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_combination.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14164,12 +14205,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Caixas de energia - circuito série RC",
-        "descript": "",
+        "name": "Caixas de Energia - Circuito RC Série",
+        "descript": "Mostra caixas de energia para um circuito RC Série (resistor e capacitor em série). Regule a tesão da fonte e a resistência dos resistores e a capacitância do capacitor.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circuit_power_boxes_RC.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14341,12 +14386,18 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "canhão elétrico eletromagnético",
-        "descript": "",
+        "name": "Canhão Eletromagnético",
+        "descript": "Mostra um canhão eletromagnético. O projétil desliza sem atrito nos trilhos que consiste em um circuito elétrico. A corrente nos trilhos gera um campo nagnetico uniforme, que gera uma força que direciona e sustenta o projétil.",
         "url": "http://physics.bu.edu/~duffy/HTML5/EM_railgun.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15089,11 +15140,20 @@
     },
     {
         "name": "Carga no Campo Magnético",
-        "descript": "",
+        "descript": "Teste os fatores que afetam o caminho da partícula carregada em um campo magnético. Ajuste a massa e a carga da partícula e a intensidade do campo magnético.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=54",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ChargeinMagFieldLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Mecânica",
+            "Radiação",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15560,12 +15620,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Caçamba de Força de Gravidade",
-        "descript": "",
+        "name": "Caçamba de Força da Gravidade",
+        "descript": "Permite coletar dados de Força da Gravidade (peso) vs Volume para materiais e locais que não podemos fazer em sala de aula. Encha o balde em diferentes níveis e registrar a força no balde e use os dados para encontrar a densidade do material no balde e a massa do balde.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=8",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityBucketLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Força",
+            "Função",
+            "Geografia",
+            "Hidrostática",
+            "Mecânica",
+            "Química",
+            "Gravitação"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15888,12 +15956,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Campo magnético do fio",
-        "descript": "",
+        "name": "Campo magnético em um fio condutor",
+        "descript": "Observe a direção do campo magnético de cargas em movimento em um fio com base na intensidade dos círculos ao redor do fio. Reguele deversos parâmetros.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=53",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FieldFromWire/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16533,31 +16607,50 @@
     },
     {
         "name": "Calor Específico do Fluido a partir da Energia Elétrica",
-        "descript": "",
+        "descript": "Colete dados sobre tempo e temperatura à medida que a energia elétrica é convertida em calor dentro de um fluido e assim determine o calor específico do fluido.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=499",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ElectricalDeterminationOfSpecificHeatLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Calor Específico do Líquido (Guiado)",
-        "descript": "",
+        "name": "Calor Específico de um Líquido (Guiado)",
+        "descript": "Como calcular o calor específico de um líquido com base nas mudanças de temperatura que ocorrem quando a água quente é adicionada ao líquido.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=42",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpecificHeatGuidedLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Calor Específico do Sólido (Guiado)",
-        "descript": "",
+        "name": "Calor Específico de um Sólido (Guiado)",
+        "descript": "Como calcular o calor específico de um sólido com base nas mudanças de temperatura que ocorrem quando um sólido quente é adicionado à água fria.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=43",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpecificHeatSolidGuidedLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17150,13 +17243,22 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Caminhada aleatória",
-        "descript": "Aleatoria andar bebado superior estatistica",
+        "name": "Caminhada Aleatória",
+        "descript": "Simula a caminhada aleatória(tambem chamada de \"Andar do bebado\") de uma ou mais partículas em duas dimensões. Esse tipo de trajetória e caracteristica do movimento browniano.",
         "url": "https://simufisica.com/simulacoes/caminhada-aleatoria/",
         "thumb": "https://simufisica.com/images/caminhada-aleatoria.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Atômica",
+            "Estatística",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Probabilidade",
+            "Química",
+            "Termologia",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
