@@ -15120,11 +15120,15 @@
     },
     {
         "name": "Carregamento do Capacitor no Circuito RC",
-        "descript": "",
+        "descript": "Monitore a tensão, a corrente e a carga em um circuito RC que tenha o capacitor carregando ou descarregando.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=570",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinDCChargingLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15159,21 +15163,34 @@
     },
     {
         "name": "Carga se movendo através do campo magnético básico",
-        "descript": "",
+        "descript": "Investigue a fórmula da força sobre uma carga que se move através de um campo magnético e veja como a direção da força depende da direção do movimento da carga e da direção do campo magnético.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=381",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ChargeMovingThroughMagneticFieldSimple/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Mecânica",
+            "Radiação",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Carregando um capacitor em um circuito DC",
-        "descript": "",
+        "descript": "Investige os fatores que afetam a taxa na qual um capacitor é carregado. Alterar a resistência e a capacitância no circuito e monitorar a corrente, tensão e carga no capacitor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=380",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinDCChargingLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17075,12 +17092,16 @@
     },
     {
         "name": "Cargas em um condutor",
-        "descript": "Cargas livres elétricas eletricas energia potencial eletrica força",
+        "descript": "Simula a dinâmica de cargas livres em um condutor. É possível observar a tendência das cargas se acumularem na superfície do condutor, levando a uma densidade de cargas nula dentro do condutor.",
         "url": "https://simufisica.com/simulacoes/cargas-em-um-condutor/",
         "thumb": "https://simufisica.com/images/cargas-em-um-condutor.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
