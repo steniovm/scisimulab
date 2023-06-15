@@ -10914,12 +10914,18 @@
     },
     {
         "name": "Corte de diamante",
-        "descript": "Aprenda sobre refração, reflexão e reflexão total no contexto de um raio de luz atravessando um diamante.",
+        "descript": "Aprenda sobre refração, reflexão e reflexão total no contexto de um raio de luz atravessando um cristal diamante ou de outros materiais.",
         "url": "https://interactives.ck12.org/simulations/physics/diamond-cut/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/diamond-cut.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Química",
+            "Vetores",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11164,7 +11170,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/preschool-races.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11229,7 +11244,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/radiocarbon-dating.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Biologia",
+            "Estatística",
+            "Função",
+            "Matemática",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "CK12"
     },
@@ -12699,12 +12723,17 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Correspondência de gráficos (gráficos de posição + velocidade)",
-        "descript": "",
+        "name": "Correspondência de gráficos (posiçãoXtempo + velocidadeXtempo)",
+        "descript": "Mosta, para um mesmo movimento, os gráficos posição vs tempo e velocidade vs tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graph_matching.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12775,12 +12804,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Corrida entre uma bola lançada e uma lançada horizontalmente",
-        "descript": "",
+        "name": "Corrida entre uma bola solta e uma lançada horizontalmente",
+        "descript": "Compara gráficamente os movimentos horizontais e obliquos de dois corpos lançados da mesma altura.",
         "url": "http://physics.bu.edu/~duffy/HTML5/2Dmotion_race.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13533,21 +13569,40 @@
     },
     {
         "name": "Descendo uma rampa",
-        "descript": "",
+        "descript": "O objeto rola sem escorregar pela rampa. O gráfico mostra a energia mecânica total, a energia potencial gravitacional, a energia cinética translacional e a energia cinética rotacional em função do tempo ou da posição.",
         "url": "http://physics.bu.edu/~duffy/HTML5/energy_ramp_roll.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Aritmética",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Conectando movimento harmônico simples e movimento circular uniforme",
-        "descript": "",
+        "descript": "Compara o movimento de uma bola experimentando um movimento circular uniforme com dois movimentos harmônicos simples diferentes, um vertical e outro horizontal. Também mostra que os gráficos de posição versus tempo desses movimentos são senoidais.",
         "url": "http://physics.bu.edu/~duffy/HTML5/SHM_circular_motion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13648,12 +13703,17 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Continuidade - fluido em um tubo",
-        "descript": "",
+        "name": "Continuidade - Fluido em um tubo",
+        "descript": "Mostra um tubo com diâmetro variavel sendo precorrido por um fluido. podemos ver que elementos deste fluido se movem mais rapido quando a área é menor, de forma que a vasão é a mesma em qualquer parte do tubo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/fluid_in_a_pipe.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Densidade",
+            "Função",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13796,12 +13856,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "diagrama PV",
-        "descript": "",
+        "name": "Diagrama PV - isoterma",
+        "descript": "Apresenta o diagrama PV (pressão-volume). Veja o que acontece quando a temperatura do gás ideal ou o volume é alterado (a temperatura constante). Veja o gráfico de pressão versus volume para uma determinada temperatura, escolha a temperatura.",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14158,11 +14225,20 @@
     },
     {
         "name": "Conectando Força e Energia - Campo e Potencial",
-        "descript": "",
+        "descript": "Na representação de um espaço no qual existe um campo uniforme direcionado para baixo. Se você escolher uma bola, o campo é um campo gravitacional. Se você usar uma carga, o campo é um campo elétrico. No gráfico. Você pode plotar seis coisas diferentes no eixo vertical, em função de x ou y.",
         "url": "http://physics.bu.edu/~duffy/HTML5/connections_FEUV.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Números",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14720,12 +14796,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Diagrama de raios para um espelho convergente, divergente ou plano",
-        "descript": "",
+        "name": "Espelhos (convergente, divergente ou plano com Diagrama de raios)",
+        "descript": "Simule a formação de imagens usando espelhos, varie a posição e altura do objeto e a distancia focal do espelho.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14810,12 +14890,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Diagrama de raios para uma lente convergente ou divergente",
-        "descript": "",
+        "name": "Lentes (convergente ou divergente com Diagrama de raios)",
+        "descript": "Simule a formação de imagens usando lentes, varie a posição e altura do objeto e a distancia focal da lente.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Lenses.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17195,12 +17279,20 @@
     },
     {
         "name": "Conservação de energia mecânica",
-        "descript": "Conservacao energia mecanica, medio classica",
+        "descript": "Mostra as transformações entre as energias potencial gravitacional, cinética e potencial elástica.",
         "url": "https://simufisica.com/simulacoes/conservacao-energia-mecanica/",
         "thumb": "https://simufisica.com/images/conservacao-energia-mecanica.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Aritmética",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
