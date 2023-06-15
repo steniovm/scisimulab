@@ -11250,7 +11250,7 @@
     },
     {
         "name": "Simulação de Posição e Deslocamento",
-        "descript": "",
+        "descript": "Aprenda a diferença entre distância percorrida e deslocamento utilizando vetores, além disso, compreenda o significado de módulo dos vetores.",
         "url": "https://interactives.ck12.org/simulations/physics/position-displacement/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/displacement.jpg?_build=202305291230",
         "categorys": [
@@ -11261,7 +11261,7 @@
     },
     {
         "name": "Simulação de Velocidade Relativa",
-        "descript": "",
+        "descript": "Aprenda mais sobre velocidade relativa ao observar como o movimento entre dois objetos é percebido por diferentes observadores em diferentes posições.",
         "url": "https://interactives.ck12.org/simulations/physics/relative-velocity/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/relative-velocity.jpg?_build=202305291230",
         "categorys": [
@@ -11272,7 +11272,7 @@
     },
     {
         "name": "Simulação de masmorra",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Average-Velocity/simulation/Dungeon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Dungeon-Simulation.PNG?_build=202305291230",
         "categorys": [
@@ -11283,7 +11283,7 @@
     },
     {
         "name": "Simulação da Primeira Lei",
-        "descript": "",
+        "descript": "Aprenda sobre a primeira lei de Newton que diz que um objeto em movimento tende a permanecer em movimento a menos que sofra a ação de uma força externa.",
         "url": "https://interactives.ck12.org/simulations/physics/first-law/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/first-law-new.jpg?_build=202305291230",
         "categorys": [
@@ -11294,7 +11294,7 @@
     },
     {
         "name": "Simulação de fricção",
-        "descript": "",
+        "descript": "Aprenda sobre a força de atrito e qual a força necessária para fazer com que objetos sobre uma superfície comecem a se deslocar.",
         "url": "https://interactives.ck12.org/simulations/physics/friction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/friction.jpg?_build=202305291230",
         "categorys": [
@@ -11305,7 +11305,7 @@
     },
     {
         "name": "Simulação de Corpo Livre",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Problem-Solving-1/simulation/Free-Body-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Free-Body-Simulation.PNG?_build=202305291230",
         "categorys": [
@@ -11316,7 +11316,7 @@
     },
     {
         "name": "Simulação da Terceira Lei",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Newtons-Third-Law/simulation/Third-Law-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Third-Law-Simulation.PNG?_build=202305291230",
         "categorys": [
@@ -11327,7 +11327,7 @@
     },
     {
         "name": "Simulação de canhão",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Projectile-Motion/simulation/Cannon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/cannon.jpg?_build=202305291230",
         "categorys": [
@@ -11338,7 +11338,7 @@
     },
     {
         "name": "Simulação de Velocidade Angular",
-        "descript": "",
+        "descript": "Aprenda mais sobre o conceito de velocidade angular e como ela está relacioanda à velocidade linear.",
         "url": "https://interactives.ck12.org/simulations/physics/angular-speed/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/angular-speed-sim.jpg?_build=202305291230",
         "categorys": [
@@ -11348,8 +11348,8 @@
         "author": "CK12"
     },
     {
-        "name": "Goleiro",
-        "descript": "",
+        "name": "Tacada certeira",
+        "descript": "Aprenda qual a condição para que uma força atue como força centrípeta e provoque um movimento circular em um corpo em um contexto de um jogador de hockey dando uma tacada no disco.",
         "url": "https://interactives.ck12.org/simulations/physics/centripetal-force/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hockey-cp.jpg?_build=202305291230",
         "categorys": [
@@ -11360,7 +11360,7 @@
     },
     {
         "name": "Simulação de oscilações",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Pendulum/simulation/Oscillations-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Oscillations-Simulation.PNG?_build=202305291230",
         "categorys": [
@@ -11371,7 +11371,7 @@
     },
     {
         "name": "Simulação de Potência e Eficiência",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Power-and-Efficiency/simulation/Power-and-Efficiency-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-efficiency.jpg?_build=202305291230",
         "categorys": [
@@ -11399,7 +11399,7 @@
     },
     {
         "name": "Manto de Gelo Elétrico",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Coulombs-Law/simulation/Electric-Ice-Sheet?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Electric-Ice-Sheet.PNG?_build=202305291230",
         "categorys": [
@@ -11410,7 +11410,7 @@
     },
     {
         "name": "Simulação de Campos Elétricos",
-        "descript": "",
+        "descript": "Você seria capaz de marcar um gol em uma partida de hockey utilizando eletromagnetismo? A simulação trata da força elétrica entre partículas carregadas eletricamente.",
         "url": "https://interactives.ck12.org/simulations/physics/electric-field/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-field.jpg?_build=202305291230",
         "categorys": [
@@ -11421,7 +11421,7 @@
     },
     {
         "name": "Simulação de Capacitores",
-        "descript": "",
+        "descript": "Aprenda sobre circuitos RC e como os capacitores desempenham uma importante função em flashes de câmeras fotográficas.",
         "url": "https://interactives.ck12.org/simulations/physics/rc-circuit/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rc-circuit.jpg?_build=202305291230",
         "categorys": [
@@ -11432,7 +11432,7 @@
     },
     {
         "name": "Simulação de resistor",
-        "descript": "",
+        "descript": "Em manutenção",
         "url": "https://www.ck12.org/physics/Resistors-in-Series/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/resistor.jpg?_build=202305291230",
         "categorys": [
@@ -11442,30 +11442,8 @@
         "author": "CK12"
     },
     {
-        "name": "Simulação de resistor",
-        "descript": "",
-        "url": "https://www.ck12.org/physics/Resistors-in-Parallel/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
-        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Resistor-Simulation.PNG?_build=202305291230",
-        "categorys": [
-            "Física",
-            "Jogo"
-        ],
-        "author": "CK12"
-    },
-    {
-        "name": "Simulação de resistor",
-        "descript": "",
-        "url": "https://www.ck12.org/physics/Resistor-Circuits/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
-        "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Resistor-Simulation.PNG?_build=202305291230",
-        "categorys": [
-            "Física",
-            "Jogo"
-        ],
-        "author": "CK12"
-    },
-    {
-        "name": "Pescar - anzou na profundidade certa",
-        "descript": "Ao ir pescar, conecte diferentes materiais ao anzou para faze-lo flutuar ou afundar.",
+        "name": "Pescaria - anzou na profundidade certa",
+        "descript": "Ao ir pescar, conecte diferentes materiais ao anzou para faze-lo flutuar ou afundar. Aprenda como a densidade de um corpo ou mateiral irá determinar se ele flutua ou afunda na água.",
         "url": "https://interactives.ck12.org/simulations/chemistry/density/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/density.jpg?_build=202305291230",
         "categorys": [
@@ -11633,7 +11611,7 @@
     },
     {
         "name": "Mudança de Fase",
-        "descript": "Mostra o comportamento de moleculas de água ao aquecer ou resfriar uma amostra, promovendo assim mudanças de fase entre solído, liquido e gasoso.",
+        "descript": "Mostra o comportamento de moleculas de água ao aquecer ou resfriar uma amostra, promovendo assim mudanças de fase entre solído, liquido e gasoso. Explore a relação entre calor e temperatura e como essas grandezas se relacionam com as mudanças de fase.",
         "url": "https://interactives.ck12.org/simulations/chemistry/phases-of-matter/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/chemistry.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/chemistry/phases-of-matter.jpg?_build=202305291230",
         "categorys": [
