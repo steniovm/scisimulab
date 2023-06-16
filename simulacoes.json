@@ -12704,11 +12704,15 @@
     },
     {
         "name": "Diagramas de movimento",
-        "descript": "",
+        "descript": "Defina a posição, velocidade e aceleração de dois corpos e compare seus movimentos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/motion_diagrams.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15103,21 +15107,28 @@
     },
     {
         "name": "Difração de uma única fenda",
-        "descript": "",
+        "descript": "Demonstra a difração de ondas por uma única fenda. Altere a largura da abertura. Observe que a amplitude da onda não diminui com a distância da fonte, como aconteceria com as ondas físicas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/diffraction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Ondas",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Difração de fenda única e padrão de interferência de fenda dupla",
-        "descript": "",
+        "name": "Difração e padrão de interferência de fenda simples e dupla",
+        "descript": "Reproduz o padrão de interferência causado ao passar um feixe de luz monocromatica por fendas duplas. pode-se ajustar a largura das fendas, distância entre as fendas e distância das fendas à tela.",
         "url": "http://physics.bu.edu/~duffy/HTML5/double_slit.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15568,12 +15579,15 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "difração da luz",
-        "descript": "",
+        "name": "Difração da Luz",
+        "descript": "Permitir investigar os fatores que determinam os locais de interferência construtiva em um padrão de difração causado por fenda dupla.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=72",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DiffractionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Ondas",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15844,12 +15858,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Direção da Força Relativa ao Laboratório de Movimento",
-        "descript": "",
+        "name": "Efeito da Força no Movimento ao longo do Tempo",
+        "descript": "Apresentar a ideia de como a direção da força em relação ao movimento determina o movimento futuro do objeto. Também pode explorar os fatores que determinam as propriedades do movimento em um campo de hóquei.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=20",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceDirectionRelativeToMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Mecânica",
+            "Probabilidade",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17389,12 +17408,19 @@
     },
     {
         "name": "Dinâmica de dois gases",
-        "descript": "Dinamica dois gases medio superior",
+        "descript": "Apresenta a dinâmica de dois gases separados por uma barreira que pode ser mantida fixa ou móvel. As velocidades iniciais são geradas de forma aleatória a partir da distribuição de Maxwell-Boltzmann, de forma que as temperaturas iniciais serão próximas às escolhidas, mas não exatamente iguais.",
         "url": "https://simufisica.com/simulacoes/dinamica-dois-gases/",
         "thumb": "https://simufisica.com/images/dinamica-dois-gases.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Densidade",
+            "Energia",
+            "Estatística",
+            "Atômica",
+            "Probabilidade",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "SimuFísica"
     },
