@@ -13456,32 +13456,52 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Equilíbrio estático - uma viga equilibrada",
-        "descript": "",
+        "name": "Equilíbrio estático - Viga equilibrada",
+        "descript": "Simula uma viga apoiada em dois suportes. Mostra o diagrama de corpo livre da viga indicando se a situação é instável ou estável. Mova a posições dos suportes e de uma massa sobre a viga.",
         "url": "http://physics.bu.edu/~duffy/HTML5/balanced_beam.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Geometria",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Equilíbrio estático - três maneiras de calcular o torque",
-        "descript": "",
+        "descript": "Simula uma haste articulada em equilíbrio estático. Mostra o diagrama de corpo livre estendido da haste, mostrando todas as forças que atuam na haste e onde são aplicadas. Veremos três maneiras equivalentes de encontrar o torque devido à tensão. Você pode controlar a posição e o ângulo da força, bem como o peso da haste. Escolha ente calcular pelo metodo da 'Equação do torque', 'Componentes das forças' ou 'Braço de alavanca'.",
         "url": "http://physics.bu.edu/~duffy/HTML5/torque_three_ways.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Geometria",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Equilíbrio estático - uma haste articulada",
-        "descript": "",
+        "name": "Equilíbrio estático - haste articulada",
+        "descript": "Simula uma haste articulada em equilíbrio estático. Mostra o diagrama de corpo livre estendido da haste, mostrando todas as forças que atuam na haste e onde são aplicadas. Veremos três maneiras equivalentes de encontrar o torque devido à tensão. Você pode controlar a posição e o ângulo da força, bem como o peso da haste.",
         "url": "http://physics.bu.edu/~duffy/HTML5/hinged_rod.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Geometria",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15222,12 +15242,21 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "espectro atômico",
-        "descript": "",
+        "name": "Espectro Atômico",
+        "descript": "Mostra o espectro de emissão de luz para varios elementos tais como Hidrogênio, Hélio, Litio, Sódio, Mercúrio e Neon. compara com o espectro continuo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/emission_spectra.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Gráfico",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15736,21 +15765,34 @@
     },
     {
         "name": "Equivalente Elétrico de Calor",
-        "descript": "",
+        "descript": "Simula um experimento que permite a conversão de energia elétrica em energia térmica. Controle a quantidade de água calorimetro, a tensão da fonte de alimentação e o tempo. Calcule a energia elétrica e a térmica.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=263",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ElectricalEquivalentOfHeatLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Espectro Eletromagnético com Grade de Difração",
-        "descript": "",
+        "descript": "Observe os fatores que afetam a localização de diferentes cores formadas pela grade de difração. Mova um filamento de luz branca através de uma grade de difração. Observe como os diferentes parâmetros afetam a distância entre as cores projetadas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=386",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EMSpectrum/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Geometria",
+            "Ondas",
+            "Quântica",
+            "Radiação",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16323,11 +16365,15 @@
     },
     {
         "name": "Equivalente Mecânico de Calor",
-        "descript": "",
+        "descript": "Simula uma versão bastante simplificada do experimento de James Joule, mostrando a conversão de energia mecânica em calor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=264",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MechanicalEquivalentOfHeatLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Mecânica",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16958,11 +17004,18 @@
     },
     {
         "name": "Espaço ao redor do Charge Lab",
-        "descript": "",
+        "descript": "Observe os fatores que determinam o campo elétrico e a tensão em torno de uma carga. Mova o sensor Pacman pelo espaço, mas não se aproxime muito da carga central ou você será ejetado para os confins do seu espaço.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=258",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpaceAroundChargeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
