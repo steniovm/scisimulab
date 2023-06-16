@@ -10861,12 +10861,18 @@
     },
     {
         "name": "Flauta de Pan",
-        "descript": "Aprenda sobre harmônicos sonoros numa coluna de ar ao observar de perto o son produzido por uma flauta de Pan.",
+        "descript": "Aprenda sobre harmônicos sonoros numa coluna de ar ao observar de perto o som produzido por uma flauta de Pan.",
         "url": "https://interactives.ck12.org/simulations/physics/pan-flute/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/pan-flute.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Acústica",
+            "Geometria",
+            "Gráfico",
+            "Números",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -12931,11 +12937,16 @@
     },
     {
         "name": "Força e movimento em 1D",
-        "descript": "",
+        "descript": "Mostra a relação entre força e movimento atraves de uma caixa sobre uma superfície horizontal sem atrito. Ajuste a massa da caixa e a força horizontal aplicada. Observe que o diagrama de corpo livre é mostrado e controle o movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/force_motion_1D.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12965,11 +12976,17 @@
     },
     {
         "name": "Física do elevador",
-        "descript": "",
+        "descript": "Ilustra a situação de uma pessoa em um elevador, mostrando o diagrama de corpo livre para a pessoa, para o elevador e para o conjunto ao longo do tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/elevator_physics.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13800,8 +13817,8 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Expansão térmica",
-        "descript": "",
+        "name": "Expansão Térmica",
+        "descript": "Mostra um anel com o diâmetro entre o raio interno e externo amplificado. Variando a temperatura de -200 a 200 ºC podemos ver a expansão ou contração do anel.",
         "url": "http://physics.bu.edu/~duffy/HTML5/linear_thermal_expansion.html",
         "thumb": "",
         "categorys": [
@@ -13981,21 +13998,29 @@
     },
     {
         "name": "Fluxo de energia em uma máquina térmica",
-        "descript": "",
+        "descript": "Mostra o fluxo de energia em um motor térmico, do calor gerado pela queima de combustível a uma temperatura mais alta, apenas uma fração pode ser usada para realizar trabalho útil (W). O resto é desperdiçado quando o motor térmico é redefinido para uma temperatura mais baixa, pronto para outro ciclo. A eficiência de Carnot é a máxima eficiência possível que a máquina térmica pode ter e depende das temperaturas entre as quais o motor opera.",
         "url": "http://physics.bu.edu/~duffy/HTML5/thermo_heat_engine.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Clima",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Fluxo de energia em um ar condicionado ou geladeira",
-        "descript": "",
+        "name": "Fluxo de energia em refrigeradores",
+        "descript": "Mostra o fluxo de energia para uma geladeira ou ar condicionado. É preciso uma certa quantidade de trabalho (W) para remover energia de um local de temperatura mais fria para região de temperatura mais alta. A quantidade mínima de trabalho depende das duas temperaturas entre as quais o dispositivo está operando. Dispositivos reais são menos eficientes do que o caso ideal.",
         "url": "http://physics.bu.edu/~duffy/HTML5/thermo_air_conditioner.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Clima",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14249,12 +14274,17 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Força e energia potencial para duas cargas",
-        "descript": "",
+        "name": "Força e Energia Eletrostática para duas cargas",
+        "descript": "Investigue a energia potencial eletrostática associada a duas partículas carregadas interagindo, bem como a força entre elas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/force_PE2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14534,11 +14564,28 @@
     },
     {
         "name": "Espectrômetro de massa",
-        "descript": "",
+        "descript": "Mostra as três fases em um espectrômetro de massa. Na fase de aceleração, uma partícula carregada é liberada do repouso perto da placa carregada de um capacitor de placas paralelas. Na fase de seletor de velocidade há um campo elétrico e um campo magnético perpendicular. Na fase do separador de massa um campo magnético uniforme faz a particula passar por uma trajetória circular cujo o raio é proporcional à massa da partícula.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_spectrometer.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Geometria",
+            "Mecânica",
+            "Momentum",
+            "Momentum",
+            "Números",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14644,12 +14691,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "fem de movimento",
-        "descript": "",
+        "name": "Força Eletromotriz (f.e.m.) de Movimento",
+        "descript": "Quando uma força constante é aplicada numa haste rolante sobre trilhos sem atrito podemos pensar que resultaria em movimento com aceleração constante, mas se houver um campo magnético uniforme não é isso que vemos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/motional_emf.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14890,32 +14944,50 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Espelhos e tempo (o papel do tempo na formação da imagem)",
-        "descript": "",
+        "name": "Espelhos e Tempo (o papel do tempo na formação da imagem)",
+        "descript": "Mostra diagramas de raios e formação de imagens usando um espelho mostrando que o papel do tempo. Uma frente de onda é enviada do objeto.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Espelhos e tempo (o papel do tempo na formação da imagem) - arrastável",
-        "descript": "",
+        "name": "Espelhos e Tempo (o papel do tempo na formação da imagem) - Arrastável",
+        "descript": "Mostra diagramas de raios e formação de imagens usando um espelho mostrando que o papel do tempo. Uma frente de onda é enviada do objeto. É possivel mover o objeto arrastando-o",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time_update.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Espelhos e tempo (o papel do tempo na formação da imagem) - gráfico",
-        "descript": "",
+        "name": "Espelhos e Tempo (o papel do tempo na formação da imagem) - Gráfico",
+        "descript": "Mostra diagramas de raios e formação de imagens usando um espelho mostrando que o papel do tempo. Uma frente de onda é enviada do objeto. O gráfico mostra a diferença no tempo de viagem para caminhos que vão do objeto à imagem através de diferentes pontos no espelho.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time_graph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15555,12 +15627,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Força Circular Clássica",
-        "descript": "",
+        "name": "Força Centripeta -Experimento Clássico do movimento circular",
+        "descript": "Examine as relações entre a força, a massa e o raio de um objeto que se move em uma trajetória circular e a velocidade que ele deve manter para permanecer nessa trajetória.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=22",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ClassicCircularForceLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15797,16 +15873,6 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Espectro EM visto usando laboratório de grade de difração",
-        "descript": "",
-        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=245",
-        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EMSpectrum/images/OverviewPicture.png",
-        "categorys": [
-            "Física"
-        ],
-        "author": "ThePhysicSaviary"
-    },
-    {
         "name": "Laboratório de espectros de emissão",
         "descript": "",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=246",
@@ -15937,12 +16003,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Fluidos em um laboratório U-Tube",
-        "descript": "",
+        "name": "Fluidos em Tubo em U",
+        "descript": "Investigue a posição de equilíbrio de um pistão que separa dois fluidos de densidades diferentes em um tubo em forma de U. Ajuste os diâmentros de cada lado do tubo e o nivel inicial dos liquidos.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=259",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/YouTubeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17636,12 +17706,24 @@
     },
     {
         "name": "Espectrometria de massa",
-        "descript": "Superior eletromagnetismo magnetismo eletrica ",
+        "descript": "Simula um dos processos de separação isotópica, é usado para acelerar íons de isótopos diferentes de um mesmo elemento químico. Um campo magnético perpendicular ao vetor campo elétrico age nesses isótopos, que terão diferentes velocidades fazendo esses isótopos desenvolverem trajetórias distintas, o que usado para separá-los.",
         "url": "https://simufisica.com/simulacoes/espectrometria-massa/",
         "thumb": "https://simufisica.com/images/espectrometria-massa.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Atômica",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Mecânica",
+            "Química",
+            "Radiação",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -17842,13 +17924,20 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Estimativa de pi",
-        "descript": "Superior monte carlo estatistica matematica",
+        "name": "Estimativa de PI (π)",
+        "descript": "Apresenta um método de Monte Carlo usado para estimar o valor de  π  de forma aproximada. Pontos são sorteados dentro de um quadrado com um círculo inscrito. Como as áreas dessas formas geométricas são proporcionais à quantidade de pontos dentro de suas fronteiras, o valor de π pode ser estimado a partir do numero de pontos dentro do circulo em relação ao total.",
         "url": "https://simufisica.com/simulacoes/estimativa-pi/",
         "thumb": "https://simufisica.com/images/estimativa-pi.png",
         "categorys": [
-            "Física",
-            "Mobile"
+            "Mobile",
+            "Algorítimo",
+            "Aritmética",
+            "Estatística",
+            "Função",
+            "Geometria",
+            "Matemática",
+            "Números",
+            "Probabilidade"
         ],
         "author": "SimuFísica"
     },
