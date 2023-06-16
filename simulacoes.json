@@ -9153,11 +9153,13 @@
     {
         "name": "Encargos e Campos",
         "descript": "Adcione cargas e veja seus campos elétricos.",
-        "url": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
+        "url": "http://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Electric-Field-Lines/Electric-Field-Lines-Interactive",
         "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-9.28.23-PM.png",
         "categorys": [
             "Física",
-            "Eletrostática"
+            "Eletrostática",
+            "Força",
+            "Vetores"
         ],
         "author": "PhysicsClassRoom"
     },
@@ -12648,12 +12650,22 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Emissões veiculares de dióxido de carbono",
-        "descript": "",
+        "name": "Emissões Veiculares de Dióxido de Carbono",
+        "descript": "Permite calcular as emissões anuais de CO2 (dióxido de carbono) de um carro movido a gasolina, bem como observar as emissões anuais totais aproximadas de todos os 250 milhões de veículos de passageiros nos Estados Unidos. Altere o total de milhas dirigidas por ano e a eficiencia do veiculo para ver como altera esse valor total.",
         "url": "http://physics.bu.edu/~duffy/HTML5/climate_change_vehicle_emissions.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Clima",
+            "Biologia",
+            "Gráfico",
+            "Geografia",
+            "Matemática",
+            "Mecânica",
+            "Números",
+            "Estatística",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13168,12 +13180,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Energia cinética e trabalho",
-        "descript": "",
+        "name": "Energia Cinética e Trabalho",
+        "descript": "Aplique uma força em um objeto que está em movimento e veja como altera a energia cinética e a quantidade de movimento (momentum).",
         "url": "http://physics.bu.edu/~duffy/HTML5/work_energy.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Momentum"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14194,12 +14213,18 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Energia potencial para duas cargas",
-        "descript": "",
+        "name": "Energia Potencial entre Cargas Elétricas",
+        "descript": "Investigue a energia potencial eletrostática associada a duas partículas carregadas em interação e como essa energia potencial varia com a distância entre as partículas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/potential2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14443,7 +14468,7 @@
     },
     {
         "name": "Força sobre uma partícula carregada em um campo magnético",
-        "descript": "Investige a força que um campo magnético exerce sobre uma partícula carregada. Veja varias situações de valor de carga, de velocidade inicial e de ângulo entre a velocidade e o angulo. Aproveite para rever os conceitos de movimento circular.",
+        "descript": "Investigue a força que um campo magnético exerce sobre uma partícula carregada. Veja varias situações de valor de carga, de velocidade inicial e de ângulo entre a velocidade e o angulo. Aproveite para rever os conceitos de movimento circular.",
         "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_field.html",
         "thumb": "",
         "categorys": [
@@ -14696,12 +14721,23 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Efeito Doppler para ondas EM",
-        "descript": "",
+        "name": "Efeito Doppler para Ondas Eletromagnéticas",
+        "descript": "Explora o conceito do deslocamento Doppler para ondas eletromagnéticas. Compare o espectro de absorção do hidrogenio para um corpo a uma distância fixa (Sol) para um corpo com alta velocidade (se afastando ou se aproximando) e veja o Efeito Doppler (Redshift e Blueshift). Defina a velocidade da estrela em relação a nós em fração da velocidade da luz.",
         "url": "http://physics.bu.edu/~duffy/HTML5/EM_Doppler.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Mecânica",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Relatividade",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15230,7 +15266,7 @@
     },
     {
         "name": "Acelerando Elétrons",
-        "descript": "Investige os fatores que afetam a velocidade de um elétron acelerado por duas placas carregadas. Também veja como os diferentes fatores afetam o tempo que o elétron leva para viajar entre as placas.",
+        "descript": "Investigue os fatores que afetam a velocidade de um elétron acelerado por duas placas carregadas. Também veja como os diferentes fatores afetam o tempo que o elétron leva para viajar entre as placas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=248",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AcceleratingChargesWithCapacitor/images/OverviewPicture.png",
         "categorys": [
@@ -15430,7 +15466,7 @@
     },
     {
         "name": "Carregando um capacitor em um circuito DC",
-        "descript": "Investige os fatores que afetam a taxa na qual um capacitor é carregado. Alterar a resistência e a capacitância no circuito e monitorar a corrente, tensão e carga no capacitor.",
+        "descript": "Investigue os fatores que afetam a taxa na qual um capacitor é carregado. Alterar a resistência e a capacitância no circuito e monitorar a corrente, tensão e carga no capacitor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=380",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinDCChargingLab/images/OverviewPicture.png",
         "categorys": [
@@ -15602,12 +15638,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Distância para Destruição",
-        "descript": "",
+        "name": "Distância para Destruição ou Construção",
+        "descript": "Visuale a distância entre duas fontes de ondas sincronizadas que levarão a interferências construtivas e destrutivas. As curvas senoidais representam as flutuações de pressão (ondas sonoras).",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=65",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DistanceToDestruction/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Aritmética",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15669,11 +15713,14 @@
     },
     {
         "name": "Eficiência de um Motor Ideal",
-        "descript": "",
+        "descript": "Veja como as temperaturas de operação de um motor ideal afetam sua eficiência. Ajuste as temperaturas das fontes quente e fria e veja como a quantidade de trabalho útil irá mudar.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=262",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CarnotEngineLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Energia",
+            "Termodinâmica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16390,7 +16437,7 @@
     },
     {
         "name": "Circuitos Paralelos",
-        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito paralelo com até três componentes passivos. Ajuste as resistências e escolha entre baterias ideais a baterias contendo resistência interna.",
+        "descript": "Investigue as relações entre tensão, resistência e corrente em um circuito paralelo com até três componentes passivos. Ajuste as resistências e escolha entre baterias ideais a baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=49",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ParallelCircuitLab/images/OverviewPicture.png",
         "categorys": [
@@ -16541,12 +16588,25 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Emissão Radiante de Luz",
-        "descript": "",
+        "name": "Emissão Radiante de Luz - Radiação de Corpo Negro",
+        "descript": "Observe as intensidades relativas de diferentes comprimentos de onda de luz com base na temperatura das estrelas (radiação de corpo negro).",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=253",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadiantEmission/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Estatística",
+            "Função",
+            "Gráfico",
+            "Números",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Termologia",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16582,7 +16642,7 @@
     },
     {
         "name": "Circuitos RC",
-        "descript": "Investige os fatores que afetam a taxa de descarga de um capacitor. Altere a resistência e a capacitância no circuito e monitore a descarga do capacitor e encontrer a meia-vida do capacitor.",
+        "descript": "Investigue os fatores que afetam a taxa de descarga de um capacitor. Altere a resistência e a capacitância no circuito e monitore a descarga do capacitor e encontrer a meia-vida do capacitor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=52",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCCircuitLab/images/OverviewPicture.png",
         "categorys": [
@@ -16756,12 +16816,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Distância de rolagem com laboratório de previsão",
-        "descript": "",
+        "name": "Distância de rolagem com previsão",
+        "descript": "Permite que você estude a relação entre o raio da roda e a distância linear que ela cobre em uma rotação. Depois tente encontrar a relação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=612",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16797,7 +16863,7 @@
     },
     {
         "name": "Circuitos em série",
-        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito em série com até três componentes passivos. Regule os valores das resistências e escolha entre baterias ideais e baterias contendo resistência interna.",
+        "descript": "Investigue as relações entre tensão, resistência e corrente em um circuito em série com até três componentes passivos. Regule os valores das resistências e escolha entre baterias ideais e baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=48",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SeriesCircuitLab/images/OverviewPicture.png",
         "categorys": [
@@ -16809,7 +16875,7 @@
     },
     {
         "name": "Circuitos Simples",
-        "descript": "Investige as relações entre tensão, resistência e corrente em um circuito com apenas um componente passivo. Ajuste a resistência e escolha entre baterias ideais e baterias contendo resistência interna.",
+        "descript": "Investigue as relações entre tensão, resistência e corrente em um circuito com apenas um componente passivo. Ajuste a resistência e escolha entre baterias ideais e baterias contendo resistência interna.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=47",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SimpleCircuitLab/images/OverviewPicture.png",
         "categorys": [
@@ -17032,21 +17098,33 @@
     },
     {
         "name": "Distância de parada",
-        "descript": "",
+        "descript": "Encontre as relações que afetam a distância de parada de um carro em uma estrada. Modifique os pneus, a superfície da estrada, a massa do carro e a velocidade inicial do carro e teste seu tempo de reação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=18",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StoppingDistanceLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Distância de parada versão 2",
-        "descript": "",
+        "name": "Distância de parada avançado",
+        "descript": "Encontre as relações que afetam a distância de parada de um carro em uma estrada. Modifique os pneus, a superfície da estrada, a massa do carro e a velocidade inicial do carro e teste seu tempo de reação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=390",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StoppingDistanceVersionTwo/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17145,21 +17223,35 @@
     },
     {
         "name": "Energia Gravitacional Universal",
-        "descript": "",
+        "descript": "Investigue a energia adicionada a um objeto quando ele se afasta de outro objeto. Entenda o conceito de energia gravitacional universal.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=38",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GravitationalPELab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Energia",
+            "Força",
+            "Geografia",
+            "Gravitação",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Gravidade Universal",
-        "descript": "",
+        "descript": "Investigue a força gravitácional entre dois objetos no espaço profundo. Pode-se alterar o tamanho dos objetos, de que são feitos e a que distância estão.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=9",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/UniversalGravityLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Energia",
+            "Força",
+            "Geografia",
+            "Gravitação",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17205,7 +17297,7 @@
     },
     {
         "name": "Comprimento de onda",
-        "descript": "Investige a relação entre a velocidade, a frequência e o comprimento de onda da onda bidimensional se propagando radialmente.",
+        "descript": "Investigue a relação entre a velocidade, a frequência e o comprimento de onda da onda bidimensional se propagando radialmente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=68",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WavelengthLab/images/OverviewPicture.png",
         "categorys": [
@@ -17272,12 +17364,17 @@
     },
     {
         "name": "Consumo de energia elétrica",
-        "descript": "Consumo energia eletrica, medio eletromagnetismo",
+        "descript": "Calcula o consumo de energia elétrica, e o valor monetário, de eletrodomésticos e o total residencial.",
         "url": "https://simufisica.com/simulacoes/consumo-energia-eletrica/",
         "thumb": "https://simufisica.com/images/consumo-energia-eletrica.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Energia",
+            "Estatística",
+            "Matemática"
         ],
         "author": "SimuFísica"
     },
@@ -17540,12 +17637,20 @@
     },
     {
         "name": "Distribuição de Boltzmann",
-        "descript": "Distribuicao superior termodinamica estatistica",
+        "descript": "Simula a distribuição de átomos ou moléculas entre níveis de energia em uma certa temperatura T, no equilíbrio térmico com base na distribuição de Boltzmann.",
         "url": "https://simufisica.com/simulacoes/distribuicao-boltzmann/",
         "thumb": "https://simufisica.com/images/distribuicao-boltzmann.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Energia",
+            "Estatística",
+            "Gráfico",
+            "Probabilidade",
+            "Quântica",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "SimuFísica"
     },
@@ -17561,13 +17666,23 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Eco de fótons",
-        "descript": "Fotons superior quântica otica optica",
+        "name": "Eco de Fótons",
+        "descript": "Modela o fenômeno do eco de fótons em um gás de átomos. Cada bolinha representa um grupo de átomos com uma certa velocidade. Cada grupo interage de forma diferente com os pulsos laser, devido ao deslocamento Doppler da luz. Uma vez excitado, cada átomo se comporta como um dipolo elétrico, oscilando em uma dada frequência.",
         "url": "https://simufisica.com/simulacoes/eco-fotons/",
         "thumb": "https://simufisica.com/images/eco-fotons.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Estatística",
+            "Função",
+            "Gráfico",
+            "Momentum",
+            "Oscilações",
+            "Probabilidade",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Termologia"
         ],
         "author": "SimuFísica"
     },
