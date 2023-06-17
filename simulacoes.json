@@ -10823,7 +10823,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hot-oven.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Estatística",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -11103,7 +11107,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/galvanometer.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletromagnetismo",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Matemática",
+            "Números"
         ],
         "author": "CK12"
     },
@@ -12965,12 +12975,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Fricção estática",
-        "descript": "",
+        "name": "Atrito Estático - Diagrama de forças",
+        "descript": "Em uma caixa sobre uma mesa, ajuste o peso da caixa e a força aplicada sobre ela. Observe o diagrama de forças.",
         "url": "http://physics.bu.edu/~duffy/HTML5/static_friction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13007,11 +13021,16 @@
     },
     {
         "name": "Força e movimento em 1D, com atrito",
-        "descript": "",
+        "descript": "Mostra a relação entre força e movimento, com atrito em uma caixa sobre uma superfície horizontal. Ajuste a massa da caixa, a força horizontal aplicada à caixa e o coeficiente de atrito (o mesmo valor para atrito estático e atrito cinético). Observe o diagrama de corpo livre.",
         "url": "http://physics.bu.edu/~duffy/HTML5/force_motion_1D_friction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Geometria",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13853,23 +13872,41 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Gás ideal",
-        "descript": "gas ideal, medio termodinamica estatistica",
+        "name": "Gás ideal - Histograma",
+        "descript": "Uma simulação de gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura. O histograma mostra a distribuição de velocidades no gás.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas.html",
         "thumb": "",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Densidade",
+            "Energia",
+            "Estatística",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Números",
+            "Probabilidade",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Gás ideal (sem histograma)",
-        "descript": "",
+        "name": "Gás ideal",
+        "descript": "Uma simulação de gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Mobile",
+            "Densidade",
+            "Energia",
+            "Estatística",
+            "Números",
+            "Probabilidade",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14160,22 +14197,30 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Fotocopiar uma onda (obturador rolante)",
-        "descript": "",
+        "name": "Fotocopiando uma onda (obturador rolante)",
+        "descript": "Simula uma elástico oscilando com uma onda e sendo digitalizado por uma fotocopiadora. Esta é a essência do efeito de persiana.",
         "url": "http://physics.bu.edu/~duffy/HTML5/rolling_shutter.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Jogo",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Fotocopiando um fidget spinner (obturador rolante)",
-        "descript": "",
+        "descript": "Simula um fidget spinner em uma fotocopiadora. Esta é a essência do efeito de persiana.",
         "url": "http://physics.bu.edu/~duffy/HTML5/fidget_spinner_on_scanner.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Jogo",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15591,7 +15636,7 @@
     },
     {
         "name": "Forças Circulares",
-        "descript": "",
+        "descript": "Encontre as relações que afetam a força necessária para manter um objeto em movimento em um círculo. Altere a massa do objeto, a velocidade do objeto e o tamanho do círculo em que o objeto está se movendo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=26",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularForceLab/images/OverviewPicture.png",
         "categorys": [
@@ -16032,22 +16077,49 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Força Elétrica Minilaboratório",
-        "descript": "",
+        "name": "Força Elétrica - Minilaboratório",
+        "descript": "Ilustra visualmente as relações entre a força da eletrostática e os fatores que determinam sua resistência (cargas e distância).",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=45",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElectricMiniLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrostática",
+            "Força",
+            "Função",
+            "Matemática",
+            "Vetores"
+        ],
+        "author": "ThePhysicSaviary"
+    },
+    {
+        "name": "Força Elétrica - Minilaboratório com números",
+        "descript": "Obtenha rapidamente, e numericamente, as relações entre a força da eletrostática e os fatores que determinam sua resistência.",
+        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=375",
+        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElectricMiniwithNumbers/images/OverviewPicture.png",
+        "categorys": [
+            "Física",
+            "Aritmética",
+            "Eletrostática",
+            "Força",
+            "Função",
+            "Matemática",
+            "Vetores",
+            "Números"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Force Electric MiniLab com números",
-        "descript": "",
-        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=375",
-        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElectricMiniwithNumbers/images/OverviewPicture.png",
+        "descript": "Obtenha rapidamente, e numericamente, as relações entre a força da eletrostática e os fatores que determinam sua resistência.",
+        "url": "http://www.thephysicsaviary.com/Physics/Programs/Tools/Graphing/index.html",
+        "thumb": "",
         "categorys": [
-            "Física"
+            "Aritmética",
+            "Função",
+            "Matemática",
+            "Números",
+            "Estatística"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16080,22 +16152,39 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Força Normal no Laboratório da Estação Espacial",
-        "descript": "",
+        "name": "Força Normal e Gravidade Artificial em Estação Espacial",
+        "descript": "Investigue como os parâmetros de uma estação espacial em rotação determinam o campo gravitacional aparente para as pessoas na estação. Altere a massa da pessoa, a velocidade da estação e o tamanho da estação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=23",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceNormalSpaceStationLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Mecânica",
+            "Momentum",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Forças em um Laboratório de Inclinação",
-        "descript": "",
+        "descript": "Observe os fatores que podem afetar o ângulo no qual um objeto começará a se mover quando for colocado em um plano inclinado. O coeficiente de atrito das superfícies, a força do campo gravitacional e a massa do bloco podem ser variados.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=312",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForcesOnInclineLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Geometria",
+            "Jogo",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16110,12 +16199,25 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Frequência do Laboratório de Gap de Energia",
-        "descript": "",
+        "name": "Frequência equivalente ao Gap de Energia",
+        "descript": "Observe a relação entre a lacuna entre dois níveis de energia de um elétron e a frequência da luz que será emitida quando este elétron passar decair deste nível.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=252",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLevelLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Energia",
+            "Gráfico",
+            "Momentum",
+            "Nuclear",
+            "Números",
+            "Ondas",
+            "Oscilações",
+            "Probabilidade",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16151,11 +16253,17 @@
     },
     {
         "name": "Gráfico de Movimento Simples",
-        "descript": "",
+        "descript": "Acompanhe o movimento de um barco a remo à medida que ele se move por um percurso e crie um gráfico dos dados coletados. Ajuste vários parâmentros.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=4",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingBoatMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17476,12 +17584,22 @@
     },
     {
         "name": "Gás ideal",
-        "descript": "Gas ideal, medio termodinamica estatistica",
+        "descript": "Simula a dinâmica de um gás ideal (não interagente) dentro de uma caixa cúbica de aresta L. ",
         "url": "https://simufisica.com/simulacoes/gas-ideal/",
         "thumb": "https://simufisica.com/images/gas-ideal.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Densidade",
+            "Energia",
+            "Estatística",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Números",
+            "Probabilidade",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "SimuFísica"
     },
@@ -17548,12 +17666,18 @@
     },
     {
         "name": "Forças e campos eletrostáticos",
-        "descript": "Força elétrica eletrostatica campo elétrico cargas carga pontual pontuais puntiformes puntiforme eletromagnetismo",
+        "descript": "Mostra as forças e campos eletrostáticos gerados por cargas pontuais. Altera o valor e a posição das cargas e escolha a forma de representar a força e o campo.",
         "url": "https://simufisica.com/simulacoes/forcas-e-campos-eletrostaticos/",
         "thumb": "https://simufisica.com/images/for%C3%A7as-campos-eletrostaticos.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
