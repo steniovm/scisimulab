@@ -672,7 +672,8 @@
         "thumb": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics-420.png",
         "categorys": [
             "Matemática",
-            "Gráfico"
+            "Gráfico",
+            "Números"
         ],
         "author": "Phet"
     },
@@ -7354,7 +7355,7 @@
     },
     {
         "name": "Gráficos cinemáticos: ajuste a aceleração",
-        "descript": "O simulador apresenta os gráficos de posição, velocidade e aceleração com relação ao tempo. Mediante o ajuste do gráfico da aceleração é possível acompanhar as alterações desencadedas nos demais gráficos.",
+        "descript": "Apresenta os gráficos de posição, velocidade e aceleração com relação ao tempo. Ajustando o gráfico da aceleração é possível acompanhar as alterações desencadedas nos demais gráficos.",
         "url": "https://ophysics.com/k5.html",
         "thumb": "https://ophysics.com/images/thumbs/k5thumb.jpeg",
         "categorys": [
@@ -13269,42 +13270,69 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Gráficos de energia - objeto deslizando por uma rampa",
-        "descript": "",
+        "name": "Gráficos de energia - objeto deslizando por uma rampa com atrito",
+        "descript": "Um objeto desliza por uma rampa. Os gráficos mostram a energia mecânica total, potencial gravitacional, cinética e térmica em função do tempo e da posição. Ajuste o atrito.",
         "url": "http://physics.bu.edu/~duffy/HTML5/energy_rampslide.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Gráficos de energia - objeto deslizando por uma rampa (com mola)",
-        "descript": "",
+        "descript": "Um objeto desliza por uma rampa sem atrito, em direção a uma mola. O gráfico mostra a energia potencial gravitacional, cinética e potencial elástica em função do tempo ou da posição.",
         "url": "http://physics.bu.edu/~duffy/HTML5/energy_rampslide_spring.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Gráficos de energia para pousar um foguete",
-        "descript": "",
+        "name": "Gráficos de energia - Pousar um Foguete",
+        "descript": "Simula o movimento de pouso de um foguete. Você pode ver o diagrama de movimento bem como gráficos da energia potencial gravitacional, da energia cinética e da energia mecânica total em função do tempo ou em função da distância percorrida.",
         "url": "http://physics.bu.edu/~duffy/HTML5/energy_graphs_twoa.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Gráficos de barra de energia para um pêndulo",
-        "descript": "",
+        "name": "Gráficos - Energia em um pêndulo",
+        "descript": "Mostra um pêndulo associado a gráficos de barra da energia potencial, cinetica e total, evidenciando a conservação da energia mecânica.",
         "url": "http://physics.bu.edu/~duffy/HTML5/pendulum_energy.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16189,12 +16217,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Gráficos de movimento de estilo livre",
-        "descript": "",
+        "name": "Gráficos de movimento dirigindo livre",
+        "descript": "Simula o movimento de um carro e ilustrado em gráficos de posição versus tempo e velocidade versus tempo. Você é um piloto profissional em um percurso fechado de 1 km. Use seu acelerador e freios para criar diferentes gráficos de movimento. Clique no eixo y do gráfico para alterar o que está sendo representado graficamente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=286",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingOfMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
