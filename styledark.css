@@ -57,10 +57,10 @@ body {
     margin: 2px 10px;
   }
   button:hover {
-    background-color: #eee;
+    background-color: #333;
   }
   button:active {
-    background-color: #fff;
+    background-color: #111;
     box-shadow: none;
   }
   input{
