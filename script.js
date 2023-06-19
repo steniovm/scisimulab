@@ -123,7 +123,6 @@ function darkmodes(){
     stylecss.href = "styledark.css";
   }
   saveCookies();
-  darkmode = !darkmode;
 }
 //botão alterna modo claro e escuro
 darklightbt.addEventListener('click',darkmodes);
