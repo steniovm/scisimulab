@@ -16124,18 +16124,21 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Padre Brown em uma velocidade constante",
-        "descript": "",
+        "name": "Padre Brown em Velocidade Constante",
+        "descript": "Encontrar a relação entre a distância percorrida e o tempo de viagem para o Padre Brown numa bicicleta a uma velocidade constante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=508",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FatherBrownConstantSpeedLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Matemática",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Aceleração Constante Father Brown",
-        "descript": "Encontrar a relação entre a distância percorrida e o tempo de viagem para um senhor numa bicicleta que parte do repouso e acelera a uma taxa constante.",
+        "name": "Padre Brown em Aceleração Constante",
+        "descript": "Encontrar a relação entre a distância percorrida e o tempo de viagem para o Padre Brown numa bicicleta que parte do repouso e acelera a uma taxa constante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=509",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FatherBrownAccelerationLab//images/OverviewPicture.png",
         "categorys": [

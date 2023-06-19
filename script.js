@@ -47,7 +47,7 @@ restoreCookies();
 function restoreCookies(){
   if (document.cookie.indexOf('scisimulab')>=0){
       savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
-      darkmode = savecookie.darkmode;
+      darkmode = !(savecookie.darkmode);
       darkmodes();
       nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
       nimages.value = (nimg>0) ? nimg : nimages.value;
