@@ -334,13 +334,15 @@
         "author": "Phet"
     },
     {
-        "name": "Kit para Montar um Circuito: AC",
+        "name": "Kit para Montar Circuito: AC",
         "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional.",
         "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac",
         "thumb": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac-420.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia"
         ],
         "author": "Phet"
     },
@@ -603,7 +605,8 @@
         "categorys": [
             "Física",
             "Ondas",
-            "Função"
+            "Função",
+            "Gráfico"
         ],
         "author": "Phet"
     },
@@ -807,7 +810,9 @@
         "thumb": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc-420.png",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia"
         ],
         "author": "Phet"
     },
@@ -971,7 +976,9 @@
             "Física",
             "Química",
             "Atômica",
-            "Força"
+            "Força",
+            "Gráfico",
+            "Função"
         ],
         "author": "Phet"
     },
@@ -2231,7 +2238,8 @@
         "categorys": [
             "Matemática",
             "Geometria",
-            "Números"
+            "Números",
+            "Trigonometria"
         ],
         "author": "Walter-Fendt"
     },
@@ -2323,7 +2331,9 @@
         "thumb": "",
         "categorys": [
             "Matemática",
-            "Geometria"
+            "Geometria",
+            "Trigonometria",
+            "Números"
         ],
         "author": "Walter-Fendt"
     },
@@ -5420,7 +5430,10 @@
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mag_magnet.png",
         "categorys": [
             "Física",
-            "Eletromagnetismo"
+            "Eletromagnetismo",
+            "Gráfico",
+            "Geometria",
+            "Vetores"
         ],
         "author": "Vascak"
     },
@@ -14196,22 +14209,32 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Interferência construtiva e destrutiva",
-        "descript": "",
+        "name": "Interferência construtiva e destrutiva de onda",
+        "descript": "Mostra dois pulsos de onda unidimencionais se propagando em sentidos opostos e a sobreposição entre eles.",
         "url": "http://physics.bu.edu/~duffy/HTML5/interference.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Interferência de pulsos",
-        "descript": "",
+        "descript": "Mostra dois pulsos de onda unidimencionais se propagando em sentidos opostos e a sobreposição entre eles. Pode-se escolher varios formatos de onda.",
         "url": "http://physics.bu.edu/~duffy/HTML5/interference_of_pulses.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15324,21 +15347,30 @@
     },
     {
         "name": "Interferência em 2D",
-        "descript": "",
+        "descript": "Demonstra a interferência de ondas de duas fontes idênticas separadas por uma distância variável.",
         "url": "http://physics.bu.edu/~duffy/HTML5/2Dinterference.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Interferência em 2D: explorando a diferença de comprimento de caminho",
-        "descript": "",
+        "descript": "Demonstra a interferência de ondas de duas fontes idênticas separadas por uma distância variável. O gráfico mostra a onda sentida no ponto de referência.",
         "url": "http://physics.bu.edu/~duffy/HTML5/2Dinterference_point.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15391,11 +15423,16 @@
     },
     {
         "name": "Interferência de filme fino (de Logan Scheiner)",
-        "descript": "",
+        "descript": "Explorar a interferência de filme fino. Quando a luz incide em um filme fino, parte da luz é refletida e parte atravessa o filme, refletida na superfície posterior do filme, e emerge de volta. Essas duas ondas interferem uma na outra de forma construtiva, destrutiva mista.",
         "url": "https://loganms.github.io/ThinFilmInterferenceSimulation/",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15507,12 +15544,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Aceleração em Curvas",
-        "descript": "",
+        "name": "Aceleração em Curvas",
+        "descript": "Explore a relação (e a aceleração) entre a velocidade de um carro e a aceleração que o motorista experimenta numa curva.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=515",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AccelerationForRaceCarInTurnLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15574,11 +15616,19 @@
     },
     {
         "name": "Laboratório Bernoulli",
-        "descript": "",
+        "descript": "Observe como a largura de um tubo afeta a velocidade e a pressão do fluido que se move através dele.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=269",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/BernoulliLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Mecânica",
+            "Cinemática",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Função",
+            "Hidrostática"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15689,12 +15739,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Aceleração Circular",
-        "descript": "",
+        "name": "Aceleração Circular",
+        "descript": "Observe a aceleração experimentada pelo motorista de um carro que se move em uma trajetória circular. Varie a velocidade do carro e o raio do círculo em que o carro está se movendo. Observe a conexão entre o raio da curva de um carro, a velocidade do carro e a aceleração experimentada pelo motorista do carro.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=389",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularAcceleration/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15704,7 +15760,13 @@
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=26",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularForceLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15726,12 +15788,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de aprendizado de movimento circular",
-        "descript": "",
+        "name": "Aprendizado de movimento circular",
+        "descript": "Apresenta alguns dos termos básicos do movimento circular como: rpm, frequência, período, frequência angular, velocidade e velocidade angular.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=21",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CircularMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Gráfico",
+            "Jogo",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15761,11 +15828,17 @@
     },
     {
         "name": "Joey saltando do penhasco com previsão",
-        "descript": "",
+        "descript": "Determine a relação entre a altura de um pequeno penhasco e a distância que o Jumping Joey percorrerá horizontalmente antes de atingir o solo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=527",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/JumpingJoeyCliffWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Jogo",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15906,12 +15979,21 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório da Torre de Basculamento",
-        "descript": "",
+        "name": "Torre de Basculamento",
+        "descript": "Explore a queda de objetos com e sem resistência do ar. Ajuste a densidade do ar, o tamanho do objeto, a massa do objeto e o campo gravitacional.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=552",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DumpTowerLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Densidade",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16052,12 +16134,15 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Aceleração Constante Father Brown",
-        "descript": "",
+        "name": "Aceleração Constante Father Brown",
+        "descript": "Encontrar a relação entre a distância percorrida e o tempo de viagem para um senhor numa bicicleta que parte do repouso e acelera a uma taxa constante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=509",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FatherBrownAccelerationLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Matemática",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16455,11 +16540,18 @@
     },
     {
         "name": "Impulso com laboratório de previsão",
-        "descript": "",
+        "descript": "Mude o tempo de disparo de um extintor de incêndio no espaço para ver o impulso dado ao astronauta.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=555",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ImpulseWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16485,11 +16577,20 @@
     },
     {
         "name": "Intensidade",
-        "descript": "",
+        "descript": "Viaje pelo sistema solar para descobrir a quantidade de energia solar e a atração gravitácional disponível em diferentes distâncias e ângulos em relação ao sol.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=69",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/IntensityLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Energia",
+            "Clima",
+            "Força",
+            "Geografia",
+            "Gravitação",
+            "Mecânica",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16589,11 +16690,16 @@
     },
     {
         "name": "Indução magnética",
-        "descript": "",
+        "descript": "Teste as ações que podem induzir uma corrente em uma bobina de fios.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=55",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MagneticFlux/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16921,12 +17027,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de blindagem radioativa",
-        "descript": "",
+        "name": "Blindagem Radioativa",
+        "descript": "Invstigue a quantidade de radiação que é bloqueada por diferentes materiais. Altere o tipo de radiação, o material e a espessura do material de blindagem.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=251",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadioactiveShieldingLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Nuclear",
+            "Quântica",
+            "Radiação"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16966,12 +17076,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de bateria real",
-        "descript": "",
+        "name": "Bateria real",
+        "descript": "Observe a mudança na tensão nos terminais de uma bateria quando muda corrente fornecida pela bateria. Examine como uma bateria real é diferente da bateria ideal que usamos ao resolver problemas simples de física.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=379",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InternalResistanceOfBattery/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Matemática"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17801,13 +17915,20 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Lab. virtual: interferômetro de Michelson",
-        "descript": "Laboratório interferometro superior experimental optica otica",
+        "name": "Interferômetro de Michelson",
+        "descript": "Simula o interferômetro de Michelson comumente encontrado nos laboratórios didáticos de Física. O padrão de interferência é baseado na superposição de feixes gaussianos.",
         "url": "https://simufisica.com/simulacoes/interferometro-michelson/",
         "thumb": "https://simufisica.com/images/interferometro-michelson.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Função",
+            "Geometria",
+            "Ondas",
+            "Oscilações",
+            "Radiação",
+            "Relatividade",
+            "Óptica"
         ],
         "author": "SimuFísica"
     },
@@ -18118,12 +18239,21 @@
     },
     {
         "name": "Interferência quântica",
-        "descript": "Interferencia quantica superior",
+        "descript": "Mostra a evolução da função de onda de uma partícula que está em estado de superposição quântica. O padrão de interferência resultante é análogo ao que é observado no experimento da dupla fenda com elétrons.",
         "url": "https://simufisica.com/simulacoes/interferencia-quantica/",
         "thumb": "https://simufisica.com/images/interferencia-quantica.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Momentum",
+            "Nuclear",
+            "Ondas",
+            "Probabilidade",
+            "Quântica",
+            "Radiação"
         ],
         "author": "SimuFísica"
     },
