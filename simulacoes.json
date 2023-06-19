@@ -526,7 +526,8 @@
         "categorys": [
             "Física",
             "Química",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Phet"
     },
@@ -925,7 +926,14 @@
         "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
         "thumb": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter-420.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Phet"
     },
@@ -936,7 +944,9 @@
         "thumb": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits-420.png",
         "categorys": [
             "Física",
-            "Gravitação"
+            "Gravitação",
+            "Astronomia",
+            "Força"
         ],
         "author": "Phet"
     },
@@ -1050,7 +1060,9 @@
         "thumb": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light-420.png",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Geometria",
+            "Trigonometria"
         ],
         "author": "Phet"
     },
@@ -3846,7 +3858,9 @@
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_faze_kmitaveho_pohybu.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Função",
+            "Gráfico"
         ],
         "author": "Vascak"
     },
@@ -13099,11 +13113,20 @@
     },
     {
         "name": "Gravitron (modelo de passeio de carnaval)",
-        "descript": "",
+        "descript": "Mostra o brinquedo do clássico Passeio de Carnaval (o Gravitron), no qual o passeio gira e você fica preso à parede, girando com o passeio. Em algumas versões, eles até derrubam o chão debaixo de você. Nesta simulação, um bloco gira com um cilindro, mas o cilindro está desacelerando a uma taxa constante. Em algum momento, não há mais força suficiente para manter o bloco erguido, então ele desliza pela parede. tambem mostra o diagrama de corpo livre do bloco.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circular_carnival_ride.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Geometria",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13826,11 +13849,19 @@
     },
     {
         "name": "Há um buraco no meu balde",
-        "descript": "",
+        "descript": "Mostra um balde cheio de água com um orifício na lateral. Alterar a altura do orifício. Combina fluidos com ideias de movimento de projéteis para calcular a distância alcançada. Assumi que o fluido não tem viscosidade e que a velocidade do fluido é totalmente horizontal quando ele emerge do orifício.",
         "url": "http://physics.bu.edu/~duffy/HTML5/holeinmybucket.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Densidade",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13956,7 +13987,8 @@
         "categorys": [
             "Física",
             "Química",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16218,7 +16250,7 @@
     },
     {
         "name": "Gráficos de movimento dirigindo livre",
-        "descript": "Simula o movimento de um carro e ilustrado em gráficos de posição versus tempo e velocidade versus tempo. Você é um piloto profissional em um percurso fechado de 1 km. Use seu acelerador e freios para criar diferentes gráficos de movimento. Clique no eixo y do gráfico para alterar o que está sendo representado graficamente.",
+        "descript": "Simula o movimento de um carro e ilustra em gráficos de posição versus tempo e velocidade versus tempo. Você é um piloto profissional em um percurso fechado de 1 km. Use seu acelerador e freios para criar diferentes gráficos de movimento. Clique no eixo y do gráfico para alterar o que está sendo representado graficamente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=286",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingOfMotionLab/images/OverviewPicture.png",
         "categorys": [
@@ -16302,12 +16334,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Graphing of Motion Lab (Rápido)",
-        "descript": "",
+        "name": "Gráficos de Movimento Lab (Rápido)",
+        "descript": "Simula o movimento de um carro e ilustra em gráficos. Você é um piloto de prova em um percurso linear por 10 segundos. Use seu acelerador e freios para criar diferentes gráficos de movimento. Clique no eixo y do gráfico para alterar o que está sendo representado graficamente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=491",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingOfMotionLabQuick//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17655,7 +17693,7 @@
     },
     {
         "name": "Gravitação",
-        "descript": "Gravitacao, medio superior classica astronomia astrofisica",
+        "descript": "Simula a dinâmica de corpos com base na força da gravidade segundo a teoria newtoniana. Ajuste a massa, a velocidade e a posição de até cinco corpos e veja como eles se interagem gravitacionalmente.",
         "url": "https://simufisica.com/simulacoes/gravitacao/",
         "thumb": "https://simufisica.com/images/gravitacao.png",
         "categorys": [
