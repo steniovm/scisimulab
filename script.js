@@ -122,6 +122,7 @@ function darkmodes(){
   }else{
     stylecss.href = "styledark.css";
   }
+  darkmode = !darkmode;
   saveCookies();
 }
 //botão alterna modo claro e escuro
