@@ -11887,7 +11887,7 @@
     },
     {
         "name": "Mola Simples",
-        "descript": "",
+        "descript": "A simulação traz um corpo preso a uma mola que por sua vez está presa a uma parede. Esse é um exemplo de uma oscilação linear simples.",
         "url": "https://www.myphysicslab.com/springs/single-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_spring1.png",
         "categorys": [
@@ -11901,7 +11901,7 @@
     },
     {
         "name": "Mola Dupla",
-        "descript": "",
+        "descript": "Essa simulação mostra duas molas e dois corpos conectados a uma parede. O gráfico produzido é conhecido como curva de Lissajous e é gerado por senos e cossenos.",
         "url": "https://www.myphysicslab.com/springs/double-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_spring.png",
         "categorys": [
@@ -11915,7 +11915,7 @@
     },
     {
         "name": "Pêndulo",
-        "descript": "",
+        "descript": "Trata-se de uma simulação física de um pêndulo.",
         "url": "https://www.myphysicslab.com/pendulum/pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum1.png",
         "categorys": [
@@ -11929,7 +11929,7 @@
     },
     {
         "name": "Pêndulo com campo de direção",
-        "descript": "",
+        "descript": "Trata-se de uma simulação de um pêndulo mostrando o gráfico de fases e o campo de direções associado à equação diferencial.",
         "url": "https://www.myphysicslab.com/pendulum/direction-field-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-direction-field.png",
         "categorys": [
@@ -11942,8 +11942,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "pêndulo caótico",
-        "descript": "",
+        "name": "Pêndulo caótico",
+        "descript": "Um pêndulo amortecido é um sistema caótico. Em um sistema caótico o comportamento futuro é altamente dependente das condições iniciais do sistema. Qualquer pequena variação nas condições iniciais é capaz de causar comportamentos bastante diversos.",
         "url": "https://www.myphysicslab.com/pendulum/chaotic-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum2.png",
         "categorys": [
@@ -11987,8 +11987,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "pêndulo duplo",
-        "descript": "",
+        "name": "Pêndulo duplo",
+        "descript": "Essa é uma simulação de um pêndulo duplo. Para grandes oscilações é um sistema caótico, mas para pequenas oscilações é um sistema linear.",
         "url": "https://www.myphysicslab.com/pendulum/double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_pendulum.gif",
         "categorys": [
@@ -11996,13 +11996,14 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Mobile"
         ],
         "author": "MyPhysicsLab"
     },
     {
         "name": "Pêndulo duplo móvel",
-        "descript": "",
+        "descript": "Essa é uma simulação física de um sistema de pêndulo duplo na qual o suporte pode ser movido.",
         "url": "https://www.myphysicslab.com/pendulum/moveable-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-double-pendulum.png",
         "categorys": [
@@ -12016,7 +12017,7 @@
     },
     {
         "name": "Pêndulo Vibratório Invertido",
-        "descript": "",
+        "descript": "Essa é uma simulação de um pêndulo no qual o pivô está vibrando rapidamente na direção vertical. Surpreendentemente a posição do pêndulo na posição vertical acima do suporte é estável, dessa forma, o sistema também é conhecido como pêndulo invertido.",
         "url": "https://www.myphysicslab.com/pendulum/inverted-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-pendulum.png",
         "categorys": [
@@ -12030,7 +12031,7 @@
     },
     {
         "name": "Pêndulo Duplo Invertido",
-        "descript": "",
+        "descript": "Essa é uma simulação física da vibração de um pêndulo duplo invertido no qual o suporte vibra rapidamente na direção vertical.",
         "url": "https://www.myphysicslab.com/pendulum/inverted-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Inverted-double-pendulum.png",
         "categorys": [
@@ -12044,7 +12045,7 @@
     },
     {
         "name": "Mola 2D",
-        "descript": "",
+        "descript": "A simulação mostra um corpo preso a uma mola conectada ao teto. A mola pode se mover em duas direções e a gravidade atua sobre ela. O sistema parece randômico? Observe o gráfico e verá que existe um padrão complexo.",
         "url": "https://www.myphysicslab.com/springs/2d-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_spring_2d.png",
         "categorys": [
@@ -12058,7 +12059,7 @@
     },
     {
         "name": "Mola Dupla 2D",
-        "descript": "",
+        "descript": "A simulação mostra dois objetos conectados por molas e suspensos em um ponto de ancoragem. Os objetos tem liberdade para se mover em duas dimensões e estão sujeitos à gravidade.",
         "url": "https://www.myphysicslab.com/springs/double-2d-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_spring_2d.png",
         "categorys": [
@@ -12112,8 +12113,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Vara pendurada ",
-        "descript": "",
+        "name": "Vareta pendurada",
+        "descript": "A simulação mostra uma vareta pendurada com uma massa em sua extremidade e a outra extremidade presa a uma mola. O sistema pode oscilar sujeito à gravidade.",
         "url": "https://www.myphysicslab.com/springs/dangle-stick-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dangle_stick.png",
         "categorys": [
@@ -12211,7 +12212,7 @@
     },
     {
         "name": "Montanha-russa com mola",
-        "descript": "",
+        "descript": "Simulação baseada na física de uma montanha russa na qual o corpo está preso a uma mola.",
         "url": "https://www.myphysicslab.com/roller/roller-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerSpring.gif",
         "categorys": [
@@ -12225,7 +12226,7 @@
     },
     {
         "name": "Montanha russa com duas bolas",
-        "descript": "",
+        "descript": "A simulação mostra 2 bolas conectadas por meio de uma mola deslizando em uma montanha russa.",
         "url": "https://www.myphysicslab.com/roller/roller-double-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerDouble.gif",
         "categorys": [
@@ -12239,7 +12240,7 @@
     },
     {
         "name": "Montanha-russa com voo",
-        "descript": "",
+        "descript": "A simulação mostra uma bola percorrendo os trilhos de uma montanha russa, contudo, a bola não está presa aos trilhos.",
         "url": "https://www.myphysicslab.com/roller/roller-flight-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_RollerFlight.gif",
         "categorys": [
@@ -12252,8 +12253,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Montanha-russa de corpo rígido ",
-        "descript": "",
+        "name": "Montanha-russa de corpo rígido",
+        "descript": "mostra um corpo rígido preso por um eixo rotativo a um caminho curvo. Aplique forças aleatórias no corpo, mude a gravidade e o amortecimento.",
         "url": "https://www.myphysicslab.com/roller/rigid-body-roller-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_body_roller.gif",
         "categorys": [
@@ -13965,7 +13966,10 @@
             "Números",
             "Probabilidade",
             "Termodinâmica",
-            "Termologia"
+            "Termologia",
+            "Função",
+            "Gráfico",
+            "Matemática"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17880,7 +17884,11 @@
         "thumb": "https://simufisica.com/images/pendulo-duplo.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Matemática",
+            "Geometria",
+            "Gráfico",
+            "Função"
         ],
         "author": "SimuFísica"
     },
