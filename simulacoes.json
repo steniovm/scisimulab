@@ -6874,7 +6874,11 @@
             "Ondas",
             "Geometria",
             "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Mobile",
+            "Função",
+            "Radiação",
+            "Relatividade"
         ],
         "author": "LabFis-IFC"
     },
@@ -6902,7 +6906,11 @@
             "Ondas",
             "Geometria",
             "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Mobile",
+            "Função",
+            "Radiação",
+            "Relatividade"
         ],
         "author": "LabFis-IFC"
     },
@@ -12350,8 +12358,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Não faça nada moedor",
-        "descript": "",
+        "name": "Tramela de Arquimedes - Máquina de fazer nada",
+        "descript": "Essa é uma simulação da máquina de não fazer nada de Arquimedes.",
         "url": "https://www.myphysicslab.com/engine2D/do-nothing-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_do_nothing.gif",
         "categorys": [
@@ -12365,7 +12373,7 @@
     },
     {
         "name": "Relógio de pêndulo",
-        "descript": "",
+        "descript": "Essa é uma simulação do mecanismo de um relógio de pêndulo.",
         "url": "https://www.myphysicslab.com/engine2D/pendulum-clock-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pendulum_clock.gif",
         "categorys": [
@@ -12378,8 +12386,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "suspensão do carro",
-        "descript": "",
+        "name": "Suspensão do carro",
+        "descript": "Essa é uma simulação em duas dimensões de uma suspensão automotiva.",
         "url": "https://www.myphysicslab.com/engine2D/car-suspension-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Car-suspension.png",
         "categorys": [
@@ -12393,7 +12401,7 @@
     },
     {
         "name": "Pêndulo duplo com motor de física",
-        "descript": "",
+        "descript": "Simulação de um pêndulo duplo utilizando uma engine física realista.",
         "url": "https://www.myphysicslab.com/engine2D/double-pendulum2-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_double_pendulum2.gif",
         "categorys": [
@@ -12427,8 +12435,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "lua de marte",
-        "descript": "",
+        "name": "Lua de Marte",
+        "descript": "Essa simulação foi sugerida por Kenneth Ramsley na universidade Brown em 2011 baseando-se nas fotos de Phobos, uma das luas de Marte.",
         "url": "https://www.myphysicslab.com/engine2D/mars-moon-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Mars-moon.png",
         "categorys": [
@@ -12442,7 +12450,7 @@
     },
     {
         "name": "Objetos curvos",
-        "descript": "",
+        "descript": "Essa é uma simulação do contato entre objetos circulares em duas dimensões para detectar as forças de interação de contato entre eles.",
         "url": "https://www.myphysicslab.com/engine2D/curved-objects-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_curved_objects.gif",
         "categorys": [
@@ -12456,7 +12464,7 @@
     },
     {
         "name": "Pilha",
-        "descript": "",
+        "descript": "A simulação é uma demonstração de uma pilha de objetos caindo em um apoio em forma de vértice.",
         "url": "https://www.myphysicslab.com/engine2D/pile-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pile.gif",
         "categorys": [
@@ -12470,7 +12478,7 @@
     },
     {
         "name": "Pilha Atrair",
-        "descript": "",
+        "descript": "Essa é uma simulação de vários objetos atraindo-se mutualmente por meio de interação gravitacional.",
         "url": "https://www.myphysicslab.com/engine2D/pile-attract-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_pile_attract.gif",
         "categorys": [
@@ -12519,7 +12527,7 @@
     },
     {
         "name": "Pêndulo Duplo Rígido",
-        "descript": "",
+        "descript": "Essa é uma simulação de dois corpos rígidos unidos formando um pêndulo duplo.",
         "url": "https://www.myphysicslab.com/pendulum/rigid-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_rigid_double_pendulum.gif",
         "categorys": [
@@ -12548,8 +12556,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Molécula 2",
-        "descript": "",
+        "name": "Molécula Dupla",
+        "descript": "Essa simulação mostra dois corpos conectados por uma mola com liberdade para se moverem em duas dimensões.",
         "url": "https://www.myphysicslab.com/springs/molecule2-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule2.gif",
         "categorys": [
@@ -12562,8 +12570,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Molécula 3",
-        "descript": "",
+        "name": "Molécula Tripla",
+        "descript": "Essa é uma simulação de três corpos conectados entre si com liberdade para se mover em duas dimensões.",
         "url": "https://www.myphysicslab.com/springs/molecule3-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule3.gif",
         "categorys": [
@@ -12576,8 +12584,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Molécula 4",
-        "descript": "",
+        "name": "Molécula Quádrupla",
+        "descript": "Essa é uma simulação de quatro corpos conectados entre si com liberdade para se mover em duas dimensões.",
         "url": "https://www.myphysicslab.com/springs/molecule4-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule4.gif",
         "categorys": [
@@ -12590,8 +12598,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Molécula 5",
-        "descript": "",
+        "name": "Molécula Quintupla",
+        "descript": "Essa é uma simulação de cinco corpos conectados entre si com liberdade para se mover em duas dimensões.",
         "url": "https://www.myphysicslab.com/springs/molecule5-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule5.gif",
         "categorys": [
@@ -12604,8 +12612,8 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Molécula 6",
-        "descript": "",
+        "name": "Molécula Sextupla",
+        "descript": "Essa é uma simulação de seis corpos conectados entre si com liberdade para se mover em duas dimensões.",
         "url": "https://www.myphysicslab.com/springs/molecule6-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_molecule6.gif",
         "categorys": [
@@ -12639,7 +12647,7 @@
     },
     {
         "name": "Molas de Colisão",
-        "descript": "",
+        "descript": "A simulação mostra como pequenas molas se comportam durante colisões entre corpos.",
         "url": "https://www.myphysicslab.com/springs/collide-spring-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_collide_spring.gif",
         "categorys": [
@@ -12653,7 +12661,7 @@
     },
     {
         "name": "Pêndulo de força de reação",
-        "descript": "",
+        "descript": "Simulação de um pêndulo com forças de reação juntamente com uma comparação com uma simulação baseada em equações do movimento.",
         "url": "https://www.myphysicslab.com/pendulum/reaction-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_reaction_pendulum.gif",
         "categorys": [
