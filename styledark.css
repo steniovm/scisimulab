@@ -377,3 +377,16 @@ form button{
 .hiddemdiv{
   display: none;
 }
+
+#disqus_thread {
+  background-color: #EFEAE2;
+}
+#thread__container * {
+  color: #666;
+}
+.follow-user {
+  background-color: var(--publisher-color,#2e9fff);
+}
+.embed-refresh .dark .post-votes .vote-down .control {
+  background-color: #000;
+}
