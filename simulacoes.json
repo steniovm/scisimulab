@@ -541,7 +541,11 @@
         "categorys": [
             "Física",
             "Química",
-            "Termodinâmica"
+            "Densidade",
+            "Números",
+            "Energia",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Phet"
     },
@@ -1322,7 +1326,8 @@
         "thumb": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage-420.png",
         "categorys": [
             "Física",
-            "Eletrostática"
+            "Eletrostática",
+            "Jogo"
         ],
         "author": "Phet"
     },
@@ -8288,6 +8293,7 @@
             "Física",
             "Geometria",
             "Gráfico",
+            "Trigonometria",
             "Óptica"
         ],
         "author": "Ophysics"
@@ -8301,6 +8307,7 @@
             "Física",
             "Geometria",
             "Gráfico",
+            "Trigonometria",
             "Óptica"
         ],
         "author": "Ophysics"
@@ -12940,22 +12947,31 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "vetores inteiros",
-        "descript": "",
+        "name": "Vetores inteiros",
+        "descript": "mostra diferentes maneiras de observar os vetores de posição e velocidade para uma bola que experimenta o movimento de um projétil.",
         "url": "http://physics.bu.edu/~duffy/HTML5/whole_vectors.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Gráfico",
+            "Matemática",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "O macaco e o caçador",
-        "descript": "",
+        "name": "O Macaco e o Caçador",
+        "descript": "Simula a clássica situação de um macaco e um caçador. O caçador atira um dardo tranquilizante que deve acertar o macaco, mas este larga o galho da árvore e começa a cair direto. Como a arma deve ser apontada para que o dardo atinja o macaco?",
         "url": "http://physics.bu.edu/~duffy/HTML5/monkey_hunter.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Gráfico",
+            "Matemática",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13080,11 +13096,17 @@
     },
     {
         "name": "Tarefa de classificação - classificação por força líquida",
-        "descript": "",
+        "descript": "Mostra cinco representações diferentes, cada uma correspondendo a um cenário diferente. Classifique com base na magnitude da força resultante, do maior ao menor.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ranking_force.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16451,11 +16473,20 @@
     },
     {
         "name": "Laboratório de Chute de Futebol Solo a Solo",
-        "descript": "",
+        "descript": "Encontre as relações que afetam a distância horizontal percorrida por um projétil (bola de futebol), a altura máxima do projétil e o tempo de voo de um projétil que foi chutado do solo e caiu no chão. Modifique a velocidade inicial, o ângulo em que o projétil é chutado e o campo gravitácional.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=393",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GroundToGroundSoccerKickLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Matemática",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
