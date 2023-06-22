@@ -1134,7 +1134,9 @@
         "thumb": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes-420.png",
         "categorys": [
             "Física",
-            "Química"
+            "Química",
+            "Geografia",
+            "Eletrostática"
         ],
         "author": "Phet"
     },
@@ -2017,6 +2019,7 @@
         "categorys": [
             "Física",
             "Óptica",
+            "Ondas",
             "Gráfico"
         ],
         "author": "Walter-Fendt"
@@ -15684,11 +15687,19 @@
     },
     {
         "name": "Laboratório de Contêineres de Doces",
-        "descript": "",
+        "descript": "Colete dados sobre o número de bombons em um recipiente e a massa correspondente do sistema e use a representação gráfica para encontrar uma equação que pode ser usada para fazer previsões.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=510",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CandyContainerLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Algorítimo",
+            "Aritmética",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Matemática",
+            "Estatística",
+            "Números"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15912,12 +15923,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Curling Momentum",
-        "descript": "",
+        "name": "Momentum em colisões de pedras",
+        "descript": "Investigue a natureza de uma colisão não linear usando pedras onduladas. Veja como as velocidades antes da colisão e a massa das pedras afetam os resultados das colisões.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=374",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CurlingStoneMomentumLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16608,12 +16626,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Corrente Induzida",
-        "descript": "",
+        "name": "Corrente Induzida e barra rolante",
+        "descript": "Teste os fatores que determinam quanta corrente é induzida em um circuito quando a área do circuito é alterada. Ajuste o campo magnético, a separação entre os trilhos e a velocidade da barra",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=276",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InducedCurrentLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16658,21 +16681,19 @@
     },
     {
         "name": "Laboratório de energia cinética",
-        "descript": "",
+        "descript": "Descubram a relação entre o trabalho realizado por uma força e a velocidade adquirida pelo objeto que experimenta a força. Ajustar a intensidade da força, a distância em que a força será aplicada, a massa do objeto a energia máxima adquirida e a velocidade máxima para o objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=394",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
-        ],
-        "author": "ThePhysicSaviary"
-    },
-    {
-        "name": "Laboratório de energia cinética",
-        "descript": "",
-        "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=534",
-        "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyLab//images/OverviewPicture.png",
-        "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16746,12 +16767,21 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Distribuição Maxwell",
-        "descript": "",
+        "name": "Distribuição Maxwell",
+        "descript": "Explore as distribuições de velocidades de partículas em um gás ideal sob diferentes condições.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=235",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MaxwellDistribution/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Estatística",
+            "Gráfico",
+            "Números",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17059,12 +17089,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Detecção de Radiação",
-        "descript": "",
+        "name": "Detecção de Radiação",
+        "descript": "Investigue como a distância de uma fonte radioativa afeta a quantidade de radiação detectada. Altere a fonte de radiação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=249",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RadiationDetectionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Função",
+            "Matemática",
+            "Nuclear",
+            "Quântica",
+            "Radiação"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17192,12 +17228,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Curva de Ressonância",
-        "descript": "",
+        "name": "Curva de Ressonância em circuito RLC",
+        "descript": "Investigue curvas de ressonância para diferentes circuitos RLC. Varie a frequências para ver como a resistência muda a forma da curva de ressonância. Observar o efeito de L e C na localização dessa curva.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=563",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResonanceCurveLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Oscilações",
+            "Ondas"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17252,12 +17296,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de distância rolante",
-        "descript": "",
+        "name": "Distância rolante",
+        "descript": "Descubram a relação entre a distância que um objeto circular percorre em função do ângulo pelo qual ele gira. Estude as relações entre ângulo girado, distância percorrida, velocidade angular e velocidade linear.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=388",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Geometria",
+            "Matemática",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17375,12 +17424,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Distância de Parada do Tênis",
-        "descript": "",
+        "name": "Distância de Parada do Tênis",
+        "descript": "Investige a relação entre a velocidade inicial de um objeto e a distância que ele percorrerá antes de parar.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=514",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SneakerStoppingDistanceLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Jogo",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17625,22 +17678,30 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de como um espelho funciona",
-        "descript": "",
+        "name": "Como um espelho côncavo funciona",
+        "descript": "Investigue a relação entre o raio de curvatura e a localização do ponto focal para espelho côncavos real e ideal.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=74",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WayMirrorLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Matemática",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de como um espelho funciona (Plane Mirror)",
-        "descript": "",
+        "name": "Como um espelho plano funciona",
+        "descript": "Investigue a relação entre o ângulo de uma prancha e um disco de hóquei incidente e refletido, simulando o que acontece em um espelho plano.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=73",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WayMirrorPlaneLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Matemática",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17854,6 +17915,7 @@
         "thumb": "https://simufisica.com/images/consumo-energia-eletrica.png",
         "categorys": [
             "Física",
+            "Baixar",
             "Mobile",
             "Aritmética",
             "Eletrodinâmica",
@@ -17963,6 +18025,7 @@
         "thumb": "https://simufisica.com/images/circuito-rlc.png",
         "categorys": [
             "Física",
+            "Baixar",
             "Mobile",
             "Eletrodinâmica",
             "Eletromagnetismo",
@@ -18073,6 +18136,7 @@
         "thumb": "https://simufisica.com/images/massa-mola.png",
         "categorys": [
             "Física",
+            "Baixar",
             "Mobile",
             "Energia",
             "Força",
@@ -18126,6 +18190,7 @@
         "thumb": "https://simufisica.com/images/motor-eletrico.png",
         "categorys": [
             "Física",
+            "Baixar",
             "Eletrodinâmica",
             "Força",
             "Eletromagnetismo",
@@ -18166,6 +18231,7 @@
         "thumb": "https://simufisica.com/images/pendulo-esferico.png",
         "categorys": [
             "Física",
+            "Baixar",
             "Mobile",
             "Mecânica",
             "Oscilações",
@@ -18466,6 +18532,7 @@
         "url": "https://simufisica.com/simulacoes/propagacao-epidemias/",
         "thumb": "https://simufisica.com/images/propagacao-epidemias.png",
         "categorys": [
+            "Baixar",
             "Biologia",
             "Algorítimo",
             "Estatística",
