@@ -1,0 +1,40 @@
+header,footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+header>div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    width: 100%;
+    flex-direction: column;
+}
+h1,h2{
+    margin: 0;
+}
+#authorphoto{
+    max-height: 9vw;
+}
+main>p{
+    text-indent: 2em;
+}
+figure{
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 440px;
+    margin: auto;
+}
+img{
+    max-width: 440px;
+}
+figcaption{
+    background-color: #33333380;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}

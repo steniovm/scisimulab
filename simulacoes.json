@@ -15700,7 +15700,7 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Contêineres de Doces",
+        "name": "Pesando Doces no laboratório",
         "descript": "Colete dados sobre o número de bombons em um recipiente e a massa correspondente do sistema e use a representação gráfica para encontrar uma equação que pode ser usada para fazer previsões.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=510",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CandyContainerLab//images/OverviewPicture.png",
@@ -16184,12 +16184,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Equações do Movimento",
-        "descript": "",
+        "name": "Equações do Movimento",
+        "descript": "Estabeleça relações entre tempo e distância objetos que se movem com velocidade constante e com aceleração constante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=285",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EquationsOfMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17387,12 +17392,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Escala (Torque e Equilíbrio)",
-        "descript": "",
+        "name": "Torque e Equilíbrio - Balança",
+        "descript": "Construa, calibre e teste uma balança construída com uma régua métrica, dois grampos de suspensão, um grampo de suporte, um suporte de suporte e algumas massas conhecidas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=39",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ScaleLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Geometria",
+            "Matemática",
+            "Mecânica",
+            "Números",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
