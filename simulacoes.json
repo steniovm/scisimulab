@@ -13930,11 +13930,15 @@
     },
     {
         "name": "Termômetro",
-        "descript": "",
+        "descript": "Mostra um termômetro com escala em Kelvin, Celsius e Fahrenheit. Varie a temperatura de 0 K a 600 K e veja passando por diversos fenômenos do universo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/thermometer.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Números",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14043,7 +14047,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "movimento browniano",
+        "name": "Movimento Browniano",
         "descript": "",
         "url": "http://physics.bu.edu/~duffy/HTML5/brownian_motion.html",
         "thumb": "",
@@ -14053,7 +14057,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "lei de resfriamento de newton",
+        "name": "Lei de Resfriamento de Newton",
         "descript": "",
         "url": "http://physics.bu.edu/~duffy/HTML5/Newton_cooling.html",
         "thumb": "",
@@ -14345,12 +14349,13 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "um eletroscópio",
-        "descript": "",
+        "name": "Eletroscópio",
+        "descript": "Veja um eletroscópio descarregado, carregado positivamente e carregado negativamente.",
         "url": "http://physics.bu.edu/~duffy/HTML5/electroscope.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14557,7 +14562,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "lei de ohm",
+        "name": "Lei de Ohm",
         "descript": "",
         "url": "http://physics.bu.edu/~duffy/HTML5/ohm.html",
         "thumb": "",
@@ -14755,7 +14760,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "um ciclotron",
+        "name": "Ciclotron",
         "descript": "",
         "url": "http://physics.bu.edu/~duffy/HTML5/cyclotron.html",
         "thumb": "",
@@ -15353,12 +15358,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "um prisma",
-        "descript": "",
+        "name": "Prisma",
+        "descript": "Demonstra como um prisma funciona para a dispersão da luz. Dispersão ocorre porque o índice de refração varia dependendo do comprimento de onda da luz. Algo estranho parece acontecer quando a dispersão é alta, o ângulo do prisma é grande e o meio ao redor do prisma tem um baixo índice de refração.",
         "url": "http://physics.bu.edu/~duffy/HTML5/prism.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Ondas",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15523,11 +15532,16 @@
     },
     {
         "name": "Simetria",
-        "descript": "",
+        "descript": "Escolha um valor de N, você verá N cópias de um padrão repetido simetricamente ao redor de um círculo. Pausar para ver uma imagem estática.",
         "url": "http://physics.bu.edu/~duffy/HTML5/symmetry.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Algorítimo",
+            "Geometria",
+            "Matemática",
+            "Números",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16017,12 +16031,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de entrega de drones",
-        "descript": "",
+        "name": "Entregas com Drones",
+        "descript": "Encontre as relações que determinam o comportamento de um pacote que foi lançado por um drone que está voando horizontalmente. Controle a altura e a velocidade horizontal do drone, bem como o campo gravitacional, e veja a tragetória que o pacote ira cair.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=342",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DroneDeliveryLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16680,7 +16702,7 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de energia cinética",
+        "name": "Energia Cinética no Espaço",
         "descript": "Descubram a relação entre o trabalho realizado por uma força e a velocidade adquirida pelo objeto que experimenta a força. Ajustar a intensidade da força, a distância em que a força será aplicada, a massa do objeto a energia máxima adquirida e a velocidade máxima para o objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=394",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyLab/images/OverviewPicture.png",
@@ -16698,12 +16720,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de energia cinética com previsões",
-        "descript": "",
+        "name": "Energia Cinética no Espaço com previsões",
+        "descript": "Descubra a relação entre a energia dada a um objeto (astronauta) e a velocidade alcançada por ele.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=535",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/KineticEnergyWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
