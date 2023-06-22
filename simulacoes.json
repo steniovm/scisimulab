@@ -12731,11 +12731,18 @@
     },
     {
         "name": "Mapa de geração de eletricidade dos EUA, por Dan Schroeder",
-        "descript": "Explore o mapa e descubra de onde a eletricidade vem.",
+        "descript": "Explore o mapa e descubra de onde a eletricidade vem e como ela é produzida.",
         "url": "http://physics.weber.edu/schroeder/energy/PowerPlantsMap.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Eletrodinâmica",
+            "Energia",
+            "Estatística",
+            "Geografia",
+            "Gráfico",
+            "Números"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13934,7 +13941,10 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/linear_thermal_expansion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17795,12 +17805,24 @@
     },
     {
         "name": "Lançamento de projéteis",
-        "descript": "Lancamento projeteis projetil obliquo medio cinematica classica",
+        "descript": "Simula o lançamento de projéteis com ajuste de angulação (horizontal ou obliquo até 90º) e de gravidade (Lua, Marte, Terra e Júpter).",
         "url": "https://simufisica.com/simulacoes/lancamento-projeteis/",
         "thumb": "https://simufisica.com/images/lancamento-projeteis.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -17877,12 +17899,21 @@
     },
     {
         "name": "Pêndulos acoplados",
-        "descript": "Pendulo pendulos acoplados acoplado sistemas dinamicos dinâmicos",
+        "descript": "Simula a dinâmica de pêndulos acoplados por uma haste com ajuste de varios parâmetros.",
         "url": "https://simufisica.com/simulacoes/pendulos-acoplados/",
         "thumb": "https://simufisica.com/images/pendulos-acoplados.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -17905,12 +17936,23 @@
     },
     {
         "name": "Propagação da função de onda",
-        "descript": "Propagacao funcao mecânica quântica moderna pacote",
+        "descript": "Simula a propagação da função de onda de uma partícula por potenciais como: Potencial degrau, Barreira de potencial, Poço de potencial e Oscilador harmônico.",
         "url": "https://simufisica.com/simulacoes/propagacao-funcao-de-onda/",
         "thumb": "https://simufisica.com/images/propagacao-funcao-de-onda.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Atômica",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Momentum",
+            "Ondas",
+            "Oscilações",
+            "Probabilidade",
+            "Quântica",
+            "Radiação"
         ],
         "author": "SimuFísica"
     },
@@ -17937,12 +17979,20 @@
     },
     {
         "name": "Laboratório virtual: queda livre",
-        "descript": "Laboratorio virtual, superior experimental cinematica",
+        "descript": "Simula o experimento da queda livre encontrado nos laboratórios didáticos de física com medida de tempo e velocidade, inclusive com erros aleatórios e sistemáticos.",
         "url": "https://simufisica.com/simulacoes/queda-livre/",
         "thumb": "https://simufisica.com/images/queda-livre.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Gravitação",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -17999,40 +18049,60 @@
     },
     {
         "name": "Laboratório virtual: pêndulo simples",
-        "descript": "Laboratorio pendulo simples, superior experimental oscilacoes classica",
+        "descript": "Simula o experimento do pêndulo simples encontrado nos laboratórios didáticos de Física com medida de tempo e velocidade, inclusive com erros aleatórios e sistemáticos.",
         "url": "https://simufisica.com/simulacoes/pendulo-simples/",
         "thumb": "https://simufisica.com/images/pendulo.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Sistema massa-mola",
-        "descript": "Medio superior classica oscilacoes ",
+        "descript": "Simula um sistema massa-mola com diversas opções de parâmetros, como com ou sem amortecimento, e diversas opções de gráficos.",
         "url": "https://simufisica.com/simulacoes/massa-mola/",
         "thumb": "https://simufisica.com/images/massa-mola.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Reflexão, refração e dispersão",
-        "descript": "Medio superior optica geometrica luz reflexao refracao dispersao",
+        "descript": "Apresenta os fenômenos da reflexão, da refração e da dispersão da luz ao incidir um feixe na interface entre dois meios com medidas dos ângulos envolvidos.",
         "url": "https://simufisica.com/simulacoes/reflexao-refracao-dispersao/",
         "thumb": "https://simufisica.com/images/reflexao.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Ondas",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Pêndulo duplo",
-        "descript": "Pendulo superior oscilacoes classica",
+        "descript": "Simula um pêndulo duplo sem amortecimento desenhando a trajetória e indicando sua imprevisibilidade.",
         "url": "https://simufisica.com/simulacoes/pendulo-duplo/",
         "thumb": "https://simufisica.com/images/pendulo-duplo.png",
         "categorys": [
@@ -18041,13 +18111,17 @@
             "Matemática",
             "Geometria",
             "Gráfico",
-            "Função"
+            "Função",
+            "Baixar",
+            "Mecânica",
+            "Probabilidade",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Motor elétrico",
-        "descript": "Motor eletrico dc ac superior eletromagnetismo magnetismo eletrica",
+        "descript": "Simula o funcionamento de um motor elétrico de corrente contínua (DC) de uma espira.",
         "url": "https://simufisica.com/simulacoes/motor-eletrico/",
         "thumb": "https://simufisica.com/images/motor-eletrico.png",
         "categorys": [
@@ -18056,8 +18130,9 @@
             "Força",
             "Eletromagnetismo",
             "Energia",
-            "Jogo",
-            "Mobile"
+            "Mobile",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -18086,12 +18161,16 @@
     },
     {
         "name": "Pêndulo esférico",
-        "descript": "Esferico, superior classica oscilacoes",
+        "descript": "Simula o movimento de um pêndulo em três dimensões, também conhecido como pêndulo esférico, sem amortecimento.",
         "url": "https://simufisica.com/simulacoes/pendulo-esferico/",
         "thumb": "https://simufisica.com/images/pendulo-esferico.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Mecânica",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
@@ -18118,12 +18197,23 @@
     },
     {
         "name": "Orbitais do hidrogênio",
-        "descript": "Hidrogenio superior quântica química",
+        "descript": "Mostra o gráfico da função densidade de probabilidade dos orbitais do hidrogênio para varias situações de exitação.",
         "url": "https://simufisica.com/simulacoes/orbitais-hidrogenio/",
         "thumb": "https://simufisica.com/images/orbitais-hidrogenio.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Atômica",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Nuclear",
+            "Números",
+            "Probabilidade",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Óptica"
         ],
         "author": "SimuFísica"
     },
@@ -18148,12 +18238,22 @@
     },
     {
         "name": "Transições atômicas com pulsos de luz",
-        "descript": "Transicoes pulso superior quantica optica otica estatistica",
+        "descript": "Mostra um conjunto de átomos sendo estimulados por um pulso de luz laser representado por uma função gaussiana. A dinâmica das transições atômicas é simulada a partir da solução da equação de Liouville-von Neumann para um sistema de dois níveis.",
         "url": "https://simufisica.com/simulacoes/transicoes-pulsos-luz/",
         "thumb": "https://simufisica.com/images/transicoes-pulsos-luz.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Momentum",
+            "Ondas",
+            "Probabilidade",
+            "Quântica",
+            "Radiação",
+            "Óptica"
         ],
         "author": "SimuFísica"
     },
@@ -18200,23 +18300,37 @@
     },
     {
         "name": "Ondas",
-        "descript": "Medio ondulatoria",
+        "descript": "Simula a propagação de uma onda senoidal com ajuste de frequência, Amplitude, Comprimento de onda, Fase e escala do gráfico. ",
         "url": "https://simufisica.com/simulacoes/ondas/",
         "thumb": "https://simufisica.com/images/ondas.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Ondas em uma cavidade",
-        "descript": "Superior ondulatoria optica otica",
+        "descript": "Ilustra a superposição de vários modos dentro de uma cavidade, como a de um laser ou cordas vibrantes. A animação é feita a partir da soma de vários modos estacionários.",
         "url": "https://simufisica.com/simulacoes/ondas-cavidade/",
         "thumb": "https://simufisica.com/images/ondas-cavidade.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Geometria",
+            "Ondas",
+            "Radiação",
+            "Trigonometria",
+            "Óptica",
+            "Acústica",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "SimuFísica"
     },
@@ -18238,23 +18352,35 @@
     },
     {
         "name": "Potencial elétrico de cargas pontuais",
-        "descript": "Eletrico medio eletrica",
+        "descript": "Apresenta o potencial elétrico gerado por cargas elétricas puntiformes.",
         "url": "https://simufisica.com/simulacoes/potencial-eletrico/",
         "thumb": "https://simufisica.com/images/potencial-eletrico.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Eletrostática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "SimuFísica"
     },
     {
         "name": "Ressonância em sistemas atômicos",
-        "descript": "Ressonancia atomicos superior bloch optica otica",
+        "descript": "apresenta a solução das equações de Bloch ópticas no regime estacionário. Ressonancia atomicos superior bloch optica otica",
         "url": "https://simufisica.com/simulacoes/ressonancia-sistema-dois-niveis/",
         "thumb": "https://simufisica.com/images/sistema-dois-niveis.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Atômica",
+            "Gráfico",
+            "Matemática",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "SimuFísica"
     },
@@ -18265,7 +18391,14 @@
         "thumb": "https://simufisica.com/images/ressonancias-sistema-tres-niveis.png",
         "categorys": [
             "Física",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Atômica",
+            "Gráfico",
+            "Matemática",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "SimuFísica"
     },
@@ -18309,7 +18442,7 @@
     },
     {
         "name": "Movimento retrógrado dos planetas",
-        "descript": "Órbitas retrogrado planetárias astronomia epiciclos história heliocêntrico geocêntrico",
+        "descript": "Simula as órbitas dos planetas exemplificando o movimento retrógrado aparente. É possível escolher entre o modelo heliocêntrico (com epiciclos) e geocêntrico de Ptolomeu.",
         "url": "https://simufisica.com/simulacoes/modelo-heliocentrico-geocentrico/",
         "thumb": "https://simufisica.com/images/movimento-retrogrado.png",
         "categorys": [
@@ -18329,7 +18462,7 @@
     },
     {
         "name": "Propagação de epidemias",
-        "descript": "Propagacao pandemia covid-19 coronavírus coronavirus ",
+        "descript": "Simula a dinâmica de propagação de epidemias e pandemias (como da covid-19) a partir de um modelo de partículas interagentes. As pessoas são representadas por bolinhas que interagem entre si, podendo transmitir doenças ao entrar em contato outra.",
         "url": "https://simufisica.com/simulacoes/propagacao-epidemias/",
         "thumb": "https://simufisica.com/images/propagacao-epidemias.png",
         "categorys": [
