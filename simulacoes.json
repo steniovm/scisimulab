@@ -13414,7 +13414,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "interações gravitacionais",
+        "name": "Interações Gravitacionais",
         "descript": "Mova as partículas e altere suas massas. Essas partículas interagem por meio da gravidade, então você pode ver a força gravitacional líquida em cada uma, bem como as forças gravitacionais individuais.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction.html",
         "thumb": "",
@@ -15917,8 +15917,8 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Espelhos Convergentes",
-        "descript": "",
+        "name": "Espelhos Convergentes",
+        "descript": "Encontre rapidamente as propriedades de uma imagem criada por um espelho convergente. Ajuste a posição e tamanho do objeto e a curvatura do espelho.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=387",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ConvergingMirrorLab/images/OverviewPicture.png",
         "categorys": [
@@ -16134,12 +16134,21 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de espectros de emissão",
-        "descript": "",
+        "name": "Espectros de emissão",
+        "descript": "Observem os espectros de luz criados por diferentes elementos. Ajuste a grade ou rede de difração.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=246",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EmissionSpectra/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Nuclear",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
