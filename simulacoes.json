@@ -13126,8 +13126,8 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Uma bola em uma corda",
-        "descript": "",
+        "name": "Pêndulo Cônico - Uma bola em uma corda",
+        "descript": "A simulação mostra o movimento de uma bola presa a uma corda. A bola descreve um movimento circular em um plano horizontal.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ball_on_string.html",
         "thumb": "",
         "categorys": [
@@ -13137,7 +13137,7 @@
     },
     {
         "name": "Um disco em uma plataforma giratória",
-        "descript": "",
+        "descript": "Essa é uma simulação de um disco em uma vitrola (ou toca-discos). O disco começa seu movimento de giro a partir do repouso e possui uma aceleração angular. Um objeto colocado sobre o disco acompanha o movimento circular por alguns instantes, mas depois acaba escapando. As forças sobre o objeto podem ser acompanhadas por meio de gráficos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circular_disk_turntable.html",
         "thumb": "",
         "categorys": [
@@ -13184,7 +13184,7 @@
     },
     {
         "name": "Momento e Impulso",
-        "descript": "",
+        "descript": "A simulação mostra por meio de um gráfico o efeito sobre a quantidade de movimento da aplicação de uma força de valor que pode ser ajustado.",
         "url": "http://physics.bu.edu/~duffy/HTML5/impulse.html",
         "thumb": "",
         "categorys": [
@@ -13228,7 +13228,7 @@
     },
     {
         "name": "Quebra-cabeça - colisão 1-D com gráficos de barras interativos",
-        "descript": "",
+        "descript": "A simulação interativa permite que a quantidade de movimento dos veículos e do sistema seja marcada por meio de barras e depois é possível verificar se a marcação foi feita de forma correta.",
         "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D_bargraphs_interactive.html",
         "thumb": "",
         "categorys": [
@@ -13255,7 +13255,7 @@
     },
     {
         "name": "Movimento do centro de massa",
-        "descript": "",
+        "descript": "Essa simulação demonstra o poder do conceito de centro de massa. Alguns pontos do objeto descrevem movimentos complexos porém o centro de massa do objeto descreve uma parábola relativamente simples.",
         "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_motion.html",
         "thumb": "",
         "categorys": [
@@ -13265,7 +13265,7 @@
     },
     {
         "name": "Movimento sem força externa líquida",
-        "descript": "",
+        "descript": "A simulação mostra uma pessoa, representada pela barra na cor preta sobre um barco, representado na cor vermelha. A pessoa se move para direita. Quanto o barco anda com o movimento da pessoa?",
         "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_noforce.html",
         "thumb": "",
         "categorys": [
@@ -13395,7 +13395,7 @@
     },
     {
         "name": "Um pêndulo balístico",
-        "descript": "",
+        "descript": "Um pêndulo balístico é um dispositivo que pode ser usado em investigações policiais para determinar a velocidade de um projétil. A bala atinge um corpo preso a uma corda e fica presa nesse corpo, fazendo com que ele oscile até uma altura máxima, que pode ser utilizada para determinar a velocidade do projétil.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ballistic_pendulum.html",
         "thumb": "",
         "categorys": [
@@ -13514,7 +13514,7 @@
     },
     {
         "name": "O sistema solar interior",
-        "descript": "",
+        "descript": "A simulação mostra os quatro planetas interiores do sistema solar enquanto orbitam o Sol.",
         "url": "http://physics.bu.edu/~duffy/HTML5/inner_solar_system_new.html",
         "thumb": "",
         "categorys": [
@@ -13524,7 +13524,7 @@
     },
     {
         "name": "Planeta mais próximo da Terra (em média)",
-        "descript": "",
+        "descript": "A simulação mostra os quatro planetas interiores do sistema solar orbitando o Sol. Além disso, mostra as distâncias desses planetas à Terra.",
         "url": "http://physics.bu.edu/~duffy/HTML5/solar_system_average_distance.html",
         "thumb": "",
         "categorys": [
@@ -13568,7 +13568,7 @@
     },
     {
         "name": "Rotação de uma porta giratória",
-        "descript": "",
+        "descript": "A simulação demonstra por meio da indicação dos valores da força aplicada e da posição de aplicação o torque e a velocidade angular resultante.",
         "url": "http://physics.bu.edu/~duffy/HTML5/revolving_door.html",
         "thumb": "",
         "categorys": [
@@ -13628,7 +13628,7 @@
     },
     {
         "name": "Um bloco e uma polia",
-        "descript": "",
+        "descript": "A simulação demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia.",
         "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley.html",
         "thumb": "",
         "categorys": [
@@ -13638,7 +13638,7 @@
     },
     {
         "name": "Um bloco e uma polia, com gráficos de barra de energia",
-        "descript": "",
+        "descript": "A simulação demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia, além disso, por meio de gráficos, é possível acompanhar a energia dos dois corpos ao longo do movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley_energy.html",
         "thumb": "",
         "categorys": [
@@ -13679,7 +13679,7 @@
     },
     {
         "name": "Rolando - quatro exibições",
-        "descript": "",
+        "descript": "A simualação foca no movimento de rolamento sem deslizamento que é o movimento típico de pneus de carros e bicicletas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/rolling.html",
         "thumb": "",
         "categorys": [
@@ -13703,7 +13703,7 @@
     },
     {
         "name": "Rolando - o problema da bola de boliche",
-        "descript": "",
+        "descript": "Você já percebeu que muitas vezes ao arremessar uma bola de boliche, primeiro ela desliza e só depois começa a rolar? Essa simulação mostra as grandezas físicas envolvidas nesse movimento e ajuda a elaborar uma explicação para esse fenômeno.",
         "url": "http://physics.bu.edu/~duffy/HTML5/bowling_ball.html",
         "thumb": "",
         "categorys": [
@@ -13713,7 +13713,7 @@
     },
     {
         "name": "Pulando em um carrossel",
-        "descript": "",
+        "descript": "A simulação mostra um carrossel visto de cima e uma garota chamada Sarah que salta sobre o carrossel e consequentemente gira juntamente com ele.",
         "url": "http://physics.bu.edu/~duffy/HTML5/jumping_on_merrygoround.html",
         "thumb": "",
         "categorys": [
@@ -13723,7 +13723,7 @@
     },
     {
         "name": "Um cilindro de aceleração",
-        "descript": "",
+        "descript": "A simulação mostra um cilindro de raio R que acelera para a direita em decorrência da aplicação de uma força, em roxo, sobre ele.",
         "url": "http://physics.bu.edu/~duffy/HTML5/accelerating_cylinder.html",
         "thumb": "",
         "categorys": [
