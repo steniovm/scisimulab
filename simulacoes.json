@@ -15553,11 +15553,19 @@
     },
     {
         "name": "Meia-vida",
-        "descript": "",
+        "descript": "Simula o decaimento radioativo de 400 núcleos atômicos. Escolha entre três meias-vidas diferentes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/halflife.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16309,12 +16317,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de movimento vertical de fogos de artifício",
-        "descript": "",
+        "name": "Ensaio de Fogos de Artifício - Movimento vertical",
+        "descript": "Permite testar como a velocidade de lançamento e o tempo de voo afetam a altura de uma explosão e a velocidade no momento da explosão. Controle a velocidade de lançamento e o tempo de pavio que determinará quando o fogo de artifício explodirá.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=351",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FireworkVerticalMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16656,22 +16669,35 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de oscilações guiadas",
-        "descript": "",
+        "name": "Laboratório de Oscilações - Montagem",
+        "descript": "Desenvolva e use um sistema para relacionar a taxa de oscilações de uma mola à massa do objeto pendurado.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=60",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OscillationGuidedLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "laboratório de meia-vida",
-        "descript": "",
+        "name": "Meia-vida de elemento radioativo",
+        "descript": "Investigue a diminuição da radioatividade ao longo do tempo de uma amostra radioativa.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=250",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Half-LifeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Energia",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17095,11 +17121,18 @@
     },
     {
         "name": "Laboratório de Oscilações",
-        "descript": "",
+        "descript": "Investigue as relações ente a frequência de oscilação de uma massa em uma mola. Altere a massa, a constante elástica, a amplitude de oscilação e a aceleração da gravidade.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=59",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OscillationLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
