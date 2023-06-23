@@ -1854,7 +1854,10 @@
             "Eletromagnetismo",
             "Energia",
             "Jogo",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Walter-Fendt"
     },
@@ -5681,7 +5684,8 @@
             "Física",
             "Óptica",
             "Geometria",
-            "Trigonometria"
+            "Trigonometria",
+            "Ondas"
         ],
         "author": "Vascak"
     },
@@ -11212,7 +11216,10 @@
             "Força",
             "Eletromagnetismo",
             "Energia",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -12028,7 +12035,11 @@
             "Geometria",
             "Gráfico",
             "Função",
-            "Mobile"
+            "Mobile",
+            "Baixar",
+            "Mecânica",
+            "Probabilidade",
+            "Vetores"
         ],
         "author": "MyPhysicsLab"
     },
@@ -13782,7 +13793,7 @@
     },
     {
         "name": "Uma bola em uma mola",
-        "descript": "",
+        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua posição registrada em um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_graphs.html",
         "thumb": "",
         "categorys": [
@@ -13792,7 +13803,7 @@
     },
     {
         "name": "Uma bola em uma mola - gráficos de energia",
-        "descript": "",
+        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua energia registrada em um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_energy.html",
         "thumb": "",
         "categorys": [
@@ -13802,7 +13813,7 @@
     },
     {
         "name": "Uma bola em uma mola - com amortecimento (atrito)",
-        "descript": "",
+        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola sujeita à força de atrito enquanto oscila. É possível acompanhar a amplitude de oscilação por meio de um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_damped.html",
         "thumb": "",
         "categorys": [
@@ -13812,7 +13823,7 @@
     },
     {
         "name": "Uma onda de primavera (semelhante à onda de pêndulo)",
-        "descript": "",
+        "descript": "A simulação demonstra o resultado de massas presas a molas individuais oscilando com fases ligeiramente diferentes. O resultado é a formação de padrões aleatórios surpreendentes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/spring_wave.html",
         "thumb": "",
         "categorys": [
@@ -13822,21 +13833,35 @@
     },
     {
         "name": "Um pêndulo simples",
-        "descript": "",
+        "descript": "Demonstra a oscilação de um pêndulo, um gráfico registrando o ângulo de oscilação pelo tempo. Pode-se alterar o comprimento do pêndulo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/pendulum.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações",
+            "Trigonometria"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Um pêndulo simples, com amortecimento",
-        "descript": "",
+        "descript": "Demonstra a oscilação de um pêndulo com amortecimento, um gráfico registrando o ângulo de oscilação pelo tempo. Pode-se alterar varios parâmetros.",
         "url": "http://physics.bu.edu/~duffy/HTML5/simple_pendulum_damped.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações",
+            "Trigonometria",
+            "Função",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13858,7 +13883,7 @@
     },
     {
         "name": "Peso aparente (e a força de empuxo)",
-        "descript": "",
+        "descript": "A simulação ilustra o conceito de peso aparente e como ele pode estar relacionado ao empuxo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/fluid_apparent_weight.html",
         "thumb": "",
         "categorys": [
@@ -13868,7 +13893,7 @@
     },
     {
         "name": "Pressão em um fluido estático",
-        "descript": "",
+        "descript": "A simulação traz quatro sensores de pressão. O primeiro no ar, o segundo em um recipiente com água, o terceiro num recipiente com mercúrio e o quarto em um recipiente com líquido desconhecido. O cursor controla a posição dos sensores de pressão no interior desses fluidos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/pressure.html",
         "thumb": "",
         "categorys": [
@@ -13973,7 +13998,7 @@
     },
     {
         "name": "Misture gelo e água",
-        "descript": "",
+        "descript": "A simulação mostra o resultado de se misturar gelo e água, mostrando a situação que ocorrerá quando o sistema atingir o equilíbrio térmico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ice_and_water.html",
         "thumb": "",
         "categorys": [
@@ -14024,8 +14049,8 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Uma versão circular da simulação anterior",
-        "descript": "",
+        "name": "Gás ideal confinado em um reservatório esférico",
+        "descript": "A simulação tenta recriar o comportamento de uma porção de gás ideal confinada em um reservatório esférico. É possível alterar aguns parâmetros, como, por exemplo, o número de átomos e o tamanho deles.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph_circle.html",
         "thumb": "",
         "categorys": [
@@ -14048,7 +14073,7 @@
     },
     {
         "name": "Movimento Browniano",
-        "descript": "",
+        "descript": "Essa é uma simulação do movimento de uma partícula sujeita ao movimento Browniano, que foi nomeado por Robert Brown e explicado mais detalhadamente por Einstein.",
         "url": "http://physics.bu.edu/~duffy/HTML5/brownian_motion.html",
         "thumb": "",
         "categorys": [
@@ -14058,7 +14083,7 @@
     },
     {
         "name": "Lei de Resfriamento de Newton",
-        "descript": "",
+        "descript": "A simulação ilustra o a lei de Newton para o resfriamento numa situação em que uma placa de metal é colocada em água até que o sistema atinja o equilíbrio térmico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Newton_cooling.html",
         "thumb": "",
         "categorys": [
@@ -14085,7 +14110,7 @@
     },
     {
         "name": "Processos isotérmicos, isobáricos e isocóricos",
-        "descript": "",
+        "descript": "Nessa simulação é possível investigar as transformações isobáricas (pressão constante), isocóricas (volume constante) e isotérmicas (temperatura constante).",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_heattransfer.html",
         "thumb": "",
         "categorys": [
@@ -14129,7 +14154,7 @@
     },
     {
         "name": "Um exemplo de ciclo termodinâmico",
-        "descript": "",
+        "descript": "Essa animação retrata um ciclo termodinâmico específico para um gás ideal.",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_cycle.html",
         "thumb": "",
         "categorys": [
@@ -14138,8 +14163,8 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Por que um processo adiabático muda de temperatura",
-        "descript": "",
+        "name": "Porque um processo adiabático muda de temperatura?",
+        "descript": "A simulação demonstra um processo adiabático observando um único átomo em um cilindro e com isso tenta responder à pergunta feita.",
         "url": "http://physics.bu.edu/~duffy/HTML5/adiabatic_mechanism.html",
         "thumb": "",
         "categorys": [
@@ -14177,7 +14202,7 @@
     },
     {
         "name": "Uma onda transversal",
-        "descript": "",
+        "descript": "A animação demonstra a oscilação de uma onda transversal e por meio de um gráfico mostra como varia a amplitude dessa onda a cada instante de tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/wave.html",
         "thumb": "",
         "categorys": [
@@ -14563,11 +14588,14 @@
     },
     {
         "name": "Lei de Ohm",
-        "descript": "",
+        "descript": "Preve como muda a corrente quando a resistência e/ou tensão do circuito, ou resistor, é alterada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ohm.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Função",
+            "Matemática"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14930,7 +14958,8 @@
             "Matemática",
             "Oscilações",
             "Trigonometria",
-            "Vetores"
+            "Vetores",
+            "Baixar"
         ],
         "author": "Physics.bu.edu"
     },
@@ -18247,7 +18276,8 @@
             "Energia",
             "Mobile",
             "Trigonometria",
-            "Vetores"
+            "Vetores",
+            "Jogo"
         ],
         "author": "SimuFísica"
     },
