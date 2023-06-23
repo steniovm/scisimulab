@@ -17805,22 +17805,33 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Esteira",
-        "descript": "",
+        "name": "Correndo na Esteira",
+        "descript": "Defina a massa e a velocidade de uma pessoa na esteira. Altere a velocidade quando a pessoa estiver correndo. Alterne entre unidades métrica e imperial. Você visualiza a tela da esteira. Obtenha dados sobre tempo, distância e calorias queimadas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=487",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TreadmillPaceLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Energia",
+            "Números",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Exploração Triangular",
-        "descript": "",
+        "name": "O Triângulo Retângulo - Teorema de Pitágoras",
+        "descript": "Observe as relações que existem em um triângulo retângulo, como o Teorema de Pitágoras. Altere o cateto x, o cateto y ou a hipotenusa do triângulo e veja os outros dois sendo alterados. Observe tanto em coordenadas retângulares quanto polares.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=391",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TriangleExplorationLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Aritmética",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Números",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17869,12 +17880,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Exploração Vetorial com Previsões",
-        "descript": "",
+        "name": "Exploração Vetorial com Previsões",
+        "descript": "Observará a relaxão entre a magnitude de um vetor de velocidade e os componentes x e y desse vetor. Você poderá alterar a magnitude do vetor e estará medindo os componentes x e y para cada uma das diferentes magnitudes.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=611",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/VectorLabWithPredictions//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Jogo",
+            "Geometria",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
