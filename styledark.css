@@ -168,7 +168,7 @@ body {
   /* Estilos da seção "Sobre o SciSimuLab" */
   #about {
     background-color: #48524f;
-    padding: 40px;
+    padding: 1%;
     text-align: center;
   }
   #about>h2 {
