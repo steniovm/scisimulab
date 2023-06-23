@@ -505,7 +505,9 @@
         "categorys": [
             "Física",
             "Gravitação",
-            "Força"
+            "Força",
+            "Função",
+            "Vetores"
         ],
         "author": "Phet"
     },
@@ -8112,7 +8114,7 @@
         "author": "Ophysics"
     },
     {
-        "name": "Laboratório de Grade de Difração Laser",
+        "name": "Laser em Grade de Difração",
         "descript": "Um típico laboratório de difração de laser configurado. Examine a configuração na janela 3D que mostra um laser, uma grade de difração e uma tela. ",
         "url": "https://ophysics.com/l5b.html",
         "thumb": "https://ophysics.com/images/thumbs/l5bthumb.jpeg",
@@ -15709,22 +15711,39 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Flutuabilidade",
-        "descript": "",
+        "name": "Flutuabilidade",
+        "descript": "Determine os fatores e a relação da força de empuxo em um objeto. Altere a massa da garrafa, o volume da garrafa, o tipo de fluido e o planeta.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=15",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceBuoyancy/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Densidade",
+            "Clima",
+            "Força",
+            "Gravitação",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Química",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de flutuabilidade de doces",
-        "descript": "",
+        "name": "Flutuabilidade de Doces",
+        "descript": "Procure a relação entre o volume submerso e a massa do doce em um recipiente. Determine os fatores e a relação da força de empuxo em um objeto.    ",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=531",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CandyBuoyancyLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Mecânica",
+            "Química",
+            "Vetores",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15901,12 +15920,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Força Circular Clássica com Previsões",
-        "descript": "",
+        "name": "Força Centripeta Clássica com Previsões",
+        "descript": "Modele a relação entre o número de arruelas de massa igual e a velocidade necessária para manter o objeto em movimento circular. O raio e a massa da rolha são fixos e cada arruela tem a mesma massa.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=560",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ClassicCircularForceWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15956,12 +15980,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Leis de Coulomb",
-        "descript": "",
+        "name": "Leis de Coulomb",
+        "descript": "Investigue os fatores que afetam a força entre duas esferas carregadas. Observe o ângulo para o qual uma esfera é movida quando estiver nas proximidades de outra. Alterar o valor e a distância entre as cargas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=44",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CoulombsLawLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrostática",
+            "Força",
+            "Função",
+            "Geometria",
+            "Matemática",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16006,12 +16038,21 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de inclinação para baixo do disco",
-        "descript": "",
+        "name": "Momento de Inércia - Plano Inclinado com Rolamento",
+        "descript": "Investigue o efeito do ângulo, massa e raios no rolamento puro de um disco em uma inclinação e veja como o momento de inércia afeta o movimento rolante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=392",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DiskDownIncline/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Gravitação",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16120,12 +16161,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Força Elástica",
-        "descript": "",
+        "name": "Força Elástica",
+        "descript": "Teste a relação entre a força aplicada a uma mola e o comprimento da mola. Escolha entre 7 molas diferentes.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=14",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceElastic/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16407,12 +16453,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de garrafa de água de gravidade forçada",
-        "descript": "",
+        "name": "Peso versus Massa - Determinação da Gravidade",
+        "descript": "Encontrar a relação entre a massa da garrafa de água e a gravidade no planeta. Mude a quantidade de água na garrafa e veja como a força da gravidade muda. Essa virtualização não ocorre na Terra.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=512",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityWaterBottleLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Força",
+            "Função",
+            "Geografia",
+            "Mecânica",
+            "Gravitação"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16493,12 +16545,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de fricção",
-        "descript": "",
+        "name": "Atrito (fricção)",
+        "descript": "Investigue a diferença entre atrito estático e atrito deslizante. Mude a massa do objeto que está sendo puxado em diferentes superfícies e veja o gráfico de força fricção (atrito) versus normal.Use a inclinação desse gráfico para determinar o coeficiente de atrito de sua superfície.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=13",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceFriction/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16508,17 +16565,32 @@
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=610",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceFrictionPrediction//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Gás na Caixa",
-        "descript": "",
+        "name": "Gás Confinado em Caixa",
+        "descript": "Procure as variáveis ​​de estado de um gás em um recipiente. Varie a Pressão, temperatura e volume. Defina se as paredes do recipiente serão condutoras ou isoladas. Escolha o gás entre qualquer um dos gases nobres.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=232",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GasInBox/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Densidade",
+            "Energia",
+            "Força",
+            "Função",
+            "Química",
+            "Termodinâmica",
+            "Termologia",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16644,22 +16716,34 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "laboratório de impulso",
-        "descript": "",
+        "name": "Impulso no espaço",
+        "descript": "Encontre as relações entre impulso e mudança no momento. Use o extintor de incêndio para dar impulsos ao astronauta Wally e encontre a velocidade e momento que ele ganhou. Controle a massa de Wally, a intensidade da força do extintor de incêndio e o tempo em que o extintor está ligado.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=28",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ImpulseLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório do Impulse Versão 2",
-        "descript": "",
+        "name": "Impulso no espaço com limites",
+        "descript": "Encontre as relações entre impulso e mudança no momento. Use o extintor de incêndio para dar impulsos ao astronauta Wally e encontre a velocidade e momento que ele ganhou. Controle a massa de Wally, a intensidade da força do extintor de incêndio, o tempo em que o extintor está ligado e o limites de força e velocidade.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=396",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/Impulsev2Lab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16781,12 +16865,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "laboratório de lentes",
-        "descript": "",
+        "name": "Lentes convergentes",
+        "descript": "Investigue as mudanças que ocorrem nas imagens formadas por lentes convergentes com base na distância focal da lente, na altura do objeto e na localização do objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=77",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/LensLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Gráfico",
+            "Matemática",
+            "Ondas",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16883,12 +16972,23 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de gotas de óleo Millikan",
-        "descript": "",
+        "name": "Gotas de óleo de Millikan",
+        "descript": "Simula o histórico experimento de Millikan que determina a carga do elétron. Meçam a carga em uma gota de óleo fazendo com que a gota de óleo fique suspensa em um campo elétrico. Ao medir a carga em muitas gotas descobra a carga elétrica elementar.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=224",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MillikanOilDropLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Densidade",
+            "Eletrostática",
+            "Força",
+            "Função",
+            "Geometria",
+            "Gravitação",
+            "Mecânica",
+            "Números",
+            "Química",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16947,32 +17047,49 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Leis de Newton com Previsões",
-        "descript": "",
+        "name": "Leis de Newton com Previsões",
+        "descript": "Investigue a relação entre a massa e a aceleração de um objeto. Haverá uma força constante de valor desconhecido aplicada a este disco determinará o valor dessa força.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=511",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawLabWithPredictions//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Estatística",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Lei de Ohm com medidores analógicos",
-        "descript": "",
+        "descript": "Explore a relação entre a resistência e a corrente através de um circuito. Varie o valor de resistência e observe a variação da corrente. leia medidores analógicos para obter a tensão e a corrente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=378",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OhmsLawAnalogMeters/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Energia",
+            "Jogo",
+            "Matemática"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Lei de Ohm com Previsões",
-        "descript": "",
+        "name": "Lei de Ohm com Previsões",
+        "descript": "Explore a relação entre a resistência e a corrente através de um circuito. Varie o valor de resistência e observe a variação da corrente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=558",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/OhmsLawWithPredictionsLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Energia",
+            "Jogo",
+            "Matemática"
         ],
         "author": "ThePhysicSaviary"
     },
