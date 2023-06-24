@@ -8382,7 +8382,7 @@
         "author": "Ophysics"
     },
     {
-        "name": "Laboratório de relação carga/massa do elétron",
+        "name": "Relação carga/massa do Elétron",
         "descript": "Essa é uma simulação do experimento realizado por J. J. Thomson para determinar a razão carga/massa de um elétron.",
         "url": "https://ophysics.com/em2a.html",
         "thumb": "https://ophysics.com/images/thumbs/em2athumb.jpeg",
@@ -14679,11 +14679,15 @@
     },
     {
         "name": "Tarefa de classificação - classificação por resistência",
-        "descript": "",
+        "descript": "Mostra cinco representações, cada uma correspondendo a um cenário diferente. Sua tarefa é classificá-los com base na resistência, do maior à menor.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ranking_resistance.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Jogo",
+            "Matemática"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14754,11 +14758,21 @@
     },
     {
         "name": "Uma partícula carregada movendo-se em três dimensões",
-        "descript": "",
+        "descript": "Mostra o caminho espiral seguido por uma partícula carregada positivamente em um campo magnético uniforme. Também são mostrados os dois componentes do movimento: o movimento circular e o movimento a velocidade constante, que combinados produz uma espiral.",
         "url": "http://physics.bu.edu/~duffy/HTML5/threeD_magnetism.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Função",
+            "Geometria",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15524,11 +15538,21 @@
     },
     {
         "name": "Radiação de corpo negro",
-        "descript": "",
+        "descript": "Mostra o espectro de luz emitido por um corpo negro em função do comprimento de onda. Ajuste a temperatura para ver como a mudança de temperatura altera a quantidade de luz emitida, bem como o pico de comprimento de onda da luz. Mostra também a cor aproximada de um corpo negro nessa temperatura.",
         "url": "http://physics.bu.edu/~duffy/HTML5/blackbody_radiation.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Atômica",
+            "Energia",
+            "Gráfico",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Termologia",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15661,12 +15685,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Um Domingo Qualquer",
-        "descript": "",
+        "name": "Futebol no Domingo",
+        "descript": "Simula 50 temporadas de futebol. Acompanhe o número de vitórias e veja a frequência dos diferentes resultados.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=293",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/AnyGivenSunday/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Algorítimo",
+            "Aritmética",
+            "Estatística",
+            "Jogo",
+            "Matemática",
+            "Números",
+            "Probabilidade"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -15789,11 +15820,15 @@
     },
     {
         "name": "Propriedades do capacitor",
-        "descript": "",
+        "descript": "Investigue as diferentes mudanças que podem ser feitas em um capacitor de ar e os resultados que ocorrem devido a essas mudanças. Calcule a capacitância em cada situação.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=46",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/CapacitorPropertiesLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16024,11 +16059,21 @@
     },
     {
         "name": "Mergulhador do mar profundo",
-        "descript": "",
+        "descript": "Explorem a relação entre a pressão abaixo de um fluido e sua profundidade (coluna de liquido). Pilote um submarino para um locais diversos. Execute a simulação em planetas \"semelhantes à Terra\" com a mesma pressão atmosférica, mas diferentes acelerações da gravidade.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=19",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DeepSeaDiverLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Hidrostática",
+            "Jogo",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16722,22 +16767,40 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de oscilações horizontais",
-        "descript": "",
+        "name": "Oscilações horizontais",
+        "descript": "Investigar os fatores que afetam a amplitude, frequência, período e frequência angular de um disco sem atrito oscilando em uma superfície horizontal presso a uma mola.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=57",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HorizontalOscillationsLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de oscilações horizontais com amortecimento",
-        "descript": "",
+        "name": "Oscilações horizontais com amortecimento",
+        "descript": "Investigar os fatores que afetam a amplitude, frequência, período e frequência angular de um disco sem atrito oscilando em uma superfície horizontal presso a uma mola com amortecimento.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=58",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HorizontalOscillationswDampingLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16791,12 +16854,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Plano Inclinado",
-        "descript": "",
+        "name": "Plano Inclinado - Deslisamento",
+        "descript": "Investigue a relação entre o ângulo de inclinação e a aceleração do objeto. Varie o ângulo e a massa do objeto sem atrito.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=16",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InclinedPlaneLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17149,12 +17220,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de princípios de Pascal",
-        "descript": "",
+        "name": "Princípios de Pascal",
+        "descript": "Veja como equilibrar massas diferentes em um sistema fechado e cheio de fluido com vasos comunicantes de raios diferentes. Este o principio do elevador hidráulico.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=260",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PascalsPrincipleLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Força",
+            "Geometria",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17199,12 +17275,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Queda Livre PocketLab",
-        "descript": "",
+        "name": "Queda Livre PocketLab",
+        "descript": "Observe a relação entre a altura da qual um objeto é solto e o tempo que leva para atingir o solo em um planeta com gravidade desconhecida",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=513",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PocketLabFreefallLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17229,22 +17313,33 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Poder da Lâmpada",
-        "descript": "",
+        "name": "Poder da Lâmpada",
+        "descript": "Varie a resistência de uma lâmpada e a diferença de potêncial no circuito. Veja como esses fatores afetam a corrente através da lâmpada, a energia gasta e, consequentemente, a luminosidade.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=320",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PowerOfLight/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Radiação",
+            "Termologia",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Poder da Luz com Laboratório de Previsão",
-        "descript": "",
+        "descript": "Investigue a relação entre potência e tensão para uma lâmpada ideal.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=573",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/LightBulbPowerWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Radiação",
+            "Termologia",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17342,12 +17437,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Rail Gun",
-        "descript": "",
+        "name": "Canhão Eletromagnético",
+        "descript": "testem os fatores que afetam a aceleração de uma barra de metal que transporta uma corrente através de um campo magnético.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=274",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RailGunLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
