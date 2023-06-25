@@ -14805,11 +14805,22 @@
     },
     {
         "name": "Ciclotron",
-        "descript": "",
+        "descript": "Simula de um ciclotron, que é um acelerador de partículas muito compacto. Nas seções em forma de D (chamadas dees) existe um campo magnético uniforme que faz com que a partícula carregada positivamente siga um caminho que é um semicírculo no espaço entre os dees existe um campo elétrico que acelera a partícula.",
         "url": "http://physics.bu.edu/~duffy/HTML5/cyclotron.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16397,12 +16408,15 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Vazão",
-        "descript": "",
+        "name": "Vazão da torneira",
+        "descript": "Descubram a fórmula que relaciona a vazão à velocidade da água e o raio da torneira.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=348",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16747,22 +16761,33 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de transferência de calor",
-        "descript": "",
+        "name": "Transferência de Calor - condução",
+        "descript": "Examine os fatores que afetam a taxa de transferência de calor (por condução) através de uma barreira que separa dois gases.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=241",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HeatTransferGasesLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Química",
+            "Termodinâmica",
+            "Termologia",
+            "Números"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Transferência de calor com laboratório de previsão",
-        "descript": "",
+        "descript": "Examine as temperaturas das fontes quente e fria afetam a taxa de transferência de calor (por condução) através de uma barreira que separa dois gases.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=556",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/HeatTransferGasesWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Química",
+            "Termodinâmica",
+            "Termologia",
+            "Números",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17582,22 +17607,38 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Travessia do Rio",
-        "descript": "",
+        "name": "Travessia do Rio por Barco",
+        "descript": "Veja como cruzar um rio com um barco de brinquedo. Antes de soltar o barco, ajuste a velocidade em relação à água e o ângulo em que sua proa aponta em relação à costa. observe o movimento relativo em um ambiente bidimensional.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=278",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RiverCrossingLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Função",
+            "Jogo",
+            "Mecânica",
+            "Momentum",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Travessia de rio com laboratório de previsão",
-        "descript": "",
+        "descript": "Veja como cruzar um rio com um barco de brinquedo. Antes de soltar o barco, ajuste a velocidade em relação à água. observe o movimento relativo em um ambiente bidimensional.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=523",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RiverCrossingWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Clima",
+            "Função",
+            "Jogo",
+            "Mecânica",
+            "Momentum",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17663,22 +17704,38 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Playground Satélite",
-        "descript": "",
+        "name": "Playground de Satélites",
+        "descript": "Explore diferentes aspectos do movimento de satélites. Varie a massa, o raio orbital e o corpo que o satélite está orbitando.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=27",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SatelliteLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Velocidade de Satélite",
-        "descript": "",
+        "name": "Velocidade de Satélite",
+        "descript": "Observe a relação entre o raio orbital de um satélite e a velocidade que ele deve ter para manter sua órbita circular.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=529",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SatelliteSpeedLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Geografia",
+            "Gravitação",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18048,12 +18105,25 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de tubos de raios catódicos de Thompson",
-        "descript": "",
+        "name": "Tubos de Raios Catódicos de Thompson",
+        "descript": "Veja um modelo do experimento de Thomson que usa um tubo de raios catódicos com campos magnéticos e elétricos. meça a deflexão do feixe sob diferentes condições e determine a razão entre a carga e a massa das partículas no feixe.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=225",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ThompsonetomLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Matemática",
+            "Mecânica",
+            "Química",
+            "Radiação",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18160,12 +18230,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de Torque de Garrafa de Água",
-        "descript": "",
+        "name": "Torque de Garrafa de Água",
+        "descript": "Mova um objeto de massa desconhecida em uma régua métrica. até que o sistema atinja o equilíbrio e encontrer a água",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=551",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/TorqueWithWaterBottle//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Jogo",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
