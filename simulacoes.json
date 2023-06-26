@@ -10865,7 +10865,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/heat-engine.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "CK12"
     },
@@ -12969,52 +12975,82 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do projétil (velocidade e ângulo definidos)",
+        "name": "Movimento do projétil - velocidade e ângulo definidos",
         "descript": "A simulação mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado segundo um ângulo que pode ser variado.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile1.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do projétil (defina os componentes da velocidade inicial)",
+        "name": "Movimento do projétil - componentes da velocidade inicial",
         "descript": "A simulação mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado com uma velocidade inicial que pode ser alterada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do projétil (com diagrama de movimento, componentes de velocidade e gráficos)",
+        "name": "Movimento do projétil - diagrama de movimento, componentes de velocidade e gráficos",
         "descript": "A simulação mostra uma bola durante um movimento de projétil e também vários gráficos associados a esse movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do projétil (com diagrama de movimento e componentes de velocidade)",
+        "name": "Movimento do projétil - com diagrama de movimento e componentes de velocidade",
         "descript": "A simulação mostra uma bola durante um movimento de projétil com a possibilidade de variação de diversos parâmetros relacionados a esse movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion_nographs.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do projétil (alterando o ângulo de lançamento)",
-        "descript": "A simulação mostra bolas lançadas obliquamente com ângulos entre 0 e 90 graus em passos de 5 graus. Há também gráficos associados a esses movimentos.",
+        "name": "Movimento do projétil - alterando o ângulo de lançamento",
+        "descript": "Mostra bolas lançadas obliquamente com ângulos entre 0 e 90 graus em passos de 5 graus. Há também gráficos associados a esses movimentos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion_spray.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13260,7 +13296,15 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/impulse.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13326,22 +13370,32 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento do centro de massa",
-        "descript": "Essa simulação demonstra o poder do conceito de centro de massa. Alguns pontos do objeto descrevem movimentos complexos porém o centro de massa do objeto descreve uma parábola relativamente simples.",
+        "name": "Movimento do Centro de Massa",
+        "descript": "Mostra o poder do conceito de centro de massa. Alguns pontos do objeto descrevem movimentos complexos porém o centro de massa do objeto descreve uma parábola relativamente simples.",
         "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_motion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Movimento sem força externa líquida",
-        "descript": "A simulação mostra uma pessoa, representada pela barra na cor preta sobre um barco, representado na cor vermelha. A pessoa se move para direita. Quanto o barco anda com o movimento da pessoa?",
+        "descript": "Uma pessoa sobre um barco se move. Quanto o barco anda com o movimento da pessoa? Mostra o poder do conceito de centro de massa.",
         "url": "http://physics.bu.edu/~duffy/HTML5/center_of_mass_noforce.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14318,21 +14372,31 @@
     },
     {
         "name": "O efeito Doppler",
-        "descript": "",
+        "descript": "Simula o efeito Doppler. Defina a posição inicial e a velocidade da fonte e a posição inicial e a velocidade do observador e observe o padrão de ondas emitidas pela fonte à medida que as ondas atingem o observador.",
         "url": "http://physics.bu.edu/~duffy/HTML5/doppler.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Vetores",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Acústica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "O efeito Doppler, com gráficos",
-        "descript": "",
+        "descript": "Simula o efeito Doppler. Defina a posição inicial e a velocidade da fonte e a posição inicial e a velocidade do observador e observe o padrão de ondas emitidas pela fonte à medida que as ondas atingem o observador.",
         "url": "http://physics.bu.edu/~duffy/HTML5/dopplergraph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Vetores",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Acústica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14917,22 +14981,34 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "O campo magnético perto de dois fios condutores de corrente",
-        "descript": "",
+        "name": "Campo magnético - dois fios condutores de corrente",
+        "descript": "Mostra o campo magnético perto de dois fios condutores de corrente longos e retos. Ajuste a posição dos fios e os valores das correntes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/BField.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "O campo magnético em 1 dimensão",
-        "descript": "",
+        "name": "Campo magnético em 1 dimensão",
+        "descript": "Veja o gráfico do campo magnético em função da posição de um fio percorrido por uma corrente. Você pode ajustar os valores das correntes e as posições dos fios.",
         "url": "http://physics.bu.edu/~duffy/HTML5/magnetic_field_1D.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14988,22 +15064,38 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Mova um ímã perto de um loop",
-        "descript": "",
+        "name": "Ímã em movimento numa espira",
+        "descript": "Mostra o fluxo magnético através de uma espira de bobina, em função do tempo, bem como a fem induzida na bobina em função do tempo, ao mover um ímã.",
         "url": "http://physics.bu.edu/~duffy/HTML5/magnet_loop_move.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movendo um loop através de um campo magnético",
-        "descript": "",
+        "name": "Espira em movimento em campo magnético",
+        "descript": "Observe uma espira passando por uma região de campo magnético. Os gráficos mostram o fluxo magnético através da espira bem como a corrente induzida na espira em função do tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/loop_and_field.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17238,12 +17330,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Momento de inércia da polia",
-        "descript": "",
+        "name": "Momento de Inércia de uma Polia",
+        "descript": "Aprenda como o tamanho, a massa e a distribuição de massa de uma polia influenciam a aceleração de uma massa presa à polia. A polia não tem atrito e a massa do fio é desprezível.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=41",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/UnwindingCableLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
