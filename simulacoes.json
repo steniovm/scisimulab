@@ -8063,7 +8063,8 @@
         "thumb": "https://ophysics.com/images/thumbs/l2thumb.jpeg",
         "categorys": [
             "Física",
-            "Óptica"
+            "Óptica",
+            "Aritmética"
         ],
         "author": "Ophysics"
     },
@@ -10997,13 +10998,22 @@
         "author": "CK12"
     },
     {
-        "name": "Menos tempo",
+        "name": "Menos Tempo",
         "descript": "Explore como a lei de Snell pode ser deduzida do princípio do menor tempo e como raios de luz mudam de direção em interfaces de contato entre materiais.",
         "url": "https://interactives.ck12.org/simulations/physics/least-time/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/least-time.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Radiação",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11014,7 +11024,12 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/contact-lens.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Biologia",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11047,13 +11062,16 @@
         "author": "CK12"
     },
     {
-        "name": "Luzes de letreiro",
+        "name": "Luzes de Letreiro",
         "descript": "Aprenda diferentes formas de ligar os fios em um circuito e como o brilho da lâmpada depende de como elas são ligadas ao circuito.",
         "url": "https://interactives.ck12.org/simulations/physics/marquee-lights/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/marquee-lights.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico"
         ],
         "author": "CK12"
     },
@@ -11104,24 +11122,34 @@
         "author": "CK12"
     },
     {
-        "name": "Luz neon piscando",
+        "name": "Luz Neon Pisca-pisca",
         "descript": "Aprenda como capacitores são utilizados em circuitos para criar eventos transientes como luzes piscando.",
         "url": "https://interactives.ck12.org/simulations/physics/flashing-neon-light/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashing-neon-light.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "CK12"
     },
     {
-        "name": "Linhas de energia",
+        "name": "Linhas de Energia",
         "descript": "Aprenda mais sobre a relação entre potencial elétrico, corrente elétrica e resistência elétrica em uma situação relacionada à linhas de transmissão de energia em alta tensão.",
         "url": "https://interactives.ck12.org/simulations/physics/power-lines/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-lines.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -11188,7 +11216,11 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/field-lines.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Astronomia",
+            "Eletromagnetismo",
+            "Radiação",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11508,12 +11540,17 @@
     },
     {
         "name": "Manto de Gelo Elétrico",
-        "descript": "Em manutenção",
+        "descript": "Em manutenção - Equilibre as cargas elétricas para evitar que Tommy escorregue na água gelada.",
         "url": "https://www.ck12.org/physics/Coulombs-Law/simulation/Electric-Ice-Sheet?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Electric-Ice-Sheet.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Eletrostática",
+            "Força",
+            "Matemática",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -14016,7 +14053,12 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/ice_and_water.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Densidade",
+            "Energia",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14101,7 +14143,12 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/Newton_cooling.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14255,12 +14302,17 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Medindo a velocidade do som",
-        "descript": "",
+        "name": "Medindo a Velocidade do Som",
+        "descript": "Um diapasão vibratório é mantido acima de um tubo. Ajuste o nível da água no tubo. A altura da coluna de ar pode ser tal que dê uma condição de ressonância para a onda sonora produzida pelo diapasão.",
         "url": "http://physics.bu.edu/~duffy/HTML5/speed_of_sound.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Aritmética",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14457,11 +14509,17 @@
     },
     {
         "name": "Lei de Coulomb - interações entre partículas carregadas - evolução do tempo",
-        "descript": "",
+        "descript": "Explore a força entre partículas carregadas. Alterar suas posições e cargas e a evolução temporal do sistema.",
         "url": "http://physics.bu.edu/~duffy/HTML5/coulomb_interaction_evolve.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Força",
+            "Energia",
+            "Função",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14626,22 +14684,32 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Lei de Ohm - gráfico de corrente x tensão",
-        "descript": "",
+        "name": "Lei de Ohm - Corrente x Tensão",
+        "descript": "Visualize o fluxo de carga ao redor em um circuito e o que acontece quando a tensão da bateria ou a resistência do resistor é alterada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ohm_IVgraph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico",
+            "Função",
+            "Atômica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Lei de Ohm - gráfico de corrente x resistência",
-        "descript": "",
+        "name": "Lei de Ohm - Corrente x Resistência",
+        "descript": "Visualize o fluxo de carga em um circuito e o que acontece quando a tensão da bateria ou a resistência do resistor é alterada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ohm_IRgraph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico",
+            "Função",
+            "Atômica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15111,11 +15179,16 @@
     },
     {
         "name": "Mistura de cores (aditivo + subtrativo)",
-        "descript": "",
+        "descript": "Mostra como cores primárias de luz ou de pigmento se combinam para formar outras cores. O sistema aditivo (vermelho, verde e azul) é usado para luzes. O olho humano percebe a cor de maneira semelhante ao sistema aditivo. O sistema subtrativo (ciano, magenta e amarelo) é usado para pigmentos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/color_mix.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Biologia",
+            "Ondas",
+            "Radiação",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15360,11 +15433,17 @@
     },
     {
         "name": "Modelo de banda marcial para refração",
-        "descript": "",
+        "descript": "Mostra um modelo de frente de onda para refração. Quando a frente de onda se move de uma superfície (digamos, um estacionamento) para uma superfície diferente (digamos, um campo gramado), a velocidade pode mudar. Associada a essa mudança de velocidade está, muitas vezes, uma mudança de direção. Este é um análogo do comportamento da luz quando ela viaja de um meio para outro.",
         "url": "http://physics.bu.edu/~duffy/HTML5/marching_band_model.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17108,11 +17187,18 @@
     },
     {
         "name": "Medição de Tensão e Frequência em AC Lab",
-        "descript": "",
+        "descript": "Aprenda a medir tensão e frequência usando um multímetro digital e um osciloscópio.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=561",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FrequencyVoltageACPowerSupplyLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico",
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18272,12 +18358,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Minilaboratório de Gravidade Universal",
-        "descript": "",
+        "name": "Gravitação Universal - Minilaboratório",
+        "descript": "Ilustrar visualmente as relações entre a força da gravidade e os fatores que a determinam. Altere as massas e distâncias dos corpos e veja a força da gravidade entre eles.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=10",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ForceGravityOnPlanetMiniLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Força",
+            "Função",
+            "Gravitação",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
