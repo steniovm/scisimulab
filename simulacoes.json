@@ -10950,7 +10950,10 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stow-lake.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -11061,7 +11064,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/flashlight.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Estatística",
+            "Gráfico",
+            "Quântica",
+            "Radiação",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -14412,22 +14424,34 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Lei de Coulomb, plotagem versus várias funções de r",
-        "descript": "",
+        "name": "Lei de Coulomb, força versus escalas de r",
+        "descript": "Investige a força exercida por uma partícula carregada sobre outra e como essa força varia com a distância entre as partículas. O gráfico mostra a força exercida sobre a carga em várias funções da distância (r, r^2, 1/r e 1/r^2).",
         "url": "http://physics.bu.edu/~duffy/HTML5/coulomb2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Gráfico",
+            "Força",
+            "Função",
+            "Energia",
+            "Matemática"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Lei de Coulomb - interações entre partículas carregadas",
-        "descript": "",
+        "descript": "Explore a força entre partículas carregadas. Alterar suas posições e cargas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/coulomb_interaction.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Força",
+            "Energia",
+            "Função",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16140,7 +16164,7 @@
     },
     {
         "name": "Efeito Doppler",
-        "descript": "Reproduz o efeito de mudança de frequência aparente do som produzido por um carro de som ouvido por três observadores diferentes.",
+        "descript": "Investigue as mudanças no comprimento de onda, período e frequência que ocorrem quando uma fonte de ondas é móvel.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=71",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DopplerLab/images/OverviewPicture.png",
         "categorys": [
@@ -16155,12 +16179,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório Doppler com previsões",
-        "descript": "",
+        "name": "Efeito Doppler com previsões",
+        "descript": "Encontre a relação entre a velocidade de um objeto (avião) que cria ondas sonoras e o comprimento das ondas na frente do objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=622",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DopplerWithPredictions//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Ondas",
+            "Acústica",
+            "Cinemática",
+            "Função",
+            "Mecânica",
+            "Relatividade",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16293,21 +16324,27 @@
     },
     {
         "name": "Perda de energia no salto",
-        "descript": "",
+        "descript": "Investigue a quantidade de energia perdida por uma bola quando ela quica. Mudarão a altura inicial da bola e veja como isso afeta a quantidade de energia perdida e a porcentagem da energia original perdida.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=33",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório guiado sobre perda de energia em ressaltos",
-        "descript": "",
+        "name": "Perda de energia em ressaltos",
+        "descript": "Investiguem a quantidade de energia perdida por uma bola quando ela quica, ou seja quanta energia é perdida quando a bola é lançada de diferentes alturas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=32",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossGuidedLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17280,12 +17317,25 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "laboratório fotoelétrico",
-        "descript": "",
+        "name": "Efeito fotoelétrico Lab",
+        "descript": "Investigue os fatores envolvidos no efeito fotoelétrico (quando um elétron é ejetado de um metal pela luz). Selecione entre uma variedade de metais, comprimentos de onda e intensidade de luz. Controle do número de fótons por minuto e da tensão de parada para encontrar a energia dos elétrons.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=255",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PhotoelectricEffect/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Estatística",
+            "Nuclear",
+            "Ondas",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Relatividade",
+            "Semicondutores",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17520,11 +17570,16 @@
     },
     {
         "name": "Lâmpadas Reais de NJ",
-        "descript": "",
+        "descript": "Explore a relação entre tensão e corrente para uma lâmpada cujo filamento muda de resistência com a temperatura (Termistor).",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=564",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RealLightbulbsOfNJLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Termologia",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17678,12 +17733,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório simples de distância rolante",
-        "descript": "",
+        "name": "Distância rolante, Diamêtro, Raio e Pi (π)",
+        "descript": "Encontre a relação entre o raio da roda e a distância linear que ela cobre em uma rotação e obtenha o valor de Pi (π).",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=490",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RollingDistanceSimpleLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Geometria",
+            "Matemática",
+            "Números",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17793,22 +17854,33 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório de velocidade térmica simples",
-        "descript": "",
+        "name": "Velocidade Térmica simples em gás ideal",
+        "descript": "Explore as velocidades médias das partículas em um gás ideal. Controle a massa e a temperatura das partículas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=395",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SimpleThermalSpeedLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Energia",
+            "Estatística",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "laboratório sifão",
-        "descript": "",
+        "name": "Sifão - fluxo de água",
+        "descript": "Investigue alguns fatores que afetam o fluxo e a velocidade de saída da água que sai de um sifão.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=265",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SiphonLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Matemática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17845,12 +17917,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Laboratório Fluxo Solar",
-        "descript": "",
+        "name": "Fluxo Solar - Painel Solar",
+        "descript": "Investigue os fatores que determinam a quantidade de energia coletada por um painel solar quando a luz do sol incide verticalmente. O tamanho e o ângulo de inclinação do painel podem ser alterados.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=277",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SolarFluxLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Clima",
+            "Energia",
+            "Geometria",
+            "Radiação",
+            "Vetores",
+            "Óptica"
         ],
         "author": "ThePhysicSaviary"
     },
