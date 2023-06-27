@@ -18963,17 +18963,23 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Trabalhar para PEe Lab",
-        "descript": "",
+        "name": "Trabalho de uma mola",
+        "descript": "Descubram a relação entre o trabalho realizado e o alongamento de uma mola.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=36",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToPEeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Trabalhe para PEg Lab",
+        "name": "Trabalho de um guindaste",
         "descript": "Descubra a relação entre o trabalho que é feito e as mudanças na altura que ocorrem em um objeto sendo suspenso por um guindaste. Ajustar a quantidade de energia adicionada ao objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=35",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToPEgLab/images/OverviewPicture.png",
