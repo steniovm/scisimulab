@@ -193,7 +193,10 @@
         "thumb": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics-420.png",
         "categorys": [
             "Óptica",
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria"
         ],
         "author": "Phet"
     },
@@ -518,7 +521,12 @@
         "thumb": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro-420.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Oscilações",
+            "Óptica"
         ],
         "author": "Phet"
     },
@@ -1201,7 +1209,8 @@
         "categorys": [
             "Física",
             "Ondas",
-            "Oscilações"
+            "Oscilações",
+            "Função"
         ],
         "author": "Phet"
     },
@@ -2626,14 +2635,16 @@
         "author": "Vascak"
     },
     {
-        "name": "Paralelogramo de forças",
+        "name": "Paralelogramo de Forças",
         "descript": "Permite mudar a tensão sobre um os fios que passam por polias e sustentam um peso, mostrando a soma vetorial de três forças se equilibrando.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_rovnobeznik&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_rovnobeznik.png",
         "categorys": [
             "Física",
             "Mecânica",
-            "Força"
+            "Força",
+            "Vetores",
+            "Aritmética"
         ],
         "author": "Vascak"
     },
@@ -3894,7 +3905,9 @@
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_obdelnikovy_kmit.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Números",
+            "Oscilações"
         ],
         "author": "Vascak"
     },
@@ -3920,13 +3933,22 @@
         "author": "Vascak"
     },
     {
-        "name": "Oscilação amortecida",
-        "descript": "O simulador apresenta uma oscilação amortecida com o auxílio de um gráfico e com apresentação dos valores das variáveis envolvidas no fenômeno.",
+        "name": "Oscilação Amortecida",
+        "descript": "Apresenta uma oscilação amortecida com o auxílio de um gráfico e com apresentação dos valores das variáveis envolvidas no fenômeno.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_tlumene_kmitani&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_tlumene_kmitani.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Acústica",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Vascak"
     },
@@ -3937,7 +3959,11 @@
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_nucene_kmitani.png",
         "categorys": [
             "Física",
-            "Ondas"
+            "Ondas",
+            "Gráfico",
+            "Mecânica",
+            "Oscilações",
+            "Energia"
         ],
         "author": "Vascak"
     },
@@ -4255,7 +4281,7 @@
         "author": "Vascak"
     },
     {
-        "name": "Movimento browniano",
+        "name": "Movimento Browniano",
         "descript": "Simula o movimento de uma particula maior, mas ainda comparavel, as particulas que compõe o meio, mostrando uma trajétória aleatória porém regida pelas leis da mecânica e da estatistica.",
         "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_brownuv_pohyb&l=pt",
         "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_brownuv_pohyb.png",
@@ -4265,10 +4291,10 @@
             "Cinemática",
             "Estatística",
             "Geometria",
-            "Matemática",
             "Mecânica",
-            "Química",
-            "Atômica"
+            "Atômica",
+            "Probabilidade",
+            "Momentum"
         ],
         "author": "Vascak"
     },
@@ -7893,7 +7919,7 @@
         "author": "Ophysics"
     },
     {
-        "name": "Ondas longitudinais",
+        "name": "Ondas Longitudinais",
         "descript": "Ondas longitudinais e estacionárias animadas.",
         "url": "https://ophysics.com/w5.html",
         "thumb": "https://ophysics.com/images/thumbs/w5thumb.jpeg",
@@ -9609,7 +9635,8 @@
         "categorys": [
             "Biologia",
             "Química",
-            "Estatística"
+            "Estatística",
+            "Hidrostática"
         ],
         "author": "SimBucket"
     },
@@ -10804,13 +10831,27 @@
         "author": "CK12"
     },
     {
-        "name": "Partículas de alta energia",
+        "name": "Partículas de Alta Energia",
         "descript": "Descubra a relação entre velocidade e energia cinética no contexto de um acelerador de partículas.",
         "url": "https://interactives.ck12.org/simulations/physics/high-energy-particles/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/high-energy-particles.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Cinemática",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Estatística",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10897,7 +10938,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/scuba-training.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Gráfico",
+            "Hidrostática",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -10940,13 +10987,18 @@
         "author": "CK12"
     },
     {
-        "name": "Onda do estádio",
+        "name": "Hola - Onda do estádio",
         "descript": "Por meio da clássica \"onda\" nos estádios, aprenda mais sobre importantes conceitos de ondulatória.",
         "url": "https://interactives.ck12.org/simulations/physics/stadium-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stadium-wave.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Função",
+            "Gráfico",
+            "Números",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -10965,24 +11017,33 @@
         "author": "CK12"
     },
     {
-        "name": "Onda de luz",
+        "name": "Onda de Luz",
         "descript": "Aprenda mais sobre a luz como uma onda eletromagnética e como relacionar sua frequência e comprimento de onda aos campos eletromagnéticos.",
         "url": "https://interactives.ck12.org/simulations/physics/light-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/light-wave.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletromagnetismo",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Radiação",
+            "Vetores",
+            "Óptica"
         ],
         "author": "CK12"
     },
     {
-        "name": "Óculos cor de rosa",
-        "descript": "Veja o mundo através de uma coloração diferente, entenda a natureza das cores.",
+        "name": "Óculos colorido",
+        "descript": "Veja o mundo através de uma coloração diferente (usando um óculos como filtro colorido), entenda a natureza das cores.",
         "url": "https://interactives.ck12.org/simulations/physics/rose-colored-glasses/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rose-colored-glasses.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Radiação",
+            "Óptica"
         ],
         "author": "CK12"
     },
@@ -11108,7 +11169,16 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/lightning-rod.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Clima",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Geografia",
+            "Geometria",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11166,7 +11236,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/telegraph.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Alfabeto",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Gráfico",
+            "Números"
         ],
         "author": "CK12"
     },
@@ -11188,13 +11264,21 @@
         "author": "CK12"
     },
     {
-        "name": "Tela sensível ao toque",
+        "name": "Tela Sensível ao Toque",
         "descript": "Aprenda sobre capacitores em série e em paralelo ao analisar o funcionamento de telas touch-screen.",
         "url": "https://interactives.ck12.org/simulations/physics/touch-screen/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/touch-screen.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11237,7 +11321,23 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/particle-tracks.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Cinemática",
+            "Eletromagnetismo",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Momentum",
+            "Nuclear",
+            "Quântica",
+            "Química",
+            "Radiação",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -12834,11 +12934,22 @@
     },
     {
         "name": "Padrões de adição de vetores",
-        "descript": "A simulação permite somar vetorialmente vetores que representam movimentos circulares, o resultado é a formação de padrões bem complexos e interessantes.",
+        "descript": "Permite somar vetorialmente vetores que representam movimentos circulares, o resultado é a formação de padrões bem complexos e interessantes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/vector_spin.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Estatística",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Números",
+            "Oscilações",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -12882,12 +12993,17 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Movimento 1-D: gráficos",
-        "descript": "Trata-se de uma simulação do movimento de uma bola sujeita apenas à gravidade. Juntamente com a representação da queda são mostrados os gráficos de posição, velocidade e aceleração.",
+        "name": "Movimento vertical - gráficos",
+        "descript": "Simula do movimento de uma bola sujeita apenas à gravidade. Juntamente com a representação da queda, ou arremesso vertical, são mostrados os gráficos de posição, velocidade e aceleração.",
         "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graphs.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13239,7 +13355,12 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/ball_on_string.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13639,22 +13760,37 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "O sistema solar interior",
-        "descript": "A simulação mostra os quatro planetas interiores do sistema solar enquanto orbitam o Sol.",
+        "name": "Sistema Solar Interior",
+        "descript": "Simula as órbitas dos quatro planetas interiores do sistema solar enquanto orbitam o Sol.",
         "url": "http://physics.bu.edu/~duffy/HTML5/inner_solar_system_new.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Gravitação",
+            "Mecânica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Planeta mais próximo da Terra (em média)",
-        "descript": "A simulação mostra os quatro planetas interiores do sistema solar orbitando o Sol. Além disso, mostra as distâncias desses planetas à Terra.",
+        "descript": "Simula as órbitas dos três planetas interiores do sistema solar orbitando o Sol mas vistos da Terra. Além disso, mostra as distâncias desses planetas à Terra.",
         "url": "http://physics.bu.edu/~duffy/HTML5/solar_system_average_distance.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Gravitação",
+            "Mecânica",
+            "Estatística",
+            "Função",
+            "Geometria",
+            "Matemática",
+            "Aritmética",
+            "Números",
+            "Probabilidade"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14183,11 +14319,19 @@
     },
     {
         "name": "Movimento Browniano",
-        "descript": "Essa é uma simulação do movimento de uma partícula sujeita ao movimento Browniano, que foi nomeado por Robert Brown e explicado mais detalhadamente por Einstein.",
+        "descript": "Simula do movimento de uma partícula sujeita ao movimento Browniano, que foi nomeado por Robert Brown e explicado mais detalhadamente por Einstein.",
         "url": "http://physics.bu.edu/~duffy/HTML5/brownian_motion.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Termodinâmica",
+            "Cinemática",
+            "Estatística",
+            "Geometria",
+            "Mecânica",
+            "Atômica",
+            "Probabilidade",
+            "Momentum"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14456,22 +14600,32 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Ondas estacionárias em uma corda",
-        "descript": "",
+        "name": "Ondas estacionárias em uma Corda",
+        "descript": "Simula o movimento de uma corda sendo percorrido por duas ondas transversais, e a sobreposição destas formando uma onda estácionária.",
         "url": "http://physics.bu.edu/~duffy/HTML5/transverse_standing_wave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Ondas estacionárias em um tubo",
-        "descript": "",
+        "name": "Ondas estacionárias em um Tubo",
+        "descript": "Simula o movimento de particulas em um tubo sendo percorrido por duas ondas longitudinais, como um som, e a sobreposição destas formando uma onda estácionária.",
         "url": "http://physics.bu.edu/~duffy/HTML5/longitudinal_standing_wave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15143,12 +15297,21 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "O triângulo de impedância",
-        "descript": "",
+        "name": "Triângulo de Impedância",
+        "descript": "mostra o triângulo de impedância para um circuito RLC em série. A impedância (Z) do circuito é a hipotenusa do triângulo. A resistência é o lado horizontal do triângulo. O lado vertical é a soma dos vetores de reatância indutiva e reatância capacitiva. A corrente máxima é a tensão máxima dividida pela impedância.",
         "url": "http://physics.bu.edu/~duffy/HTML5/RLC_impedance_triangle.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Geometria",
+            "Matemática",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -17140,11 +17303,16 @@
     },
     {
         "name": "Ondas Interferentes",
-        "descript": "",
+        "descript": "Visualize as ondas combinadas que são formadas quando duas ondas se sobrepõem.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=62",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InterferingWaves/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18246,22 +18414,37 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Oscilação da mola com Previsão PocketLab",
-        "descript": "",
+        "name": "Oscilação de uma Mola",
+        "descript": "Observe como a massa afeta o período de oscilação de algo em uma mola.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=577",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpringPredictionPocketLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Ondas Estacionárias",
-        "descript": "",
+        "descript": "Visualize a formação de ondas estacionárias em uma corda bem como quanto espaço é necessário para encaixar o 1º e o 2º harmônico dessa onda estacionária.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=63",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/StandingWaves/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Gráfico",
+            "Números",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
