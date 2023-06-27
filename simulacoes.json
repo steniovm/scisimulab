@@ -567,7 +567,11 @@
         "categorys": [
             "Física",
             "Química",
-            "Termodinâmica"
+            "Termodinâmica",
+            "Termologia",
+            "Atômica",
+            "Densidade",
+            "Estatística"
         ],
         "author": "Phet"
     },
@@ -10884,7 +10888,13 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ski-jump.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11387,7 +11397,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/ac-transformer.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "CK12"
     },
@@ -11442,7 +11459,14 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/subatomic-particle-zoo.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Atômica",
+            "Eletrostática",
+            "Energia",
+            "Nuclear",
+            "Números",
+            "Quântica",
+            "Química"
         ],
         "author": "CK12"
     },
@@ -11501,101 +11525,148 @@
         "author": "CK12"
     },
     {
-        "name": "Simulação de Posição e Deslocamento",
+        "name": "Posição e Deslocamento",
         "descript": "Aprenda a diferença entre distância percorrida e deslocamento utilizando vetores, além disso, compreenda o significado de módulo dos vetores.",
         "url": "https://interactives.ck12.org/simulations/physics/position-displacement/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/displacement.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de Velocidade Relativa",
+        "name": "Velocidade Relativa",
         "descript": "Aprenda mais sobre velocidade relativa ao observar como o movimento entre dois objetos é percebido por diferentes observadores em diferentes posições.",
         "url": "https://interactives.ck12.org/simulations/physics/relative-velocity/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/relative-velocity.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de masmorra",
-        "descript": "Em manutenção",
+        "name": "Masmorra",
+        "descript": "Em manutenção - Experimente mudar a velocidade para ajudar Tommy a escapar da masmorra.",
         "url": "https://www.ck12.org/physics/Average-Velocity/simulation/Dungeon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Dungeon-Simulation.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação da Primeira Lei",
+        "name": "Primeira Lei de Newton",
         "descript": "Aprenda sobre a primeira lei de Newton que diz que um objeto em movimento tende a permanecer em movimento a menos que sofra a ação de uma força externa.",
         "url": "https://interactives.ck12.org/simulations/physics/first-law/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/first-law-new.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de fricção",
+        "name": "Teste de fricção",
         "descript": "Aprenda sobre a força de atrito e qual a força necessária para fazer com que objetos sobre uma superfície comecem a se deslocar.",
         "url": "https://interactives.ck12.org/simulations/physics/friction/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/friction.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Mecânica",
+            "Números",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
         "name": "Simulação de Corpo Livre",
-        "descript": "Em manutenção",
+        "descript": "Em manutenção - Aprenda a desenhar diagramas de corpo livre.",
         "url": "https://www.ck12.org/physics/Problem-Solving-1/simulation/Free-Body-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Free-Body-Simulation.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Força",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação da Terceira Lei",
-        "descript": "Em manutenção",
+        "name": "Terceira Lei de Newton",
+        "descript": "Em manutenção - Explore a mudança de forças para mover um carrinho pesado para posições exatas.",
         "url": "https://www.ck12.org/physics/Newtons-Third-Law/simulation/Third-Law-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Third-Law-Simulation.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de canhão",
-        "descript": "Em manutenção",
+        "name": "Disparo de canhão",
+        "descript": "Em manutenção - Tente acertar um alvo controlando a velocidade x e y com a qual um canhão dispara.",
         "url": "https://www.ck12.org/physics/Projectile-Motion/simulation/Cannon-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/cannon.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Força",
+            "Gráfico",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de Velocidade Angular",
+        "name": "Velocidade Angular",
         "descript": "Aprenda mais sobre o conceito de velocidade angular e como ela está relacioanda à velocidade linear.",
         "url": "https://interactives.ck12.org/simulations/physics/angular-speed/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/angular-speed-sim.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Função",
+            "Matemática",
+            "Números",
+            "Relatividade"
         ],
         "author": "CK12"
     },
@@ -11606,29 +11677,41 @@
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/hockey-cp.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Matemática",
+            "Números",
+            "Relatividade",
+            "Momentum"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de oscilações",
-        "descript": "Em manutenção",
+        "name": "Oscilações no parquinho",
+        "descript": "Em manutenção - Estude as oscilações enquanto Annie se balança em um parquinho.",
         "url": "https://www.ck12.org/physics/Pendulum/simulation/Oscillations-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Oscillations-Simulation.PNG?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Oscilações"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de Potência e Eficiência",
-        "descript": "Em manutenção",
+        "name": "Potência e Eficiência Mecânica",
+        "descript": "Em manutenção - Explore a energia cinética e a potencial rebocando objetos em um declive sem atrito.",
         "url": "https://www.ck12.org/physics/Power-and-Efficiency/simulation/Power-and-Efficiency-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/power-efficiency.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Energia",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -11666,35 +11749,56 @@
         "author": "CK12"
     },
     {
-        "name": "Simulação de Campos Elétricos",
+        "name": "Hockey em Campos Elétricos",
         "descript": "Você seria capaz de marcar um gol em uma partida de hockey utilizando eletromagnetismo? A simulação trata da força elétrica entre partículas carregadas eletricamente.",
         "url": "https://interactives.ck12.org/simulations/physics/electric-field/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/electric-field.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Eletrostática",
+            "Força",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de Capacitores",
+        "name": "Flashes fotográficos - Capacitores",
         "descript": "Aprenda sobre circuitos RC e como os capacitores desempenham uma importante função em flashes de câmeras fotográficas.",
         "url": "https://interactives.ck12.org/simulations/physics/rc-circuit/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/rc-circuit.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Energia",
+            "Gráfico",
+            "Radiação",
+            "Óptica"
         ],
         "author": "CK12"
     },
     {
-        "name": "Simulação de resistor",
-        "descript": "Em manutenção",
+        "name": "Correndo no resistor",
+        "descript": "Em manutenção - Explore resistores e circuitos como analógia com água correndo por canos.",
         "url": "https://www.ck12.org/physics/Resistors-in-Series/simulation/Resistor-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
         "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/resistor.jpg?_build=202305291230",
         "categorys": [
             "Física",
-            "Jogo"
+            "Jogo",
+            "Cinemática",
+            "Densidade",
+            "Eletrodinâmica",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Hidrostática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "CK12"
     },
@@ -13469,12 +13573,20 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - colisão 1-D com gráficos de barras interativos",
-        "descript": "A simulação interativa permite que a quantidade de movimento dos veículos e do sistema seja marcada por meio de barras e depois é possível verificar se a marcação foi feita de forma correta.",
+        "name": "Quebra-cabeça - Colisão 1D - interativos",
+        "descript": "Permite que a quantidade de movimento dos veículos e do sistema seja marcada por meio de barras e depois é possível verificar se a marcação foi feita de forma correta.",
         "url": "http://physics.bu.edu/~duffy/HTML5/collisions_1D_bargraphs_interactive.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Matemática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13974,17 +14086,31 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/bowling_ball.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores",
+            "Geometria"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Pulando em um carrossel",
-        "descript": "A simulação mostra um carrossel visto de cima e uma garota chamada Sarah que salta sobre o carrossel e consequentemente gira juntamente com ele.",
+        "name": "Pulando em um Carrossel",
+        "descript": "Mostra um carrossel visto de cima e uma garota chamada Sarah que salta sobre o carrossel e consequentemente gira juntamente com ele.",
         "url": "http://physics.bu.edu/~duffy/HTML5/jumping_on_merrygoround.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -18848,11 +18974,16 @@
     },
     {
         "name": "Trabalhe para PEg Lab",
-        "descript": "",
+        "descript": "Descubra a relação entre o trabalho que é feito e as mudanças na altura que ocorrem em um objeto sendo suspenso por um guindaste. Ajustar a quantidade de energia adicionada ao objeto.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=35",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToPEgLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
