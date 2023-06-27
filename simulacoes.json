@@ -1911,13 +1911,16 @@
         "author": "Walter-Fendt"
     },
     {
-        "name": "Potenciómetro",
+        "name": "Potenciômetro",
         "descript": "Simula o funcionamento de um potenciômetro, isso é, um resistor cuja resistência pode ser variada.",
         "url": "https://www.walter-fendt.de/html5/phpt/potentiometer_pt.htm",
         "thumb": "",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Energia",
+            "Gráfico",
+            "Função"
         ],
         "author": "Walter-Fendt"
     },
@@ -1928,7 +1931,8 @@
         "thumb": "",
         "categorys": [
             "Física",
-            "Eletrodinâmica"
+            "Eletrodinâmica",
+            "Semicondutores"
         ],
         "author": "Walter-Fendt"
     },
@@ -2337,12 +2341,13 @@
     },
     {
         "name": "Polígonos Regulares",
-        "descript": "forme Polígonos Regulares Convexos e Estrelas Poligonais Regulares.",
+        "descript": "Forme Polígonos Regulares Convexos e Estrelas Poligonais Regulares.",
         "url": "https://www.walter-fendt.de/html5/mpt/polygon_pt.htm",
         "thumb": "",
         "categorys": [
             "Matemática",
-            "Geometria"
+            "Geometria",
+            "Trigonometria"
         ],
         "author": "Walter-Fendt"
     },
@@ -2532,7 +2537,7 @@
         "author": "Walter-Fendt"
     },
     {
-        "name": "Primeira e Segunda Derivada duma Função",
+        "name": "Primeira e Segunda Derivada de uma Função",
         "descript": "Desenha o gráfico de uma equação e sua primeira e segunda derivada.",
         "url": "https://www.walter-fendt.de/html5/mpt/derivative12_pt.htm",
         "thumb": "",
@@ -6853,7 +6858,7 @@
         "author": "LabFis-IFC"
     },
     {
-        "name": "Plano Inclinado",
+        "name": "Plano inclinado",
         "descript": "Permite o estudo do movimento de um bloco em um plano inclinado sob diferentes condições de gravidade, inclinação, massa e atrito.",
         "url": "https://www.laboratoriovirtual.fisica.ufc.br/plano-inclinado",
         "thumb": "https://static.wixstatic.com/media/e02095_187cf233043c4a84b9cfe00235dbe436~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/planoinclinado.png",
@@ -12151,7 +12156,7 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Dois pêndulos caóticos",
+        "name": "Dois Pêndulos Caóticos",
         "descript": "Dois pêndulos acionados que começam quase de forma idêntica demonstrando a sensibilidade às condições iniciais de sistemas caóticos. A princípio parece um único pêndulo, mas espere um minuto e você verá que os dois pêndulos divergem em seu comportamento. Ajuste parâmetros como: diferença de ângulo inicial, amplitude de acionamento, frequência, massa, gravidade e amortecimento e posição inicial.",
         "url": "https://www.myphysicslab.com/pendulum/compare-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Pendulum-compare.png",
@@ -12168,7 +12173,7 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "pêndulo móvel",
+        "name": "Pêndulo Móvel",
         "descript": "Um pêndulo preso a um ponto de suporte móvel ou \"bloco âncora\". Altere parâmetros como gravidade, comprimento do pêndulo, amortecimento, amplitude, frequência e força de vibração periódica.",
         "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
@@ -12182,7 +12187,7 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Pêndulo duplo",
+        "name": "Pêndulo Duplo",
         "descript": "Essa é uma simulação de um pêndulo duplo. Para grandes oscilações é um sistema caótico, mas para pequenas oscilações é um sistema linear.",
         "url": "https://www.myphysicslab.com/pendulum/double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_dbl_pendulum.gif",
@@ -12201,7 +12206,7 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Pêndulo duplo móvel",
+        "name": "Pêndulo Duplo móvel",
         "descript": "Essa é uma simulação física de um sistema de pêndulo duplo na qual o suporte pode ser movido.",
         "url": "https://www.myphysicslab.com/pendulum/moveable-double-pendulum-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-double-pendulum.png",
@@ -12578,7 +12583,7 @@
         "author": "MyPhysicsLab"
     },
     {
-        "name": "Pêndulo duplo com motor de física",
+        "name": "Pêndulo Duplo com motor de física",
         "descript": "Simulação de um pêndulo duplo utilizando uma engine física realista.",
         "url": "https://www.myphysicslab.com/engine2D/double-pendulum2-en.html",
         "thumb": "https://www.myphysicslab.com/home-page/pic_double_pendulum2.gif",
@@ -14124,21 +14129,33 @@
     },
     {
         "name": "Peso aparente (e a força de empuxo)",
-        "descript": "A simulação ilustra o conceito de peso aparente e como ele pode estar relacionado ao empuxo.",
+        "descript": "Ilustra o conceito de peso aparente e como ele pode estar relacionado ao empuxo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/fluid_apparent_weight.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Pressão em um fluido estático",
-        "descript": "A simulação traz quatro sensores de pressão. O primeiro no ar, o segundo em um recipiente com água, o terceiro num recipiente com mercúrio e o quarto em um recipiente com líquido desconhecido. O cursor controla a posição dos sensores de pressão no interior desses fluidos.",
+        "descript": "Traz quatro sensores de pressão: no ar, no recipiente com água, no recipiente com mercúrio no recipiente com líquido desconhecido. Controle a posição dos sensores de pressão no interior desses fluidos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/pressure.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Força",
+            "Hidrostática",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14369,11 +14386,18 @@
     },
     {
         "name": "Processos isotérmicos, isobáricos e isocóricos",
-        "descript": "Nessa simulação é possível investigar as transformações isobáricas (pressão constante), isocóricas (volume constante) e isotérmicas (temperatura constante).",
+        "descript": "Investigue as transformações isobáricas (pressão constante), isocóricas (volume constante) e isotérmicas (temperatura constante).",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_heattransfer.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14423,11 +14447,20 @@
     },
     {
         "name": "Porque um processo adiabático muda de temperatura?",
-        "descript": "A simulação demonstra um processo adiabático observando um único átomo em um cilindro e com isso tenta responder à pergunta feita.",
+        "descript": "Demonstra um processo adiabático observando um único átomo em um cilindro e com isso tente responder à pergunta feita.",
         "url": "http://physics.bu.edu/~duffy/HTML5/adiabatic_mechanism.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Mecânica",
+            "Quântica",
+            "Química",
+            "Atômica",
+            "Termodinâmica",
+            "Termologia",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16678,17 +16711,25 @@
             "Física",
             "Cinemática",
             "Energia",
-            "Mecânica"
+            "Função",
+            "Mecânica",
+            "Jogo",
+            "Mobile"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Perda de energia em salto com previsão",
-        "descript": "",
+        "descript": "Investiguem a quantidade de energia perdida por uma bola quando ela quica, ou seja quanta energia é perdida quando a bola é lançada de diferentes alturas.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=613",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyLossWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Mecânica",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17250,7 +17291,7 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Plano Inclinado - Deslisamento",
+        "name": "Plano inclinado - Deslisamento",
         "descript": "Investigue a relação entre o ângulo de inclinação e a aceleração do objeto. Varie o ângulo e a massa do objeto sem atrito.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=16",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InclinedPlaneLab/images/OverviewPicture.png",
@@ -17650,22 +17691,38 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Pendulum PocketLab",
-        "descript": "",
+        "name": "Pêndulo PocketLab",
+        "descript": "Ajuste a massa de um peso de pêndulo, o comprimento do pêndulo, o ângulo de deslocamento e o campo gravitacional onde o pêndulo está balançando e veja como essas variáveis ​​afetam a taxa de oscilação de um pêndulo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=496",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumPocketLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "pêndulos",
-        "descript": "",
+        "name": "Pêndulos",
+        "descript": "Investigue os fatores que afetam a taxa na qual um pêndulo oscila. Altere o comprimento do pêndulo, o ângulo de liberação e o corpo celeste no qual o pêndulo está oscilando.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=186",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17693,12 +17750,18 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Pré-laboratório de aceleração Photogate",
-        "descript": "",
+        "name": "Aceleração lab",
+        "descript": "Pratique como encontrar a aceleração (constante) de um objeto (carrinho de brinquedo) usando dois sensores. ",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=287",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/MeasuringPhotogateAccelerationPrelab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Vetores",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17722,21 +17785,37 @@
     },
     {
         "name": "Pêndulo PocketLab com previsão",
-        "descript": "",
+        "descript": "Examine o efeito do comprimento no período de um pêndulo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=574",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PendulumPredictionPocketLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Pressão do PocketLab abaixo de um laboratório de fluidos",
-        "descript": "",
+        "name": "Pressão em fluidos Lab",
+        "descript": "Examine a relação entre a profundidade e a pressão em um fluido.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=530",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PocketLabPressureBelowFluidLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Gráfico",
+            "Força",
+            "Função",
+            "Hidrostática",
+            "Matemática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17772,42 +17851,67 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Prevendo a velocidade no local em uma rampa",
-        "descript": "",
+        "name": "Prevendo a velocidade em um ponto em uma rampa",
+        "descript": "Use um detector de movimentopara encontrar a aceleração de um carro em uma ladeira. Em seguida, use essa aceleração para prever a velocidade em um determinado ponto ao longo da rampa.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=503",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpeedAtLocationOnRamp//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Projéteis",
-        "descript": "",
+        "descript": "Encontre as relações que afetam a distância horizontal percorrida por um projétil. Modifique a altura inicial, a velocidade inicial e o ângulo em que o projétil é disparado.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=25",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ProjectileLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Gráfico",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "polias",
-        "descript": "",
+        "name": "Polias",
+        "descript": "Encontre a relação entre o número de polias usadas e a força necessária para levantar uma massa. Altere o número de polias, o planeta e a massa.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=31",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PulleyLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Matemática",
+            "Geometria",
+            "Números",
+            "Mecânica",
+            "Força",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "PVC Queda Livre",
-        "descript": "",
+        "name": "Queda Livre em um tubo",
+        "descript": "Colete e análise de dados de queda livre num tubo. Lançe massas de diferentes alturas e calcule a velocidade.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=7",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/PVCFreefallLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Astronomia",
+            "Matemática",
+            "Mecânica",
+            "Números",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18492,11 +18596,19 @@
     },
     {
         "name": "Ponte suspensa",
-        "descript": "",
+        "descript": "Observe como as forças necessárias para suportar uma ponte suspensa mudam à medida que um objeto se move pela ponte.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=40",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SuspensionBridge/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Função",
+            "Geometria",
+            "Matemática",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -19045,7 +19157,7 @@
         "author": "SimuFísica"
     },
     {
-        "name": "Pêndulo duplo",
+        "name": "Pêndulo Duplo",
         "descript": "Simula um pêndulo duplo sem amortecimento desenhando a trajetória e indicando sua imprevisibilidade.",
         "url": "https://simufisica.com/simulacoes/pendulo-duplo/",
         "thumb": "https://simufisica.com/images/pendulo-duplo.png",
