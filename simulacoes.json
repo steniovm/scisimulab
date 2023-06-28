@@ -16546,7 +16546,11 @@
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=387",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ConvergingMirrorLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16926,22 +16930,30 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Taxa de fluxo de um dispensador com laboratório de previsões",
-        "descript": "",
+        "name": "Fluxo de uma torneira",
+        "descript": "Modifique a altura de um fluido em um recipiente. veja como isso afeta o fluxo e a velocidade do fluido que sai do recipiente.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=591",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateFromBeverageDispenserPredictionsLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Taxa de Fluxo do Laboratório Dispensador",
-        "descript": "",
+        "name": "Fluxo de uma torneira de varios fluidos",
+        "descript": "Descubra a fórmula que associa a vazão às propriedades da torneira, fluido, planeta e altura.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=346",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateFromBeverageDispenserLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Gravitação",
+            "Função",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16959,12 +16971,15 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Taxa de Fluxo com Previsões",
-        "descript": "",
+        "name": "Fluxo de água com velocidade constante",
+        "descript": "Explore a relação entre o raio e a vazão de uma torneira, onde a velocidade da água é constante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=540",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/FlowRateWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17031,7 +17046,7 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Force Electric MiniLab com números",
+        "name": "Gráfico rápido",
         "descript": "Obtenha rapidamente, e numericamente, as relações entre a força da eletrostática e os fatores que determinam sua resistência.",
         "url": "http://www.thephysicsaviary.com/Physics/Programs/Tools/Graphing/index.html",
         "thumb": "",
@@ -17237,12 +17252,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Representando graficamente o movimento de dois estágios",
-        "descript": "",
+        "name": "Movimento de dois estágios (MRUV e MRU)",
+        "descript": "Acompanhe o movimento de Allie's Drag Racer (piloto de dragster-corrida de arrancada) conforme ele acelera e depois se move a uma velocidade constante. Escolha o motor e a massa do veiculo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=6",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/GraphingDragRacerMotionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17485,11 +17504,15 @@
     },
     {
         "name": "Resistência interna com previsão",
-        "descript": "",
+        "descript": "Determine a resistência interna de uma bateria, bem como seu potencial eletroquímico, e a corrente máxima dela bateria.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=599",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/InternalResistanceOfBatteryWithPrediction/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Função",
+            "Jogo",
+            "Energia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17700,11 +17723,18 @@
     },
     {
         "name": "Sistema da 2ª Lei de Newton",
-        "descript": "",
+        "descript": "Investigue os fatores que afetam a aceleração de um objeto em uma superfície horizontal sem atrito. Varie parâmetros como força motriz e massa total e veja como a aceleração é afetada.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=12",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/NewtonsLawLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Estatística",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18128,12 +18158,17 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "RC no Laboratório AC",
-        "descript": "",
+        "name": "Corrente Alternada (CA) em circuito RC",
+        "descript": "Entenda a diferença entre circuitos alimentados por corrente continua (CC) e por corrente alternada (CA). Veja como mudanças simples na frequência levam a mudanças na diferença de potencial entre os componentes de um circuito RC.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=384",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RCinACLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18168,51 +18203,70 @@
     },
     {
         "name": "Refletindo Ondas",
-        "descript": "",
+        "descript": "Visualize o progresso de uma onda ao longo de uma corda e a maneira como o pulso da onda reflete em diferentes limites. Altere a amplitude, a frequência, o número de ondas, a tensão na corda e a densidade linear da corda.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=61",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ReflectingWaves/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Refração da Luz",
-        "descript": "",
+        "descript": "Investigue as mudanças no ângulo (ângulo de incidência e ângulo de refração) que ocorrem quando a luz muda de um meio para outro.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=76",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RefractionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Geometria",
+            "Ondas",
+            "Radiação",
+            "Trigonometria"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Resistência do Fio",
-        "descript": "",
+        "name": "Resistência de um Fio",
+        "descript": "Investigue os fatores que afetam a resistência de um fio. Ajuste o comprimento, o diâmetro e o material do qual o fio é construído e veja como a resistência varia.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=50",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceOfWireLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Função",
+            "Geometria"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Resistência do Fio baseada na Lei de Ohm",
-        "descript": "",
+        "name": "Resistência e resistividade de um Fio",
+        "descript": "Determine a resistividade de um fio com base na corrente que passa por diferentes comprimentos de fio (Lei de Ohm), use a área da seção transversal para encontrar a resistividade do material.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=51",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceOfWireChallengeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Função",
+            "Geometria",
+            "Jogo"
         ],
         "author": "ThePhysicSaviary"
     },
     {
         "name": "Resistência do Fio à Tensão com Previsões",
-        "descript": "",
+        "descript": "Encontre a resistência de um fio determinando a tensão que deve colocar no fio para criar uma corrente de 1 ampere. Mude a espessura do fio para ver como afeta a resistência.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=569",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResistanceFromVoltageLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Função",
+            "Geometria"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18281,22 +18335,32 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "RL em CA",
-        "descript": "",
+        "name": "Corrente Alternada (CA) em circuito RL",
+        "descript": "Entenda a diferença entre circuitos alimentados por corrente continua (CC) e por corrente alternada (CA). Veja como mudanças simples na frequência levam a mudanças na diferença de potencial entre os componentes de um circuito RL.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=385",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RLinACLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "RLC no Laboratório AC",
-        "descript": "",
+        "name": "Corrente Alternada (CA) em circuito RLC",
+        "descript": "Encontre a frequência de ressonância de um circuito RLC em série (resistor, capacitor e indutor) alterando a frequência para obter a tensão máxima para o resistor.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=562",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RLCinACLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Gráfico",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18711,12 +18775,16 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Super Soaker Lab",
-        "descript": "",
+        "name": "Jato de água Lab",
+        "descript": "Observe como a pressão por trás de um fluxo de água afeta a velocidade com que a água sai pelo bocal de uma mangueira.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=300",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SuperSoakerLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Geometria",
+            "Hidrostática",
+            "Mecânica"
         ],
         "author": "ThePhysicSaviary"
     },
