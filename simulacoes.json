@@ -13005,7 +13005,13 @@
         "url": "http://physics.bu.edu/~duffy/HTML5/climate_change_historical_energy.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Energia",
+            "Estatística",
+            "Gráfico",
+            "Matemática",
+            "Números"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13078,11 +13084,15 @@
     },
     {
         "name": "Velocidade Constante vs. Aceleração Constante",
-        "descript": "A simulação permite a comparação por meio de um gráfico de dois movimentos, um deles com velocidade constante e o outro com aceleração constante.",
+        "descript": "Permite a comparação por meio de gráfico de dois movimentos, um deles com velocidade constante e o outro com aceleração constante.",
         "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_constantv_constanta.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13134,41 +13144,65 @@
     },
     {
         "name": "Pousando um foguete",
-        "descript": "Esta é uma simulação de uma bola acoplada a um foguete. A bola é abandonada de uma altura de 40 m e na altura de 20 m o foguete é acionado. É possível acompanhar a posição, velocidade e aceleração da bola por meio de gráficos.",
+        "descript": "Simula uma bola acoplada a um foguete. A bola é abandonada de uma altura de 40 m e quando atinge 20 m o foguete é acionado. Acompanhe a posição, velocidade e aceleração da bola por meio de gráficos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/1Dmotion_graphs_twoa.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Tarefa de classificação - classificação por aceleração",
-        "descript": "A simulação mostra cinco diferentes representações cada uma correspondendo a uma configuração diferente de movimento com aceleração constante, sua tarefa é associar cada uma delas à correta baseando-se no módulo da aceleração.",
+        "descript": "Simula cinco diferentes representações cada uma correspondendo a uma configuração diferente de movimento com aceleração constante, associe cada uma delas à correta baseando-se no módulo da aceleração.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ranking_acceleration.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Rampa do Galileu (com som)",
-        "descript": "A simulação emite um beep toda vez que a bola pssa por uma das linhas verticais, de forma similar aos sinos na rampa de Galileu.",
+        "descript": "Emite um beep toda vez que a bola pssa por uma das linhas verticais na rampa, de forma similar aos sinos na rampa de Galileu.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Galileos_ramp.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Jogo",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Velocidade relativa: corrida em uma calçada em movimento",
-        "descript": "A simulação trata da velocidade relativa entre dois corpos em uma dimensão.",
+        "descript": "Simula a velocidade relativa entre duas corredoras (Mia e Brandi) em uma dimensão, Mia corre em uma esteira móvel.",
         "url": "http://physics.bu.edu/~duffy/HTML5/relative_velocity_race.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Relatividade",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13191,17 +13225,25 @@
     },
     {
         "name": "Um carrinho de balística",
-        "descript": "Essa simulação mostra um carro que durante seu movimento retilíneo e uniforme atira uma bola para cima. Por meio do movimento descrito pela bola é possível concluir várias coisas a respeito da sua velocidade.",
+        "descript": "Mostra um carro que durante seu movimento retilíneo e uniforme atira uma bola para cima. Por meio do movimento descrito pela bola é possível concluir várias coisas a respeito da sua velocidade.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ballistics_cart.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Relatividade",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Movimento do projétil - velocidade e ângulo definidos",
-        "descript": "A simulação mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado segundo um ângulo que pode ser variado.",
+        "descript": "Mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado segundo um ângulo que pode ser variado.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile1.html",
         "thumb": "",
         "categorys": [
@@ -13217,7 +13259,7 @@
     },
     {
         "name": "Movimento do projétil - componentes da velocidade inicial",
-        "descript": "A simulação mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado com uma velocidade inicial que pode ser alterada.",
+        "descript": "Mostra por meio de um gráfico das posições vertical e horizontal o movimento de um projétil atirado com uma velocidade inicial que pode ser alterada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile2.html",
         "thumb": "",
         "categorys": [
@@ -13233,7 +13275,7 @@
     },
     {
         "name": "Movimento do projétil - diagrama de movimento, componentes de velocidade e gráficos",
-        "descript": "A simulação mostra uma bola durante um movimento de projétil e também vários gráficos associados a esse movimento.",
+        "descript": "Mostra uma bola durante um movimento de projétil e também vários gráficos associados a esse movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion.html",
         "thumb": "",
         "categorys": [
@@ -13249,7 +13291,7 @@
     },
     {
         "name": "Movimento do projétil - com diagrama de movimento e componentes de velocidade",
-        "descript": "A simulação mostra uma bola durante um movimento de projétil com a possibilidade de variação de diversos parâmetros relacionados a esse movimento.",
+        "descript": "Mostra uma bola durante um movimento de projétil com a possibilidade de variação de diversos parâmetros relacionados a esse movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/projectile_motion_nographs.html",
         "thumb": "",
         "categorys": [
@@ -13281,7 +13323,7 @@
     },
     {
         "name": "Vetores inteiros",
-        "descript": "mostra diferentes maneiras de observar os vetores de posição e velocidade para uma bola que experimenta o movimento de um projétil.",
+        "descript": "Mostra diferentes maneiras de observar os vetores de posição e velocidade para uma bola que experimenta o movimento de um projétil.",
         "url": "http://physics.bu.edu/~duffy/HTML5/whole_vectors.html",
         "thumb": "",
         "categorys": [
@@ -13460,7 +13502,7 @@
     },
     {
         "name": "Pêndulo Cônico - Uma bola em uma corda",
-        "descript": "A simulação mostra o movimento de uma bola presa a uma corda. A bola descreve um movimento circular em um plano horizontal.",
+        "descript": "Mostra o movimento de uma bola presa a uma corda. A bola descreve um movimento circular em um plano horizontal.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ball_on_string.html",
         "thumb": "",
         "categorys": [
@@ -13475,11 +13517,17 @@
     },
     {
         "name": "Um disco em uma plataforma giratória",
-        "descript": "Essa é uma simulação de um disco em uma vitrola (ou toca-discos). O disco começa seu movimento de giro a partir do repouso e possui uma aceleração angular. Um objeto colocado sobre o disco acompanha o movimento circular por alguns instantes, mas depois acaba escapando. As forças sobre o objeto podem ser acompanhadas por meio de gráficos.",
+        "descript": "Simula um disco em uma vitrola (ou toca-discos) com aceleração angular. Um objeto colocado sobre o disco acompanha o movimento circular por alguns instantes, mas depois acaba escapando. As forças sobre o objeto podem ser acompanhadas por meio de gráficos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/circular_disk_turntable.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13522,7 +13570,7 @@
     },
     {
         "name": "Momento e Impulso",
-        "descript": "A simulação mostra por meio de um gráfico o efeito sobre a quantidade de movimento da aplicação de uma força de valor que pode ser ajustado.",
+        "descript": "Mostra por meio de um gráfico o efeito sobre a quantidade de movimento da aplicação de uma força de valor que pode ser ajustado.",
         "url": "http://physics.bu.edu/~duffy/HTML5/impulse.html",
         "thumb": "",
         "categorys": [
@@ -13758,12 +13806,22 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um pêndulo balístico",
+        "name": "Pêndulo Balístico",
         "descript": "Um pêndulo balístico é um dispositivo que pode ser usado em investigações policiais para determinar a velocidade de um projétil. A bala atinge um corpo preso a uma corda e fica presa nesse corpo, fazendo com que ele oscile até uma altura máxima, que pode ser utilizada para determinar a velocidade do projétil.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ballistic_pendulum.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Momentum",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -13789,7 +13847,7 @@
     },
     {
         "name": "Interações gravitacionais - evolução do tempo",
-        "descript": "Os objetos começam com velocidades aleatórias e você pode obter alguns padrões interessantes. Mova as partículas e altere suas massas. Essas partículas interagem por meio da gravidade, então você pode ver a força gravitacional líquida em cada uma, bem como as forças gravitacionais individuais.",
+        "descript": "Objetos começam com velocidades aleatórias e você pode obter alguns padrões interessantes. Mova as partículas e altere suas massas. Essas partículas interagem por meio da gravidade, então você pode ver a força gravitacional líquida em cada uma, bem como as forças gravitacionais individuais.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitational_interaction_evolve.html",
         "thumb": "",
         "categorys": [
@@ -13807,7 +13865,7 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um sistema binário",
+        "name": "Sistema Binário - Gravitação",
         "descript": "As velocidades dos dois objetos são inicialmente iguais e opostas. Mova os objetos e altere suas massas. Esses objetos interagem por meio da gravidade, então você pode ver a força gravitacional em cada um.",
         "url": "http://physics.bu.edu/~duffy/HTML5/gravitation_binary_system.html",
         "thumb": "",
@@ -13947,11 +14005,19 @@
     },
     {
         "name": "Rotação de uma porta giratória",
-        "descript": "A simulação demonstra por meio da indicação dos valores da força aplicada e da posição de aplicação o torque e a velocidade angular resultante.",
+        "descript": "Demonstra por meio de vetores indicando a força aplicada e da posição de aplicação o torque e a velocidade angular resultante.",
         "url": "http://physics.bu.edu/~duffy/HTML5/revolving_door.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Gráfico",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14007,21 +14073,37 @@
     },
     {
         "name": "Um bloco e uma polia",
-        "descript": "A simulação demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia.",
+        "descript": "Demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia.",
         "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Função",
+            "Geometria",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Um bloco e uma polia, com gráficos de barra de energia",
-        "descript": "A simulação demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia, além disso, por meio de gráficos, é possível acompanhar a energia dos dois corpos ao longo do movimento.",
+        "descript": "Demonstra o movimento de queda de um bloco preso a uma polia bem como o movimento de giro descrito por essa polia, além disso, por meio de gráficos, é possível acompanhar a energia dos dois corpos ao longo do movimento.",
         "url": "http://physics.bu.edu/~duffy/HTML5/block_and_pulley_energy.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Força",
+            "Função",
+            "Geometria",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14058,11 +14140,18 @@
     },
     {
         "name": "Rolando - quatro exibições",
-        "descript": "A simualação foca no movimento de rolamento sem deslizamento que é o movimento típico de pneus de carros e bicicletas.",
+        "descript": "Simula o movimento de rolamento sem deslizamento que é o movimento típico de pneus de carros e bicicletas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/rolling.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14116,11 +14205,19 @@
     },
     {
         "name": "Um cilindro de aceleração",
-        "descript": "A simulação mostra um cilindro de raio R que acelera para a direita em decorrência da aplicação de uma força, em roxo, sobre ele.",
+        "descript": "Mostra um cilindro de raio R que acelera para a direita em decorrência da aplicação de uma força sobre ele.",
         "url": "http://physics.bu.edu/~duffy/HTML5/accelerating_cylinder.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14165,41 +14262,79 @@
     },
     {
         "name": "Uma bola em uma mola",
-        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua posição registrada em um gráfico.",
+        "descript": "Demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua posição registrada em um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_graphs.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Matemática",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Uma bola em uma mola - gráficos de energia",
-        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua energia registrada em um gráfico.",
+        "descript": "Demonstra o comportamento oscilatório de uma massa presa a uma mola tendo a sua energia registrada em um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_energy.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Energia",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Uma bola em uma mola - com amortecimento (atrito)",
-        "descript": "A simulação demonstra o comportamento oscilatório de uma massa presa a uma mola sujeita à força de atrito enquanto oscila. É possível acompanhar a amplitude de oscilação por meio de um gráfico.",
+        "descript": "Demonstra o comportamento oscilatório de uma massa presa a uma mola sujeita à força de atrito enquanto oscila. É possível acompanhar a amplitude de oscilação por meio de um gráfico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/mass_on_spring_damped.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Cinemática",
+            "Força",
+            "Função",
+            "Energia",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Uma onda de primavera (semelhante à onda de pêndulo)",
-        "descript": "A simulação demonstra o resultado de massas presas a molas individuais oscilando com fases ligeiramente diferentes. O resultado é a formação de padrões aleatórios surpreendentes.",
+        "descript": "Demonstra o resultado de massas presas a molas individuais oscilando com fases ligeiramente diferentes. O resultado é a formação de padrões aleatórios surpreendentes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/spring_wave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Aritmética",
+            "Geometria",
+            "Números",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14382,7 +14517,7 @@
     },
     {
         "name": "Misture gelo e água",
-        "descript": "A simulação mostra o resultado de se misturar gelo e água, mostrando a situação que ocorrerá quando o sistema atingir o equilíbrio térmico.",
+        "descript": "Mostra o resultado de se misturar gelo e água, mostrando a situação que ocorrerá quando o sistema atingir o equilíbrio térmico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ice_and_water.html",
         "thumb": "",
         "categorys": [
@@ -14397,7 +14532,7 @@
     },
     {
         "name": "Gás ideal - Histograma",
-        "descript": "Uma simulação de gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura. O histograma mostra a distribuição de velocidades no gás.",
+        "descript": "Simula um gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura. O histograma mostra a distribuição de velocidades no gás.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas.html",
         "thumb": "",
         "categorys": [
@@ -14418,7 +14553,7 @@
     },
     {
         "name": "Gás ideal",
-        "descript": "Uma simulação de gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura.",
+        "descript": "Simula um gás ideal, que nem sempre é ideal. Ajuste o número de átomos, tamanho e temperatura.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph.html",
         "thumb": "",
         "categorys": [
@@ -14439,11 +14574,19 @@
     },
     {
         "name": "Gás ideal confinado em um reservatório esférico",
-        "descript": "A simulação tenta recriar o comportamento de uma porção de gás ideal confinada em um reservatório esférico. É possível alterar aguns parâmetros, como, por exemplo, o número de átomos e o tamanho deles.",
+        "descript": "Recriar o comportamento de uma porção de gás ideal confinada em um reservatório esférico. É possível alterar aguns parâmetros, como, por exemplo, o número de átomos e o tamanho deles.",
         "url": "http://physics.bu.edu/~duffy/HTML5/ideal_gas_nograph_circle.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Clima",
+            "Energia",
+            "Estatística",
+            "Números",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14480,7 +14623,7 @@
     },
     {
         "name": "Lei de Resfriamento de Newton",
-        "descript": "A simulação ilustra o a lei de Newton para o resfriamento numa situação em que uma placa de metal é colocada em água até que o sistema atinja o equilíbrio térmico.",
+        "descript": "Ilustra o a lei de Newton para o resfriamento numa situação em que uma placa de metal é colocada em água até que o sistema atinja o equilíbrio térmico.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Newton_cooling.html",
         "thumb": "",
         "categorys": [
@@ -14563,11 +14706,20 @@
     },
     {
         "name": "Um exemplo de ciclo termodinâmico",
-        "descript": "Essa animação retrata um ciclo termodinâmico específico para um gás ideal.",
+        "descript": "Retrata um ciclo termodinâmico específico para um gás ideal.",
         "url": "http://physics.bu.edu/~duffy/HTML5/PV_diagram_cycle.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Clima",
+            "Densidade",
+            "Energia",
+            "Estatística",
+            "Números",
+            "Gráfico",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14620,11 +14772,18 @@
     },
     {
         "name": "Uma onda transversal",
-        "descript": "A animação demonstra a oscilação de uma onda transversal e por meio de um gráfico mostra como varia a amplitude dessa onda a cada instante de tempo.",
+        "descript": "Demonstra a oscilação de uma onda transversal e por meio de um gráfico, mostra como varia a amplitude dessa onda a cada instante de tempo.",
         "url": "http://physics.bu.edu/~duffy/HTML5/wave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
