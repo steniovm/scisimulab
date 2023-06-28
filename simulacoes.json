@@ -16730,12 +16730,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Torre de despejo com laboratório de parcelas salvas",
-        "descript": "",
+        "name": "Torre de despejo com Gráficos",
+        "descript": "Observe como diferentes fatores afetam a taxa na qual objetos reais cairiam na presença da resistência do ar. Crie gráficos de tempo por posição, tempo por velocidade e tempo por aceleração. Esta torre está localizada em um planeta nos confins do universo.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=589",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DumpTowerLab2//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Densidade",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Gravitação",
+            "Mecânica",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -16864,12 +16872,19 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Transformações de energia",
-        "descript": "",
+        "name": "Transformações de energia numa mola",
+        "descript": "Investigue a transformação de energia potencial elástica em energia cinética. Ajuste a massa do jogador de hóquei lançado pela mola, a constante elástica da mola e a compressão inicial da mola.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=37",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/EnergyTransformationLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -17827,7 +17842,8 @@
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Energia"
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18290,16 +18306,21 @@
     },
     {
         "name": "Tubos de Ressonância",
-        "descript": "",
+        "descript": "Visualize a formação de ondas estacionárias em um instrumento de sopro. Encontrer as frequências fundamentais, bem como alguns harmônicos superiores.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=64",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ResonanceTubeLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Função",
+            "Matemática",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Travessia do Rio por Barco",
+        "name": "Travessia de um rio por barco",
         "descript": "Veja como cruzar um rio com um barco de brinquedo. Antes de soltar o barco, ajuste a velocidade em relação à água e o ângulo em que sua proa aponta em relação à costa. observe o movimento relativo em um ambiente bidimensional.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=278",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/RiverCrossingLab/images/OverviewPicture.png",
@@ -18471,7 +18492,8 @@
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Energia"
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18483,7 +18505,8 @@
         "categorys": [
             "Física",
             "Eletrodinâmica",
-            "Energia"
+            "Energia",
+            "Função"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18581,7 +18604,7 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Espaço ao redor do Charge Lab",
+        "name": "Espaço ao redor de uma carga",
         "descript": "Observe os fatores que determinam o campo elétrico e a tensão em torno de uma carga. Mova o sensor Pacman pelo espaço, mas não se aproxime muito da carga central ou você será ejetado para os confins do seu espaço.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=258",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/SpaceAroundChargeLab/images/OverviewPicture.png",
@@ -18663,12 +18686,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Velocidade da onda na corda",
-        "descript": "",
+        "name": "Violão - Velocidade de ondas em cordas",
+        "descript": "Descobrir as relações entre a densidade linear e a tensão na corda com a velocidade da onda ao longo dela tocando violão.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=66",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WaveOnStringLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Mecânica",
+            "Ondas",
+            "Oscilações",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18849,11 +18880,18 @@
     },
     {
         "name": "Velocidade térmica com laboratório de previsão",
-        "descript": "",
+        "descript": "Observe a relação entre velocidade e temperatura de um gás ideal.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=629",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/ThermalSpeedWithPredictionLab//images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Atômica",
+            "Energia",
+            "Função",
+            "Jogo",
+            "Química",
+            "Termodinâmica",
+            "Termologia"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -18981,11 +19019,18 @@
     },
     {
         "name": "Velocidade de Repulsão",
-        "descript": "",
+        "descript": "Observe a velocidade máxima que um objeto pode obter quando é eletricamente repelido por uma carga semelhante.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=377",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/VelocityFromRepulsionLab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Cinemática",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Função",
+            "Matemática",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
@@ -19021,12 +19066,20 @@
         "author": "ThePhysicSaviary"
     },
     {
-        "name": "Trabalhe para o Laboratório KE",
-        "descript": "",
+        "name": "Trabalho de força no espaço",
+        "descript": "Descubram a relação entre o trabalho realizado por uma força e a velocidade adquirida pelo astronauta Wally que experimenta a força. Ajustar a intensidade da força, a que distância a força será aplicada e a massa do astronauta e meça a velocidade final.",
         "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=34",
         "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/WorkToKELab/images/OverviewPicture.png",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Energia",
+            "Força",
+            "Função",
+            "Mecânica",
+            "Momentum",
+            "Vetores"
         ],
         "author": "ThePhysicSaviary"
     },
