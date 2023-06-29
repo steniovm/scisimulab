@@ -14924,11 +14924,17 @@
     },
     {
         "name": "Reflexões",
-        "descript": "",
+        "descript": "Mostra a refleção de uma onda em uma corda, bem como a separação das ondas incidentes e refletida.",
         "url": "http://physics.bu.edu/~duffy/HTML5/reflections.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Aritmética",
+            "Gráfico",
+            "Função",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15004,12 +15010,15 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um eletroscópio e uma barra carregada",
-        "descript": "",
+        "name": "Eletroscópio e uma barra carregada",
+        "descript": "Veja como um eletroscópio reage ao se aproximar e se afastar de uma bara carregada, tanto positivamente e quanto negativamente.",
         "url": "http://physics.bu.edu/~duffy/HTML5/electroscope_charged_rod.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Atômica",
+            "Força"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15758,31 +15767,59 @@
     },
     {
         "name": "Um polarizador (luz incidente polarizada)",
-        "descript": "",
+        "descript": "Simula o que acontece quando luz polarizada com intensidade maxima incide em um polarizador. Ajuste os ângulos de polarização e do polarizador. O gráfico mostra a intensidade da luz em função do ângulo do eixo de transmissão do polarizador.",
         "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_onepolarizer.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Química",
+            "Radiação",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Três polarizadores (luz incidente não polarizada)",
-        "descript": "",
+        "descript": "Simula o que acontece quando luz com intensidade maxima incide em uma sequência de três polarizadores. Ajuste os ângulos de cada polarizador individualmente. O gráfico mostra a intensidade da luz em cada etapa da transmissão.",
         "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Química",
+            "Radiação",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Três polarizadores - o que há por trás da cortina?",
-        "descript": "",
+        "descript": "Determine o ângulo do eixo de transmissão do polarizador oculto atráves da simulação do que acontece quando luz incide em uma sequência de três polarizadores. Ajuste os ângulos dos polarizadores anterior e posterior. O gráfico mostra a intensidade da luz em cada etapa da transmissão.",
         "url": "http://physics.bu.edu/~duffy/HTML5/polarized_light_curtain.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Química",
+            "Radiação",
+            "Trigonometria",
+            "Vetores",
+            "Óptica",
+            "Jogo"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15874,22 +15911,32 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Teste a si mesmo - o que está por trás da cortina? (Espelhos)",
-        "descript": "",
+        "name": "Teste a si mesmo - Espelho oculto",
+        "descript": "Selecione o tipo de espelho (plano, concâvo ou convexo) oculto e descubra sua distância focal",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_curtain.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica",
+            "Jogo"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Teste você mesmo - encontre a distância focal",
-        "descript": "",
+        "descript": "Encontre a distância focal de um espelho concâvo movendo o objeto e observando os raios notáveis e a imagem.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_focal_length.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica",
+            "Jogo"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15942,37 +15989,49 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - encontre a distância focal do objeto atrás da cortina (I)",
-        "descript": "",
+        "name": "Quebra-cabeça - Espelho oculto - imagem real e virtual",
+        "descript": "Determine a distância focal de um espelho oculto, concâvo ou convexo, movendo um objeto ao longo do eixo do espelho e observando os raios notáveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/final_curtain1.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - encontre a distância focal do objeto atrás da cortina (II)",
-        "descript": "",
+        "name": "Quebra-cabeça - Espelho oculto - imagem virtual",
+        "descript": "Determine a distância focal de um espelho oculto, concâvo ou convexo, movendo um objeto ao longo do eixo do espelho e observando os raios notáveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/final_curtain2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA?",
-        "descript": "",
+        "name": "Quebra-cabeça - Posição do observador - objeto além do foco do espelho",
+        "descript": "Em qual dos locais mostrados na simulação você pode colocar o olho para ver TODA a imagem do objeto?",
         "url": "http://physics.bu.edu/~duffy/HTML5/WhereEye.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Lentes (convergente ou divergente com Diagrama de raios)",
+        "name": "Lentes (Convergente ou Divergente com Diagrama de Raios)",
         "descript": "Simule a formação de imagens usando lentes, varie a posição e altura do objeto e a distancia focal da lente.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Lenses.html",
         "thumb": "",
@@ -15999,62 +16058,87 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Teste a si mesmo - o que está por trás da cortina? (Lentes)",
-        "descript": "",
+        "name": "Teste a si mesmo - Lente oculta",
+        "descript": "Selecione o tipo de lente (convergente ou divergente) oculta e descubra sua distância focal",
         "url": "http://physics.bu.edu/~duffy/HTML5/lenses_curtain.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica",
+            "Jogo"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - encontre a distância focal da lente (I)",
-        "descript": "",
+        "name": "Quebra-cabeça - Lente Convergente",
+        "descript": "Determine a distância focal de uma lente convergente movendo um objeto ao longo do eixo da lente e observando os raios notáveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle1.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - encontre a distância focal da lente (II)",
-        "descript": "",
+        "name": "Quebra-cabeça - Lente oculta - imagem real ou virtual",
+        "descript": "Determine a distância focal de uma lente oculta, convergente ou divergente, movendo um objeto ao longo do eixo da lente e observando os raios notáveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - encontre a distância focal da lente (III)",
-        "descript": "",
+        "name": "Quebra-cabeça - Lente oculta - imagem sempre real",
+        "descript": "Determine a distância focal de uma lente oculta, convergente ou divergente, movendo um objeto ao longo do eixo da lente e observando os raios notáveis.",
         "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_Puzzle3.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA? (I)",
-        "descript": "",
+        "name": "Quebra-cabeça - Posição do observador - objeto além do foco",
+        "descript": "Em qual dos locais mostrados na simulação você pode colocar o olho para ver TODA a imagem do objeto?",
         "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_WhereEye1.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - onde você pode colocar o olho para ver a imagem INTEIRA? (II)",
-        "descript": "",
+        "name": "Quebra-cabeça - Posição do observador - objeto entre foco e o centro",
+        "descript": "Em qual dos locais mostrados na simulação você pode colocar o olho para ver TODA a imagem do objeto?",
         "url": "http://physics.bu.edu/~duffy/HTML5/LensesLab_WhereEye2.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
