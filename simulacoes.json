@@ -15163,22 +15163,36 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Uma carga em um campo elétrico",
-        "descript": "",
+        "name": "Carga elétrica em campo elétrico",
+        "descript": "Simula uma partícula carregada sendo lançada perpendicularmente em um campo elétrico uniforme mostrando sua trajetória. Ajuste a intensidade do campo e da carga.",
         "url": "http://physics.bu.edu/~duffy/HTML5/charge_in_EField.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Uma carga em uma corda em um campo elétrico",
-        "descript": "",
+        "name": "Carga em uma corda em um campo elétrico",
+        "descript": "Mostra a posição de equilíbrio de uma esfera carregada pendurada em uma corda numa regição com campo elétrico uniforme. Ajuste o valor do campo, da carga e a massa da esfera para encontrar o ângulo de equilibio.",
         "url": "http://physics.bu.edu/~duffy/HTML5/field_and_string.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Gráfico",
+            "Mecânica",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15249,12 +15263,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um circuito básico",
-        "descript": "",
+        "name": "Bateria em um circuito básico",
+        "descript": "Mostra o fluxo de cargas (convencionáis ou reais) em um circuito simples, dentro e fora da bateria.",
         "url": "http://physics.bu.edu/~duffy/HTML5/battery.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletrostática",
+            "Atômica",
+            "Química"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15553,12 +15571,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um motor de corrente contínua",
-        "descript": "",
+        "name": "Motor de corrente contínua muito simples",
+        "descript": "Mostra o funcionamento de um motor de corrente continua de apenas uma espira quadrada. Acompanhe a animação sob duas pespectivas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/DC_motor.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15664,12 +15689,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Um gerador elétrico",
-        "descript": "",
+        "name": "Gerador elétrico simples",
+        "descript": "Mostra o funcionamento de um gerador de corrente eletrico de apenas uma espira retângular. Acompanhe a animação junto com os gráficos do fluxo magnético e da corrente induzida.",
         "url": "http://physics.bu.edu/~duffy/HTML5/electric_generator.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15853,32 +15885,48 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Reflexão de um espelho plano, de Steven Sahyun",
-        "descript": "",
+        "name": "Reflexão em um espelho plano",
+        "descript": "Ajuste o ângulo do espelho e veja o que acontece com o feixe refletido! Determine o ângulo quando cada observador pode ver a luz.",
         "url": "http://sahyun.net/physics/html5/reflection.htm",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
-        "author": "Physics.bu.edu"
+        "author": "StevenSahyun"
     },
     {
         "name": "Reflexão e o papel do tempo",
-        "descript": "",
+        "descript": "Digamos que você tenha dois pontos e queira que a luz viaje de um ponto a outro, refletindo em um espelho plano ao longo do caminho. Utilize o gráfico de tempo percorrido para encontrar o ponto de reflexão que fornece o trajeto mais rápido.",
         "url": "http://physics.bu.edu/~duffy/HTML5/reflection_time.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Reflexão, o papel do tempo e a lei da reflexão",
-        "descript": "",
+        "descript": "Observe a relação entre a minimização do tempo de propagação e a lei da reflexão.",
         "url": "http://physics.bu.edu/~duffy/HTML5/reflection_time_law.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Matemática",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
