@@ -14789,31 +14789,46 @@
     },
     {
         "name": "Uma onda longitudinal",
-        "descript": "",
+        "descript": "Mostra uma onda longitudinal em um tubo de ar. Ajuste a frequência e a amplitude da onda.",
         "url": "http://physics.bu.edu/~duffy/HTML5/longitudinalwave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Gráfico",
+            "Função",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Uma onda longitudinal em uma mola",
-        "descript": "",
+        "descript": "Mostra uma onda longitudinal em uma mola. Ajuste a frequência e a velocidade da onda.",
         "url": "http://physics.bu.edu/~duffy/HTML5/longitudinal_wave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Gráfico",
+            "Função",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Um filme de ondas e um gráfico",
-        "descript": "",
+        "descript": "Observe uma onda em uma corda ao longo do tempo e o gráfico de posição de um ponto desta corda. Ajuste a frequência e a amplitude da onda e a tensão e densidade linear da corda.",
         "url": "http://physics.bu.edu/~duffy/HTML5/wave_movie_and_graph.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Densidade",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações"
         ],
         "author": "Physics.bu.edu"
     },
@@ -14982,7 +14997,9 @@
         "thumb": "",
         "categorys": [
             "Física",
-            "Eletrostática"
+            "Eletrostática",
+            "Atômica",
+            "Força"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15158,41 +15175,67 @@
     },
     {
         "name": "Quebra-cabeça - determine o valor da carga",
-        "descript": "",
+        "descript": "Com base na representação do campo elétrico em volta das cargas, encontre o valor de uma carga.",
         "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_1charge.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - determine os dois valores de carga",
-        "descript": "",
+        "name": "Quebra-cabeça - determine dois valores de carga",
+        "descript": "Com base na representação do campo elétrico em volta das cargas, encontre o valor de duas cargas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_charge.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - determine os dois valores de carga dos gráficos",
-        "descript": "",
+        "name": "Quebra-cabeça - determine as cargas",
+        "descript": "Com base nos gŕaficos de campo elétrico e de potêncial elétrico encontre o valor de duas cargas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_field_potential.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Gráfico",
+            "Jogo",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - classifique as três cargas com base em sua magnitude",
-        "descript": "",
+        "name": "Quebra-cabeça de cargas",
+        "descript": "Existem três partículas carregadas, uma em cada vértice de um triângulo equilátero com a representação da força elétrica resultante. Classifique as partículas com base na magnitude de suas cargas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_Coulomb.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrostática",
+            "Força",
+            "Geometria",
+            "Jogo",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15511,12 +15554,19 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Quebra-cabeça - classifique as três correntes com base em sua magnitude",
-        "descript": "",
+        "name": "Quebra-cabeça - Três correntes",
+        "descript": "Existem três fios paralelos longos e retos, um passando por cada vértice de um triângulo equilátero. Uma representação da força eletromagética resultante que o fio experimenta é mostrada. Classifique os fios com base na magnitude de suas correntes.",
         "url": "http://physics.bu.edu/~duffy/HTML5/puzzle_3currents.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletrodinâmica",
+            "Eletromagnetismo",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Trigonometria",
+            "Vetores"
         ],
         "author": "Physics.bu.edu"
     },
@@ -15796,12 +15846,16 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Qual a altura que um espelho deve ter para que você possa se ver por inteiro?",
-        "descript": "",
+        "name": "Espelho plano - quão alto?",
+        "descript": "Qual a altura que um espelho deve ter para que você possa se ver por inteiro?",
         "url": "http://physics.bu.edu/~duffy/HTML5/Plane_Mirror_HowTall.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Geometria",
+            "Matemática",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16156,7 +16210,8 @@
         "categorys": [
             "Física",
             "Ondas",
-            "Óptica"
+            "Óptica",
+            "Geometria"
         ],
         "author": "Physics.bu.edu"
     },
