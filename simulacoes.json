@@ -8,6 +8,7 @@
    "*SciSimuLab*",
    "Biologia",
    "Evolução natural",
+   "Genética",
    "Jogo"
   ],
   "author": "Steniovm"
@@ -22,6 +23,7 @@
    "Baixar",
    "Biologia",
    "Evolução natural",
+   "Genética",
    "Jogo"
   ],
   "author": "Steniovm"
@@ -158,7 +160,8 @@
   "thumb": "./simuls/avamecalgoritimos.png",
   "categorys": [
    "Algorítimo",
-   "Jogo"
+   "Jogo",
+   "Vetores"
   ],
   "author": "AvaMec"
  },
@@ -206,8 +209,11 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/energy-skate-park",
   "thumb": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park-420.png",
   "categorys": [
+   "Cinemática",
    "Energia",
-   "Física"
+   "Força",
+   "Física",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -257,6 +263,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-compare",
   "thumb": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -296,6 +304,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/mean-share-and-balance",
   "thumb": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance-420.png",
   "categorys": [
+   "Aritmética",
+   "Estatística",
+   "Hidrostática",
    "Matemática",
    "Números"
   ],
@@ -307,9 +318,14 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-nucleus",
   "thumb": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus-420.png",
   "categorys": [
+   "Atômica",
+   "Energia",
    "Física",
    "Nuclear",
-   "Química"
+   "Números",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "Phet"
  },
@@ -319,8 +335,12 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/center-and-variability",
   "thumb": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability-420.png",
   "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Jogo",
    "Matemática",
-   "Números"
+   "Números",
+   "Probabilidade"
   ],
   "author": "Phet"
  },
@@ -331,6 +351,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/density/latest/density-420.png",
   "categorys": [
    "Densidade",
+   "Força",
    "Física",
    "Hidrostática"
   ],
@@ -355,7 +376,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/normal-modes",
   "thumb": "https://phet.colorado.edu/sims/html/normal-modes/latest/normal-modes-420.png",
   "categorys": [
+   "Função",
    "Física",
+   "Gráfico",
+   "Números",
    "Ondas",
    "Oscilações"
   ],
@@ -381,9 +405,11 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-distance",
   "thumb": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance-420.png",
   "categorys": [
+   "Aritmética",
    "Gráfico",
    "Matemática",
-   "Números"
+   "Números",
+   "Trigonometria"
   ],
   "author": "Phet"
  },
@@ -393,6 +419,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/ratio-and-proportion",
   "thumb": "https://phet.colorado.edu/sims/html/ratio-and-proportion/latest/ratio-and-proportion-420.png",
   "categorys": [
+   "Aritmética",
+   "Estatística",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -404,8 +433,13 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/collision-lab",
   "thumb": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab-420.png",
   "categorys": [
+   "Cinemática",
+   "Energia",
    "Física",
+   "Gráfico",
+   "Mecânica",
    "Momentum",
+   "Trigonometria",
    "Vetores"
   ],
   "author": "Phet"
@@ -416,6 +450,8 @@
   "url": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations_all.html?locale=pt_BR",
   "thumb": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations-420.png",
   "categorys": [
+   "Aritmética",
+   "Estatística",
    "Gráfico",
    "Matemática",
    "Números"
@@ -428,7 +464,12 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-molecule",
   "thumb": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule-420.png",
   "categorys": [
+   "Aritmética",
+   "Atômica",
    "Física",
+   "Matemática",
+   "Nuclear",
+   "Números",
    "Química"
   ],
   "author": "Phet"
@@ -440,8 +481,11 @@
   "thumb": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection-420.png",
   "categorys": [
    "Biologia",
+   "Estatística",
    "Evolução natural",
-   "Jogo"
+   "Genética",
+   "Jogo",
+   "Probabilidade"
   ],
   "author": "Phet"
  },
@@ -451,6 +495,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-integers",
   "thumb": "https://phet.colorado.edu/sims/html/number-line-integers/latest/number-line-integers-420.png",
   "categorys": [
+   "Aritmética",
    "Gráfico",
    "Matemática",
    "Números"
@@ -493,6 +538,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
   "thumb": "https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting-420.png",
   "categorys": [
+   "Função",
    "Física",
    "Gráfico",
    "Matemática",
@@ -599,6 +645,7 @@
    "Energia",
    "Força",
    "Física",
+   "Gráfico",
    "Oscilações"
   ],
   "author": "Phet"
@@ -611,6 +658,8 @@
   "categorys": [
    "Energia",
    "Física",
+   "Gráfico",
+   "Mecânica",
    "Termodinâmica"
   ],
   "author": "Phet"
@@ -624,7 +673,8 @@
    "Função",
    "Física",
    "Gráfico",
-   "Ondas"
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Phet"
  },
@@ -634,6 +684,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-mixed-numbers",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-mixed-numbers/latest/fractions-mixed-numbers-420.png",
   "categorys": [
+   "Aritmética",
+   "Geometria",
    "Matemática",
    "Números"
   ],
@@ -645,6 +697,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-intro",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-intro/latest/fractions-intro-420.png",
   "categorys": [
+   "Aritmética",
+   "Geometria",
    "Matemática",
    "Números"
   ],
@@ -656,6 +710,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-fraction",
   "thumb": "https://phet.colorado.edu/sims/html/build-a-fraction/latest/build-a-fraction-420.png",
   "categorys": [
+   "Aritmética",
+   "Geometria",
    "Matemática",
    "Números"
   ],
@@ -667,6 +723,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-equality",
   "thumb": "https://phet.colorado.edu/sims/html/fractions-equality/latest/fractions-equality-420.png",
   "categorys": [
+   "Aritmética",
+   "Geometria",
    "Matemática",
    "Números"
   ],
@@ -693,6 +751,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-quadratics",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Gráfico",
    "Matemática",
    "Números"
@@ -720,6 +780,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer-two-variables/latest/equality-explorer-two-variables-420.png",
   "categorys": [
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -732,6 +793,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics-420.png",
   "categorys": [
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -744,6 +806,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/equality-explorer/latest/equality-explorer-420.png",
   "categorys": [
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -755,7 +818,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-algebra",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-algebra/latest/area-model-algebra-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Geometria",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -767,6 +833,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-decimals",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Geometria",
    "Matemática",
    "Números"
@@ -779,7 +847,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-multiplication",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Geometria",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -787,10 +858,12 @@
  },
  {
   "name": "Modelo de Área: Intro",
-  "descript": "Representa que a área representa o produto de dois números.",
+  "descript": "Representa a área que corresponde ao produto de dois números.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-introduction",
   "thumb": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction-420.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Geometria",
    "Matemática",
    "Números"
@@ -804,7 +877,10 @@
   "thumb": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-420.png",
   "categorys": [
    "Biologia",
+   "Estatística",
+   "Evolução natural",
    "Genética",
+   "Probabilidade",
    "Química"
   ],
   "author": "Phet"
@@ -815,8 +891,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/capacitor-lab-basics",
   "thumb": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics-420.png",
   "categorys": [
+   "Eletrodinâmica",
    "Eletrostática",
    "Energia",
+   "Função",
    "Física"
   ],
   "author": "Phet"
@@ -830,7 +908,8 @@
    "Eletrodinâmica",
    "Eletrostática",
    "Energia",
-   "Física"
+   "Física",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -841,6 +920,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab-420.png",
   "categorys": [
    "Energia",
+   "Função",
    "Física",
    "Oscilações"
   ],
@@ -853,8 +933,12 @@
   "thumb": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion-420.png",
   "categorys": [
    "Cinemática",
+   "Energia",
    "Força",
+   "Função",
    "Física",
+   "Mecânica",
+   "Momentum",
    "Vetores"
   ],
   "author": "Phet"
@@ -865,8 +949,11 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
   "thumb": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity-420.png",
   "categorys": [
+   "Atômica",
    "Biologia",
    "Eletrostática",
+   "Física",
+   "Números",
    "Química"
   ],
   "author": "Phet"
@@ -878,6 +965,8 @@
   "thumb": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange-420.png",
   "categorys": [
    "Aritmética",
+   "Função",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -902,8 +991,11 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics-420.png",
   "categorys": [
+   "Algorítimo",
    "Função",
-   "Matemática"
+   "Geometria",
+   "Matemática",
+   "Números"
   ],
   "author": "Phet"
  },
@@ -913,7 +1005,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
   "thumb": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground-420.png",
   "categorys": [
+   "Algorítimo",
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -925,7 +1019,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
   "thumb": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates-420.png",
   "categorys": [
+   "Algorítimo",
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -937,7 +1033,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
   "thumb": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten-420.png",
   "categorys": [
+   "Algorítimo",
    "Aritmética",
+   "Função",
    "Matemática",
    "Números"
   ],
@@ -968,8 +1066,10 @@
   "categorys": [
    "Astronomia",
    "Força",
+   "Função",
    "Física",
-   "Gravitação"
+   "Gravitação",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -981,6 +1081,7 @@
   "categorys": [
    "Estatística",
    "Matemática",
+   "Números",
    "Probabilidade"
   ],
   "author": "Phet"
@@ -1007,7 +1108,10 @@
   "thumb": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields-420.png",
   "categorys": [
    "Eletrostática",
-   "Física"
+   "Energia",
+   "Força",
+   "Física",
+   "Gráfico"
   ],
   "author": "Phet"
  },
@@ -1033,6 +1137,8 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
   "thumb": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder-420.png",
   "categorys": [
+   "Algorítimo",
+   "Aritmética",
    "Função",
    "Matemática",
    "Números"
@@ -1048,8 +1154,9 @@
    "Atômica",
    "Física",
    "Nuclear",
+   "Números",
    "Química",
-   "Química"
+   "Radiação"
   ],
   "author": "Phet"
  },
@@ -1073,8 +1180,12 @@
   "thumb": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour-420.png",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Trigonometria",
+   "Vetores"
   ],
   "author": "Phet"
  },
@@ -1098,6 +1209,9 @@
   "thumb": "https://phet.colorado.edu/sims/html/arithmetic/latest/arithmetic-420.png",
   "categorys": [
    "Aritmética",
+   "Função",
+   "Geometria",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -1112,6 +1226,7 @@
    "Energia",
    "Força",
    "Física",
+   "Gráfico",
    "Mecânica"
   ],
   "author": "Phet"
@@ -1125,6 +1240,7 @@
    "Física",
    "Quântica",
    "Química",
+   "Radiação",
    "Óptica"
   ],
   "author": "Phet"
@@ -1135,9 +1251,13 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/least-squares-regression",
   "thumb": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression-420.png",
   "categorys": [
+   "Aritmética",
    "Função",
+   "Geometria",
    "Gráfico",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Phet"
  },
@@ -1150,7 +1270,9 @@
    "Eletrostática",
    "Física",
    "Geografia",
-   "Química"
+   "Geometria",
+   "Química",
+   "Trigonometria"
   ],
   "author": "Phet"
  },
@@ -1160,8 +1282,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
   "thumb": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers-420.png",
   "categorys": [
+   "Algorítimo",
    "Aritmética",
    "Atômica",
+   "Matemática",
    "Química"
   ],
   "author": "Phet"
@@ -1174,7 +1298,9 @@
   "categorys": [
    "Eletrodinâmica",
    "Eletromagnetismo",
-   "Física"
+   "Energia",
+   "Física",
+   "Oscilações"
   ],
   "author": "Phet"
  },
@@ -1200,6 +1326,7 @@
   "categorys": [
    "Geometria",
    "Gráfico",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -1224,8 +1351,10 @@
   "url": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html?locale=pt_BR",
   "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png",
   "categorys": [
+   "Aritmética",
    "Biologia",
    "Física",
+   "Radiação",
    "Óptica"
   ],
   "author": "Phet"
@@ -1250,9 +1379,13 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-lines",
   "thumb": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines-420.png",
   "categorys": [
+   "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
-   "Números"
+   "Números",
+   "Trigonometria",
+   "Vetores"
   ],
   "author": "Phet"
  },
@@ -1262,6 +1395,9 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/fraction-matcher",
   "thumb": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher-420.png",
   "categorys": [
+   "Aritmética",
+   "Geometria",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -1273,9 +1409,13 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
   "thumb": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act-420.png",
   "categorys": [
+   "Aritmética",
    "Força",
+   "Função",
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Momentum",
+   "Vetores"
   ],
   "author": "Phet"
  },
@@ -1285,6 +1425,7 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
   "thumb": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions-420.png",
   "categorys": [
+   "Aritmética",
    "Densidade",
    "Estatística",
    "Física",
@@ -1300,6 +1441,7 @@
   "categorys": [
    "Densidade",
    "Força",
+   "Função",
    "Física",
    "Hidrostática"
   ],
@@ -1343,6 +1485,7 @@
   "thumb": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage-420.png",
   "categorys": [
    "Eletrostática",
+   "Energia",
    "Física",
    "Jogo"
   ],
@@ -1355,6 +1498,9 @@
   "thumb": "https://phet.colorado.edu/sims/html/concentration/latest/concentration-420.png",
   "categorys": [
    "Aritmética",
+   "Atômica",
+   "Biologia",
+   "Densidade",
    "Física",
    "Química"
   ],
@@ -1366,7 +1512,10 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
   "thumb": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity-420.png",
   "categorys": [
+   "Atômica",
    "Eletrostática",
+   "Energia",
+   "Força",
    "Física"
   ],
   "author": "Phet"
@@ -1377,7 +1526,11 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
   "thumb": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab-420.png",
   "categorys": [
+   "Energia",
+   "Função",
    "Física",
+   "Números",
+   "Ondas",
    "Química",
    "Óptica"
   ],
@@ -1390,8 +1543,12 @@
   "thumb": "https://phet.colorado.edu/sims/html/molarity/latest/molarity-420.png",
   "categorys": [
    "Aritmética",
+   "Energia",
+   "Função",
    "Física",
-   "Química"
+   "Números",
+   "Química",
+   "Óptica"
   ],
   "author": "Phet"
  },
@@ -1431,6 +1588,7 @@
    "Atômica",
    "Eletrostática",
    "Física",
+   "Números",
    "Química"
   ],
   "author": "Phet"
@@ -3856,7 +4014,6 @@
    "Mecânica",
    "Ondas",
    "Oscilações",
-   "Oscilações",
    "Trigonometria"
   ],
   "author": "Vascak"
@@ -3935,7 +4092,6 @@
    "Gráfico",
    "Matemática",
    "Ondas",
-   "Ondas",
    "Oscilações",
    "Trigonometria"
   ],
@@ -3955,7 +4111,6 @@
    "Gráfico",
    "Matemática",
    "Mecânica",
-   "Ondas",
    "Ondas",
    "Oscilações"
   ],
@@ -5225,7 +5380,6 @@
    "Clima",
    "Densidade",
    "Eletrodinâmica",
-   "Eletrodinâmica",
    "Energia",
    "Função",
    "Física",
@@ -6431,7 +6585,6 @@
   "categorys": [
    "Função",
    "Geometria",
-   "Geometria",
    "Gráfico",
    "Matemática",
    "Números"
@@ -6545,6 +6698,7 @@
   "categorys": [
    "Biologia",
    "Evolução natural",
+   "Genética",
    "Jogo"
   ],
   "author": "MinuteLabs"
@@ -6581,7 +6735,8 @@
   "thumb": "",
   "categorys": [
    "Biologia",
-   "Evolução natural"
+   "Evolução natural",
+   "Genética"
   ],
   "author": "MinuteLabs"
  },
@@ -9219,6 +9374,7 @@
    "Biologia",
    "Estatística",
    "Evolução natural",
+   "Genética",
    "Números",
    "Probabilidade"
   ],
@@ -11440,7 +11596,6 @@
    "Clima",
    "Energia",
    "Função",
-   "Função",
    "Física",
    "Gráfico",
    "Jogo",
@@ -12269,7 +12424,6 @@
    "Clima",
    "Estatística",
    "Função",
-   "Função",
    "Física",
    "Geometria",
    "Gráfico",
@@ -12283,7 +12437,6 @@
   "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
   "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
   "categorys": [
-   "Função",
    "Função",
    "Física",
    "Geometria",
@@ -15492,7 +15645,6 @@
    "Física",
    "Geometria",
    "Mecânica",
-   "Momentum",
    "Momentum",
    "Números",
    "Quântica",
