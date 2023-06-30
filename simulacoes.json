@@ -15747,32 +15747,57 @@
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Visualização 3D de uma onda EM",
-        "descript": "",
+        "name": "Visualização 3D de uma onda eletromagnética",
+        "descript": "Mostra uma onda eletromagnética plano-polarizada com vetores de cores diferentes para o campo elétrico e para o campo magnético. veja sob varias pespectivas.",
         "url": "http://physics.bu.edu/~duffy/HTML5/threeD_EMwave.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Eletromagnetismo",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Radiação",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Visualização do espectro visível",
-        "descript": "",
+        "name": "Espectro Visível com escala de comprimento de onda",
+        "descript": "Representa o espectro visível da luz (entre 400 nm e 700 nm). Não é uma simulação interativa",
         "url": "http://physics.bu.edu/~duffy/HTML5/visible_spectrum.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Gráfico",
+            "Ondas",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Vela solar (pressão de radiação)",
-        "descript": "",
+        "descript": "Simula um satélite ou sonda espacial que utiliza uma vela solar como forma de propulsão. Ajuste a massa da nave e o comprimento de cada lado da vela.",
         "url": "http://physics.bu.edu/~duffy/HTML5/solar_sailboat.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Astronomia",
+            "Cinemática",
+            "Clima",
+            "Energia",
+            "Força",
+            "Geometria",
+            "Gravitação",
+            "Mecânica",
+            "Momentum",
+            "Radiação",
+            "Relatividade",
+            "Termologia",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16006,7 +16031,7 @@
     },
     {
         "name": "Espelhos e Tempo (o papel do tempo na formação da imagem) - Arrastável",
-        "descript": "Mostra diagramas de raios e formação de imagens usando um espelho mostrando que o papel do tempo. Uma frente de onda é enviada do objeto. É possivel mover o objeto arrastando-o",
+        "descript": "Mostra diagramas de raios e formação de imagens usando um espelho mostrando que o papel do tempo. Uma frente de onda é enviada do objeto. É possivel mover o objeto arrastando-o.",
         "url": "http://physics.bu.edu/~duffy/HTML5/Mirrors_and_time_update.html",
         "thumb": "",
         "categorys": [
@@ -16208,21 +16233,31 @@
     },
     {
         "name": "Refração e o papel do tempo",
-        "descript": "",
+        "descript": "Digamos que você tenha dois pontos e queira que a luz viaje de um ponto a outro, refletindo em um espelho plano ao longo do caminho. Utilize o gráfico de tempo percorrido para encontrar o ponto de reflexão que fornece o trajeto mais rápido. Altere os indices de refração dos dois meios e depois arraste o ponto de interface.",
         "url": "http://physics.bu.edu/~duffy/HTML5/refraction_time.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Refração, o papel do tempo e a lei de Snell",
-        "descript": "",
+        "descript": "Digamos que você tenha dois pontos e queira que a luz viaje de um ponto a outro, refletindo em um espelho plano ao longo do caminho. Utilize o gráfico de tempo percorrido para encontrar o ponto de reflexão que fornece o trajeto mais rápido e compare com a Lei de Snell. Altere os indices de refração dos dois meios e depois arraste o ponto de interface.",
         "url": "http://physics.bu.edu/~duffy/HTML5/refraction_time_Snell.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16247,31 +16282,52 @@
     },
     {
         "name": "Refração em um bloco retangular",
-        "descript": "",
+        "descript": "Mostra na trajetória de um raio de luz ao atravesar um bloco com faces paralelas, mostrando os efeitos da refração de entrada e saida.",
         "url": "http://physics.bu.edu/~duffy/HTML5/refraction_block.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Química",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
         "name": "Refração em três camadas",
-        "descript": "",
+        "descript": "Mostra na trajetória de um raio de luz ao atravesar uma de material com faces paralelas e alcaçar um terceiro meio, mostrando os efeitos da refração de entrada e saida de multiplos meios.",
         "url": "http://physics.bu.edu/~duffy/HTML5/refraction_three_layer.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Química",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Reflexão interna total (um modelo de uma fibra óptica)",
-        "descript": "",
+        "name": "Reflexão total interna (fibra óptica)",
+        "descript": "Simula as multiplas reflexões que ocorrem em uma fibra otica, varie o indice de refração da fibra e o ângulo de incidencia do feixe de luz para encontrar a situação limite que a fibra pode funcionar.",
         "url": "http://physics.bu.edu/~duffy/HTML5/refraction_TIR.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Geometria",
+            "Gráfico",
+            "Ondas",
+            "Química",
+            "Trigonometria",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
@@ -16358,27 +16414,43 @@
             "Gráfico",
             "Ondas",
             "Oscilações",
-            "Óptica"
+            "Óptica",
+            "Trigonometria"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Uma grade de difração",
-        "descript": "",
+        "name": "Grade de difração",
+        "descript": "Simula a luz ao atravessar uma grade de difração. Escolha a(s) cor(es) e veja como o feixe difrata. Ao encontra uma grade de difração a luz é difratada em ângulos específicos.",
         "url": "http://physics.bu.edu/~duffy/HTML5/diffraction_grating.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Óptica",
+            "Trigonometria"
         ],
         "author": "Physics.bu.edu"
     },
     {
-        "name": "Reflexão e transmissão",
-        "descript": "",
+        "name": "Reflexão e transmissão de ondas",
+        "descript": "Simula de uma onda viajando através de uma corda e sendo refletida. Escolha se entre ser refletida em uma extremidade fixa, uma extremidade livre, outra corda mais leve ou outra corda mais pesada.",
         "url": "http://physics.bu.edu/~duffy/HTML5/reflection_transmission.html",
         "thumb": "",
         "categorys": [
-            "Física"
+            "Física",
+            "Acústica",
+            "Força",
+            "Função",
+            "Gráfico",
+            "Ondas",
+            "Oscilações",
+            "Trigonometria",
+            "Vetores",
+            "Óptica"
         ],
         "author": "Physics.bu.edu"
     },
