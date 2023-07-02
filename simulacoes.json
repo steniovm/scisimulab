@@ -66,7 +66,9 @@
   "categorys": [
    "*SciSimuLab*",
    "Algorítimo",
-   "Jogo"
+   "Jogo",
+   "Mobile",
+   "Trigonometria"
   ],
   "author": "Steniovm",
   "hash": "f8cba210b7f3912bf50c153fc880df84"
@@ -172,6 +174,7 @@
   "categorys": [
    "Algorítimo",
    "Jogo",
+   "Matemática",
    "Vetores"
   ],
   "author": "AvaMec",
@@ -183,22 +186,29 @@
   "url": "https://phet.colorado.edu/pt_BR/simulations/calculus-grapher",
   "thumb": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher-420.png",
   "categorys": [
+   "Função",
    "Física",
+   "Geometria",
    "Gráfico",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Phet",
   "hash": "57369ca5002958e39b72174e6e390644"
  },
  {
   "name": "Meu Sistema Solar",
-  "descript": "Insera massa, velocidade e distância dos astros para que faça simular uma órbita.",
+  "descript": "Insera massa, velocidade e distância dos astros para simular uma órbita.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/my-solar-system",
   "thumb": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system-420.png",
   "categorys": [
    "Astronomia",
+   "Força",
+   "Força",
    "Física",
-   "Gravitação"
+   "Gravitação",
+   "Vetores"
   ],
   "author": "Phet",
   "hash": "d34a63b131558fac865092a50c902b6a"
@@ -1770,9 +1780,11 @@
   "url": "https://www.walter-fendt.de/html5/phpt/lever_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Força",
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Vetores"
   ],
   "author": "Walter-Fendt",
   "hash": "b65cd21cf45111185caf17f19e8f39d6"
@@ -2124,7 +2136,9 @@
   "categorys": [
    "Eletrodinâmica",
    "Eletromagnetismo",
-   "Física"
+   "Força",
+   "Física",
+   "Vetores"
   ],
   "author": "Walter-Fendt",
   "hash": "687b8195b04ade2b3dec719aab44b23a"
@@ -2137,7 +2151,10 @@
   "categorys": [
    "Eletrodinâmica",
    "Eletromagnetismo",
-   "Física"
+   "Energia",
+   "Força",
+   "Física",
+   "Vetores"
   ],
   "author": "Walter-Fendt",
   "hash": "9454590082086efd5cfd5e3011792211"
@@ -2211,7 +2228,9 @@
   "url": "https://www.walter-fendt.de/html5/phpt/combinationresistors_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Eletrodinâmica",
+   "Energia",
    "Física"
   ],
   "author": "Walter-Fendt",
@@ -2239,6 +2258,7 @@
   "thumb": "",
   "categorys": [
    "Eletrodinâmica",
+   "Energia",
    "Física",
    "Semicondutores"
   ],
@@ -2268,8 +2288,12 @@
   "url": "https://www.walter-fendt.de/html5/phpt/combinationrlc_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Eletrodinâmica",
-   "Física"
+   "Eletromagnetismo",
+   "Energia",
+   "Física",
+   "Semicondutores"
   ],
   "author": "Walter-Fendt",
   "hash": "7f56bbb287b764914fe592c6641ebe59"
@@ -2310,8 +2334,10 @@
   "url": "https://www.walter-fendt.de/html5/phpt/refractionhuygens_pt.htm",
   "thumb": "",
   "categorys": [
+   "Função",
    "Física",
    "Ondas",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Walter-Fendt",
@@ -2326,6 +2352,7 @@
    "Física",
    "Gráfico",
    "Ondas",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Walter-Fendt",
@@ -2340,6 +2367,7 @@
    "Física",
    "Gráfico",
    "Ondas",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Walter-Fendt",
@@ -2367,6 +2395,8 @@
   "categorys": [
    "Física",
    "Gráfico",
+   "Ondas",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Walter-Fendt",
@@ -2541,7 +2571,8 @@
    "Astronomia",
    "Física",
    "Geometria",
-   "Gráfico"
+   "Gráfico",
+   "Relatividade"
   ],
   "author": "Walter-Fendt",
   "hash": "cbf080cc7e28153875133e6b114251b1"
@@ -2581,6 +2612,7 @@
   "thumb": "",
   "categorys": [
    "Aritmética",
+   "Jogo",
    "Matemática",
    "Números"
   ],
@@ -2609,7 +2641,8 @@
   "categorys": [
    "Geometria",
    "Matemática",
-   "Números"
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "9678c9a82e62aad5b10fff96a01b3cfb"
@@ -2634,6 +2667,7 @@
   "url": "https://www.walter-fendt.de/html5/mpt/thalescircle_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
    "Matemática",
    "Trigonometria"
@@ -2647,8 +2681,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/triangle_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "0fb9300c1c85e5234cac828881bfce31"
@@ -2659,8 +2697,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/cyclicquadrilateral_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "d463a9661aa5c37cccebcd6923184ac0"
@@ -2671,8 +2713,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/tangentialquadrilateral_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "d9bc5e013943f2f3a858f69ae4c8d640"
@@ -2683,8 +2729,11 @@
   "url": "https://www.walter-fendt.de/html5/mpt/polygon_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
+   "Gráfico",
    "Matemática",
+   "Números",
    "Trigonometria"
   ],
   "author": "Walter-Fendt",
@@ -2710,9 +2759,11 @@
   "url": "https://www.walter-fendt.de/html5/mpt/pythagoras2_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Função",
    "Geometria",
-   "Matemática"
+   "Matemática",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "4a5dcb12571939563efdce3e74ff0163"
@@ -2723,10 +2774,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/pythagoras_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Função",
    "Geometria",
    "Gráfico",
-   "Matemática"
+   "Matemática",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "2f31fb2a260c973b102968c798381260"
@@ -2737,8 +2790,11 @@
   "url": "https://www.walter-fendt.de/html5/mpt/twincircles_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "8bc9debda40036296c123c0022a41140"
@@ -2749,8 +2805,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/circleinversion_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "5003d1b9326a62a52f53788711302045"
@@ -2761,8 +2821,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/tangentcircles_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "39b9ea265b5a7a19d86473ab251dd4b0"
@@ -2773,8 +2837,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/papposchain_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "70c36b5b860d98dafc589cdc1d0d0535"
@@ -2785,8 +2853,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/platonicsolids_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "a793293c400eb76572c0cf5d0ef25b8f"
@@ -2797,8 +2869,13 @@
   "url": "https://www.walter-fendt.de/html5/mpt/volumesphere_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Geometria",
-   "Matemática"
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "d2b1b2d421f109d3bda55432e4c7fadc"
@@ -2825,8 +2902,10 @@
   "thumb": "",
   "categorys": [
    "Geometria",
+   "Gráfico",
    "Matemática",
-   "Números"
+   "Números",
+   "Trigonometria"
   ],
   "author": "Walter-Fendt",
   "hash": "a7a78342b308837b2e20ad5f70a9d7da"
@@ -2883,6 +2962,8 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Trigonometria"
@@ -2896,8 +2977,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/derivative12_pt.htm",
   "thumb": "",
   "categorys": [
+   "Aritmética",
    "Função",
+   "Gráfico",
    "Matemática",
+   "Números",
+   "Trigonometria",
    "Trigonometria"
   ],
   "author": "Walter-Fendt",
@@ -2912,6 +2997,7 @@
    "Função",
    "Gráfico",
    "Matemática",
+   "Números",
    "Trigonometria"
   ],
   "author": "Walter-Fendt",
@@ -2924,6 +3010,7 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Trigonometria"
@@ -2938,6 +3025,7 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Trigonometria"
@@ -2952,6 +3040,7 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Trigonometria"
@@ -2966,6 +3055,7 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Trigonometria"
@@ -2996,6 +3086,7 @@
    "Força",
    "Física",
    "Mecânica",
+   "Trigonometria",
    "Vetores"
   ],
   "author": "Vascak",
@@ -3102,9 +3193,11 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladky&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladky.png",
   "categorys": [
+   "Energia",
    "Força",
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Vetores"
   ],
   "author": "Vascak",
   "hash": "d302cb3d48b3f566c8cd12cf072d90ff"
@@ -3115,6 +3208,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_kladkostroj&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_kladkostroj.png",
   "categorys": [
+   "Energia",
    "Força",
    "Física",
    "Mecânica",
@@ -3131,7 +3225,10 @@
   "categorys": [
    "Força",
    "Física",
-   "Mecânica"
+   "Matemática",
+   "Mecânica",
+   "Momentum",
+   "Vetores"
   ],
   "author": "Vascak",
   "hash": "b58e3bfd3482a4c21e2e1443c4d029e0"
@@ -3535,8 +3632,10 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pumpa&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pumpa.png",
   "categorys": [
+   "Força",
    "Física",
    "Hidrostática",
+   "Mecânica",
    "Mecânica"
   ],
   "author": "Vascak",
@@ -4206,7 +4305,8 @@
    "Astronomia",
    "Física",
    "Gravitação",
-   "Mecânica"
+   "Mecânica",
+   "Relatividade"
   ],
   "author": "Vascak",
   "hash": "61d975f76cfb251d2efcb4cd71565b55"
@@ -4252,6 +4352,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr6.png",
   "categorys": [
+   "Energia",
    "Energia",
    "Física",
    "Oscilações"
@@ -4300,8 +4401,12 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_3&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_3.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Física",
-   "Ondas"
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Vascak",
   "hash": "c9caf1328737662057cc46c4bde8e479"
@@ -4312,8 +4417,12 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_1&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_1.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Física",
-   "Ondas"
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Vascak",
   "hash": "14fb7d6ce59c6a8d3526e75ee4a1bada"
@@ -4324,8 +4433,12 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_skladani_kmitani_2&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_skladani_kmitani_2.png",
   "categorys": [
+   "Aritmética",
+   "Função",
    "Física",
-   "Ondas"
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
   ],
   "author": "Vascak",
   "hash": "31aea54c5fb1a89c31a31ea2eb6ac755"
@@ -4339,7 +4452,8 @@
    "Função",
    "Física",
    "Gráfico",
-   "Ondas"
+   "Ondas",
+   "Trigonometria"
   ],
   "author": "Vascak",
   "hash": "9a29dc052a0e5d8db46f8aeed7c61d4c"
@@ -4350,7 +4464,9 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_obdelnikovy_kmit&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_obdelnikovy_kmit.png",
   "categorys": [
+   "Função",
    "Física",
+   "Gráfico",
    "Números",
    "Ondas",
    "Oscilações"
@@ -4734,7 +4850,7 @@
  },
  {
   "name": "Som",
-  "descript": "Gera uma onda sonora, permite regular a forma e a frequência de onda alem de usar a própria voz.",
+  "descript": "Gera uma onda sonora, permite regular a forma e a frequência de onda além de usar a própria voz.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_zvuk&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_zvuk.png",
   "categorys": [
@@ -5163,9 +5279,12 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mf_perpetuum_mobile&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_perpetuum_mobile_obr4.png",
   "categorys": [
+   "Clima",
    "Energia",
    "Física",
-   "Termodinâmica"
+   "Jogo",
+   "Termodinâmica",
+   "Termologia"
   ],
   "author": "Vascak",
   "hash": "426e5f9f4eea7fac7e484d71c071f830"
@@ -5285,6 +5404,7 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mf_bimetal.png",
   "categorys": [
    "Física",
+   "Geometria",
    "Gráfico",
    "Termodinâmica",
    "Termologia"
@@ -5428,6 +5548,7 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elpole_vandegraaff&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elpole_vandegraaff_obr4.png",
   "categorys": [
+   "Eletrodinâmica",
    "Eletrostática",
    "Energia",
    "Física"
@@ -5490,7 +5611,8 @@
   "categorys": [
    "Eletrodinâmica",
    "Energia",
-   "Física"
+   "Física",
+   "Matemática"
   ],
   "author": "Vascak",
   "hash": "b7dda28559ebc8f0000aa2cab52fb9c3"
@@ -5503,7 +5625,9 @@
   "categorys": [
    "Eletrodinâmica",
    "Energia",
-   "Física"
+   "Física",
+   "Matemática",
+   "Semicondutores"
   ],
   "author": "Vascak",
   "hash": "b4576900117d7dba25dae30da52f62c0"
@@ -5530,7 +5654,8 @@
   "categorys": [
    "Eletrodinâmica",
    "Energia",
-   "Física"
+   "Física",
+   "Matemática"
   ],
   "author": "Vascak",
   "hash": "30bd8f50fd69287dba1f2c704e789d61"
@@ -5591,7 +5716,8 @@
    "Eletrodinâmica",
    "Energia",
    "Física",
-   "Semicondutores"
+   "Semicondutores",
+   "Termologia"
   ],
   "author": "Vascak",
   "hash": "488d39d85b2b774c36c60bb84a179269"
@@ -5605,7 +5731,8 @@
    "Eletrodinâmica",
    "Energia",
    "Física",
-   "Semicondutores"
+   "Semicondutores",
+   "Óptica"
   ],
   "author": "Vascak",
   "hash": "be4f84993916d5723726df7673d64980"
