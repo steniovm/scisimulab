@@ -37,10 +37,14 @@ let count = 0;
 let showslider = 0;
 let nimg = 0;
 let darkmode = false;
+let querys = {};
+let hashlist = {};
 let savecookie = {
   "darkmode": darkmode,
   "nimg": nimg
 };
+//lé parametros de query
+const urlParams = new URLSearchParams(location.search);
 //restaura cookies
 restoreCookies();
 //controle de cookies
@@ -69,7 +73,7 @@ function listSimuls(list, tudo=false){
   list.forEach((simulacao,index) => {
     if (index<nimg){
     simuls += (`
-    <a class="card" href="${simulacao.url}">
+    <a class="card" href="${simulacao.url}" target="scisimulabWindow">
       <h3>${simulacao.name}</h3>
       <img src="${simulacao.thumb ? simulacao.thumb : unimage}" alt="imagem da simulação ${simulacao.name}"/>
       <p>${simulacao.descript}</p>
@@ -78,7 +82,7 @@ function listSimuls(list, tudo=false){
     </a>
     `);} else {
       simuls += (`
-    <a class="card" href="${simulacao.url}">
+    <a class="card" href="${simulacao.url}" target="scisimulabWindow">
       <h3>${simulacao.name}</h3>
       <label><strong>Categorias: </strong>${simulacao.categorys.join(', ')}</label>
       <label><strong>Autor: </strong>${simulacao.author}</label>
@@ -110,11 +114,15 @@ function showsliderers(){
     sliders[count].checked = true;
   },5900);
 }
-/*
-function opemwindowsec(){
-  window.open(slidersa[count].href,'_blank','scrollbars=1,resizable=1');
+//abre simulação via url query
+querys.hash = urlParams.get('simu');
+function opemwindow(hash){
+  if (hashlist[hash]){
+    let url = hashlist[hash];
+    window.open(url, "scisimulabWindow", "popup");;
+  }
 }
-*/
+
 //alterna modo claro e escuro
 function darkmodes(){
   if (darkmode){
@@ -185,6 +193,7 @@ fetch(urlsimuls)
         }
         categorias[categoria].push(simulacao);
       });
+      hashlist[simulacao.hash] = simulacao.url;
       filterall.innerHTML = `Tudo (${data.length})`;
       //autores
       if (!autores[simulacao.author]) {
@@ -194,6 +203,7 @@ fetch(urlsimuls)
       autores[simulacao.author].push(simulacao);
       filteraut.innerHTML = `Todos (${data.length})`;
     });
+    opemwindow(querys.hash);
     // Percorre as categorias e cria os elementos do menu categorias
     categoriasnome.sort();
     categoriasnome.forEach((categoria) => {
@@ -233,7 +243,7 @@ fetch(urldata)
       <li>
         <input type="radio" id="slide${i}" name="slide">
         <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
-        <a class="card mycard" href="${mysimul[i].url}">
+        <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
           <div>
               <h3>${mysimul[i].name}</h3>
               <label><strong>Categorias: </strong>${mysimul[i].categorys.join(', ')}</label>
