@@ -6153,7 +6153,8 @@
   "categorys": [
    "Eletromagnetismo",
    "Força",
-   "Física"
+   "Física",
+   "Vetores"
   ],
   "author": "Vascak",
   "hash": "da82eec2b3d5f3d4bf13219b624ab1d5"
@@ -6382,7 +6383,9 @@
   "categorys": [
    "Eletrodinâmica",
    "Eletromagnetismo",
-   "Física"
+   "Energia",
+   "Física",
+   "Oscilações"
   ],
   "author": "Vascak",
   "hash": "6d39548ea1b7cfb10afb87d20d573fad"
@@ -6410,6 +6413,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6421,8 +6425,10 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_michanibarev&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_michanibarev_obr2.png",
   "categorys": [
+   "Aritmética",
    "Biologia",
    "Física",
+   "Números",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6434,7 +6440,10 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=opt_newtonkotouc&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/opt_newtonkotouc.png",
   "categorys": [
+   "Aritmética",
+   "Cinemática",
    "Física",
+   "Geometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6465,6 +6474,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6493,6 +6503,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6506,6 +6517,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6519,6 +6531,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6533,6 +6546,7 @@
    "Biologia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6547,6 +6561,7 @@
    "Biologia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6562,6 +6577,7 @@
    "Física",
    "Geometria",
    "Jogo",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6576,6 +6592,7 @@
    "Biologia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6590,6 +6607,7 @@
    "Astronomia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6604,6 +6622,7 @@
    "Astronomia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6617,6 +6636,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6630,6 +6650,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -6644,6 +6665,7 @@
    "Astronomia",
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Vascak",
@@ -7009,7 +7031,9 @@
   "categorys": [
    "Atômica",
    "Física",
-   "Química"
+   "Química",
+   "Semicondutores",
+   "Termologia"
   ],
   "author": "Vascak",
   "hash": "91fc84ce3baf0fc907d1a89038717efb"
@@ -7111,7 +7135,9 @@
   "categorys": [
    "Aritmética",
    "Geometria",
-   "Matemática"
+   "Matemática",
+   "Números",
+   "Trigonometria"
   ],
   "author": "Vascak",
   "hash": "3a5d6a2ad90db5b59ff527fce00b6f8d"
@@ -7222,7 +7248,9 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_mobius&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_mobius.png",
   "categorys": [
+   "Função",
    "Geometria",
+   "Jogo",
    "Matemática"
   ],
   "author": "Vascak",
@@ -7230,7 +7258,7 @@
  },
  {
   "name": "Sólido platónico",
-  "descript": "mostra os dados (d4-tetraedro, d6-cubo, d8-octaedro, d12-dudecaedro e d20- icosaedro) como Sólidos Platónicos. Permite girar os dados.",
+  "descript": "Mostra os dados (d4-tetraedro, d6-cubo, d8-octaedro, d12-dudecaedro e d20- icosaedro) como Sólidos Platónicos. Permite girar os dados.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mat_platon&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_platon.png",
   "categorys": [
@@ -7249,6 +7277,8 @@
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mat_abeceda.png",
   "categorys": [
    "Alfabeto",
+   "Algorítimo",
+   "Jogo",
    "Números"
   ],
   "author": "Vascak",
@@ -7261,8 +7291,10 @@
   "thumb": "",
   "categorys": [
    "Biologia",
+   "Estatística",
    "Gráfico",
-   "Números"
+   "Números",
+   "Probabilidade"
   ],
   "author": "MinuteLabs",
   "hash": "ac65a730f4e244ee174b2124e84b956a"
@@ -7274,9 +7306,11 @@
   "thumb": "",
   "categorys": [
    "Biologia",
+   "Estatística",
    "Evolução natural",
    "Genética",
-   "Jogo"
+   "Jogo",
+   "Probabilidade"
   ],
   "author": "MinuteLabs",
   "hash": "805918eeb541c7e23bc6ffe6f4dec6bc"
@@ -7289,7 +7323,8 @@
   "categorys": [
    "Biologia",
    "Cinemática",
-   "Física"
+   "Física",
+   "Números"
   ],
   "author": "MinuteLabs",
   "hash": "8ec344c48d5ea2520cc57d232dd2472d"
@@ -7315,6 +7350,7 @@
   "thumb": "",
   "categorys": [
    "Biologia",
+   "Clima",
    "Evolução natural",
    "Genética"
   ],
@@ -7328,8 +7364,13 @@
   "thumb": "",
   "categorys": [
    "Astronomia",
+   "Cinemática",
+   "Força",
+   "Função",
    "Física",
-   "Gravitação"
+   "Gravitação",
+   "Mecânica",
+   "Oscilações"
   ],
   "author": "MinuteLabs",
   "hash": "e1ef98841f55737e26dabbfed2203361"
@@ -7361,6 +7402,7 @@
   "thumb": "",
   "categorys": [
    "Física",
+   "Gráfico",
    "Matemática",
    "Oscilações",
    "Probabilidade"
@@ -7376,6 +7418,8 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "MinuteLabs",
@@ -7387,6 +7431,7 @@
   "url": "http://labs.minutelabs.io/Brownian-Motion",
   "thumb": "",
   "categorys": [
+   "Cinemática",
    "Física",
    "Mecânica",
    "Probabilidade"
@@ -7419,7 +7464,8 @@
    "Energia",
    "Física",
    "Matemática",
-   "Números"
+   "Números",
+   "Relatividade"
   ],
   "author": "MinuteLabs",
   "hash": "34d862204eb185fb0004af77d8ccdb1d"
@@ -7430,8 +7476,12 @@
   "url": "http://labs.minutelabs.io/Number-Constellations",
   "thumb": "",
   "categorys": [
+   "Aritmética",
+   "Função",
+   "Jogo",
    "Matemática",
-   "Números"
+   "Números",
+   "Probabilidade"
   ],
   "author": "MinuteLabs",
   "hash": "0be4320bb52d3632358ccc9e62510e3c"
@@ -7444,6 +7494,7 @@
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "MinuteLabs",
@@ -7455,9 +7506,11 @@
   "url": "http://labs.minutelabs.io/Sheep-Bounce",
   "thumb": "",
   "categorys": [
+   "Estatística",
    "Física",
    "Probabilidade",
-   "Termodinâmica"
+   "Termodinâmica",
+   "Termologia"
   ],
   "author": "MinuteLabs",
   "hash": "73d93d34a37bd91e735bde5568ec10ae"
@@ -7468,8 +7521,14 @@
   "url": "https://labs.minutelabs.io/PeriodicTable",
   "thumb": "",
   "categorys": [
+   "Atômica",
+   "Eletromagnetismo",
    "Física",
-   "Química"
+   "Nuclear",
+   "Números",
+   "Química",
+   "Radiação",
+   "Termologia"
   ],
   "author": "MinuteLabs",
   "hash": "c3d900b747dd4fa8a551544793fcb074"
@@ -7483,7 +7542,10 @@
    "Astronomia",
    "Clima",
    "Física",
-   "Geografia"
+   "Geografia",
+   "Geometria",
+   "Trigonometria",
+   "Óptica"
   ],
   "author": "Stellarium",
   "hash": "aa32a1a57c546dd60c13c45458ec29b5"
@@ -7497,7 +7559,8 @@
    "Aritmética",
    "Física",
    "Matemática",
-   "Mecânica"
+   "Mecânica",
+   "Números"
   ],
   "author": "LabFis-IFC",
   "hash": "c6b7b5b62ed36dbed4b419ebc2a5e9e4"
@@ -7555,7 +7618,8 @@
    "Física",
    "Geometria",
    "Matemática",
-   "Mecânica"
+   "Mecânica",
+   "Números"
   ],
   "author": "LabFis-IFC",
   "hash": "cdd352992b0e6500480424f772a163f8"
@@ -7640,8 +7704,10 @@
   "thumb": "https://static.wixstatic.com/media/e02095_5d1338276722497086b15aaac3fb85bb~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/movimentoderotacao.png",
   "categorys": [
    "Cinemática",
+   "Força",
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Oscilações"
   ],
   "author": "LabFis-IFC",
   "hash": "2e936b0bb60afdf9e5b8b7cf40ff7716"
@@ -7655,7 +7721,8 @@
    "Cinemática",
    "Força",
    "Física",
-   "Mecânica"
+   "Mecânica",
+   "Oscilações"
   ],
   "author": "LabFis-IFC",
   "hash": "7d64f5ce045c2cff55a8613a9a39ead8"
@@ -7782,6 +7849,8 @@
   "thumb": "https://static.wixstatic.com/media/e02095_930c6fb268e449edb38f0981908f156a~mv2.jpg/v1/crop/x_7,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/amperimetro_edited.jpg",
   "categorys": [
    "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
    "Física",
    "Matemática"
   ],
@@ -7795,8 +7864,10 @@
   "thumb": "https://static.wixstatic.com/media/e02095_8b3a560a4b2f479b91d258fa744ca4b3~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/resistoresnaoohmicos.png",
   "categorys": [
    "Eletrodinâmica",
+   "Função",
    "Física",
-   "Matemática"
+   "Matemática",
+   "Semicondutores"
   ],
   "author": "LabFis-IFC",
   "hash": "d6069eb660bcf62567b654cf54a53e7e"
@@ -7808,6 +7879,8 @@
   "thumb": "https://static.wixstatic.com/media/e02095_0caa248141b44e618c03f31be391b0a1~mv2.jpg/v1/crop/x_31,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/_edited.jpg",
   "categorys": [
    "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
    "Física",
    "Matemática"
   ],
@@ -7850,6 +7923,8 @@
   "thumb": "https://static.wixstatic.com/media/e02095_5dca4511b0c74ee3b0bb90648fcc8e46~mv2.png/v1/crop/x_46,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/voltimetro.png",
   "categorys": [
    "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
    "Física",
    "Matemática"
   ],
@@ -7863,6 +7938,8 @@
   "thumb": "https://static.wixstatic.com/media/e02095_f03dd352c3e04d04ada250eed810f9a6~mv2.jpg/v1/crop/x_15,y_0,w_1274,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/resistoresohmicos_edited.jpg",
   "categorys": [
    "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
    "Física",
    "Matemática"
   ],
@@ -7877,6 +7954,7 @@
   "categorys": [
    "Eletrodinâmica",
    "Eletromagnetismo",
+   "Energia",
    "Física",
    "Matemática"
   ],
@@ -7885,12 +7963,13 @@
  },
  {
   "name": "Refração em uma Lâmina de Faces Paralelas",
-  "descript": "A simulação permite estudar a refração da luz e o desvio lateral de um raio de luz que incide em uma lâmina de faces paralelas. O ângulo de incidência pode ser variado.",
+  "descript": "Permite estudar a refração da luz e o desvio lateral de um raio de luz que incide em uma lâmina de faces paralelas. O ângulo de incidência pode ser variado.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/lamina-de-faces-paralelas",
   "thumb": "https://static.wixstatic.com/media/e02095_e6dd2842b5074ad2bafb688a0a7e6c11~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/lamina.png",
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "LabFis-IFC",
@@ -7898,7 +7977,7 @@
  },
  {
   "name": "Olho Humano: Defeitos da Visão",
-  "descript": "Esta simulação permite estudar os defeitos da visão (miopia e hipermetropia) e suas correções. Há 6 opções de olhos. Os olhos da simulação ou são míopes ou hipermétropes.",
+  "descript": "Permite estudar os defeitos da visão (miopia e hipermetropia) e suas correções. Há 6 opções de olhos. Os olhos da simulação ou são míopes ou hipermétropes.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/olho-humano-defeitos-visao",
   "thumb": "https://static.wixstatic.com/media/e02095_962c765c96624208933509b60aedc469~mv2.jpg/v1/crop/x_13,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/olho_edited.jpg",
   "categorys": [
@@ -7912,12 +7991,13 @@
  },
  {
   "name": "Lei de Malus",
-  "descript": "Esta simulação permite medir a intensidade de luz que passa por um polarizador e em seguida por um analisador em função de suas posições angulares relativas e assim verificar a Lei de Malus.",
+  "descript": "Permite medir a intensidade de luz que passa por um polarizador e em seguida por um analisador em função de suas posições angulares relativas e assim verificar a Lei de Malus.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/lei-malus",
   "thumb": "https://static.wixstatic.com/media/e02095_e6873b83140c49fdbdee2550b86afbe8~mv2.jpg/v1/crop/x_6,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/malus_edited_edited_edited.jpg",
   "categorys": [
    "Física",
    "Geometria",
+   "Ondas",
    "Trigonometria",
    "Óptica"
   ],
@@ -7926,7 +8006,7 @@
  },
  {
   "name": "Difração em uma Fenda",
-  "descript": "Esta simulação permite estudar a difração da luz em uma fenda simples. Há três opções de comprimentos de onda (cores) e somente o comprimento de onda da luz vermelha é conhecido.",
+  "descript": "Permite estudar a difração da luz em uma fenda simples. Há três opções de comprimentos de onda (cores) e somente o comprimento de onda da luz vermelha é conhecido.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/difracao-em-uma-fenda",
   "thumb": "https://static.wixstatic.com/media/e02095_4ab2a93d27ed41dd882cc3160eee2916~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/fenda.png",
   "categorys": [
@@ -7941,12 +8021,13 @@
  },
  {
   "name": "Espelho Côncavo",
-  "descript": "Esta simulação permite determinar a distância focal de um espelho côncavo pela localização da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
+  "descript": "Permite determinar a distância focal de um espelho côncavo pela localização da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/espelho-concavo",
   "thumb": "https://static.wixstatic.com/media/e02095_173e065b8e9c4ce2b8ca4b84da69ed40~mv2.jpg/v1/crop/x_41,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/espelhoconcavo_edited.jpg",
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "LabFis-IFC",
@@ -7954,7 +8035,7 @@
  },
  {
   "name": "Refração",
-  "descript": "Esta simulação permite estudar a refração da luz em diferentes materiais. O arranjo “experimental” simulado se assemelha ao que é normalmente utilizado em laboratórios de ensino de física.",
+  "descript": "Permite estudar a refração da luz em diferentes materiais. O arranjo “experimental” simulado se assemelha ao que é normalmente utilizado em laboratórios de ensino de física.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/refracao",
   "thumb": "https://static.wixstatic.com/media/e02095_471e7028c3ca4aef80a5da932487de8e~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/refracao.png",
   "categorys": [
@@ -7974,7 +8055,7 @@
  },
  {
   "name": "Princípio de Fermat: Reflexão",
-  "descript": "Esta simulação permite verificar que, segundo o Princípio de Fermat, na reflexão da luz o caminho percorrido pela luz entre dois pontos situados em um meio, mas passando por um ponto em um espelho será aquele para o qual o tempo de percurso é mínimo.",
+  "descript": "Permite verificar que, segundo o Princípio de Fermat, na reflexão da luz o caminho percorrido pela luz entre dois pontos situados em um meio, mas passando por um ponto em um espelho será aquele para o qual o tempo de percurso é mínimo.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/principio-de-fermat-reflexao",
   "thumb": "https://static.wixstatic.com/media/e02095_92b603462a214c4ba627ff0528021d3f~mv2.jpg/v1/crop/x_5,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fermatreflexao_edited.jpg",
   "categorys": [
@@ -7988,13 +8069,14 @@
  },
  {
   "name": "Polarização - Atividade Óptica",
-  "descript": "Esta simulação permite estudar a atividade óptica de uma substância em função do comprimento de onda (da cor) da luz utilizada, da concentração da solução e do comprimento que a luz percorre dentro da solução.",
+  "descript": "Permite estudar a atividade óptica de uma substância em função do comprimento de onda (da cor) da luz utilizada, da concentração da solução e do comprimento que a luz percorre dentro da solução.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/polarizacao",
   "thumb": "https://static.wixstatic.com/media/e02095_29058ba74c2d42b8bdb8ea343d360935~mv2.png/v1/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/polariza%C3%A7%C3%A3o.png",
   "categorys": [
    "Função",
    "Física",
    "Geometria",
+   "Ondas",
    "Trigonometria",
    "Óptica"
   ],
@@ -8003,12 +8085,13 @@
  },
  {
   "name": "Lentes Divergentes",
-  "descript": "Esta simulação permite a determinação da distância focal de uma lente divergente.",
+  "descript": "Permite a determinação da distância focal de uma lente divergente.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/lentes-divergentes",
   "thumb": "https://static.wixstatic.com/media/e02095_a434c332dd0944cbab7ae4e955943517~mv2.jpg/v1/crop/x_16,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/lentesdivergentes_edited.jpg",
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "LabFis-IFC",
@@ -8016,12 +8099,13 @@
  },
  {
   "name": "Prismas",
-  "descript": "Esta simulação permite estudar o comportamento de um raio de luz ao incidir em um prisma. É possível verificar que o desvio sofrido por um raio de luz em um prisma passa por um mínimo.",
+  "descript": "Permite estudar o comportamento de um raio de luz ao incidir em um prisma. É possível verificar que o desvio sofrido por um raio de luz em um prisma passa por um mínimo.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/prismas",
   "thumb": "https://static.wixstatic.com/media/e02095_477111e365b747a091cf2632e9da5f9e~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/prismas.png",
   "categorys": [
    "Física",
    "Geometria",
+   "Ondas",
    "Trigonometria",
    "Óptica"
   ],
@@ -8030,10 +8114,11 @@
  },
  {
   "name": "Princípio de Fermat: Refração",
-  "descript": "Esta simulação permite verificar que, segundo o Princípio de Fermat, na refração da luz o caminho percorrido pela luz entre dois pontos situados em meios diferentes será aquele para o qual o tempo de percurso é mínimo.",
+  "descript": "Permite verificar que, segundo o Princípio de Fermat, na refração da luz o caminho percorrido pela luz entre dois pontos situados em meios diferentes será aquele para o qual o tempo de percurso é mínimo.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/princ%C3%ADpio-de-fermat-refracao",
   "thumb": "https://static.wixstatic.com/media/e02095_039d044d69c048629a0c0eeccc8246f3~mv2.jpg/v1/crop/x_30,y_0,w_1290,h_768/fill/w_265,h_159,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fermatrefracao_edited.jpg",
   "categorys": [
+   "Cinemática",
    "Função",
    "Física",
    "Geometria",
@@ -8045,7 +8130,7 @@
  },
  {
   "name": "Redes de Difração",
-  "descript": "Esta simulação permite estudar a difração da luz em redes de difração. Há três opções de comprimentos de onda (cores), uma rede com 80 linhas/mm permite determinar os comprimentos de onda.",
+  "descript": "Permite estudar a difração da luz em redes de difração. Há três opções de comprimentos de onda (cores), uma rede com 80 linhas/mm permite determinar os comprimentos de onda.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/redes-de-difracao",
   "thumb": "https://static.wixstatic.com/media/e02095_9e97acc6666341e688519ebebb6ed490~mv2.png/v1/crop/x_38,y_0,w_1290,h_768/fill/w_66,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/redes.png",
   "categorys": [
@@ -8059,12 +8144,13 @@
  },
  {
   "name": "Lentes Convergentes",
-  "descript": "Esta simulação permite a determinação da distância focal de uma lente convergente pela determinação da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
+  "descript": "Permite a determinação da distância focal de uma lente convergente pela determinação da posição da imagem real que pode ser visualizada somente quando projetada sobre o anteparo.",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/lentes-convergentes",
   "thumb": "https://static.wixstatic.com/media/e02095_5d6013b00a3a48529f918648008a2404~mv2.jpg/v1/crop/x_17,y_0,w_1274,h_768/fill/w_65,h_39,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/lentesconvergentes_edited.jpg",
   "categorys": [
    "Física",
    "Geometria",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "LabFis-IFC",
@@ -8127,7 +8213,7 @@
  },
  {
   "name": "Experimento de Franck-Hertz",
-  "descript": "Esta simulação apresenta um tubo evacuado contento mercúrio (ou argônio ou neônio). No interior do tubo elétrons são liberados no catodo e acelerados pelo potencial positivo de um anodo, ou grade aceleradora (situado em uma posição intermediária dentro do tubo).",
+  "descript": "Apresenta um tubo evacuado contento mercúrio (ou argônio ou neônio). No interior do tubo elétrons são liberados no catodo e acelerados pelo potencial positivo de um anodo, ou grade aceleradora (situado em uma posição intermediária dentro do tubo).",
   "url": "https://www.laboratoriovirtual.fisica.ufc.br/experimento-de-frank-hertz",
   "thumb": "https://static.wixstatic.com/media/e02095_9ea1cfa78ed5441481318d089da64df6~mv2.png/v1/crop/x_42,y_0,w_1282,h_768/fill/w_265,h_159,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/experimentofrackHertzpng.png",
   "categorys": [
@@ -8147,7 +8233,7 @@
  },
  {
   "name": "Adição de vetores",
-  "descript": "Nessa simulação dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
+  "descript": "Dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
   "url": "https://ophysics.com/k1.html",
   "thumb": "https://ophysics.com/images/thumbs/k1thumb.jpeg",
   "categorys": [
@@ -8178,7 +8264,7 @@
  },
  {
   "name": "Componentes do Vetor",
-  "descript": "Esta é uma simples simulação que permite ao estudante informar a intensidade e a direção do vetor e com base nessas informações mostrar as componentes x e y desse vetor numericamente e graficamente.",
+  "descript": "Permite ao estudante informar a intensidade e a direção do vetor e com base nessas informações mostrar as componentes x e y desse vetor numericamente e graficamente.",
   "url": "https://ophysics.com/k3.html",
   "thumb": "https://ophysics.com/images/thumbs/k3thumb.jpeg",
   "categorys": [
@@ -8193,7 +8279,7 @@
  },
  {
   "name": "Prática de adição e subtração de vetores",
-  "descript": "O simulador tem como objetivo somar e subtrair vetores de forma prática.",
+  "descript": "Tem como objetivo somar e subtrair vetores de forma prática.",
   "url": "https://ophysics.com/k3b.html",
   "thumb": "https://ophysics.com/images/thumbs/k3bthumb.jpeg",
   "categorys": [
@@ -8223,7 +8309,7 @@
  },
  {
   "name": "Gráficos de Posição, Velocidade e Aceleração versus Tempo",
-  "descript": "A simulação permite ajustar o gráfico de velocidade x tempo com o objetivo de verificar as alterações provocadas nos gráficos de posição e aceleração.",
+  "descript": "Permite ajustar o gráfico de velocidade x tempo com o objetivo de verificar as alterações provocadas nos gráficos de posição e aceleração.",
   "url": "https://ophysics.com/k4b.html",
   "thumb": "https://ophysics.com/images/thumbs/k4bthumb.jpeg",
   "categorys": [
@@ -8253,7 +8339,7 @@
  },
  {
   "name": "Cinemática 1D: gráficos de velocidade x tempo",
-  "descript": "Esta simulação mostra o gráfico de velocidade x tempo para um objeto que se move ao longo de uma linha reta. Ajuste as velocidades e o intervalo de tempo.",
+  "descript": "Mostra o gráfico de velocidade x tempo para um objeto que se move ao longo de uma linha reta. Ajuste as velocidades e o intervalo de tempo.",
   "url": "https://ophysics.com/k5a.html",
   "thumb": "https://ophysics.com/images/thumbs/k5athumb.jpeg",
   "categorys": [
@@ -8268,7 +8354,7 @@
  },
  {
   "name": "Aceleração uniforme em uma dimensão",
-  "descript": "Esta é uma simulação do movimento de um carro em aceleração uniforme. A posição inicial, a velocidade inicial e a aceleração do carro podem ser ajustadas.",
+  "descript": "Simula o movimento de um carro em aceleração uniforme. A posição inicial, a velocidade inicial e a aceleração do carro podem ser ajustadas.",
   "url": "https://ophysics.com/k6.html",
   "thumb": "https://ophysics.com/images/thumbs/k6thumb.jpeg",
   "categorys": [
@@ -8283,7 +8369,7 @@
  },
  {
   "name": "Cinemática em uma dimensão: sistema de dois objetos",
-  "descript": "Esta é uma simulação de dois carros se movendo em uma dimensão. Pode ajustar a posição inicial, velocidade inicial e aceleração, assistir a uma animação do movimento dos carros e também ver o gráfico de posição versus tempo.",
+  "descript": "Simula dois carros se movendo em uma dimensão. Pode ajustar a posição inicial, velocidade inicial e aceleração, assistir a uma animação do movimento dos carros e também ver o gráfico de posição versus tempo.",
   "url": "https://ophysics.com/k7.html",
   "thumb": "https://ophysics.com/images/thumbs/k7thumb.jpeg",
   "categorys": [
@@ -8447,7 +8533,7 @@
  },
  {
   "name": "Órbitas elípticas e a 2ª Lei de Kepler",
-  "descript": "Uma simulação de um planeta orbitando um sol. Pode-se ajustar a velocidade inicial do planeta, a distância inicial do centro do planeta ao centro do sol e a massa do sol. A órbita será elíptica, circular, parabólica ou hiperbólica, dependendo das condições iniciais. Mostra a 2ª Lei de Kepler do traço do movimento planetário para ver a órbita elíptica dividida em oito fatias de área igual, cada uma varrida em tempos iguais.",
+  "descript": "Simula de um planeta orbitando um sol. Pode-se ajustar a velocidade inicial do planeta, a distância inicial do centro do planeta ao centro do sol e a massa do sol. A órbita será elíptica, circular, parabólica ou hiperbólica, dependendo das condições iniciais. Mostra a 2ª Lei de Kepler do traço do movimento planetário para ver a órbita elíptica dividida em oito fatias de área igual, cada uma varrida em tempos iguais.",
   "url": "https://ophysics.com/f6.html",
   "thumb": "https://ophysics.com/images/thumbs/f6thumb.jpeg",
   "categorys": [
@@ -8904,7 +8990,7 @@
  },
  {
   "name": "Ondas de superfície",
-  "descript": "Uma simulação de uma onda de superfície. Pode-se ajustar a amplitude, o comprimento de onda e a velocidade da onda. Mostra que o movimento da partícula na onda é circular.",
+  "descript": "Simula uma onda de superfície. Pode-se ajustar a amplitude, o comprimento de onda e a velocidade da onda. Mostra que o movimento da partícula na onda é circular.",
   "url": "https://ophysics.com/w13.html",
   "thumb": "",
   "categorys": [
@@ -8925,8 +9011,10 @@
   "url": "https://ophysics.com/l1.html",
   "thumb": "https://ophysics.com/images/thumbs/l1thumb.jpeg",
   "categorys": [
+   "Aritmética",
    "Biologia",
    "Física",
+   "Números",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -8940,6 +9028,7 @@
   "categorys": [
    "Aritmética",
    "Física",
+   "Números",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9067,6 +9156,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9081,13 +9171,14 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
   "hash": "7227f2bbe253f5bb5e8149eb26cab021"
  },
  {
-  "name": "Simulação de espelho esférico do iPad",
+  "name": "Espelho esférico do iPad",
   "descript": "Simulação de espelho côncavo e convexo otimizada para uso em dispositivos móveis.",
   "url": "https://ophysics.com/l11.html",
   "thumb": "https://ophysics.com/images/thumbs/l11thumb.jpeg",
@@ -9110,13 +9201,14 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
   "hash": "3a34d658569c1f6a959b66d92774ff4e"
  },
  {
-  "name": "Simulação de lente para iPad",
+  "name": "Lente para iPad",
   "descript": "Simulação de lente côncava e convexa otimizada para dispositivos móveis.",
   "url": "https://ophysics.com/l13.html",
   "thumb": "https://ophysics.com/images/thumbs/l13thumb.jpeg",
@@ -9139,6 +9231,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9153,6 +9246,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9167,6 +9261,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9182,6 +9277,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9226,6 +9322,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9240,6 +9337,7 @@
    "Física",
    "Geometria",
    "Gráfico",
+   "Trigonometria",
    "Óptica"
   ],
   "author": "Ophysics",
@@ -9301,7 +9399,7 @@
  },
  {
   "name": "Ondas Eletromagnéticas",
-  "descript": "Essa é uma simples animação representando uma onda eletromagnética. Os vetores em verde mostram as veriações dos campos elétricos e os vermelhos do campo magnético.",
+  "descript": "Essa é uma animação representando uma onda eletromagnética. Os vetores em verde mostram as veriações dos campos elétricos e os vermelhos do campo magnético.",
   "url": "https://ophysics.com/em3.html",
   "thumb": "https://ophysics.com/images/thumbs/em3thumb.jpeg",
   "categorys": [
@@ -9318,7 +9416,7 @@
  },
  {
   "name": "Campo elétrico e potencial",
-  "descript": "A simulação mostra o campo elétrico e o potencial elétrico ao redor de uma distribuíçao de cargas.",
+  "descript": "Mostra o campo elétrico e o potencial elétrico ao redor de uma distribuíçao de cargas.",
   "url": "https://ophysics.com/em4.html",
   "thumb": "https://ophysics.com/images/thumbs/em4thumb.jpeg",
   "categorys": [
@@ -9332,7 +9430,7 @@
  },
  {
   "name": "Circuito Elétrico com Quatro Lâmpadas Idênticas",
-  "descript": "Essa é uma simulação de um circuito com uma fonte de tensão, quantro lâmpadas idênticas e três interruptores.",
+  "descript": "Simula um circuito com uma fonte de tensão, quantro lâmpadas idênticas e três interruptores.",
   "url": "https://ophysics.com/em4a.html",
   "thumb": "https://ophysics.com/images/thumbs/em4athumb.jpeg",
   "categorys": [
@@ -9366,7 +9464,7 @@
  },
  {
   "name": "Partícula carregada em um campo elétrico",
-  "descript": "Esta é uma simulação de uma partícula carregada sendo atirada em um campo elétrico uniforme.",
+  "descript": "Simula uma partícula carregada sendo atirada em um campo elétrico uniforme.",
   "url": "https://ophysics.com/em6.html",
   "thumb": "https://ophysics.com/images/thumbs/em6thumb.jpeg",
   "categorys": [
@@ -9384,7 +9482,7 @@
  },
  {
   "name": "Partícula carregada em um campo magnético",
-  "descript": "Esta é uma simulação de uma partícula carregada eletricamente sendo atirada em uma região com cmapo magnético. É possível explorar a relação entre massa, carga, velocidade, intensidade do campo magnético e o raio da trajetória da partícula.",
+  "descript": "Simula uma partícula carregada eletricamente sendo atirada em uma região com cmapo magnético. É possível explorar a relação entre massa, carga, velocidade, intensidade do campo magnético e o raio da trajetória da partícula.",
   "url": "https://ophysics.com/em7.html",
   "thumb": "https://ophysics.com/images/thumbs/em7thumb.jpeg",
   "categorys": [
@@ -9402,7 +9500,7 @@
  },
  {
   "name": "Partícula carregada em um campo magnético 3D",
-  "descript": "Esta é uma simulação em três dimensões do movimento de uma partícula em uma região de campo magnético.",
+  "descript": "Simulação em três dimensões do movimento de uma partícula em uma região de campo magnético.",
   "url": "https://ophysics.com/em8.html",
   "thumb": "https://ophysics.com/images/mag3d.jpg",
   "categorys": [
@@ -9456,7 +9554,7 @@
  },
  {
   "name": "Indução Eletromagnética",
-  "descript": "Esta é uma simulação que mostra a corrente induzida em uma bobina em decorrência do movimento de um imã próximo a ela.",
+  "descript": "Mostra a corrente induzida em uma bobina em decorrência do movimento de um imã próximo a ela.",
   "url": "https://ophysics.com/em11.html",
   "thumb": "https://ophysics.com/images/thumbs/em11thumb.jpg",
   "categorys": [
@@ -9475,7 +9573,7 @@
  },
  {
   "name": "Fundamentos do movimento de rolamento + cicloides",
-  "descript": "Essa é uma simples simulação de um movimento de rolamento. Um ponto em um objeto rolante traça uma curva conhecida como cicloide.",
+  "descript": "Essa é uma simulação de um movimento de rolamento. Um ponto em um objeto rolante traça uma curva conhecida como cicloide.",
   "url": "https://ophysics.com/r1a.html",
   "thumb": "https://ophysics.com/images/thumbs/r1athumb.jpeg",
   "categorys": [
@@ -9702,7 +9800,7 @@
  },
  {
   "name": "Níveis de energia de hidrogênio",
-  "descript": "Uma simulação de um diagrama de nível de energia atômica do átomo de hidrogênio.",
+  "descript": "Simula um diagrama de nível de energia atômica do átomo de hidrogênio.",
   "url": "https://ophysics.com/m1.html",
   "thumb": "https://ophysics.com/images/thumbs/m1thumb.jpg",
   "categorys": [
@@ -9723,7 +9821,7 @@
  },
  {
   "name": "Ferramentas básicas para desenho de circuitos elétricos",
-  "descript": "Montar diagramas de alta qualidade de circuitos elétricos básicos.",
+  "descript": "Monte diagramas de alta qualidade de circuitos elétricos básicos.",
   "url": "https://ophysics.com/t1.html",
   "thumb": "https://ophysics.com/images/thumbs/t1thumb.jpeg",
   "categorys": [
@@ -9740,7 +9838,7 @@
  },
  {
   "name": "Ferramentas de Desenho de Mecânica",
-  "descript": "Criar diagramas relacionados a várias situações de mecânica. Massas, polias, inclinações, molas, polias e muito mais.",
+  "descript": "Crie diagramas relacionados a várias situações de mecânica. Massas, polias, inclinações, molas, polias e muito mais.",
   "url": "https://ophysics.com/t2.html",
   "thumb": "https://ophysics.com/images/thumbs/t2thumb.jpeg",
   "categorys": [
@@ -9867,7 +9965,7 @@
  },
  {
   "name": "Fazendo malabarismo com 13 bolas",
-  "descript": "Uma animação muito simples de como seria fazer malabarismo com 13 bolas em um padrão de cascata padrão.",
+  "descript": "Uma animação de como seria fazer malabarismo com 13 bolas em um padrão de cascata padrão.",
   "url": "https://ophysics.com/fs6.html",
   "thumb": "https://ophysics.com/images/thumbs/fs6thumb.jpg",
   "categorys": [
@@ -9906,8 +10004,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-9.11.30-PM-393x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "0c1d789076a54c4c1c3dd989f3b06150"
@@ -9919,8 +10021,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-8.35.40-PM-352x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "905420241558864c39f81eaaa38a6e09"
@@ -9932,8 +10038,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/ionstutorial-460x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "c6db90f7868d5eaf0d2b2ee29631bbb4"
@@ -9945,8 +10055,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.25.44-AM.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "9560fc76fd114c58213e6dae06d128d4"
@@ -9958,8 +10072,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-9.42.52-AM-336x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "44a468f4597626dda7e5ce0dc44358fe"
@@ -9971,8 +10089,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-22-at-8.32.52-AM-460x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "3295b96935cc8e05b73212ba04a284b7"
@@ -9984,8 +10106,12 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2017/06/Screen-Shot-2017-06-16-at-1.26.18-PM-220x170.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Física",
-   "Química"
+   "Jogo",
+   "Quântica",
+   "Química",
+   "Radiação"
   ],
   "author": "SimBucket",
   "hash": "8eada0230235dd4a5637261be9d33c3e"
@@ -9997,9 +10123,13 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/gasbehaviorlaunchimage-1-460x350.png",
   "categorys": [
    "Atômica",
+   "Eletrostática",
    "Estatística",
    "Física",
+   "Jogo",
+   "Quântica",
    "Química",
+   "Radiação",
    "Termodinâmica",
    "Termologia"
   ],
@@ -10012,9 +10142,14 @@
   "url": "https://www.simbucket.com/simulation/chemthink-chemical-reactions/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.51.13-PM.png",
   "categorys": [
+   "Aritmética",
    "Atômica",
    "Física",
-   "Química"
+   "Jogo",
+   "Matemática",
+   "Números",
+   "Química",
+   "Termologia"
   ],
   "author": "SimBucket",
   "hash": "93561f082d2a76e2acebd98c508cf450"
@@ -10027,6 +10162,7 @@
   "categorys": [
    "Atômica",
    "Física",
+   "Jogo",
    "Nuclear",
    "Química"
   ],
@@ -10070,11 +10206,12 @@
  },
  {
   "name": "Polarização de Lata de Alumínio",
-  "descript": "A simulação demonstra como um corpo eletricamente carregado é capaz de atrair um corpo neutro.",
+  "descript": "Demonstra como um corpo eletricamente carregado é capaz de atrair um corpo neutro.",
   "url": "https://www.physicsclassroom.com/Physics-Interactives/Static-Electricity/Aluminum-Can-Polarization/Aluminum-Can-Polarization-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-3.35.24-PM.png",
   "categorys": [
    "Eletrostática",
+   "Energia",
    "Força",
    "Física"
   ],
@@ -10083,7 +10220,7 @@
  },
  {
   "name": "Laboratório de Aceleração Angular",
-  "descript": "A simulação pode ser usada em contextos de estudo sobre dinâmica angular ou sobre conservação da energia.",
+  "descript": "Use em contextos de estudo sobre dinâmica angular ou sobre conservação da energia.",
   "url": "https://www.simbucket.com/simulation/angular-acceleration-lab/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.27.54-PM-460x350.png",
   "categorys": [
@@ -10098,7 +10235,7 @@
  },
  {
   "name": "Laboratório Atwood",
-  "descript": "A simulação traz a clássica máquina de Atwood utilizada para demonstrar a segunda lei de Newton e também a conservação da energia.",
+  "descript": "Traz a clássica máquina de Atwood utilizada para demonstrar a segunda lei de Newton e também a conservação da energia.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Newtons-Laws/Atwoods-Machine/Atwoods-Machine-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.02.52-AM-460x350.png",
   "categorys": [
@@ -10118,6 +10255,7 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-23-at-4.20.27-PM.png",
   "categorys": [
    "Eletrostática",
+   "Energia",
    "Força",
    "Física"
   ],
@@ -10237,6 +10375,7 @@
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Color-Filters",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.07.42-AM.png",
   "categorys": [
+   "Aritmética",
    "Física",
    "Matemática",
    "Óptica"
@@ -10262,13 +10401,14 @@
  },
  {
   "name": "Construtor de circuito DC",
-  "descript": "Crie e simule o funcionamento de circuitos com lâmpadas, baterias, fios, resistóres, chaves,voltimetros e amperimetros",
+  "descript": "Crie e simule o funcionamento de circuitos com lâmpadas, baterias, fios, resistóres, chaves, voltimetros e amperimetros",
   "url": "https://www.simbucket.com/simulation/dc-circuit-builder/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.54.15-PM.png",
   "categorys": [
    "Eletrodinâmica",
    "Energia",
-   "Física"
+   "Física",
+   "Semicondutores"
   ],
   "author": "SimBucket",
   "hash": "b3140008cd99d5a7ffa58336d109424a"
@@ -10367,7 +10507,7 @@
  },
  {
   "name": "Resfriamento Evaporativo",
-  "descript": "Esta é uma simulação de resfriamento evaporativo, água quente é adicionada ao recipiente e com o passar do tempo nota-se que apenas as moléculas menos agitadas permanecem nele.",
+  "descript": "Simula o resfriamento evaporativo, água quente é adicionada ao recipiente e com o passar do tempo nota-se que apenas as moléculas menos agitadas permanecem nele.",
   "url": "https://www.simbucket.com/simulation/evaporative-cooling/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-24-at-9.19.58-AM.png",
   "categorys": [
@@ -10382,7 +10522,7 @@
  },
  {
   "name": "Galaxy Simulator",
-  "descript": "O simulador tem como objetivo demonstrar, dentre outros fatos, como uma galáxia é afetada por um buraco negro em seu centro, como a massa de uma estrela afeta seu comportamento e como estrelas binárias são formadas.",
+  "descript": "Demonstra, dentre outros fatos, como uma galáxia é afetada por um buraco negro em seu centro, como a massa de uma estrela afeta seu comportamento e como estrelas binárias são formadas.",
   "url": "https://www.simbucket.com/simulation/67/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.48.20-PM.png",
   "categorys": [
@@ -10504,7 +10644,7 @@
  },
  {
   "name": "Laboratório de lentes e espelhos",
-  "descript": "A simulação permite a variação da posição do objeto para verificação das características da imagem formada.",
+  "descript": "Permite a variação da posição do objeto para verificação das características da imagem formada.",
   "url": "https://www.simbucket.com/simulation/lens-and-mirror-lab/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-11.31.58-AM.png",
   "categorys": [
@@ -10534,7 +10674,7 @@
  },
  {
   "name": "Simulação de fusão e ebulição",
-  "descript": "Nessa simulação um cubo de gelo é derretido e continuamente aquecido até que chegue à ebulição.",
+  "descript": "Um cubo de gelo é derretido e continuamente aquecido até que chegue à ebulição.",
   "url": "https://www.simbucket.com/simulation/melting-and-boiling/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-16-at-11.21.23-AM.png",
   "categorys": [
@@ -10550,7 +10690,7 @@
  },
  {
   "name": "O macaco e o tratador",
-  "descript": "A simulação retrata o clássico problema físico de se atingir um alvo em queda livre.",
+  "descript": "Retrata o clássico problema físico de se atingir um alvo em queda livre.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/The-Monkey-and-the-Zookeeper/The-Monkey-and-the-Zookeeper-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.09.22-PM.png",
   "categorys": [
@@ -10584,7 +10724,7 @@
  },
  {
   "name": "Osmose",
-  "descript": "A simulação mostra o deslocamento de água através de uma membrana semi-permeável entre duas regiões, uma de maior concentração de soluto e uma cm menor concentração.",
+  "descript": "Mostra o deslocamento de água através de uma membrana semi-permeável entre duas regiões, uma de maior concentração de soluto e uma cm menor concentração.",
   "url": "https://www.simbucket.com/simulation/osmosis/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-1.33.22-PM-e1418758915892-460x350.png",
   "categorys": [
@@ -10598,12 +10738,13 @@
  },
  {
   "name": "Pintura com Ciano, Magenta e Amarelo – Pigmentos CMY",
-  "descript": "A simulação permite a utilização de pigmentos de cores ciano, magenta e amarelo para colorir uniformes de escolas.",
+  "descript": "Permite a utilização de pigmentos de cores ciano, magenta e amarelo para colorir uniformes de escolas.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Painting-with-CMY",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-8.56.37-AM-460x350.png",
   "categorys": [
    "Aritmética",
    "Física",
+   "Matemática",
    "Óptica"
   ],
   "author": "PhysicsClassRoom",
@@ -10611,12 +10752,16 @@
  },
  {
   "name": "Fosfolipídios",
-  "descript": "A simulação mostra moléculas se agregando espontâneamente em diferentes formas de organização.",
+  "descript": "Mostra moléculas se agregando espontâneamente em diferentes formas de organização.",
   "url": "https://www.simbucket.com/simulation/phospholipids/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-2.36.22-PM.png",
   "categorys": [
+   "Atômica",
    "Biologia",
+   "Energia",
    "Estatística",
+   "Força",
+   "Física",
    "Química"
   ],
   "author": "SimBucket",
@@ -10624,7 +10769,7 @@
  },
  {
   "name": "Simulador de projéteis",
-  "descript": "A aplicação é uma simulação de lançamento de foguetes. É possível controlar a altura de lançamento, o ângulo e velocidade inicial.",
+  "descript": "Simula lançamentos de foguetes. É possível controlar a altura de lançamento, o ângulo e velocidade inicial.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Projectile-Simulator/Projectile-Simulator-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.05.54-PM.png",
   "categorys": [
@@ -10684,7 +10829,9 @@
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-04-at-9.04.36-AM-460x350.png",
   "categorys": [
    "Aritmética",
+   "Biologia",
    "Física",
+   "Matemática",
    "Óptica"
   ],
   "author": "PhysicsClassRoom",
@@ -10696,7 +10843,10 @@
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Colored-Shadows",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-05-at-6.10.35-AM-460x350.png",
   "categorys": [
+   "Aritmética",
+   "Biologia",
    "Física",
+   "Matemática",
    "Óptica"
   ],
   "author": "PhysicsClassRoom",
@@ -10793,7 +10943,7 @@
  },
  {
   "name": "Pára-quedismo",
-  "descript": "Uma simulação do arrasto do ar (resistência do ar) encontrado durante o paraquedismo.",
+  "descript": "Simula o arrasto do ar (resistência do ar) encontrado durante o paraquedismo.",
   "url": "https://www.simbucket.com/simulation/skydiving/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-12.17.58-PM-290x350.png",
   "categorys": [
@@ -10830,7 +10980,10 @@
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Light-and-Color/Stage-Lighting",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-11-at-3.53.01-PM-460x350.png",
   "categorys": [
+   "Aritmética",
+   "Biologia",
    "Física",
+   "Geometria",
    "Jogo",
    "Óptica"
   ],
@@ -10918,7 +11071,7 @@
  },
  {
   "name": "Adição de vetores",
-  "descript": "Nessa simulação dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
+  "descript": "Dois vetores podem ser somados utilizando-se a regra do triângulo ou do paralelogramo.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Vectors-and-Projectiles/Vector-Addition/Vector-Addition-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-7.59.40-PM.png",
   "categorys": [
@@ -12762,6 +12915,7 @@
   "url": "https://www.ck12.org/physics/Pendulum/simulation/Oscillations-Simulation?referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
   "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/Oscillations-Simulation.PNG?_build=202305291230",
   "categorys": [
+   "Força",
    "Física",
    "Jogo",
    "Oscilações"

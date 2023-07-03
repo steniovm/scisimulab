@@ -13,11 +13,15 @@ header{
     width: 98vw;
     height: 100vh;
     border: none;
-    margin: 0;
-    padding: 0;
+    overflow-y: auto;
+    overflow-x: auto;
+    resize: both;
   }
   #articleframe{
-    width: 98vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     border: none;
+    overflow-y: auto;
+    overflow-x: auto;
+    resize: both;
   }

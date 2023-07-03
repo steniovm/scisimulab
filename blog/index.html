@@ -10,8 +10,8 @@
   <meta property="og:description" content="Coletânea de simulações educacionais" />
   <meta property="og:locale" content="pt-br" />
   <title>SciSimuLab Blog - Simulações Didáticas de Ciências</title>
-  <link rel="stylesheet" href="../style.css" />
-  <link rel="stylesheet" href="styleblog.css" />
+  <link rel="stylesheet" href="../style.css"/>
+  <link rel="stylesheet" href="../styleblog.css"/>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
      crossorigin="anonymous"></script>
 </head>
@@ -23,16 +23,16 @@
     <h1>SciSimuLab Blog - Conteúdos Educacionais</h1>
     <a href="../index.html">Retornar ao inicio</a>
   </header>
-  <main id="mainarticle">
-    <iframe id="articleframe" src="./blog/testeartigo.html"></iframe>
-  </main>
+  <iframe id="articleframe" src="./testeartigo.html"></iframe>
+  <section id="highlight">
+    <!-- Simulações de autoria própria aqui -->
+    <strong>Simulações <i>SciSimuLab</i>:</strong>
+    <ul id="slider" class="slider"></ul>
+  </section>
   <section id="about">
     <div class="container">
-      <h2>Sobre</h2>
-      <p>Bem-vindo ao SciSimuLab, uma coleção de simulações interativas de diversas fontes para aprender ciências de forma divertida e envolvente.</p>
-      <p>Nosso objetivo é facilitar a busca e o acesso a simulações que abrangem diversas áreas científicas, desde física e química, biologia, matemática e muito mais.</p>
-      <p>As simulações são projetadas para ajudar estudantes e entusiastas de todas as idades a explorar conceitos científicos de maneira prática, promovendo o entendimento dos princípios fundamentais e estimulando a curiosidade pelo mundo ao nosso redor.</p>
-      <p>Embarque nesta jornada de descoberta científica e divirta-se explorando simulações interativas. Aprender nunca foi tão empolgante!</p>
+      <p>Deseja publicar seu texto em nosso blog, click no botão abaixo e entre em contato:</p>
+      <button id="formmenss">Enviar uma mensagem</button>
     </div>
   </section>
   <a href="#myimg">Voltar ao topo</a>
@@ -53,5 +53,18 @@
     </div>
   </footer>
 </body>
+<script type="text/javascript">
+const frame = document.getElementById('articleframe');
+function autoResize(){
+  let newheight;
+  if(document.getElementById){
+      newheight = frame.contentWindow.document.body.scrollHeight;
+    }
+  frame.style = `height: ${newheight*1.1}px;`;
+}
+frame.addEventListener('load',autoResize);
+window.onresize = function() {autoResize()};
+setTimeout(autoResize,1000);
+</script>
 <!--<script src="script.js" type="text/javascript"></script>-->
 </html>
