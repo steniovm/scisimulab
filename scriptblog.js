@@ -133,17 +133,14 @@ const h1message = document.getElementById('h1message');
 //formularios de contato
 formmenss.addEventListener('click',function(){
   contactforms.classList.remove('hiddemdiv');
-  insertform.classList.add('hiddemdiv');
   contactform.classList.remove('hiddemdiv');
 });
 closebt.addEventListener('click',function(){
   contactforms.classList.add('hiddemdiv');
-  insertform.classList.add('hiddemdiv');
   contactform.classList.add('hiddemdiv');
 });
 btmessage.addEventListener('click',function(){
   contactforms.classList.add('hiddemdiv');
-  insertform.classList.add('hiddemdiv');
   contactform.classList.add('hiddemdiv');
   spanmessage.classList.remove('hiddemdiv');
   h1message.innerHTML = "EMAIL ENVIADO, Agradeçemos seu contato";
