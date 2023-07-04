@@ -193,6 +193,7 @@ body {
     display: flex;
     justify-content:start;
     font-weight: bold;
+    flex-wrap: wrap;
   }
   footer>p {
     font-size: 14px;

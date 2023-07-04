@@ -25,3 +25,8 @@ header{
     overflow-x: auto;
     resize: both;
   }
+  #highlight, #about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

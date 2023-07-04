@@ -1,0 +1,18 @@
+[
+ {
+  "title":"teste1",
+  "url":"testeartigo.html",
+  "thumb":"https://www.scisimulab.com.br/simuls/AlgoCards/screenshot.png",
+  "author":"Stenio",
+  "dateinsert":"04/07/2023",
+  "dateupdate":"04/07/2023"
+ },
+ {
+  "title":"teste2",
+  "url":"testeartigo.html",
+  "thumb":"https://www.scisimulab.com.br/simuls/AlphaMathics/screenshot.png",
+  "author":"Steniovm",
+  "dateinsert":"04/07/2023",
+  "dateupdate":"04/07/2023"
+ }
+]
