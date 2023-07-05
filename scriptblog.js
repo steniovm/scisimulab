@@ -64,7 +64,7 @@ function saveCookies(){
 
 //mostra slides
 //const urlarticles = 'https://scisimulab.vercel.app/articles.json';
-const urlarticles = './blog/urlarticles.json';
+const urlarticles = './urlarticles.json';
 const unimage = "unimage.svg";
 const slider = document.getElementById('slider');
 let sliders = [];

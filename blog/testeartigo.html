@@ -27,7 +27,7 @@
             <h2 id="authorname">Fulano de tal</h2>
             <img id="authorphoto" src="../favicon.ico" alt="Foto do autor"/>
             <p id="minibio">Resumo de biografia do autor.</p>
-            <a id="personalpage" href="http://paginadoautor.com">http://paginadoautor.com</a>
+            <a id="personalpage" href="http://paginadoautor.com" target="_blank">http://paginadoautor.com</a>
         </footer>
         <div id="disqus_thread"></div>
         <script>
@@ -48,29 +48,5 @@
       })();
         </script>
     </body>
-    <script>
-const idauthor = document.getElementById("idauthor").value;
-const urlauthors = "./authors.json"
-console.log("id autor: "+idauthor);
-fetch(urlauthors)
-  .then(response => response.json())
-  .then(data => {
-    data.forEach(author => {
-        if (author.id == idauthor){
-            showAuthor(author);
-        }
-    });
-  })
-  .catch(error => {
-    console.log('Erro ao carregar o arquivo JSON:', error);
-  });
-function showAuthor(author){
-    document.getElementById("authorname").innerHTML = author.name;
-    document.getElementById("authorphoto").src = author.image || "../favicon.ico";
-    document.getElementById("authorphoto").alt = "Foto do autor "+author.shortname;
-    document.getElementById("minibio").innerHTML = author.minibio;
-    document.getElementById("personalpage").href = author.personalpage || "./";
-    document.getElementById("personalpage").innerHTML = author.personalpage || "./";
-}
-    </script>
+    <script src="../scriptarticle.js" type="text/javascript"></script>
 </html>
