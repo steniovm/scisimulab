@@ -269,6 +269,9 @@ ul, li{
   z-index: 10;
   animation: fade 3s infinite alternate;
 }
+#articleframe{
+  background-color: #bbb; 
+}
 @keyframes fade {
   from { opacity: 0; }
   to   { opacity: 1; }
@@ -374,6 +377,7 @@ form button{
   background-color: #333;
   width: 300px;
 }
+
 /*escoder elemento*/
 .hiddemdiv{
   display: none;

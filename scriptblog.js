@@ -81,9 +81,12 @@ function showsliderers(){
   },5900);
 }
 //carrega dados de artigos
+let articles = [];
+let indexarticle = 0;
 fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
+    articles = data;
     // Percorre os dados
     let card = "";
     let nint = (data.length>10) ? (data.length-10) : 0;
@@ -105,24 +108,59 @@ fetch(urlarticles)
     }
     slider.innerHTML = card;
     showsliderers();
-    opemwindow(querys.title);
+    opemArticleByQuery(querys.title)
+    //opemwindow(querys.title);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
 
+//abre artigo via indice
+function opemArticlebyindex(n=0){
+  frame.src = `./${articles[n].url}`;
+}
 //abre artigo via url query
 let querys = {};
 let hashlist = {};
 querys.title = urlParams.get('title');
+//abrir no iframe
+function opemArticleByQuery(title){
+  if (title){
+    articles.forEach((article, index)=>{
+      if (title+".html" === article.url){
+        indexarticle = index;
+        opemArticlebyindex(indexarticle);
+      }
+    });
+  }
+}
+//abrir em nova janela (atualmente sem uso)
 function opemwindow(title){
   if (title){
     let url = `./${title}.html`;
-    window.open(url, "scisimulabWindow", "popup");;
+    window.open(url, "scisimulabWindow", "popup");
   }
 }
+//navega com botões anterior e proximo
+const previous = document.getElementById('previous');
+const next = document.getElementById('next');
+function verifyEnableButton(){
+  if (indexarticle<=0) previous.disabled = true;
+  else previous.disabled = false;
+  if (indexarticle>=(articles.length-1)) next.disabled = true;
+  else next.disabled = false;
+  console.log(indexarticle);
+}
+previous.addEventListener('click',()=>{
+  opemArticlebyindex(indexarticle--);
+  verifyEnableButton();
+});
+next.addEventListener('click',()=>{
+  opemArticlebyindex(indexarticle++);
+  verifyEnableButton();
+});
 
-
+//entrar em contato
 const formmenss = document.getElementById('formmenss');
 const contactforms = document.getElementById('contactforms');
 const contactform = document.getElementById('contactform');
@@ -148,3 +186,4 @@ btmessage.addEventListener('click',function(){
     spanmessage.classList.add('hiddemdiv');
   },1500);
 });
+
