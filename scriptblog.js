@@ -63,8 +63,7 @@ function saveCookies(){
 }
 
 //mostra slides
-//const urlarticles = 'https://scisimulab.vercel.app/articles.json';
-const urlarticles = './urlarticles.json';
+const urlarticles = 'https://scisimulab.vercel.app/blog/urlarticles.json';
 const unimage = "unimage.svg";
 const slider = document.getElementById('slider');
 let sliders = [];
@@ -76,7 +75,7 @@ let count = 0;
 const articleslinks = document.getElementById('articleslinks');
 function menuCreate(){
   for(let i=(articles.length-1);i>=0;i--){
-    articleslinks.innerHTML+= `<li><a id="${i}" class="articlelink" href="${articles[i].url}" target="articleframe">${articles[i].title}</a></li>`;
+    articleslinks.innerHTML+= `<li><a id="${i}" class="articlelink" href="./blog/${articles[i].url}" target="articleframe">${articles[i].title}</a></li>`;
   }
   const articlelinklist = document.getElementsByClassName('articlelink');
   articlelinklist.forEach(alink=>{
