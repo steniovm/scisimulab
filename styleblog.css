@@ -91,3 +91,6 @@ ul>li>a:hover{
   font-weight: bold;
   background: #ccc;
 }
+.mycard {
+  justify-content: space-between;
+}
