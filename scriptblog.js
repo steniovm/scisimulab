@@ -75,8 +75,8 @@ let count = 0;
 const articleslinks = document.getElementById('articleslinks');
 function menuCreate(){
   for(let i=(articles.length-1);i>=0;i--){
-    const li = document.createElement(li);
-    const a = document.createElement(a);
+    const li = document.createElement('li');
+    const a = document.createElement('a');
     a.classList.add('articlelink');
     a.href = `./blog/${articles[i].url}`;
     a.target = "articleframe";
@@ -107,7 +107,7 @@ fetch(urlarticles)
   });
 //abre artigo via indice
 function opemArticlebyindex(n=0){
-  frame.src = `./${articles[n].url}`;
+  frame.src = `./blog/${articles[n].url}`;
   verifyEnableButton();
 }
 //abre artigo via url query
