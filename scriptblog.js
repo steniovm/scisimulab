@@ -71,15 +71,21 @@ let sliders = [];
 let slidersa = [];
 let showslider = 0;
 let count = 0;
-function showsliderers(){
-  sliders = document.getElementsByName('slide');
-  slidersa = document.getElementsByClassName('mycard');
-  sliders[0].checked = true;
-  showslider = setInterval(function(){
-    count = (count+1) % sliders.length;
-    sliders[count].checked = true;
-  },5900);
+
+//cria menu de artigos
+const articleslinks = document.getElementById('articleslinks');
+function menuCreate(){
+  for(let i=(articles.length-1);i>=0;i--){
+    articleslinks.innerHTML+= `<li><a id="${i}" class="articlelink" href="${articles[i].url}" target="articleframe">${articles[i].title}</a></li>`;
+  }
+  const articlelinklist = document.getElementsByClassName('articlelink');
+  articlelinklist.forEach(alink=>{
+    alink.addEventListener('click',()=>{
+      indexarticle = parseInt(alink.id);
+    });
+  });
 }
+
 //carrega dados de artigos
 let articles = [];
 let indexarticle = 0;
@@ -87,37 +93,19 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
-    // Percorre os dados
-    let card = "";
-    let nint = (data.length>10) ? (data.length-10) : 0;
-    let j = 0;
-    for(let i=nint;i<data.length;i++){
-      j = i-nimg;
-      card += `
-      <li>
-        <input type="radio" id="slide${j}" name="slide">
-        <label class="bullet" for="slide${j}" style="left: ${10+j*30}px"></label>
-        <a class="card mycard" href="./blog/${data[j].url}" target="articleframe">
-          <div>
-              <h3>${data[j].title}</h3>
-              <label><strong>Autor: </strong>${data[j].author}</label>
-          </div>
-          <img src="${data[j].thumb ? data[j].thumb : unimage}" alt="imagem do artigo ${data[j].title}"/>
-        </a>
-      </li>`
-    }
-    slider.innerHTML = card;
+    slidesCreate();
     showsliderers();
-    opemArticleByQuery(querys.title)
+    opemArticleByQuery(querys.title);
+    menuCreate();
     //opemwindow(querys.title);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
-
 //abre artigo via indice
 function opemArticlebyindex(n=0){
   frame.src = `./${articles[n].url}`;
+  verifyEnableButton();
 }
 //abre artigo via url query
 let querys = {};
@@ -149,16 +137,46 @@ function verifyEnableButton(){
   else previous.disabled = false;
   if (indexarticle>=(articles.length-1)) next.disabled = true;
   else next.disabled = false;
-  console.log(indexarticle);
 }
 previous.addEventListener('click',()=>{
   opemArticlebyindex(indexarticle--);
-  verifyEnableButton();
 });
 next.addEventListener('click',()=>{
   opemArticlebyindex(indexarticle++);
-  verifyEnableButton();
 });
+
+//cria slides de artigos
+function slidesCreate(){
+  let card = "";
+  let nint = (articles.length>10) ? (articles.length-10) : 0;
+  let j = 0;
+  for(let i=nint;i<articles.length;i++){
+    j = i-nimg;
+    card += `
+    <li>
+      <input type="radio" id="slide${j}" name="slide">
+      <label class="bullet" for="slide${j}" style="left: ${10+j*30}px"></label>
+      <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
+        <div>
+            <h3>${articles[j].title}</h3>
+            <label><strong>Autor: </strong>${articles[j].author}</label>
+        </div>
+        <img src="${articles[j].thumb ? articles[j].thumb : unimage}" alt="imagem do artigo ${articles[j].title}"/>
+      </a>
+    </li>`
+  }
+  slider.innerHTML = card;
+}
+function showsliderers(){
+  sliders = document.getElementsByName('slide');
+  slidersa = document.getElementsByClassName('mycard');
+  sliders[0].checked = true;
+  showslider = setInterval(function(){
+    count = (count+1) % sliders.length;
+    sliders[count].checked = true;
+  },5900);
+}
+
 
 //entrar em contato
 const formmenss = document.getElementById('formmenss');
