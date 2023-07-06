@@ -129,6 +129,8 @@ function opemArticleByQuery(title){
         opemArticlebyindex(indexarticle);
       }
     });
+  }else{
+    opemArticlebyindex(0);
   }
 }
 //abrir em nova janela (atualmente sem uso)
