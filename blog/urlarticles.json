@@ -1,26 +1,10 @@
 [
   {
-    "title":"teste1",
-    "url":"testeartigo.html",
-    "thumb":"https://www.scisimulab.com.br/simuls/AlgoCards/screenshot.png",
-    "author":"Stenio",
-    "dateinsert":"04/07/2023",
-    "dateupdate":"04/07/2023"
-  },
-  {
-    "title":"teste2",
-    "url":"testeartigo1.html",
-    "thumb":"https://www.scisimulab.com.br/simuls/AlphaMathics/screenshot.png",
-    "author":"Steniovm",
-    "dateinsert":"04/07/2023",
-    "dateupdate":"04/07/2023"
-  },
-  {
-    "title":"teste3",
-    "url":"testeartigo2.html",
-    "thumb":"https://www.scisimulab.com.br/simuls/Batimento/screenshot.png",
-    "author":"Steniovm",
-    "dateinsert":"04/07/2023",
-    "dateupdate":"04/07/2023"
+    "title":"Bem-vindo ao Blog do SciSimuLab: Explorando a Ciência de Forma Interativa!",
+    "url":"initial_post.html",
+    "thumb":"https://www.scisimulab.com.br/blog/2023-07-06-18-22-48.png",
+    "author":"SciSimuLab",
+    "dateinsert":"16/07/2023",
+    "dateupdate":"16/07/2023"
   }
 ]
