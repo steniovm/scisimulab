@@ -75,14 +75,18 @@ let count = 0;
 const articleslinks = document.getElementById('articleslinks');
 function menuCreate(){
   for(let i=(articles.length-1);i>=0;i--){
-    articleslinks.innerHTML+= `<li><a id="${i}" class="articlelink" href="./blog/${articles[i].url}" target="articleframe">${articles[i].title}</a></li>`;
-  }
-  const articlelinklist = document.getElementsByClassName('articlelink');
-  articlelinklist.forEach(alink=>{
-    alink.addEventListener('click',()=>{
-      indexarticle = parseInt(alink.id);
+    const li = document.createElement(li);
+    const a = document.createElement(a);
+    a.classList.add('articlelink');
+    a.href = `./blog/${articles[i].url}`;
+    a.target = "articleframe";
+    a.innerHTML = articles[i].title;
+    a.addEventListener('click',()=>{
+      indexarticle = parseInt(i);
     });
-  });
+    li.appendChild(a);
+    articleslinks.appendChild(li);
+  }
 }
 
 //carrega dados de artigos
