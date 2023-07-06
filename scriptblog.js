@@ -82,7 +82,7 @@ function menuCreate(){
     a.target = "articleframe";
     a.innerHTML = articles[i].title;
     a.addEventListener('click',()=>{
-      indexarticle = parseInt(i);
+      opemArticlebyindex(i);
     });
     li.appendChild(a);
     articleslinks.appendChild(li);
@@ -109,6 +109,12 @@ fetch(urlarticles)
 function opemArticlebyindex(n=0){
   frame.src = `./blog/${articles[n].url}`;
   verifyEnableButton();
+  counte = 0;
+  interval = setInterval(()=>{
+  autoResize();
+  if(counte>=30) clearInterval(interval);
+  counte++;
+  },100);
 }
 //abre artigo via url query
 let querys = {};
