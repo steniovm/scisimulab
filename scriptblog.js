@@ -5,7 +5,7 @@ function autoResize(){
   if(document.getElementById){
       newheight = frame.contentWindow.document.body.scrollHeight;
     }
-  frame.style = `height: ${newheight*1.1}px;`;
+  frame.style = `height: ${newheight+20}px;`;
 }
 frame.addEventListener('load',autoResize);
 window.onresize = autoResize;
