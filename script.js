@@ -50,7 +50,7 @@ restoreCookies();
 //controle de cookies
 function restoreCookies(){
   if (document.cookie.indexOf('scisimulab')>=0){
-      savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1])
+      savecookie = JSON.parse(document.cookie.split("; ").find((row) => row.startsWith('scisimulab='))?.split("=")[1]);
       darkmode = !(savecookie.darkmode);
       darkmodes();
       nimg = savecookie.nimg ? parseInt(savecookie.nimg) : nimages.value;
@@ -263,6 +263,41 @@ fetch(urldata)
       fonteItem.innerHTML = `<img src="${fonte.thumb}" alt="imagem de colaborador"/>${fonte.text}`;
       resources.appendChild(fonteItem);
     });
+  })
+  .catch(error => {
+    console.log('Erro ao carregar o arquivo JSON:', error);
+  });
+  //cria menu de artigos
+const articleslinks = document.getElementById('articleslinks');
+function menuCreate(){
+  for(let i=(articles.length-1);i>=0;i--){
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    li.classList.add('li');
+    a.classList.add('articlelink');
+    a.href = `./blog/${articles[i].url}`;
+    a.target = "articleframe";
+    a.innerHTML = articles[i].title;
+    a.addEventListener('click',()=>{
+      opemArticlebyindex(i);
+    });
+    li.appendChild(a);
+    articleslinks.appendChild(li);
+  }
+}
+
+//carrega dados de artigos
+const urlarticles = 'https://scisimulab.vercel.app/blog/urlarticles.json';
+let articles = [];
+let indexarticle = 0;
+fetch(urlarticles)
+  .then(response => response.json())
+  .then(data => {
+    articles = data;
+    //slidesCreate();
+    //showsliderers();
+    menuCreate();
+    //opemwindow(querys.title);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);

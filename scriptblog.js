@@ -77,6 +77,7 @@ function menuCreate(){
   for(let i=(articles.length-1);i>=0;i--){
     const li = document.createElement('li');
     const a = document.createElement('a');
+    li.classList.add('li');
     a.classList.add('articlelink');
     a.href = `./blog/${articles[i].url}`;
     a.target = "articleframe";
