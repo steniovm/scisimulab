@@ -440,6 +440,9 @@ form button{
   font-weight: bold;
   background: #ccc;
 }
+#menusup{
+  margin: 10px 0 0 0;
+}
 #menusup>a{
   display: block;
   text-decoration: none;
