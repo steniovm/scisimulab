@@ -31,6 +31,7 @@ const categoriasnome = [];
 const autores = {};
 const autoresnome = [];
 let simulist = [];
+let mysimul = [];
 let sliders = [];
 let slidersa = [];
 let count = 0;
@@ -231,32 +232,36 @@ fetch(urlsimuls)
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
+//cria slides de capa
+function createSlides(){
+  let card = "";
+  for(let i=0;i<mysimul.length;i++){
+    card += `
+    <li>
+      <input type="radio" id="slide${i}" name="slide">
+      <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
+      <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
+        <div>
+            <h3>${mysimul[i].name}</h3>
+            <label><strong>Categorias: </strong>${mysimul[i].categorys.join(', ')}</label>
+            <label><strong>Autor: </strong>${mysimul[i].author}</label>
+        </div>
+        <img src="${mysimul[i].thumb ? mysimul[i].thumb : unimage}" alt="imagem da simulação ${mysimul[i].name}"/>
+        <p>${mysimul[i].descript}</p>
+      </a>
+    </li>`
+  }
+  slider.innerHTML += card;
+  showsliderers();
+}
 
 //carrega simulações autorais
 fetch(urldata)
   .then(response => response.json())
   .then(data => {
     // Percorre as simulações autorais
-    let card = "";
-    let mysimul = data.autoral;
-    for(let i=0;i<mysimul.length;i++){
-      card += `
-      <li>
-        <input type="radio" id="slide${i}" name="slide">
-        <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
-        <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
-          <div>
-              <h3>${mysimul[i].name}</h3>
-              <label><strong>Categorias: </strong>${mysimul[i].categorys.join(', ')}</label>
-              <label><strong>Autor: </strong>${mysimul[i].author}</label>
-          </div>
-          <img src="${mysimul[i].thumb ? mysimul[i].thumb : unimage}" alt="imagem da simulação ${mysimul[i].name}"/>
-          <p>${mysimul[i].descript}</p>
-        </a>
-      </li>`
-    }
-    slider.innerHTML = card;
-    showsliderers();
+    mysimul = data.autoral;
+    createSlides();
     data.fontes.forEach(fonte => {
       const fonteItem = document.createElement('a');
       fonteItem.classList.add("emphasis");
@@ -286,7 +291,29 @@ function menuCreate(){
     articleslinks.appendChild(li);
   }
 }
-
+//cria slides de artigos
+function slidesCreate(){
+  let card = "";
+  let nint = (articles.length>10) ? (articles.length-10) : 0;
+  let j = 0;
+  for(let i=nint;i<articles.length;i++){
+    j = i-nimg;
+    card += `
+    <li>
+      <input type="radio" id="slide${j}" name="slide">
+      <label class="bullet" for="slide${j}" style="left: ${10+j*30}px"></label>
+      <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
+        <div>
+            <h3>${articles[j].title}</h3>
+            <label><strong>Autor: </strong>${articles[j].author}</label>
+        </div>
+        <img src="${articles[j].thumb ? articles[j].thumb : unimage}" alt="imagem do artigo ${articles[j].title}"/>
+      </a>
+    </li>`
+  }
+  slider.innerHTML += card;
+  showsliderers();
+}
 //carrega dados de artigos
 const urlarticles = 'https://scisimulab.vercel.app/blog/urlarticles.json';
 let articles = [];
@@ -295,8 +322,7 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
-    //slidesCreate();
-    //showsliderers();
+    slidesCreate();
     menuCreate();
     //opemwindow(querys.title);
   })
