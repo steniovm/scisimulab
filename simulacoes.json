@@ -17387,7 +17387,7 @@
   "name": "Reflexão em um espelho plano",
   "descript": "Ajuste o ângulo do espelho e veja o que acontece com o feixe refletido! Determine o ângulo quando cada observador pode ver a luz.",
   "url": "http://sahyun.net/physics/html5/reflection.htm",
-  "thumb": "",
+  "thumb": "http://sahyun.net/physics/html5/reflection.png",
   "categorys": [
    "Física",
    "Geometria",
@@ -21975,5 +21975,172 @@
   ],
   "author": "Cemirim",
   "hash": "01e4e6f0a5cf5d89eb9682d05af16fbd"
+ },
+ {
+  "name": "Caixa mistério",
+  "descript": "Quatro bolas estão conectadas a fios que estão de alguma forma conectados dentro da caixa. Puxe as bolas e desenvolva um modelo de como as cordas estão conectadas dentro da caixa.",
+  "url": "http://sahyun.net/physics/html5/mysterybox.htm",
+  "thumb": "http://sahyun.net/physics/html5/mysteryboxpic.png",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Jogo",
+   "Matemática",
+   "Mecânica",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "ade500676b6e53a55871fa83333e5f04"
+ },
+ {
+  "name": "Segunda Lei de Newton - Equação",
+  "descript": "Mostra a relação matemática da Segunda Lei de Newton. Use os controles deslizantes para ajustar a massa e a força aplicada.",
+  "url": "http://sahyun.net/physics/html5/newt2.htm",
+  "thumb": "http://sahyun.net/physics/html5/newtpic.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "6f45b52839765acdedcb54280af7ced3"
+ },
+ {
+  "name": "Empurrando um Bloco",
+  "descript": "Mostra os gráficos de Velocidade, Posição ou Aceleração versus tempo para um objeto empurrado com uma força de força constante por um tempo definido. Você pode ajustar a intensidade da força de empurrão, a duração do empurrão e a massa do objeto.",
+  "url": "http://sahyun.net/physics/html5/block_push.htm",
+  "thumb": "http://sahyun.net/physics/html5/block_push.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "c1a7ce3b84820644ac431e0f7c6f3731"
+ },
+ {
+  "name": "Força de arrasto",
+  "descript": "Mostra como a força de arrasto da resistência do ar muda devido à forma (C), área (A), densidade do ar (ρ) e velocidade (V). Ajuste as variáveis. Os \"pontos dançantes\" representam moléculas de ar e são diretamente proporcionais à densidade do ar.",
+  "url": "http://sahyun.net/physics/html5/dragforce.htm",
+  "thumb": "http://sahyun.net/physics/html5/dragforce.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "43934071d5ac4246d598d4533ba65bb0"
+ },
+ {
+  "name": "Força centrípeta",
+  "descript": "Mostra a velocidade e a força que atuam sobre um objeto sob a ação de uma única força central. Como a força é perpendicular à velocidade o tempo todo, o objeto se move em uma trajetória circular e com velocidade constante. Ajuste a velocidade, a massa e o raio de rotação do objeto.",
+  "url": "http://sahyun.net/physics/html5/centripetal.htm",
+  "thumb": "http://sahyun.net/physics/html5/centripetal.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "f3654a9ec28dae14c196956cac5dab6c"
+ },
+ {
+  "name": "Refração por um bloco transparente",
+  "descript": "Observe como o feixe refratado e o ângulo refratado mudam. Ajuste o ângulo da luz incidente no bloco, escolha um ângulo incidente e calcule o ângulo refratado usando a Lei de Snell: n1 Sinθ1 = n2 Sinθ2.",
+  "url": "http://sahyun.net/physics/html5/refraction.htm",
+  "thumb": "http://sahyun.net/physics/html5/refraction.png",
+  "categorys": [
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Trigonometria",
+   "Vetores",
+   "Óptica"
+  ],
+  "author": "StevenSahyun",
+  "hash": "6060a4ab2f93634cc19c7d3bb042bcf4"
+ },
+ {
+  "name": "Lentes finas",
+  "descript": "Mostra a projeção de raios de luz que passam por uma lente fina e a formação de imagem. Ajuste a distância focal, distância do objeto e altura do objeto e veja o que acontece com a imagem. escolha entre lentes comvergentes e divergentes.",
+  "url": "http://sahyun.net/physics/html5/thinlens.htm",
+  "thumb": "http://sahyun.net/physics/html5/thinlens.png",
+  "categorys": [
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Trigonometria",
+   "Vetores",
+   "Óptica"
+  ],
+  "author": "StevenSahyun",
+  "hash": "1c7ead75ee55100e8dd4181dee0210dd"
+ },
+ {
+  "name": "Diagrama de espaço-tempo de Minkowski",
+  "descript": "Mostra o gráfico de como os eixos de coordenadas mudam devido às transformações de Lorentz. Ajuste a velocidade do \"outro\" quadro e a posição do ponto no espaço-tempo. Use o zoom para alterar a escala do gráfico.",
+  "url": "http://sahyun.net/physics/html5/minkowski.htm",
+  "thumb": "http://sahyun.net/physics/html5/minkpic.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Relatividade",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "b1f06ce4779ae646ca3a55e82c2e1d5d"
+ },
+ {
+  "name": "Transformações de Lorentz da Relatividade Especial",
+  "descript": "Mostra um exemplo de como as transformações de Lorentz na Relatividade Especial atuam nas medições de um objeto em movimento. O comprimento e o tempo iniciais são aqueles em repouso para o observador. Ajustar a velocidade do outro quadro, o comprimento dos objetos e o tempo observado no quadro inicial.",
+  "url": "http://sahyun.net/physics/html5/lorentz.htm",
+  "thumb": "http://sahyun.net/physics/html5/lorentzpic.png",
+  "categorys": [
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Relatividade",
+   "Vetores"
+  ],
+  "author": "StevenSahyun",
+  "hash": "d2986bf66bb19fb96a6771f469bd90d5"
  }
 ]

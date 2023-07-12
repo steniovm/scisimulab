@@ -424,8 +424,8 @@ form button{
   font-weight: bold;
   font-size: larger;
   font-style: italic;
-  color: #ddd;
-  background: #333;
+  color: #bbb;
+  background: #444;
   padding: 5px;
   border-radius: 15px;
   white-space: nowrap;
@@ -449,8 +449,8 @@ form button{
   font-weight: bold;
   font-size: larger;
   font-style: italic;
-  color: #222;
-  background: #333;
+  color: #bbb;
+  background: #444;
   padding: 5px;
   border-radius: 15px;
   white-space: nowrap;
