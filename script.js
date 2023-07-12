@@ -241,7 +241,7 @@ function createSlides(){
   let card = "";
   for(let i=0;i<mysimul.length;i++){
     card += `
-    <li onclick="opemwindow(${mysimul[i].url})">
+    <li onclick="opemwindow('${mysimul[i].url}')">
       <input type="radio" id="slide${i}" name="slide">
       <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
       <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
@@ -303,7 +303,7 @@ function slidesCreate(){
   for(let i=nint;i<articles.length;i++){
     j = i-nint;
     card += `
-    <li onclick="opemwindow(${'./blog/'+articles[j].url})">
+    <li onclick="opemwindow('${'./blog/'+articles[j].url}')">
       <input type="radio" id="slide${(j+nimg-1)}" name="slide">
       <label class="bullet" for="slide${(j+nimg-1)}" style="left: ${10+(j+nimg-1)*30}px"></label>
       <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
