@@ -34,6 +34,7 @@ let simulist = [];
 let mysimul = [];
 let sliders = [];
 let slidersa = [];
+let slidersurl = [];
 let count = 0;
 let showslider = 0;
 let nimg = 0;
@@ -240,8 +241,9 @@ fetch(urlsimuls)
 function createSlides(){
   let card = "";
   for(let i=0;i<mysimul.length;i++){
+    slidersurl.push(mysimul[i].url);
     card += `
-    <li onclick="opemwindow('${mysimul[i].url}')">
+    <li onclick="opemwindow(slidersurl[count])">
       <input type="radio" id="slide${i}" name="slide">
       <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
       <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
@@ -302,8 +304,9 @@ function slidesCreate(){
   let j = 0;
   for(let i=nint;i<articles.length;i++){
     j = i-nint;
+    slidersurl.push(`./blog/${articles[j].url}`);
     card += `
-    <li onclick="opemwindow('${'./blog/'+articles[j].url}')">
+    <li onclick="opemwindow(slidersurl[count])">
       <input type="radio" id="slide${(j+nimg-1)}" name="slide">
       <label class="bullet" for="slide${(j+nimg-1)}" style="left: ${10+(j+nimg-1)*30}px"></label>
       <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
