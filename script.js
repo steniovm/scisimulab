@@ -294,10 +294,11 @@ function menuCreate(){
 //cria slides de artigos
 function slidesCreate(){
   let card = "";
+  let nimgc = nimg;
   let nint = (articles.length>10) ? (articles.length-10) : 0;
   let j = 0;
   for(let i=nint;i<articles.length;i++){
-    j = i-nimg;
+    j = i-nimgc;
     card += `
     <li>
       <input type="radio" id="slide${j}" name="slide">
