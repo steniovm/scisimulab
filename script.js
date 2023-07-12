@@ -300,8 +300,8 @@ function slidesCreate(){
     j = i-nint;
     card += `
     <li>
-      <input type="radio" id="slide${j}" name="slide">
-      <label class="bullet" for="slide${j}" style="left: ${10+j*30}px"></label>
+      <input type="radio" id="slide${(j+nimg)}" name="slide">
+      <label class="bullet" for="slide${(j+nimg)}" style="left: ${10+(j+nimg)*30}px"></label>
       <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
         <div>
             <h3>${articles[j].title}</h3>
