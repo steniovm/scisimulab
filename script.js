@@ -111,6 +111,7 @@ function showsliderers(){
   sliders = document.getElementsByName('slide');
   slidersa = document.getElementsByClassName('mycard');
   sliders[0].checked = true;
+  clearInterval(showslider);
   showslider = setInterval(function(){
     count = (count+1) % sliders.length;
     sliders[count].checked = true;
@@ -118,11 +119,14 @@ function showsliderers(){
 }
 //abre simulação via url query
 querys.hash = urlParams.get('simu');
-function opemwindow(hash){
+function opemwindowhash(hash){
   if (hashlist[hash]){
     let url = hashlist[hash];
-    window.open(url, "scisimulabWindow", "popup");;
+    window.open(url, "scisimulabWindow", "popup");
   }
+}
+function opemwindow(url){
+  window.open(url, "scisimulabWindow", "popup");
 }
 
 //alterna modo claro e escuro
@@ -205,7 +209,7 @@ fetch(urlsimuls)
       autores[simulacao.author].push(simulacao);
       filteraut.innerHTML = `Todos (${data.length})`;
     });
-    opemwindow(querys.hash);
+    opemwindowhash(querys.hash);
     // Percorre as categorias e cria os elementos do menu categorias
     categoriasnome.sort();
     categoriasnome.forEach((categoria) => {
@@ -237,7 +241,7 @@ function createSlides(){
   let card = "";
   for(let i=0;i<mysimul.length;i++){
     card += `
-    <li>
+    <li onclick="opemwindow(${mysimul[i].url})">
       <input type="radio" id="slide${i}" name="slide">
       <label class="bullet" for="slide${i}" style="left: ${10+i*30}px"></label>
       <a class="card mycard" href="${mysimul[i].url}" target="scisimulabWindow">
@@ -299,9 +303,9 @@ function slidesCreate(){
   for(let i=nint;i<articles.length;i++){
     j = i-nint;
     card += `
-    <li>
-      <input type="radio" id="slide${(j+nimg)}" name="slide">
-      <label class="bullet" for="slide${(j+nimg)}" style="left: ${10+(j+nimg)*30}px"></label>
+    <li onclick="opemwindow(${'./blog/'+articles[j].url})">
+      <input type="radio" id="slide${(j+nimg-1)}" name="slide">
+      <label class="bullet" for="slide${(j+nimg-1)}" style="left: ${10+(j+nimg-1)*30}px"></label>
       <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
         <div>
             <h3>${articles[j].title}</h3>
@@ -324,7 +328,7 @@ fetch(urlarticles)
     articles = data;
     slidesCreate();
     menuCreate();
-    //opemwindow(querys.title);
+    //opemwindowhash(querys.title);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
