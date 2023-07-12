@@ -287,7 +287,7 @@ function menuCreate(){
     const a = document.createElement('a');
     li.classList.add('li');
     a.classList.add('articlelink');
-    a.href = `./blog/${articles[i].url}`;
+    a.href = `https://www.scisimulab.com.br/blog?title=${articles[i].url}`;
     a.target = "articleframe";
     a.innerHTML = articles[i].title;
     a.addEventListener('click',()=>{
@@ -309,7 +309,7 @@ function slidesCreate(){
     <li onclick="opemwindow(slidersurl[count])">
       <input type="radio" id="slide${(j+nimg-1)}" name="slide">
       <label class="bullet" for="slide${(j+nimg-1)}" style="left: ${10+(j+nimg-1)*30}px"></label>
-      <a class="card mycard" href="./blog/${articles[j].url}" target="articleframe">
+      <a class="card mycard" href="./blog/${articles[j].url}.html" target="articleframe">
         <div>
             <h3>${articles[j].title}</h3>
             <label><strong>Autor: </strong>${articles[j].author}</label>

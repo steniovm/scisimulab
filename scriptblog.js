@@ -80,7 +80,7 @@ function menuCreate(){
     const a = document.createElement('a');
     li.classList.add('li');
     a.classList.add('articlelink');
-    a.href = `./blog/${articles[i].url}`;
+    a.href = `./blog/${articles[i].url}.html`;
     a.target = "articleframe";
     a.innerHTML = articles[i].title;
     a.addEventListener('click',()=>{
@@ -109,7 +109,7 @@ fetch(urlarticles)
   });
 //abre artigo via indice
 function opemArticlebyindex(n=0){
-  frame.src = `./blog/${articles[n].url}`;
+  frame.src = `./blog/${articles[n].url}.html`;
   verifyEnableButton();
   counte = 0;
   interval = setInterval(()=>{
