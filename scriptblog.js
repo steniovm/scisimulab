@@ -126,7 +126,7 @@ querys.title = urlParams.get('title');
 function opemArticleByQuery(title){
   if (title){
     articles.forEach((article, index)=>{
-      if (title+".html" === article.url){
+      if (title === article.url){
         indexarticle = index;
         opemArticlebyindex(indexarticle);
       }
