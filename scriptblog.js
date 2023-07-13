@@ -113,9 +113,9 @@ function opemArticlebyindex(n=0){
   verifyEnableButton();
   counte = 0;
   interval = setInterval(()=>{
-  autoResize();
-  if(counte>=30) clearInterval(interval);
-  counte++;
+    autoResize();
+    if(counte>=30) clearInterval(interval);
+    counte++;
   },100);
 }
 //abre artigo via url query
@@ -152,10 +152,10 @@ function verifyEnableButton(){
   else next.disabled = false;
 }
 previous.addEventListener('click',()=>{
-  opemArticlebyindex(indexarticle--);
+  opemArticlebyindex(--indexarticle);
 });
 next.addEventListener('click',()=>{
-  opemArticlebyindex(indexarticle++);
+  opemArticlebyindex(++indexarticle);
 });
 
 //cria slides de artigos
