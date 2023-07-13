@@ -330,6 +330,7 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
+    setTimeout(()=>{},300);
     slidesCreate();
     menuCreate();
     //opemwindowhash(querys.title);
