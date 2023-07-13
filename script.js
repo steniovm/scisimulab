@@ -308,8 +308,8 @@ function slidesCreate(){
     slidersurl.push(`./blog/${articles[j].url}`);
     card += `
     <li onclick="opemwindow(slidersurl[count])">
-      <input type="radio" id="slide${(j+nsldsimu-1)}" name="slide">
-      <label class="bullet" for="slide${(j+nsldsimu-1)}" style="left: ${10+(j+nsldsimu-1)*30}px"></label>
+      <input type="radio" id="slide${(j+nsldsimu)}" name="slide">
+      <label class="bullet" for="slide${(j+nsldsimu)}" style="left: ${10+(j+nsldsimu)*30}px"></label>
       <a class="card mycard" href="./blog/${articles[j].url}.html" target="articleframe">
         <div>
             <h3>${articles[j].title}</h3>
