@@ -299,6 +299,7 @@ function menuCreate(){
 }
 //cria slides de artigos
 function slidesCreate(){
+  setTimeout(()=>{},600);
   let card = "";
   let nint = (articles.length>10) ? (articles.length-10) : 0;
   let j = 0;
@@ -330,7 +331,6 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
-    setTimeout(()=>{},600);
     slidesCreate();
     menuCreate();
     //opemwindowhash(querys.title);
