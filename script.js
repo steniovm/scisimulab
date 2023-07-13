@@ -302,7 +302,7 @@ function slidesCreate(){
   let card = "";
   let nint = (articles.length>10) ? (articles.length-10) : 0;
   let j = 0;
-  let nsldsimu = (mysimul.length>10) ? 10 : mysimul.length;
+  let nsldsimu = (mysimul.length>10) ? 11 : (mysimul.length+1);
   for(let i=nint;i<articles.length;i++){
     j = i-nint;
     slidersurl.push(`./blog/${articles[j].url}`);
@@ -330,7 +330,7 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
-    setTimeout(()=>{},300);
+    setTimeout(()=>{},600);
     slidesCreate();
     menuCreate();
     //opemwindowhash(querys.title);
