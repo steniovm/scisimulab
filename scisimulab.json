@@ -1,177 +1,222 @@
 {
-    "autoral":[
-        {
-            "name": "Bolinhas De Darwin",
-            "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
-            "url": "./simuls/BolinhasDeDarwin/index.html",
-            "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
-            "categorys": [
-             "Biologia",
-             "Evolução natural",
-             "Jogo"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Bolinhas De Darwin AU",
-            "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador. Arquivo HTML unico para baixar.",
-            "url": "./simuls/BolinhasDeDarwin.html",
-            "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
-            "categorys": [
-             "Biologia",
-             "Evolução natural",
-             "Jogo",
-             "Baixar"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "NumberBall",
-            "descript": "Jogo de Futebol onde você controla os algarismos.",
-            "url": "./simuls/NumberBall/index.html",
-            "thumb": "./simuls/NumberBall/screenshot.png",
-            "categorys": [
-             "Matemática",
-             "Números",
-             "Jogo"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "AlphaMathics",
-            "descript": "Material Dourado para treinar o ensino de operações aritméticas em forma de um jogo muito desafiador.",
-            "url": "./simuls/AlphaMathics/index.html",
-            "thumb": "./simuls/AlphaMathics/screenshot.png",
-            "categorys": [
-             "Matemática",
-             "Aritmética",
-             "Jogo"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "AlgoCards",
-            "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
-            "url": "./simuls/AlgoCards/index.html",
-            "thumb": "./simuls/AlgoCards/screenshot.png",
-            "categorys": [
-             "Algorítimo",
-             "Jogo"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Cinemática Relativística",
-            "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
-            "url": "./simuls/relatividade/index.html",
-            "thumb": "./simuls/relatividade/screenshot.png",
-            "categorys": [
-             "Física",
-             "Relatividade",
-             "Cinemática"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Batimento de Ondas",
-            "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
-            "url": "./simuls/Batimento/index.html",
-            "thumb": "./simuls/Batimento/screenshot.png",
-            "categorys": [
-             "Física",
-             "Ondas",
-             "Acústica"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Calor por Condução",
-            "descript": "Simula a transferência de calor por condução com acompanhamento da temperatura e controle de vários parâmetros.",
-            "url": "./simuls/ConducaoCalor/index.html",
-            "thumb": "./simuls/ConducaoCalor/screenshot.png",
-            "categorys": [
-             "Física",
-             "Termologia"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Calor por Convecção",
-            "descript": "Simula a transferência de calor por convecção com acompanhamento da temperatura e controle de vários parâmetros.",
-            "url": "./simuls/ConveccaoCalor/index.html",
-            "thumb": "./simuls/ConveccaoCalor/screenshot.png",
-            "categorys": [
-             "Física",
-             "Termologia"
-            ],
-            "author": "Steniovm"
-           },
-           {
-            "name": "Calor por Radiação",
-            "descript": "Simula a transferência de calor por radiação com acompanhamento da temperatura e controle de vários parâmetros.",
-            "url": "./simuls/RadiacaoCalor/index.html",
-            "thumb": "./simuls/RadiacaoCalor/screenshot.png",
-            "categorys": [
-             "Física",
-             "Termologia",
-             "Radiação"
-            ],
-            "author": "Steniovm"
-           },
-           {
-               "name": "CentriSpace",
-               "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a pseudo-força centrifuga é usada para criar gravidade artificial.",
-               "url": "./simuls/CentriSpace/index.html",
-               "thumb": "./simuls/CentriSpace/screenshot.png",
-               "categorys": [
-                   "Física",
-                   "Gravitação",
-                   "Força",
-                   "Cinemática",
-                   "Astronomia",
-                   "Clima",
-                   "Função",
-                   "Mecânica",
-                   "*SciSimuLab*"
-               ],
-               "author": "RenanMagalhães"
-           }
-    ],
-    "fontes":[
-        {
-            "text":"- Stenio V.M. Fundador do SciSimuLab. Professor e redator de física e desenvolvedor web voltado para soluções em ensino de ciências.",
-            "url": "https://steniovm.github.io/steniovm/",
-            "thumb": "./simuls/stenio.jpg"
-        },
-        {
-            "text":"- Renam. Colaborador do SciSimuLab. Professor e redator de física e desenvolvedor de computação embarcada.",
-            "url": "",
-            "thumb": "./simuls/renam.jpg"
-        },
-        {
-            "text":"- Phet. Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
-            "url": "https://phet.colorado.edu/pt_BR/",
-            "thumb": "https://phet.colorado.edu/images/phet-logo-trademarked.png"
-        },
-        {
-            "text":"- Walter Fendt. Pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
-            "url": "https://www.walter-fendt.de/html5/phpt/index.html",
-            "thumb": "https://www.walter-fendt.de/html5/ph/javaphys.gif"
-        },
-        {
-            "text":"- Vascak. Pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
-            "url": "https://www.vascak.cz/physicsanimations.php",
-            "thumb": "https://www.vascak.cz/favicon.ico"
-        },
-        {
-            "text":"- MinuteLabs, MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
-            "url": "https://minutelabs.io/",
-            "thumb": "https://cdn.minutelabs.io/logos/logo-minutelabs-on.jpg"
-        },
-        {
-            "text":"- LabFis-IFC, Laboratório Virtual de Física da Universidade Federal do Ceará.",
-            "url": "https://www.laboratoriovirtual.fisica.ufc.br/",
-            "thumb": "https://static.wixstatic.com/media/e02095_e4c985d9086b4c589843118dc57f97cb~mv2.png"
-        }
-    ]
+  "autoral":[
+    {
+      "name": "Bolinhas De Darwin",
+      "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador.",
+      "url": "./simuls/BolinhasDeDarwin/index.html",
+      "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
+      "categorys": [
+       "Biologia",
+       "Evolução natural",
+       "Jogo"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Bolinhas De Darwin AU",
+      "descript": "Você é um predador e as bolinhas são as presas. Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflagem e enganam o predador. Arquivo HTML unico para baixar.",
+      "url": "./simuls/BolinhasDeDarwin.html",
+      "thumb": "./simuls/BolinhasDeDarwin/screenshot.png",
+      "categorys": [
+       "Biologia",
+       "Evolução natural",
+       "Jogo",
+       "Baixar"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "NumberBall",
+      "descript": "Jogo de Futebol onde você controla os algarismos.",
+      "url": "./simuls/NumberBall/index.html",
+      "thumb": "./simuls/NumberBall/screenshot.png",
+      "categorys": [
+       "Matemática",
+       "Números",
+       "Jogo"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "AlphaMathics",
+      "descript": "Material Dourado para treinar o ensino de operações aritméticas em forma de um jogo muito desafiador.",
+      "url": "./simuls/AlphaMathics/index.html",
+      "thumb": "./simuls/AlphaMathics/screenshot.png",
+      "categorys": [
+       "Matemática",
+       "Aritmética",
+       "Jogo"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "AlgoCards",
+      "descript": "Faça Algorítimos para danças, sair de labirintos, desenhar, etc.",
+      "url": "./simuls/AlgoCards/index.html",
+      "thumb": "./simuls/AlgoCards/screenshot.png",
+      "categorys": [
+       "Algorítimo",
+       "Jogo"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Cinemática Relativística",
+      "descript": "Simulador de viagem em velocidade relativística, pode-se controlar a velocidade da Luz e vários outros parâmetros.",
+      "url": "./simuls/relatividade/index.html",
+      "thumb": "./simuls/relatividade/screenshot.png",
+      "categorys": [
+       "Física",
+       "Relatividade",
+       "Cinemática"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Batimento de Ondas",
+      "descript": "Ondas sonoras interferindo, demostrando o o fenômeno de batimento, usado para afinação de instrumentos musicais.",
+      "url": "./simuls/Batimento/index.html",
+      "thumb": "./simuls/Batimento/screenshot.png",
+      "categorys": [
+       "Física",
+       "Ondas",
+       "Acústica"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Calor por Condução",
+      "descript": "Simula a transferência de calor por condução com acompanhamento da temperatura e controle de vários parâmetros.",
+      "url": "./simuls/ConducaoCalor/index.html",
+      "thumb": "./simuls/ConducaoCalor/screenshot.png",
+      "categorys": [
+       "Física",
+       "Termologia"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Calor por Convecção",
+      "descript": "Simula a transferência de calor por convecção com acompanhamento da temperatura e controle de vários parâmetros.",
+      "url": "./simuls/ConveccaoCalor/index.html",
+      "thumb": "./simuls/ConveccaoCalor/screenshot.png",
+      "categorys": [
+       "Física",
+       "Termologia"
+      ],
+      "author": "Steniovm"
+       },
+       {
+      "name": "Calor por Radiação",
+      "descript": "Simula a transferência de calor por radiação com acompanhamento da temperatura e controle de vários parâmetros.",
+      "url": "./simuls/RadiacaoCalor/index.html",
+      "thumb": "./simuls/RadiacaoCalor/screenshot.png",
+      "categorys": [
+       "Física",
+       "Termologia",
+       "Radiação"
+      ],
+      "author": "Steniovm"
+       },
+       {
+         "name": "CentriSpace",
+         "descript": "Simula o funcionamento de uma Colônia de O'Neill onde a pseudo-força centrifuga é usada para criar gravidade artificial.",
+         "url": "./simuls/CentriSpace/index.html",
+         "thumb": "./simuls/CentriSpace/screenshot.png",
+         "categorys": [
+           "Física",
+           "Gravitação",
+           "Força",
+           "Cinemática",
+           "Astronomia",
+           "Clima",
+           "Função",
+           "Mecânica",
+           "*SciSimuLab*"
+         ],
+         "author": "RenanMagalhães"
+       }
+  ],
+  "fontes":[
+    {
+      "text":"- Stenio V.M. Fundador do SciSimuLab. Professor e redator de física e desenvolvedor web voltado para soluções em ensino de ciências.",
+      "url": "https://steniovm.github.io/steniovm/",
+      "thumb": "./simuls/stenio.jpg"
+    },
+    {
+      "text":"- Renam. Colaborador do SciSimuLab. Professor e redator de física e desenvolvedor de computação embarcada.",
+      "url": "",
+      "thumb": "./simuls/renam.jpg"
+    },
+    {
+      "text":"- Phet. Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
+      "url": "https://phet.colorado.edu/pt_BR/",
+      "thumb": "https://phet.colorado.edu/images/phet-logo-trademarked.png"
+    },
+    {
+      "text":"- Walter Fendt. Pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
+      "url": "https://www.walter-fendt.de/html5/phpt/index.html",
+      "thumb": "https://www.walter-fendt.de/html5/ph/javaphys.gif"
+    },
+    {
+      "text":"- Vascak. Pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
+      "url": "https://www.vascak.cz/physicsanimations.php",
+      "thumb": "https://www.vascak.cz/favicon.ico"
+    },
+    {
+      "text":"- MinuteLabs. MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
+      "url": "https://minutelabs.io/",
+      "thumb": "https://cdn.minutelabs.io/logos/logo-minutelabs-on.jpg"
+    },
+    {
+      "text":"- LabFis-IFC. Laboratório Virtual de Física da Universidade Federal do Ceará.",
+      "url": "https://www.laboratoriovirtual.fisica.ufc.br/",
+      "thumb": "https://static.wixstatic.com/media/e02095_e4c985d9086b4c589843118dc57f97cb~mv2.png"
+    },
+    {
+      "text":"- Ophysics. O site oPhysics é uma coleção de simulações de física interativas criadas pelo professor de física Tom Walsh. É um trabalho em andamento e provavelmente sempre será.",
+      "url": "https://ophysics.com/",
+      "thumb": "https://ophysics.com/favicon.ico"
+    },
+    {
+      "text":"- SimBucket. O SimBucket contém uma coleção de simulações HTML5 gratuitas e amigáveis ​​ao navegador construídas por uma pequena equipe de professores.",
+      "url": "https://www.simbucket.com/",
+      "thumb": "http://simbucket.com/wp-content/uploads/2014/12/simbucketlogo2.png"
+    },
+    {
+      "text":"- PhysicsClassRoom. Inclui uma grande coleção de simulações de física interativas em HTML5 repleta de exercícios de desenvolvimento de habilidades, simulações de física e desafios semelhantes a jogos.",
+      "url": "https://www.physicsclassroom.com/",
+      "thumb": "https://www.physicsclassroom.com/App_Themes/Default/Images/favicon.ico"
+    },
+    {
+      "text":"- CK12. CK-12 tem recursos gratuitos para alunos, pais, professores, escolas e distritos.",
+      "url": "https://interactives.ck12.org/",
+      "thumb": "https://interactives.ck12.org/simulations/assets/images/ck12-logo.png"
+    },
+    {
+      "text":"- MyPhysicsLab. O site MyPhysicsLab é uma coleção de simulações de física de facil manuseamento criadas pelo engenheiro de software autônomo Erik Neumann.",
+      "url": "https://www.myphysicslab.com/",
+      "thumb": "https://www.myphysicslab.com/common/myphysicslogo.png"
+    },
+    {
+      "text":"- Physics.bu.edu. Coleção de simulações desenvolvida pelo departamento de Física da Universidade de Boston.",
+      "url": "https://www.bu.edu/physics/",
+      "thumb": "https://www.bu.edu/cdn/images/logos/subbrand49x35.png"
+    },
+    {
+      "text":"- StevenSahyun. O site StevenSahyun contém uma coleção de simulações de física interativas criadas pelo professor de física da universidade de Wisconsin e outros autores.",
+      "url": "https://sahyun.net/html5.php",
+      "thumb": "https://sahyun.net/images/navbar/UWWlogo.gif"
+    },
+    {
+      "text":"- ThePhysicSaviary. O Salvador da Física, criado em 2013, contém programas multiplataforma, executados em qualquer lugar, para ajudar estudantes de física de todo o mundo a dominar as grandes ideias da física.",
+      "url": "https://www.thephysicsaviary.com/",
+      "thumb": "https://www.thephysicsaviary.com/Physics/Programs/Labs/images/ClassicCircularForceLab.png"
+    },
+    {
+      "text":"- SimuFísica. A plataforma SimuFísica é uma coleção de aplicativos de simulação computacional para pesquisa e aprendizagem de Física e de outras ciências. O SimuFísica é um projeto em andamento iniciado em meados de 2020 e conta com diversos colaboradores dentro do Departamento de Física da Universidade Federal de Rondônia,",
+      "url": "https://simufisica.com/",
+      "thumb": "https://simufisica.com/icones/favicon.ico"
+    }
+  ]
 }
