@@ -18,6 +18,10 @@ h1,h2{
     max-height: 9vw;
     min-width: 110px;
     min-height: 110px;
+    border-radius: 5px;
+}
+#minibio{
+    width: 350px;
 }
 main>p{
     text-indent: 2em;
