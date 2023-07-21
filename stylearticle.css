@@ -11,6 +11,9 @@ header>div{
     width: 100%;
     flex-direction: column;
 }
+body{
+    max-width: 800px;
+}
 h1,h2{
     margin: 0;
 }
