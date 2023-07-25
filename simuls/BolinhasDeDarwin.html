@@ -3,7 +3,7 @@
 Autor: Stênio Vinicios de Medeiros
 AlphaEdTech Turma Lovelace
 Exercicios sobre canvas com atualização para arquivo unico
-Ultima atualização (13/01/2023)
+Ultima atualização (25/07/2023)
 contato: steniovm@gmail.com
 -->
 <html>
@@ -417,7 +417,7 @@ Observe a evolução natural das bolinhas que com o tempo melhoram sua camuflage
 Autor: Stênio Vinicios de Medeiros
 AlphaEdTech Turma Lovelace
 Exercicios sobre canvas arquivo unico
-Ultima atualização (13/01/2023)
+Ultima atualização (25/07/2023)
 contato: steniovm@gmail.com
 </pre></a>
         <a href="https://steniovm.github.io/steniovm/BolinhasDeDarwin.html">
@@ -605,8 +605,9 @@ Ambiente: ${mycanvas.style.backgroundColor}`;
 
 function clicar(e){
     if (paused) return;
-    let mx = e.clientX;
-    let my = e.clientY;
+    const rect = mycanvas.getBoundingClientRect();
+    let mx = e.clientX - rect.left;
+    let my = e.clientY - rect.top;
     for(i=(nbol-1);i>=0;i--){
         let dx = mx-bolinhas[i].x;
         if (dx < 0 ) dx = - dx;

@@ -231,8 +231,9 @@ Ambiente: ${mycanvas.style.backgroundColor}`;
 
 function clicar(e){
     if (paused) return;
-    let mx = e.clientX;
-    let my = e.clientY;
+    const rect = mycanvas.getBoundingClientRect();
+    let mx = e.clientX - rect.left;
+    let my = e.clientY - rect.top;
     for(i=(nbol-1);i>=0;i--){
         let dx = mx-bolinhas[i].x;
         if (dx < 0 ) dx = - dx;
