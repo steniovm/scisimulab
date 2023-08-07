@@ -231,6 +231,7 @@ ul, li{
   height: 115px;
   width: 90%;
   padding: 0 5%;
+  overflow: hidden;
 }
 .slider li {
   list-style: none;
@@ -404,7 +405,7 @@ form button{
   margin: 0;
   padding: 0;
   list-style: none;
-  width:200px;
+  /*width:200px;*/
 }
 .ul>.li {
   position: relative;
@@ -426,8 +427,8 @@ form button{
   font-style: italic;
   color: #bbb;
   background: #444;
-  padding: 5px;
-  border-radius: 15px;
+  /*padding: 5px;*/
+  border-radius: 5px;
   white-space: nowrap;
 }
 .li>a:visited{
@@ -442,6 +443,8 @@ form button{
 }
 #menusup{
   margin: 10px 0 0 0;
+  max-width: 99vw;
+  overflow: hidden;
 }
 #menusup>a{
   display: block;
@@ -451,8 +454,8 @@ form button{
   font-style: italic;
   color: #bbb;
   background: #444;
-  padding: 5px;
-  border-radius: 15px;
+  padding: 0 5px;
+  border-radius: 5px;
   white-space: nowrap;
 }
 #menusup>a:visited{
@@ -460,4 +463,5 @@ form button{
 }
 iframe{
   max-width: 99vw;
+  overflow: hidden;
 }
