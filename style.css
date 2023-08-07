@@ -428,4 +428,6 @@ form button{
 #menusup>a:visited{
   color:#500;
 }
-  
+iframe{
+  max-width: 99vw;
+}
