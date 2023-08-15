@@ -11,6 +11,10 @@ const simulations = document.getElementById('simulations');
 const highlight = document.getElementById('highlight');
 const resources = document.getElementById('resources');
 const filterall = document.getElementById('filterall');
+const filterCat = document.getElementById('filterCat');
+const filterAut = document.getElementById('filterAut');
+const wordsearche = document.getElementById('wordsearche');
+const submitwordsearche = document.getElementById('submitwordsearche');
 const filteraut = document.getElementById('filteraut');
 const titlecat = document.getElementById('titlecat');
 const slider = document.getElementById('slider');
@@ -26,6 +30,7 @@ const btinsert = document.getElementById('btinsert');
 const btmessage = document.getElementById('btmessage');
 const spanmessage = document.getElementById('spanmessage');
 const h1message = document.getElementById('h1message');
+const clearFilters = document.getElementById('clearFilters');
 const categorias = {};
 const categoriasnome = [];
 const autores = {};
@@ -70,10 +75,39 @@ function saveCookies(){
   const cookieexpires = "; expires="+date.toUTCString()+ ";path=/";
   document.cookie = "scisimulab="+JSON.stringify(savecookie)+cookieexpires;
 }
+function checkcategory(item, param){
+  if(!param || param === "all") return true;
+  else {
+    if (item.categorys.indexOf(param) >= 0) return true;
+    else return false;
+  }
+}
+function checkauthor(item, param){
+  if(!param || param === "all") return true;
+  else {
+    if (item.author === param) return true;
+    else return false;
+  }
+}
+function checkwordkey(item, param){
+  if(!param || param === "all") return true;
+  else {
+    const str = JSON.stringify(item).toLowerCase();
+    if (item.author === param) return true;
+    else return str.includes(param.toLowerCase());
+  }
+}
 //lista cards de simulações
-function listSimuls(list, tudo=false){
+function listSimuls(list, filt={}){
+  let simsfiltred = list.filter(item => {
+    let result = true;
+    result = result && checkcategory(item, filt.category);
+    result = result && checkauthor(item, filt.author);
+    result = result && checkwordkey(item, filt.wordkey);
+    return result;
+  });
   let simuls = "";
-  list.forEach((simulacao,index) => {
+  simsfiltred.forEach((simulacao,index) => {
     if (index<nimg){
     simuls += (`
     <a class="card" href="${simulacao.url}" target="scisimulabWindow">
@@ -93,21 +127,10 @@ function listSimuls(list, tudo=false){
     `);
     }
   });
-  if (tudo) titlecat.innerHTML = "Todas:";
+  titlecat.innerHTML = `Encontradas ${simsfiltred.length} de ${list.length} simulações:`;
   simulations.innerHTML = simuls;
 }
-//função para filtrar simulações por categoria
-function filtercaterogy(key){
-  simulations.innerHTML = "";
-  listSimuls(categorias[key]);
-  titlecat.innerHTML = key+":";
-}
-//função para filtrar simulações por autor
-function filteraltor(key){
-  simulations.innerHTML = "";
-  listSimuls(autores[key]);
-  titlecat.innerHTML = key+":";
-}
+//inicia rotação de slides
 function showsliderers(){
   sliders = document.getElementsByName('slide');
   slidersa = document.getElementsByClassName('mycard');
@@ -191,48 +214,41 @@ fetch(urlsimuls)
   .then(data => {
     data.sort((a, b) => a.name.localeCompare(b.name));
     // Percorre as simulações e registra as categorias e autores
+    let cats = {};
+    let auts = {};
     data.forEach(simulacao => {
       //categorias
       simulacao.categorys.forEach(categoria => {
-        if (!categorias[categoria]) {
-          categorias[categoria] = [];
+        if (cats[categoria]){
+          cats[categoria]++;
+        }else{
           categoriasnome.push(categoria);
+          cats[categoria] = 1;
         }
-        categorias[categoria].push(simulacao);
       });
-      hashlist[simulacao.hash] = simulacao.url;
-      filterall.innerHTML = `Tudo (${data.length})`;
-      //autores
-      if (!autores[simulacao.author]) {
-        autores[simulacao.author] = [];
+      if (auts[simulacao.author]){
+        auts[simulacao.author]++;
+      }else{
         autoresnome.push(simulacao.author);
+        auts[simulacao.author] = 1;
       }
-      autores[simulacao.author].push(simulacao);
-      filteraut.innerHTML = `Todos (${data.length})`;
+    });
+    filterCat.innerHTML = `<option id="allCat" value="all">Todas (${data.length})</option>`;
+    categoriasnome.sort();
+    categoriasnome.forEach(categ => {
+      let selected = "";
+      if (categ === initcategory) selected = "selected";
+      filterCat.innerHTML += `<option id="${categ}" value="${categ}" ${selected}>${categ} (${cats[categ]})</option>`;
+    });
+    filterAut.innerHTML = `<option id="allAut" value="all">Todos (${data.length})</option>`;
+    autoresnome.sort();
+    autoresnome.forEach(autrs => {
+      filterAut.innerHTML += `<option id="${autrs}" value="${autrs}">${autrs} (${auts[autrs]})</option>`;
     });
     opemwindowhash(querys.hash);
-    // Percorre as categorias e cria os elementos do menu categorias
-    categoriasnome.sort();
-    categoriasnome.forEach((categoria) => {
-      const categoriaItem = `
-      <button onclick="filtercaterogy('${categoria}')">
-        ${categoria} (${categorias[categoria].length})
-      </button>`
-      menu.innerHTML += categoriaItem;
-    });
-    // Percorre as categorias e cria os elementos do menu autores
-    autoresnome.sort();
-    autoresnome.forEach((author) => {
-      const autorItem = `
-      <button onclick="filteraltor('${author}')">
-        ${author} (${autores[author].length})
-      </button>`
-      menua.innerHTML += autorItem;
-    });
     simulist = data;
     nimages.max = data.length;
-    if (categorias[initcategory].length) listSimuls(categorias[initcategory]);
-    else listSimuls(simulist);
+    aplicfilters();
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
@@ -298,6 +314,7 @@ function menuCreate(){
   }
 }
 //cria slides de artigos
+/*
 function slidesCreate(){
   let card = "";
   let nint = (articles.length>10) ? (articles.length-10) : 0;
@@ -322,7 +339,9 @@ function slidesCreate(){
   slider.innerHTML += card;
   showsliderers();
 }
+*/
 //carrega dados de artigos
+
 const urlarticles = 'https://scisimulab.vercel.app/blog/urlarticles.json';
 let articles = [];
 let indexarticle = 0;
@@ -330,10 +349,30 @@ fetch(urlarticles)
   .then(response => response.json())
   .then(data => {
     articles = data;
-    setTimeout(slidesCreate,600);
+    //setTimeout(slidesCreate,600);
     menuCreate();
     //opemwindowhash(querys.title);
   })
   .catch(error => {
     console.log('Erro ao carregar o arquivo JSON:', error);
   });
+
+function aplicfilters(){
+  const filt = {
+    "category":filterCat.value,
+    "author":filterAut.value,
+    "wordkey":wordsearche.value
+  }
+  listSimuls(simulist,filt);
+}
+filterCat.addEventListener('change',aplicfilters);
+filterAut.addEventListener('change',aplicfilters);
+wordsearche.addEventListener('change',aplicfilters);
+submitwordsearche.addEventListener('click',aplicfilters);
+
+clearFilters.addEventListener('click',function(){
+  filterCat.selectedIndex = 0;
+  filterAut.selectedIndex = 0;
+  wordsearche.value = '';
+  listSimuls(simulist);
+})

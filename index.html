@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta property="og:title" content="Coletânea de simulações didáticas" />
   <meta property="og:image" itemprop="image" content="logo.svg" />
   <meta property="og:image:type" content="image/svg" />
@@ -47,14 +47,22 @@
     <a href="#disqus_thread" alt="link para sessão de comentários"></a>
   </section>
   <nav>
-    <div id="menu">
-      <strong>Categorias:</strong>
-      <button id="filterall" onclick="listSimuls(simulist, true)">Tudo</button>
+    <div id="menucat">
+      <strong>Categoria:</strong>
+      <select id="filterCat"></select>
     </div>
-    <div id="menua">
+    <div id="menuaut">
       <strong>Autor:</strong>
-      <button id="filteraut" onclick="listSimuls(simulist, true)">Todos</button>
+      <select id="filterAut"></select>
     </div>
+    <div id="menufind">
+      <strong>Procurar por:</strong>
+      <div class="submit-line">
+        <input id="wordsearche" type="search" style="width: auto" spellcheck placeholder="palavras chave"/>
+        <button id="submitwordsearche" type="submit"></button>
+      </div>
+    </div>
+    <button id="clearFilters">Limpar filtros</button>
   </nav>
   <div id="controls">
     <strong id="titlecat">Simulações <i>SciSimuLab</i>:</strong>
@@ -66,6 +74,14 @@
   <section id="simulations">
     <!-- Simulações aqui -->
   </section>
+  <!--
+    Banner nativo
+  -->
+  <script async="async" data-cfasync="false" src="//pl20309873.highcpmrevenuegate.com/ed5aa470b58904a0df8814c92a983f9f/invoke.js"></script>
+  <div id="container-ed5aa470b58904a0df8814c92a983f9f"></div>
+  <!--
+    Fim Banner nativo
+  -->
   <section id="about">
     <script type="text/javascript">
       atOptions = {
@@ -192,7 +208,7 @@ s.setAttribute('data-timestamp', +new Date());
   </section>
   <span id="spanmessage" class="contactforms hiddemdiv"><h1 id="h1message"></h1></span>
   <script id="dsq-count-scr" src="//scisimulab.disqus.com/count.js" async></script>
-  <script type='text/javascript' src='//pl19840247.highrevenuegate.com/34/ee/b1/34eeb1a61a04c1035e3ff6de919386c9.js'></script>
+  <!--<script type='text/javascript' src='//pl19840247.highrevenuegate.com/34/ee/b1/34eeb1a61a04c1035e3ff6de919386c9.js'></script>-->
   <script type="text/javascript" src="https://diclotrans.com/redirect?id=14925&auth=67448f33eda47d2b8713138c2884599c6eb753fb"></script>
 <script type="text/javascript" src="https://diclotrans.com/redirect?id=14924&auth=4cb98118fad4f19ef404e8e3c86a2a625b45e669"></script>
 <script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/14927/6c0c7a8a8ab865e183d00e1d16b6c08b92e9af70/lib.js"></script>

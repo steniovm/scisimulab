@@ -61,7 +61,7 @@ body {
     background-color: #fff;
     box-shadow: none;
   }
-  input{
+  input, select{
     background-color: transparent;
     border-radius: 15px;
     height: 1.5em;
@@ -434,4 +434,24 @@ form button{
 iframe{
   max-width: 99vw;
   overflow: hidden;
+}
+
+/*caixa de pesquisa*/
+#submitwordsearche {
+  position: relative;
+  margin: 0;
+  top: 0.5em;
+  right: 2.7em;
+  z-index: 10;
+  border: none;
+  background: #eee;
+  box-shadow: none;
+  outline: none;
+  height: 2em;
+  width: 2em;
+  background-image: url(./search-circle-outline.svg);
+}
+select, #wordsearche {
+  width: 100%;
+  font-size: larger;
 }

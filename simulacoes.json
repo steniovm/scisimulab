@@ -10341,7 +10341,7 @@
  },
  {
   "name": "Fluxo de Elétrons do Circuito",
-  "descript": "simula o fluxo de elétrons através de um fio causado por campos elétricos criados por cargas de superfície.",
+  "descript": "Simula o fluxo de elétrons através de um fio causado por campos elétricos criados por cargas de superfície.",
   "url": "https://www.simbucket.com/simulation/circuit-electron-flow/",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-05-at-11.43.19-AM-460x350.png",
   "categorys": [
