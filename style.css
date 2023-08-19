@@ -440,10 +440,11 @@ iframe{
 #submitwordsearche {
   position: relative;
   margin: 0;
-  top: 0.5em;
-  right: 2.7em;
+  top: -2.2em;
+  right: -10.3em;
   z-index: 10;
   border: none;
+  padding: 0;
   background: #eee;
   box-shadow: none;
   outline: none;
@@ -454,4 +455,18 @@ iframe{
 select, #wordsearche {
   width: 100%;
   font-size: larger;
+}
+#wordsearche{
+  min-width: 100%;
+}
+#clearFilters{
+  height: 100%;
+  font-size: larger;
+}
+.navmenu{
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  min-width: 300px;
+  max-height: 60px;
 }
