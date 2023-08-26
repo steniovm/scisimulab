@@ -139,84 +139,89 @@
   ],
   "fontes":[
     {
-      "text":"- Stenio V.M. Fundador do SciSimuLab. Professor e redator de física e desenvolvedor web voltado para soluções em ensino de ciências.",
+      "text":" Stenio V.M. Fundador do SciSimuLab. Professor e redator de física e desenvolvedor web voltado para soluções em ensino de ciências.",
       "url": "https://steniovm.github.io/steniovm/",
       "thumb": "./simuls/stenio.jpg"
     },
     {
-      "text":"- Renam. Colaborador do SciSimuLab. Professor e redator de física e desenvolvedor de computação embarcada.",
+      "text":" Renam. Colaborador do SciSimuLab. Professor e redator de física e desenvolvedor de computação embarcada.",
       "url": "",
       "thumb": "./simuls/renam.jpg"
     },
     {
-      "text":"- Phet. Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
+      "text":" Phet. Simulações interativas e gratuitas de matemática e ciências desenvolvidas e mantidas pela Universidade do Colorado em Boulder.",
       "url": "https://phet.colorado.edu/pt_BR/",
       "thumb": "https://phet.colorado.edu/images/phet-logo-trademarked.png"
     },
     {
-      "text":"- Walter Fendt. Pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
+      "text":" Walter Fendt. Pagina de simulações desenvolvida pelo professor Walter Fendt com projetos de Matemática, Física e Astronômia em varios idiomas.",
       "url": "https://www.walter-fendt.de/html5/phpt/index.html",
       "thumb": "https://www.walter-fendt.de/html5/ph/javaphys.gif"
     },
     {
-      "text":"- Vascak. Pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
+      "text":" Vascak. Pagina 'Física na escola' de simulações desenvolvida pelo professor Vladimír Vaščák com projetos de Física e Astronômia em varios idiomas.",
       "url": "https://www.vascak.cz/physicsanimations.php",
       "thumb": "https://www.vascak.cz/favicon.ico"
     },
     {
-      "text":"- MinuteLabs. MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
+      "text":" MinuteLabs. MinuteLabs.io é uma extensão do MinutePhysics e do MinuteEarth, mas em vez de vídeos do YouTube, é interativo. Com a intenção de fazer coisas com as quais você possa brincar e explorar.",
       "url": "https://minutelabs.io/",
       "thumb": "https://cdn.minutelabs.io/logos/logo-minutelabs-on.jpg"
     },
     {
-      "text":"- LabFis-IFC. Laboratório Virtual de Física da Universidade Federal do Ceará.",
+      "text":" LabFis-IFC. Laboratório Virtual de Física da Universidade Federal do Ceará.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/",
       "thumb": "https://static.wixstatic.com/media/e02095_e4c985d9086b4c589843118dc57f97cb~mv2.png"
     },
     {
-      "text":"- Ophysics. O site oPhysics é uma coleção de simulações de física interativas criadas pelo professor de física Tom Walsh. É um trabalho em andamento e provavelmente sempre será.",
+      "text":" Ophysics. O site oPhysics é uma coleção de simulações de física interativas criadas pelo professor de física Tom Walsh. É um trabalho em andamento e provavelmente sempre será.",
       "url": "https://ophysics.com/",
       "thumb": "https://ophysics.com/favicon.ico"
     },
     {
-      "text":"- SimBucket. O SimBucket contém uma coleção de simulações HTML5 gratuitas e amigáveis ​​ao navegador construídas por uma pequena equipe de professores.",
+      "text":" SimBucket. O SimBucket contém uma coleção de simulações HTML5 gratuitas e amigáveis ​​ao navegador construídas por uma pequena equipe de professores.",
       "url": "https://www.simbucket.com/",
       "thumb": "http://simbucket.com/wp-content/uploads/2014/12/simbucketlogo2.png"
     },
     {
-      "text":"- PhysicsClassRoom. Inclui uma grande coleção de simulações de física interativas em HTML5 repleta de exercícios de desenvolvimento de habilidades, simulações de física e desafios semelhantes a jogos.",
+      "text":" PhysicsClassRoom. Inclui uma grande coleção de simulações de física interativas em HTML5 repleta de exercícios de desenvolvimento de habilidades, simulações de física e desafios semelhantes a jogos.",
       "url": "https://www.physicsclassroom.com/",
       "thumb": "https://www.physicsclassroom.com/App_Themes/Default/Images/favicon.ico"
     },
     {
-      "text":"- CK12. CK-12 tem recursos gratuitos para alunos, pais, professores, escolas e distritos.",
+      "text":" CK12. CK-12 tem recursos gratuitos para alunos, pais, professores, escolas e distritos.",
       "url": "https://interactives.ck12.org/",
       "thumb": "https://interactives.ck12.org/simulations/assets/images/ck12-logo.png"
     },
     {
-      "text":"- MyPhysicsLab. O site MyPhysicsLab é uma coleção de simulações de física de facil manuseamento criadas pelo engenheiro de software autônomo Erik Neumann.",
+      "text":" MyPhysicsLab. O site MyPhysicsLab é uma coleção de simulações de física de facil manuseamento criadas pelo engenheiro de software autônomo Erik Neumann.",
       "url": "https://www.myphysicslab.com/",
       "thumb": "https://www.myphysicslab.com/common/myphysicslogo.png"
     },
     {
-      "text":"- Physics.bu.edu. Coleção de simulações desenvolvida pelo departamento de Física da Universidade de Boston.",
+      "text":" Physics.bu.edu. Coleção de simulações desenvolvida pelo departamento de Física da Universidade de Boston.",
       "url": "https://www.bu.edu/physics/",
       "thumb": "https://www.bu.edu/cdn/images/logos/subbrand49x35.png"
     },
     {
-      "text":"- StevenSahyun. O site StevenSahyun contém uma coleção de simulações de física interativas criadas pelo professor de física da universidade de Wisconsin e outros autores.",
+      "text":" StevenSahyun. O site StevenSahyun contém uma coleção de simulações de física interativas criadas pelo professor de física da universidade de Wisconsin e outros autores.",
       "url": "https://sahyun.net/html5.php",
-      "thumb": "https://sahyun.net/images/navbar/UWWlogo.gif"
+      "thumb": "http://sahyun.net/images/navbar/UWWlogo.gif"
     },
     {
-      "text":"- ThePhysicSaviary. O Salvador da Física, criado em 2013, contém programas multiplataforma, executados em qualquer lugar, para ajudar estudantes de física de todo o mundo a dominar as grandes ideias da física.",
+      "text":" ThePhysicSaviary. O Salvador da Física, criado em 2013, contém programas multiplataforma, executados em qualquer lugar, para ajudar estudantes de física de todo o mundo a dominar as grandes ideias da física.",
       "url": "https://www.thephysicsaviary.com/",
       "thumb": "https://www.thephysicsaviary.com/Physics/Programs/Labs/images/ClassicCircularForceLab.png"
     },
     {
-      "text":"- SimuFísica. A plataforma SimuFísica é uma coleção de aplicativos de simulação computacional para pesquisa e aprendizagem de Física e de outras ciências. O SimuFísica é um projeto em andamento iniciado em meados de 2020 e conta com diversos colaboradores dentro do Departamento de Física da Universidade Federal de Rondônia,",
+      "text":" SimuFísica. A plataforma SimuFísica é uma coleção de aplicativos de simulação computacional para pesquisa e aprendizagem de Física e de outras ciências. O SimuFísica é um projeto em andamento iniciado em meados de 2020 e conta com diversos colaboradores dentro do Departamento de Física da Universidade Federal de Rondônia,",
       "url": "https://simufisica.com/",
       "thumb": "https://simufisica.com/icones/favicon.ico"
+    },
+    {
+      "text":" Paul Falstad. A plataforma falstad é uma coleção de aplicativos educacionais, criados pelo proprio Paul Falstad, para ajudar a visualizar vários conceitos de matemática, física e engenharia originalmente escritos em Java, mas em sua maioria foram convertidos para Javascript.",
+      "url": "http://falstad.com/",
+      "thumb": "http://falstad.com/maze_small.gif"
     }
   ]
 }

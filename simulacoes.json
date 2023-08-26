@@ -205,7 +205,7 @@
   "categorys": [
    "Astronomia",
    "Força",
-   "Força",
+   "Função",
    "Física",
    "Gravitação",
    "Vetores"
@@ -2961,7 +2961,7 @@
   "url": "https://www.walter-fendt.de/html5/mpt/secanttangent_pt.htm",
   "thumb": "",
   "categorys": [
-   "Função",
+   "Algorítimo",
    "Função",
    "Geometria",
    "Gráfico",
@@ -2977,12 +2977,12 @@
   "url": "https://www.walter-fendt.de/html5/mpt/derivative12_pt.htm",
   "thumb": "",
   "categorys": [
+   "Algorítimo",
    "Aritmética",
    "Função",
    "Gráfico",
    "Matemática",
    "Números",
-   "Trigonometria",
    "Trigonometria"
   ],
   "author": "Walter-Fendt",
@@ -2995,6 +2995,7 @@
   "thumb": "",
   "categorys": [
    "Função",
+   "Geometria",
    "Gráfico",
    "Matemática",
    "Números",
@@ -3627,7 +3628,7 @@
   "hash": "266d8fb2f6ddbb7485ba90079cbf9284"
  },
  {
-  "name": "Bomba",
+  "name": "Bomba D'agua",
   "descript": "Mostra o funcionamento de dois modelos de bombas hidraulicas manuais.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_pumpa&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_pumpa.png",
@@ -3635,7 +3636,6 @@
    "Força",
    "Física",
    "Hidrostática",
-   "Mecânica",
    "Mecânica"
   ],
   "author": "Vascak",
@@ -4352,9 +4352,11 @@
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=kv_ocilatory&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/kv_ocilatory_obr6.png",
   "categorys": [
+   "Cinemática",
    "Energia",
-   "Energia",
+   "Força",
    "Física",
+   "Mecânica",
    "Oscilações"
   ],
   "author": "Vascak",
@@ -22142,5 +22144,1349 @@
   ],
   "author": "StevenSahyun",
   "hash": "d2986bf66bb19fb96a6771f469bd90d5"
+ },
+ {
+  "name": "EveryCircuit Circuit Simulator",
+  "descript": "Simulador de circuito on-line com gráficos bem projetados. Fácil de usar, possui um ótimo sistema de design eletrônico. Permite incorporar a simulação à sua página da web.",
+  "url": "https://everycircuit.com/app",
+  "thumb": "https://everycircuit.com/img/devices_2.png",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Mobile",
+   "Semicondutores"
+  ],
+  "author": "EveryCircuit",
+  "hash": "4dd9a63752cb90c79ab9f71ac593c243"
+ },
+ {
+  "name": "DCACLab Circuit Simulator",
+  "descript": "Simulador de circuito on-line com baterias, resistores, fios e outros componentes. Com gráficos bastante atraentes e componentes com aparência real.",
+  "url": "https://dcaclab.com/en/lab",
+  "thumb": "https://cdn-assets.dcaclab.com/assets/features_home/slider/TRY-DCAClab-For-FREE-b79a8edf097dd2b7b5cbf832ecc5336e20d35b17ed95a1e1d14ee160f67585ce.jpg",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Semicondutores"
+  ],
+  "author": "DCACLab",
+  "hash": "7c2566494698687f33cbb16fcf56b5d8"
+ },
+ {
+  "name": "CircuitLab Circuit Simulator",
+  "descript": "Simulador de circuito analógico/digital on-line rico em recursos. Fácil de usar preciso.",
+  "url": "https://www.circuitlab.com/editor/",
+  "thumb": "https://cdn.circuitlab.com/misc/20210106-digital-toggle.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Semicondutores"
+  ],
+  "author": "CircuitLab",
+  "hash": "12ec702271d915373d7292c4cb4c8834"
+ },
+ {
+  "name": "Falstad Circuit Simulator",
+  "descript": "Simulador de circuito on-line extremamente simples. Entenda funcionalidade de circuitos e componentes eletrônicos simples.",
+  "url": "http://falstad.com/circuit/",
+  "thumb": "http://falstad.com/mpthumb/circuit.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Semicondutores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "62ed1bed26b5c6541dc283e84a7392f0"
+ },
+ {
+  "name": "Tanque de Ondulações (Ondas 2D)",
+  "descript": "Demonstra ondas em duas dimensões, incluindo fenômenos ondulatórios como interferência, difração (fenda única, fenda dupla, etc.), refração, ressonância, matrizes de fases e o efeito Doppler.",
+  "url": "http://falstad.com/ripple/",
+  "thumb": "http://falstad.com/mpthumb/ripple.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria"
+  ],
+  "author": "PaulFalstad",
+  "hash": "7d94fd710312a272a8f68295c857432d"
+ },
+ {
+  "name": "Ondas 2D",
+  "descript": "Demonstra ondas escalares (como ondas sonoras) em duas dimensões incluindo os princípios de onda por trás da difração de fenda, placas de zona e hologramas.",
+  "url": "http://falstad.com/wave2d/",
+  "thumb": "http://falstad.com/mpthumb/wave2d.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "cd83ab2b5953a682a35eaa008ad51e87"
+ },
+ {
+  "name": "Ondas 3D",
+  "descript": "Demonstra ondas escalares (como ondas sonoras) em três dimensões incluindo fontes pontuais, fontes lineares e ondas planas, e também interferência entre ondas fontes diferentes.",
+  "url": "http://falstad.com/wavebox/",
+  "thumb": "http://falstad.com/mpthumb/wavebox.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "184384d7efb405dd9e783ddf37e9c160"
+ },
+ {
+  "name": "Oscilações Acopladas",
+  "descript": "Demonstra o movimento de osciladores acoplados por molas. Os osciladores (as \"cargas\") são dispostos em uma linha conectadas entre si por molas e aos suportes nas extremidades esquerda e direita. A massa de cada carga e a rigidez (constante elástica) de cada mola podem ser ajustadas.",
+  "url": "http://falstad.com/coupled/",
+  "thumb": "http://falstad.com/mpthumb/coupled.gif",
+  "categorys": [
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Mecânica",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "fa8822fa4e892b6883e1a2f32559e1d3"
+ },
+ {
+  "name": "Dispersão e Velocidade de grupo",
+  "descript": "demonstra a dispersão , que ocorre quando a velocidade de uma onda depende da frequência. Este exemplo mostra duas ondas de frequência única na parte superior, seguidas pela soma das duas na parte inferior. Nesse caso, a onda de frequência mais baixa tem uma velocidade maior ( velocidade de fase ), o que faz com que a soma mude de forma à medida que se propaga pelo espaço.",
+  "url": "http://falstad.com/dispersion/",
+  "thumb": "http://falstad.com/mpthumb/dispersion.gif",
+  "categorys": [
+   "Cinemática",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "2b07dab76ae092d822649f7ea8bf9fb5"
+ },
+ {
+  "name": "Corda com Oscilação Estácionária",
+  "descript": "Demonstra ondas estacionárias em uma corda vibrante (uma corda carregada). Mostra um gráfico com a contribuição de cada modo normal para a vibração resultante da corda com controle da magnitude (amplitude) de cada modo normal.",
+  "url": "http://falstad.com/loadedstring/",
+  "thumb": "http://falstad.com/mpthumb/loadedstring.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "e934d5d677a3cb48246a64d93a0272fc"
+ },
+ {
+  "name": "Ondas de Membrana Retangular",
+  "descript": "Simula ondas em uma membrana retangular (como uma pele de tambor), mostrando seus vários modos vibracionais.",
+  "url": "http://falstad.com/membrane/",
+  "thumb": "http://falstad.com/mpthumb/membrane.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "295d6694a68bb9bc6efc47ae51f5daee"
+ },
+ {
+  "name": "Ondas em Membrana Circular",
+  "descript": "Simula ondas em uma membrana circular (como uma pele de tambor), mostrando seus vários modos vibracionais.",
+  "url": "http://falstad.com/circosc/",
+  "thumb": "http://falstad.com/mpthumb/circosc.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "be06a554f915c17de4e5371b159578c8"
+ },
+ {
+  "name": "Ondas em uma Barra",
+  "descript": "Demonstra ondas de flexão estacionárias em uma barra ou corda. Veja e ajuste um gráfico com a contribuição de cada modo normal para a vibração da barra.",
+  "url": "http://falstad.com/barwaves/",
+  "thumb": "http://falstad.com/mpthumb/barwaves.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "92e153ce188108b7ab671d4efaff92da"
+ },
+ {
+  "name": "Vogais - Acústica da fala",
+  "descript": "Simula ondas sonoras no trato vocal humano para produzir sons de vogais. O trato vocal atua como um filtro acústico para moldar o espectro do som produzido pelas cordas vocais através do movimento da língua e dos lábios para criar um filtro de uma determinada forma para produzor os sons das vogais desejadas. Se fizermos um tubo com comprimento e seção transversal semelhantes e o excitarmos com uma fonte semelhante às cordas vocais, podemos produzir sons que soam como vogais.",
+  "url": "http://falstad.com/vowel/",
+  "thumb": "http://falstad.com/mpthumb/vowel.gif",
+  "categorys": [
+   "Acústica",
+   "Alfabeto",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "b05bf42330ddfc339d9e5e8b10695d38"
+ },
+ {
+  "name": "Modos Normais em uma Caixa",
+  "descript": "Simula ondas em uma caixa retangular (como uma caixa acústica), mostrando seus vários modos vibracionais.",
+  "url": "http://falstad.com/modebox/",
+  "thumb": "http://falstad.com/mpthumb/modebox.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "6ed28cc9bc484bbc320ed004ad9e21f0"
+ },
+ {
+  "name": "Interferência Acústica",
+  "descript": "Demonstra a interferência entre duas fontes de ondas sonoras, reproduzindo um som real de uma onda senoidal em ambos alto-falantes com um padrão de interferência bastante semelhante ao mostrado na tela.",
+  "url": "http://falstad.com/interference/",
+  "thumb": "http://falstad.com/mpthumb/interference.gif",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "83e3a6509710e1f1082e7a5c249bd59c"
+ },
+ {
+  "name": "Série de Fourier",
+  "descript": "Mostra a série de Fourier, que é um método de expressar uma função periódica arbitrária como uma soma de termos de senos ou cosseno. A série de Fourier pode ser usada para expressar uma função em termos das frequências (harmônicos) de que é composta.",
+  "url": "http://falstad.com/fourier/",
+  "thumb": "http://falstad.com/mpthumb/fourier.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria"
+  ],
+  "author": "PaulFalstad",
+  "hash": "85c515886cc9b3f3f0d8426f7a8ecb6c"
+ },
+ {
+  "name": "Filtros Digitais",
+  "descript": "Um filtro passa-baixo digital com frequência de corte ajustável. Mostra a resposta de frequência do filtro, o espectro da forma de onda filtrada que está sendo reproduzida, a própria forma de onda e a resposta ao impulso do filtro.",
+  "url": "http://falstad.com/dfilter/",
+  "thumb": "http://falstad.com/mpthumb/dfilter.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "dbcf6665b0116767fa498de8f815bae5"
+ },
+ {
+  "name": "Eletrostática 2D",
+  "descript": "Mostra eletrostática em duas dimensões. Veja o campo elétrico de diferentes configurações de cargas.",
+  "url": "http://falstad.com/emstatic/",
+  "thumb": "http://falstad.com/mpthumb/emstatic.gif",
+  "categorys": [
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "ee49c7a8ba8930b0c7a29615fa1d68c7"
+ },
+ {
+  "name": "Campos Eletrostáticos 2D",
+  "descript": "Mostra eletrostática animada em duas dimensões. Veja o campo elétrico de diferentes configurações de cargas com particulas se movendo.",
+  "url": "http://falstad.com/vector2de/",
+  "thumb": "http://falstad.com/mpthumb/vector2de.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "e0f8d75d552ccf3b635e6d5671cca073"
+ },
+ {
+  "name": "Campos Eletrostáticos 3D",
+  "descript": "Mostra eletrostática animada em três dimensões. Veja o campo elétrico de diferentes configurações de cargas com particulas se movendo.",
+  "url": "http://falstad.com/vector3de/",
+  "thumb": "http://falstad.com/mpthumb/vector3de.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "1a352e65fae4e07e82621a42768f9efb"
+ },
+ {
+  "name": "Campos Magnetostáticos 3D",
+  "descript": "Mostra magnetostática animada em três dimensões. Veja o campo magnético de diferentes configurações com particulas se movendo como pequenos imãs.",
+  "url": "http://falstad.com/vector3dm/",
+  "thumb": "http://falstad.com/mpthumb/vector3dm.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "f5cbb12a665762923a89f9d5e3d87d76"
+ },
+ {
+  "name": "Motor elétrico",
+  "descript": "Mostra o funcionamento de um motor CC (corrente continua) simples, de uma espira. com indicação da corrente, força e campo magnético.",
+  "url": "http://falstad.com/motor/",
+  "thumb": "http://falstad.com/mpthumb/motor.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletromagnetismo",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "28e6bfbe725c5dc837ce6d7d3016304d"
+ },
+ {
+  "name": "Gerador elétrico",
+  "descript": "Mostra o funcionamento de um gerador elétrico AC (corrente alternada) simples, de uma espira. com indicação da corrente, força e campo magnético alem de mostra gráficos.",
+  "url": "http://falstad.com/generator/",
+  "thumb": "http://falstad.com/mpthumb/motor.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletromagnetismo",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "e1512eb082fe761e252fbaeca110426b"
+ },
+ {
+  "name": "Eletrodinâmica 2D (TE)",
+  "descript": "Demonstra eletrodinâmica (Campos eletricos e magnéticos) em duas dimensões, incluindo configurações que demonstram ondas eletromagnéticas, reflexão em condutores, radiação de antenas, ondas estacionárias, guias de onda e difração.",
+  "url": "http://falstad.com/emwave1/",
+  "thumb": "http://falstad.com/mpthumb/emwave1.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "c4bcd077b1695b3040e0437626d48843"
+ },
+ {
+  "name": "Eletrodinâmica 2D (TM)",
+  "descript": "Demonstra magnetostática e eletrodinâmica em duas dimensões (Campos eletricos e magnéticos), incluindo configurações que demonstram ondas eletromagnéticas, reflexão em condutores, reflexão e refração em limites dielétricos, radiação dipolo e quadrupolo, dispersão, indução, correntes parasitas, ondas estacionárias, guias de onda, e difração.",
+  "url": "http://falstad.com/emwave2/",
+  "thumb": "http://falstad.com/mpthumb/emwave1.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Eletrostática",
+   "Energia",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "8635239db01a5dd9bd3d1b611f0c189e"
+ },
+ {
+  "name": "Filtro Analógico",
+  "descript": "Exibe a resposta de frequência dos circuitos de filtros eletrônicos analógicos. (passa-alta, passa-baixa e passa-faixa).",
+  "url": "http://falstad.com/afilter/",
+  "thumb": "http://falstad.com/mpthumb/circuit.gif",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletromagnetismo",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Semicondutores",
+   "Trigonometria"
+  ],
+  "author": "PaulFalstad",
+  "hash": "18edbbcfa8994166549192a4f6457091"
+ },
+ {
+  "name": "Modos Normais de Cavidade",
+  "descript": "Simula ondas em uma caixa retângular 3D ou ressonador de cavidade, mostrando seus vários modos vibracionais TE e TM. Selecione entre o campo elétrico ou magnético para ser exibido.",
+  "url": "http://falstad.com/embox/",
+  "thumb": "http://falstad.com/mpthumb/embox.gif",
+  "categorys": [
+   "Acústica",
+   "Eletromagnetismo",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "21a56b194aa9f315cd1f80386ee35a50"
+ },
+ {
+  "name": "Modes Normais de Guia de Onda",
+  "descript": "Simula ondas em uma direção, mostrando seus vários modos vibracionais TE e TM. Selecione entre o campo elétrico ou magnético para ser exibido.",
+  "url": "http://falstad.com/embox/guide.html",
+  "thumb": "http://falstad.com/mpthumb/emguide.gif",
+  "categorys": [
+   "Acústica",
+   "Eletromagnetismo",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "75831b96749e6920aa18d7e1edd8acee"
+ },
+ {
+  "name": "Antenas",
+  "descript": "Demonstra ondas geradas por antenas e arranjos de antenas em duas dimensões.",
+  "url": "http://falstad.com/antenna/",
+  "thumb": "http://falstad.com/mpthumb/antenna.gif",
+  "categorys": [
+   "Eletromagnetismo",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "4dc325747cb7d19693af7854c38c5395"
+ },
+ {
+  "name": "Difração de Fresnel",
+  "descript": "Gera padrões de difração de Fresnel, que são as sombras projetadas por pequenas aberturas ao usar uma fonte plana de luz monocromática como fonte de luz. Selecione a forma de abertura da fenda e alterar o tamanho do círculo.",
+  "url": "http://falstad.com/diffraction/",
+  "thumb": "http://falstad.com/mpthumb/diffraction.gif",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "c78cbdf7da007c341a28275d9de18122"
+ },
+ {
+  "name": "Átomo de Hidrogênio",
+  "descript": "Exibe as funções de onda (orbitais) do átomo de hidrogênio em 3D. Exibe orbitais reais (como normalmente usado em química), orbitais complexos (como normalmente usados ​​em física) ou combinações de orbitais.",
+  "url": "http://falstad.com/qmatom/",
+  "thumb": "http://falstad.com/mpthumb/qmatom.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "4d6d6be21053c59787211602015819e9"
+ },
+ {
+  "name": "Orbitais Moleculares",
+  "descript": "Exibe as funções de onda moleculares (orbitais moleculares) do íon molecular de hidrogênio (H2+) em 3D. Voce pode selecioare a função de onda.",
+  "url": "http://falstad.com/qmmo/",
+  "thumb": "http://falstad.com/mpthumb/qmmo.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "8181b3a5acccdef2284aee025ab49d64"
+ },
+ {
+  "name": "Mecânica Quântica 1D",
+  "descript": "Estados de mecânica quântica de partícula única em uma dimensão. Resolve a equação de Schrödinger e permite visualizar as soluções.",
+  "url": "http://falstad.com/qm1d/",
+  "thumb": "http://falstad.com/mpthumb/qm1d.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "9c84bce9a5f66e09fd902ae756aef12c"
+ },
+ {
+  "name": "Cristal Quântico 1D",
+  "descript": "Mostra o comportamento de uma partícula em um cristal unidimensional (ou rede, ou potencial periódico). Potenciais periódicos são usados ​​para modelar o comportamento dos elétrons em um cristal.",
+  "url": "http://falstad.com/qm1dcrystal/",
+  "thumb": "http://falstad.com/mpthumb/qm1dcrystal.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "c1fdb6e7ddf49e7b5a351648de600abb"
+ },
+ {
+  "name": "Cristal Quântico 2D",
+  "descript": "Mostra o comportamento de uma partícula em um cristal bidimensional (ou potencial periódico). Vejá o gráfico da função de onda da partícula.  ",
+  "url": "http://falstad.com/qm2dcrystal/",
+  "thumb": "http://falstad.com/mpthumb/qm2dcrystal.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "3d0950e2d1514d2bc0bf9b5c399d91df"
+ },
+ {
+  "name": "Transições Quânticas 1D",
+  "descript": "Transições radiativas (absorção e emissão estimulada) em uma dimensão. Mostra a interação da radiação eletromagnética clássica com uma partícula e a absorção e emissão estimulada. ",
+  "url": "http://falstad.com/qm1drad/",
+  "thumb": "http://falstad.com/mpthumb/qm1drad.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "6be2d163ab10a98bd0bfa013139b8119"
+ },
+ {
+  "name": "Transições de Dipolos Atômicos",
+  "descript": "Transições radiativas (absorção e emissão estimulada) em átomos. Mostra transições dipolo elétricas, que são interações da radiação eletromagnética clássica com um átomo. Demonstra absorção e emissão estimulada.",
+  "url": "http://falstad.com/qmatomrad/",
+  "thumb": "http://falstad.com/mpthumb/qmatomrad.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "153e806ace0b1cc293ca3a490249dc87"
+ },
+ {
+  "name": "Poço Retangular 2D",
+  "descript": "Poço quadrado retangular (partícula em uma caixa) em duas dimensões. Mostra o comportamento de uma partícula em um poço quadrado retangular bidimensional (partícula em uma caixa) e o gráfico da função de onda.",
+  "url": "http://falstad.com/qm2dbox/",
+  "thumb": "http://falstad.com/mpthumb/qm2dcirc.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "08bb9282f922a94b2209883676a9f07b"
+ },
+ {
+  "name": "Poço Circular 2D",
+  "descript": "Poço quadrado circular em duas dimensões. Mostra o comportamento de uma partícula em um poço quadrado circular bidimensional com a distribuição de probabilidade, indicador de fase, conjunto de fasores de magnitude.",
+  "url": "http://falstad.com/qm2dcirc/",
+  "thumb": "http://falstad.com/mpthumb/qm2dcirc.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "aef8fe64fc2ac51e084b1e9f6c872fe6"
+ },
+ {
+  "name": "Oscilador Harmônico Quântico 2D",
+  "descript": "Oscilador harmônico em duas dimensões. mostra o comportamento de uma partícula em um oscilador harmônico bidimensional com distribuição de probabilidade e fasores de magnitude.",
+  "url": "http://falstad.com/qm2dosc/",
+  "thumb": "http://falstad.com/mpthumb/qm2dosc.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "94e56d85df3406691cae67b689c1d12d"
+ },
+ {
+  "name": "Corpo Rigido Quântico em Rotação",
+  "descript": "Partícula confinada à superfície de uma esfera. Exibe as funções de onda do rotor esférico rígido, que são os harmônicos esféricos, com distribuição de probabilidade e conjunto de fasores de magnitude.",
+  "url": "http://falstad.com/qmrotator/",
+  "thumb": "http://falstad.com/mpthumb/qmrotator.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "cebbd55e2089c1f8343a25063ee814e5"
+ },
+ {
+  "name": "Oscilador Harmônico Quântico 3D",
+  "descript": "Oscilador harmônico em três dimensões.Exibe as funções de onda de uma partícula em um oscilador harmônico tridimensional.",
+  "url": "http://falstad.com/qm3dosc/",
+  "thumb": "http://falstad.com/mpthumb/qm3dosc.gif",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Quântica",
+   "Química"
+  ],
+  "author": "PaulFalstad",
+  "hash": "5b18bbcb7bd3477801d201529fc323a4"
+ },
+ {
+  "name": "Produto Escalar",
+  "descript": "Demonstra geometricamente o produto escalar de dois vetores. Que é um conceito importante de álgebra linear",
+  "url": "http://falstad.com/dotproduct/",
+  "thumb": "http://falstad.com/mpthumb/dotproduct.gif",
+  "categorys": [
+   "Aritmética",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "f023f57d305d183813f4f19531d7448e"
+ },
+ {
+  "name": "Matrix",
+  "descript": "Demonstra transformações 2d usando uma matriz incluindo algumas propriedades de matrizes e como elas podem ser usadas para descrever uma transformação linear em duas dimensões.",
+  "url": "http://falstad.com/matrix/",
+  "thumb": "http://falstad.com/mpthumb/matrix.gif",
+  "categorys": [
+   "Aritmética",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "2174bbc06fc00020e06e212c35d01621"
+ },
+ {
+  "name": "Campos Vetoriais 2D",
+  "descript": "Demonstra várias propriedades de campos vetoriais, incluindo divergência e curvatura, etc. Veja como as partículas se movem se forem tratadas como uma velocidade ou um campo de força. Isso ajuda você a visualizar o campo.",
+  "url": "http://falstad.com/vector/",
+  "thumb": "http://falstad.com/mpthumb/vector.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Gráfico",
+   "Relatividade",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "d336980cae5264b9eb4c9cc5b3e00ef0"
+ },
+ {
+  "name": "Campos Vetoriais 3D",
+  "descript": "Demonstra campos vetoriais em 3 dimensões. Inclui o Lorenz Attractor e o Rossler Attractor. Veja como as partículas se movem se forem tratadas como uma velocidade ou um campo de força. Isso ajuda você a visualizar o campo.",
+  "url": "http://falstad.com/vector3d/",
+  "thumb": "http://falstad.com/mpthumb/vector3d.gif",
+  "categorys": [
+   "Cinemática",
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Gráfico",
+   "Relatividade",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "6fc6ae952869782db4b3180b46ab1c7a"
+ },
+ {
+  "name": "Moléculas de Gás",
+  "descript": "Demonstra a teoria cinética dos gases com particulas se movendo com diferentes velocidades e interagindo. Mostra um histograma com a distribuição das velocidades das moléculas.",
+  "url": "http://falstad.com/gas/",
+  "thumb": "http://falstad.com/mpthumb/gas.gif",
+  "categorys": [
+   "Atômica",
+   "Cinemática",
+   "Densidade",
+   "Energia",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Números",
+   "Quântica",
+   "Química",
+   "Termodinâmica",
+   "Termologia"
+  ],
+  "author": "PaulFalstad",
+  "hash": "347e3de544239af106aaf6ca3f2dc008"
+ },
+ {
+  "name": "Máquinas Térmicas",
+  "descript": "Ciclo de Carnot da Máquina Térmica e outros ciclos termodinâmicos. Acompanhe o diagrama PxV com a passagem do tempo enquanto visualiza as variaveis alterarem seus valores.",
+  "url": "http://falstad.com/engine/",
+  "thumb": "http://falstad.com/mpthumb/engine.gif",
+  "categorys": [
+   "Densidade",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Química",
+   "Termodinâmica",
+   "Termologia"
+  ],
+  "author": "PaulFalstad",
+  "hash": "05ae377c1deb2ef37b74093ce6f4d3b1"
+ },
+ {
+  "name": "Oscilador Harmônico",
+  "descript": "Forças motrizes do oscilador harmônico com ressonância. Acompanhe o gráfico do deslocamento versus tempo de um sistema massa-mola forçado e amortecido enquanto visualiza as variaveis alterarem seus valores.",
+  "url": "http://falstad.com/harmonicosc/",
+  "thumb": "http://falstad.com/mpthumb/harmonicosc.gif",
+  "categorys": [
+   "Cinemática",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "db7fba66517bcd58d7a80cf75fc8ed50"
+ },
+ {
+  "name": "Força de Coriolis",
+  "descript": "Sistemas de referência rotativos. Mostra os vetores da força e da aceleração de Coriolis de uma particula girando em volta da superfície da Terra.",
+  "url": "http://falstad.com/coriolis/",
+  "thumb": "http://falstad.com/mpthumb/coriolis.gif",
+  "categorys": [
+   "Cinemática",
+   "Clima",
+   "Força",
+   "Função",
+   "Física",
+   "Geografia",
+   "Geometria",
+   "Gravitação",
+   "Mecânica",
+   "Oscilações",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "9818803b7dab230c3d2768a2b3ba5496"
+ },
+ {
+  "name": "Pêndulo de Foucault",
+  "descript": "Demonstra a rotação da Terra. Mostra a tragetória, bem como os vetores da força e da aceleração, de um pêndulo instalado sobre a superfície da Terra.",
+  "url": "http://falstad.com/foucault/",
+  "thumb": "http://falstad.com/mpthumb/foucault.gif",
+  "categorys": [
+   "Cinemática",
+   "Clima",
+   "Força",
+   "Função",
+   "Física",
+   "Geografia",
+   "Geometria",
+   "Gravitação",
+   "Mecânica",
+   "Oscilações",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "17e8dffc0ac4f73fbf620eae880e4e7a"
+ },
+ {
+  "name": "Encontro Orbital",
+  "descript": "Pilote sua nave para encontrar uma nave-alvo em uma órbita diferente, ambas em torno da Terra.",
+  "url": "http://falstad.com/rendezvous/",
+  "thumb": "http://falstad.com/mpthumb/rendezvous.gif",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "2ab5e44cc40a49df8e6ce950058eb0b0"
+ },
+ {
+  "name": "Pontos Lagrange",
+  "descript": "Problema de três corpos. Sua nave começa em um dos pontos de lagrange do sistema (onde a grávidade se equilibra) e voce deve pilotar para atingir os outros, encolha entre os sistemas Terra-Lua, Sol-Terra e outros.",
+  "url": "http://falstad.com/lagrange/",
+  "thumb": "http://falstad.com/mpthumb/lagrange.gif",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "1452a6e3e64ef7bd5e652dfb1870b0f7"
+ },
+ {
+  "name": "Simétria de Piões",
+  "descript": "Movimento de corpo rígido de piões e giroscópios. Mostra os vetores de velocidade linear, velocidade angular, torque gravitácional e momento angular, para um pião (giroscopio) com Nutação e Precessão.",
+  "url": "http://falstad.com/top/",
+  "thumb": "http://falstad.com/mpthumb/top.gif",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Mecânica",
+   "Oscilações",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "76e8f24909ba719ec1e08abec3721832"
+ },
+ {
+  "name": "Equações Diferenciais Ordinárias",
+  "descript": "Solucionador visual de equações diferenciais. Exibe soluções e gráficos para algumas equações diferenciais comuns. Define a localização do ponto incial.",
+  "url": "http://falstad.com/diffeq/",
+  "thumb": "http://falstad.com/mpthumb/diffeq.gif",
+  "categorys": [
+   "Algorítimo",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática"
+  ],
+  "author": "PaulFalstad",
+  "hash": "7dcda5e00299838069db5cc44ab28e1a"
+ },
+ {
+  "name": "Equações de Euler",
+  "descript": "Demonstração gráfica da fórmula de Euler e a expansão em série de Taylor de exponenciais complexas.",
+  "url": "http://falstad.com/euler/",
+  "thumb": "http://falstad.com/mpthumb/euler.gif",
+  "categorys": [
+   "Algorítimo",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "be9ea90fce8a660d3cb5a71b9b2b68a3"
+ },
+ {
+  "name": "Transformada Discreta de Fourier",
+  "descript": "Transformada de Fourier em duas dimensões. Mostra o padrão de difração de luz, monocromática e policromática ao passar por um orifício ou obstáculo bem pequeno.",
+  "url": "http://falstad.com/fft/",
+  "thumb": "http://falstad.com/mpthumb/fft.gif",
+  "categorys": [
+   "Algorítimo",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "4cd4b61a082980020a458c39889fb2fa"
+ },
+ {
+  "name": "Raios Opticos",
+  "descript": "Um simulador de óptica de raios por Rick Tu e Johnson (com algumas contribuições minhas). Crie e simule cenas ópticas geométricas 2D de forma interativa.",
+  "url": "http://falstad.com/ray-optics/",
+  "thumb": "http://falstad.com/mpthumb/rayoptics.png",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "44cece84d05935dc4132d974064d8d73"
+ },
+ {
+  "name": "Figuras de Lissajous",
+  "descript": "Um osciloscópio virtual ajustado para gerar curvas de Lissajous, que são gráficos produzidos por um sistema de equações paramétricas, que descreve um complexo movimento harmônico.",
+  "url": "http://falstad.com/lissajous",
+  "thumb": "http://www.mathcats.com/explore/exploreimages/lissajous1.gif",
+  "categorys": [
+   "Algorítimo",
+   "Eletrodinâmica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria"
+  ],
+  "author": "PaulFalstad",
+  "hash": "28be1e36a4349f0613c1f01e330356b1"
+ },
+ {
+  "name": "Mapeamento Complexo",
+  "descript": "Apresenta imagem de equações complexas num plano cartesiano com grade de domínio sob a composição das funções de mapeamento selecionadas [g(f(z))]",
+  "url": "http://falstad.com/complexviewer/",
+  "thumb": "",
+  "categorys": [
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Oscilações",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "76636ace6c6e4561942542d0b15763b6"
+ },
+ {
+  "name": "Átomo de Hidrogênio - Niveis de Energia",
+  "descript": "Mostra o diagrama de Energia dos niveis quanticos do átomo de Hidrogenio, podendo selecionar entrer o modelo de Bohr e de Dirac e especificar as séries de Lyman, Balmer, Paschen e Brackett.",
+  "url": "http://falstad.com/nw/hydrogen.html",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Ondas",
+   "Probabilidade",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Relatividade",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "ed5db4a71c519d61259ec66a01d63ef4"
+ },
+ {
+  "name": "Lentes - Convergentes e Divergentes",
+  "descript": "Simula a formação de imagens atráves de lentes convergentes e divergentes. Mostra os raios notáveis e é possivel ajusta a posição da lente e do objeto.",
+  "url": "http://falstad.com/nw/lenses.html",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "6fda57010a1606b336061a08683e4d57"
+ },
+ {
+  "name": "Espelhos - côncavos e convexos",
+  "descript": "Simula a formação de imagens atráves de espelhos convexos e côncavos. Mostra os raios notáveis e é possivel ajusta a posição do espelho e do objeto.",
+  "url": "http://falstad.com/nw/mirror.html",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "5f29cdd3fbf0496c24903118eb1e3a22"
+ },
+ {
+  "name": "Pêndulo Duplo Amortecido",
+  "descript": "Demonstra o movimento do pêndulo duplo amortecido. Veja o caos pelo gráfico de fase que desenha as coordenadas x. Ajuste a configuração inicial da pêndulo duplo.",
+  "url": "http://falstad.com/nw/pendulum.html",
+  "thumb": "",
+  "categorys": [
+   "Estatística",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Momentum",
+   "Oscilações",
+   "Probabilidade",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "bbf0eb5e8bff7f67e53bfd3b17e8f5bb"
+ },
+ {
+  "name": "Fenda de Difração",
+  "descript": "Exibe o gráfico do padrão de difração gerado pelo experimento de fenda dupla de Young e de n fendas",
+  "url": "http://falstad.com/nw/slit.html",
+  "thumb": "",
+  "categorys": [
+   "Função",
+   "Física",
+   "Gráfico",
+   "Números",
+   "Ondas",
+   "Oscilações",
+   "Probabilidade",
+   "Quântica",
+   "Radiação",
+   "Relatividade",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "9dfbb30160ec54214d889f772dd1fd1c"
+ },
+ {
+  "name": "Planetas e Órbitas Gravitacionais",
+  "descript": "Demonstra as leis de Kepler. Escolha referenciais diferentes para observar o movimento.veja as órbitas dos planetas.",
+  "url": "http://falstad.com/nw/planets.html",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Matemática",
+   "Mecânica",
+   "Vetores"
+  ],
+  "author": "PaulFalstad",
+  "hash": "e1d173be3426546ff47fe81608d10823"
+ },
+ {
+  "name": "Lei de Snell",
+  "descript": "Demonstra reflexão, refração e a Lei de Snell. Altere os índices de refração e o ângulo de incidência theta. Observe a Refletância R e a Transmitância T.",
+  "url": "http://falstad.com/nw/snell.html",
+  "thumb": "",
+  "categorys": [
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Ondas",
+   "Óptica"
+  ],
+  "author": "PaulFalstad",
+  "hash": "46c9bbd372666bb5d71cf22c1b795667"
+ },
+ {
+  "name": "Ondas Esféricas, Fonte Móvel",
+  "descript": "Mostra a propagação de ondas esféricas a partir de uma fonte móvel (Efeito Doppler). Investigue a relação entre a velocidade, periodo e comprimento de onda e a velocidade da fonte.",
+  "url": "http://falstad.com/nw/sound1.html",
+  "thumb": "",
+  "categorys": [
+   "Acústica",
+   "Cinemática",
+   "Função",
+   "Física",
+   "Mecânica",
+   "Relatividade"
+  ],
+  "author": "PaulFalstad",
+  "hash": "db05dab08a97a50d45e56c9aa9ad438b"
+ },
+ {
+  "name": "Sobreposição de Ondas",
+  "descript": "Adicione Ondas Harmônicas Simples. Permite simular a sobreposição de onda variando fatores como frequência, amplitude e fase das ondas.",
+  "url": "http://falstad.com/nw/super1.html",
+  "thumb": "",
+  "categorys": [
+   "Acústica",
+   "Aritmética",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "39a54ce61868492f69ad40e2500807ca"
+ },
+ {
+  "name": "Sobreposição de Ondas em Movimento",
+  "descript": "Adicione Ondas Harmônicas com movimento. Permite simular a sobreposição de onda variando fatores como frequência, amplitude e fase das ondas.",
+  "url": "http://falstad.com/nw/super2.html",
+  "thumb": "",
+  "categorys": [
+   "Acústica",
+   "Aritmética",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "PaulFalstad",
+  "hash": "dbf6475d0e2755033e62aaebbb108a40"
  }
 ]
