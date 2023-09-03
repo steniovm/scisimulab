@@ -232,6 +232,8 @@ fetch(urlsimuls)
         autoresnome.push(simulacao.author);
         auts[simulacao.author] = 1;
       }
+      //adciona em hashlist
+      hashlist[simulacao.hash]= simulacao.url;
     });
     filterCat.innerHTML = `<option id="allCat" value="all">Todas (${data.length})</option>`;
     categoriasnome.sort();
