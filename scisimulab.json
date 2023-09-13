@@ -222,6 +222,11 @@
       "text":" Paul Falstad. A plataforma falstad é uma coleção de aplicativos educacionais, criados pelo proprio Paul Falstad, para ajudar a visualizar vários conceitos de matemática, física e engenharia originalmente escritos em Java, mas em sua maioria foram convertidos para Javascript.",
       "url": "http://falstad.com/",
       "thumb": "http://falstad.com/maze_small.gif"
+    },
+    {
+      "text":" FoothillCollege. O projeto Foothill Astrosims visa apoiar a educação em astronomia através de atualização de simulações educacionais existentes na web em Flash para Javascript, desenvolvivento de novas simulações para abordar tópicos ainda não encontrados e curadoria de simulações educacionais existentes acessíveis pelo navegado",
+      "url": "https://foothill.edu/astronomy/astrosims.html",
+      "thumb": "https://foothill.edu/favicon.ico"
     }
   ]
 }

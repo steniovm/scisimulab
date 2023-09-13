@@ -470,7 +470,7 @@
  },
  {
   "name": "Laboratório de Colisões",
-  "descript": "Aplica a lei da conservação do momento para resolver problemas de colisões. Construindo, desenhando e animando vetores representando o momentum do \"antes e depois\" das colisões.",
+  "descript": "Aplica a lei da conservação do momento para resolver problemas de colisões. Construindo, desenhando e animando vetores representando o momentum do “antes e depois‟ das colisões.",
   "url": "https://phet.colorado.edu/pt_BR/simulations/collision-lab",
   "thumb": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab-420.png",
   "categorys": [
@@ -2116,7 +2116,7 @@
  },
  {
   "name": "Um exemplo do Efeito Doppler",
-  "descript": "Uma ambulância passa por um cidadão parado na via pública. As condições de \"captação\" do som pelo ouvido do sujeito, são diferentes conforme a ambulância se aproxima ou afasta dele.",
+  "descript": "Uma ambulância passa por um cidadão parado na via pública. As condições de “captação‟ do som pelo ouvido do sujeito, são diferentes conforme a ambulância se aproxima ou afasta dele.",
   "url": "https://www.walter-fendt.de/html5/phpt/dopplereffect_pt.htm",
   "thumb": "",
   "categorys": [
@@ -3080,7 +3080,7 @@
  },
  {
   "name": "Plano inclinado",
-  "descript": "Esta aplicação mostra o movimento de de um corpo ao \"subir\" um plano inclinado com velocidade constante permitindo a observação das forças que atuam sobre o corpo nessas condições.",
+  "descript": "Esta aplicação mostra o movimento de de um corpo ao “subir‟ um plano inclinado com velocidade constante permitindo a observação das forças que atuam sobre o corpo nessas condições.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_sily&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_sily.png",
   "categorys": [
@@ -3299,7 +3299,7 @@
  },
  {
   "name": "Força inercial centrífuga",
-  "descript": "Mostra a origem do que é conhecido como \"Força centrífuga\" sob o ponto de vista de dois observadores em condições diferentes.",
+  "descript": "Mostra a origem do que é conhecido como “Força centrífuga‟ sob o ponto de vista de dois observadores em condições diferentes.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=mech_odstrediva&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/mech_odstrediva.png",
   "categorys": [
@@ -6060,7 +6060,7 @@
  },
  {
   "name": "Fogo-de-santelmo",
-  "descript": "Mostra o fenômeno \"Fogo-de-santelmo\" que corresponde a ionização do ar, formando faiscas semelhantes ao fogo, pelo \"pode das pontas\" em navios durante tempestades.",
+  "descript": "Mostra o fenômeno “Fogo-de-santelmo‟ que corresponde a ionização do ar, formando faiscas semelhantes ao fogo, pelo “pode das pontas‟ em navios durante tempestades.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=elplyn_elias&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/elplyn_elias.png",
   "categorys": [
@@ -7057,7 +7057,7 @@
  },
  {
   "name": "Decaimento radioactivo",
-  "descript": "Logo que se inicia a simulação começa o \"decaimento\" de isotopos radioativos observando-se a transformação de pontos na cor vermelha para a cor preta.",
+  "descript": "Logo que se inicia a simulação começa o “decaimento‟ de isotopos radioativos observando-se a transformação de pontos na cor vermelha para a cor preta.",
   "url": "https://www.vascak.cz/data/android/physicsatschool/template.php?s=jadro_rozpad&l=pt",
   "thumb": "https://www.vascak.cz/data/android/physicsatschool/physics/jadro_rozpad.png",
   "categorys": [
@@ -8627,7 +8627,7 @@
   "hash": "ec63f42cb10834cff2ad29376c2bfcfb"
  },
  {
-  "name": "O pêndulo balístico \"Quiz\"",
+  "name": "O pêndulo balístico “Quiz‟",
   "descript": "A velocidade inicial não é mostrada - ela deve ser determinada pelo usuário.",
   "url": "https://ophysics.com/e4.html",
   "thumb": "https://ophysics.com/images/thumbs/e4thumb.jpeg",
@@ -9196,7 +9196,7 @@
  },
  {
   "name": "Lentes Côncavas e Convexas",
-  "descript": "Formação da imagem em lentes côncavas e convexas. Mova a ponta da seta \"Objeto\" para mover o objeto. Mova o ponto denominado \"Focus\" para alterar a distância focal.",
+  "descript": "Formação da imagem em lentes côncavas e convexas. Mova a ponta da seta “Objeto‟ para mover o objeto. Mova o ponto denominado “Focus‟ para alterar a distância focal.",
   "url": "https://ophysics.com/l12.html",
   "thumb": "https://ophysics.com/images/thumbs/l12thumb.jpeg",
   "categorys": [
@@ -9985,7 +9985,7 @@
  },
  {
   "name": "Embaralhamento perfeito de cartas",
-  "descript": "Mostra a posição de qualquer carta em um baralho padrão de 52 cartas após um certo número de embaralhamentos \"perfeitos\".",
+  "descript": "Mostra a posição de qualquer carta em um baralho padrão de 52 cartas após um certo número de embaralhamentos “perfeitos‟.",
   "url": "https://ophysics.com/fs7.html",
   "thumb": "https://ophysics.com/images/thumbs/fs7thumb.jpg",
   "categorys": [
@@ -10630,7 +10630,7 @@
  },
  {
   "name": "Princípio do menor tempo",
-  "descript": "A aplicação pretente responder ao questionamento: \"Como a luz decide qual caminho percorrer até chegar a um objeto?\". A física nos diz que ela obedece ao princípio do menor tempo, retratado nessa simulação pelo problema do guarda salva vidas.",
+  "descript": "A aplicação pretente responder ao questionamento: “Como a luz decide qual caminho percorrer até chegar a um objeto?‟. A física nos diz que ela obedece ao princípio do menor tempo, retratado nessa simulação pelo problema do guarda salva vidas.",
   "url": "http://www.physicsclassroom.com/Physics-Interactives/Refraction-and-Lenses/Least-Time-Principle/Least-Time-Principle-Interactive",
   "thumb": "https://www.simbucket.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-17-at-8.34.34-PM.png",
   "categorys": [
@@ -12186,7 +12186,7 @@
  },
  {
   "name": "Hola - Onda do estádio",
-  "descript": "Por meio da clássica \"onda\" nos estádios, aprenda mais sobre importantes conceitos de ondulatória.",
+  "descript": "Por meio da clássica “onda‟ nos estádios, aprenda mais sobre importantes conceitos de ondulatória.",
   "url": "https://interactives.ck12.org/simulations/physics/stadium-wave/app/index.html?lang=en&referrer=ck12Launcher&backUrl=https://interactives.ck12.org/simulations/physics.html",
   "thumb": "https://interactives.ck12.org/simulations/assets/images/physics/stadium-wave.jpg?_build=202305291230",
   "categorys": [
@@ -13535,7 +13535,7 @@
  },
  {
   "name": "Pêndulo Móvel",
-  "descript": "Um pêndulo preso a um ponto de suporte móvel ou \"bloco âncora\". Altere parâmetros como gravidade, comprimento do pêndulo, amortecimento, amplitude, frequência e força de vibração periódica.",
+  "descript": "Um pêndulo preso a um ponto de suporte móvel ou “bloco âncora‟. Altere parâmetros como gravidade, comprimento do pêndulo, amortecimento, amplitude, frequência e força de vibração periódica.",
   "url": "https://www.myphysicslab.com/pendulum/moveable-pendulum-en.html",
   "thumb": "https://www.myphysicslab.com/home-page/pic_Moveable-pendulum.png",
   "categorys": [
@@ -13702,7 +13702,7 @@
  },
  {
   "name": "Forças de Corpo Rígido",
-  "descript": "Mostrar objetos se movendo em 2 dimensões com várias forças aplicadas. Pode-se controlar quatro \"propulsores\" em dois dos blocos e ajustar a gravidade, o amortecimento (atrito) e a massa de um dos blocos.",
+  "descript": "Mostrar objetos se movendo em 2 dimensões com várias forças aplicadas. Pode-se controlar quatro “propulsores‟ em dois dos blocos e ajustar a gravidade, o amortecimento (atrito) e a massa de um dos blocos.",
   "url": "https://www.myphysicslab.com/engine2D/rigid-body-en.html",
   "thumb": "https://www.myphysicslab.com/home-page/pic_rigid-body.gif",
   "categorys": [
@@ -13726,7 +13726,7 @@
  },
  {
   "name": "Colisões de corpos rígidos",
-  "descript": "Mostrar objetos colidindo em 2 dimensões. Pode-se controlar quatro \"propulsores\". em dois dos blocos. As teclas J,K,L,I (e também as setas) controlam o empuxo no bloco2. Também pode-se definir a gravidade, elasticidade (salto) e amortecimento (atrito) e a massa de um dos blocos.",
+  "descript": "Mostrar objetos colidindo em 2 dimensões. Pode-se controlar quatro “propulsores‟. em dois dos blocos. As teclas J,K,L,I (e também as setas) controlam o empuxo no bloco2. Também pode-se definir a gravidade, elasticidade (salto) e amortecimento (atrito) e a massa de um dos blocos.",
   "url": "https://www.myphysicslab.com/engine2D/collision-en.html",
   "thumb": "https://www.myphysicslab.com/home-page/pic_collision.gif",
   "categorys": [
@@ -18555,7 +18555,7 @@
  },
  {
   "name": "Mergulhador do mar profundo",
-  "descript": "Explorem a relação entre a pressão abaixo de um fluido e sua profundidade (coluna de liquido). Pilote um submarino para um locais diversos. Execute a simulação em planetas \"semelhantes à Terra\" com a mesma pressão atmosférica, mas diferentes acelerações da gravidade.",
+  "descript": "Explorem a relação entre a pressão abaixo de um fluido e sua profundidade (coluna de liquido). Pilote um submarino para um locais diversos. Execute a simulação em planetas “semelhantes à Terra‟ com a mesma pressão atmosférica, mas diferentes acelerações da gravidade.",
   "url": "http://www.thephysicsaviary.com/Physics/singlepage.php?ID=19",
   "thumb": "http://www.thephysicsaviary.com/Physics/Programs/Labs/DeepSeaDiverLab/images/OverviewPicture.png",
   "categorys": [
@@ -21741,7 +21741,7 @@
  },
  {
   "name": "Caminhada Aleatória",
-  "descript": "Simula a caminhada aleatória(tambem chamada de \"Andar do bebado\") de uma ou mais partículas em duas dimensões. Esse tipo de trajetória e caracteristica do movimento browniano.",
+  "descript": "Simula a caminhada aleatória (tambem chamada de “Andar do bebado‟) de uma ou mais partículas em duas dimensões. Esse tipo de trajetória e caracteristica do movimento browniano.",
   "url": "https://simufisica.com/simulacoes/caminhada-aleatoria/",
   "thumb": "https://simufisica.com/images/caminhada-aleatoria.png",
   "categorys": [
@@ -22034,7 +22034,7 @@
  },
  {
   "name": "Força de arrasto",
-  "descript": "Mostra como a força de arrasto da resistência do ar muda devido à forma (C), área (A), densidade do ar (ρ) e velocidade (V). Ajuste as variáveis. Os \"pontos dançantes\" representam moléculas de ar e são diretamente proporcionais à densidade do ar.",
+  "descript": "Mostra como a força de arrasto da resistência do ar muda devido à forma (C), área (A), densidade do ar (ρ) e velocidade (V). Ajuste as variáveis. Os “pontos dançantes‟ representam moléculas de ar e são diretamente proporcionais à densidade do ar.",
   "url": "http://sahyun.net/physics/html5/dragforce.htm",
   "thumb": "http://sahyun.net/physics/html5/dragforce.png",
   "categorys": [
@@ -22110,7 +22110,7 @@
  },
  {
   "name": "Diagrama de espaço-tempo de Minkowski",
-  "descript": "Mostra o gráfico de como os eixos de coordenadas mudam devido às transformações de Lorentz. Ajuste a velocidade do \"outro\" quadro e a posição do ponto no espaço-tempo. Use o zoom para alterar a escala do gráfico.",
+  "descript": "Mostra o gráfico de como os eixos de coordenadas mudam devido às transformações de Lorentz. Ajuste a velocidade do “outro‟ quadro e a posição do ponto no espaço-tempo. Use o zoom para alterar a escala do gráfico.",
   "url": "http://sahyun.net/physics/html5/minkowski.htm",
   "thumb": "http://sahyun.net/physics/html5/minkpic.png",
   "categorys": [
@@ -22269,7 +22269,7 @@
  },
  {
   "name": "Oscilações Acopladas",
-  "descript": "Demonstra o movimento de osciladores acoplados por molas. Os osciladores (as \"cargas\") são dispostos em uma linha conectadas entre si por molas e aos suportes nas extremidades esquerda e direita. A massa de cada carga e a rigidez (constante elástica) de cada mola podem ser ajustadas.",
+  "descript": "Demonstra o movimento de osciladores acoplados por molas. Os osciladores (as “cargas‟) são dispostos em uma linha conectadas entre si por molas e aos suportes nas extremidades esquerda e direita. A massa de cada carga e a rigidez (constante elástica) de cada mola podem ser ajustadas.",
   "url": "http://falstad.com/coupled/",
   "thumb": "http://falstad.com/mpthumb/coupled.gif",
   "categorys": [
@@ -23488,5 +23488,706 @@
   ],
   "author": "PaulFalstad",
   "hash": "dbf6475d0e2755033e62aaebbb108a40"
+ },
+ {
+  "name": "Visualizador de espectros de emissão e absorção",
+  "descript": "Mostra o espectros de emissão e de absorção da luz para vários elementos.",
+  "url": "https://foothillastrosims.github.io/Spectroscopy-Demonstrator/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "f2849a80d7fd301847a8ce68677114a0"
+ },
+ {
+  "name": "Construtor de espectro",
+  "descript": "Duas visualizações de um espectro - a visão “a olho nu‟ através de uma rede de difração e um gráfico de espectro (como em um espectrômetro). Também ilustra a cor resultante, mostra tambem o deslocamento Doppler.",
+  "url": "https://foothillastrosims.github.io/Spectrum-Constructor/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "1267e1abf6cdafa0890aff4008595531"
+ },
+ {
+  "name": "Explorador de Espectro",
+  "descript": "Gerar uma variedade de espectros de luz (continuo, de absorção e de emissão), dependendo de fatores como tipo de fonte, classe de luminosidade, tipo espectral e elementos selecionados individualmente.",
+  "url": "https://foothillastrosims.github.io/SpectrumExplorer/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "8c09e35576277fb9463d29e7a4d8229f"
+ },
+ {
+  "name": "Átomo de hidrogênio",
+  "descript": "Modela as interações da luz com um átomo de hidrogênio. Um átomo absorverá luz cuja energia corresponde à diferença entre a energia atual do elétron e a energia de um nível superior. Um elétron que está em um nível de energia mais alto irá desexcitar, caindo para um nível mais baixo e liberando um fóton cuja energia corresponde à diferença.",
+  "url": "https://foothillastrosims.github.io/hydrogen-atom-alpha/",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=da908e53-133d-4cc7-b4c9-5703d869e803.gif",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Física",
+   "Gráfico",
+   "Nuclear",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "6b1b5d45168382c4c2c10fa8a836720e"
+ },
+ {
+  "name": "Deslocamento Dopller",
+  "descript": "Demonstra como o movimento relativo entre uma fonte de onda e um observador afeta a forma como essas ondas são percebidas pelo observador comparando suas frequências e comprimentos, um fenômeno conhecido como deslocamento Doppler. Pode-se controlar a velocidade da fonte e do observador.",
+  "url": "https://foothillastrosims.github.io/alpha-doppler-shift/",
+  "thumb": "",
+  "categorys": [
+   "Acústica",
+   "Astronomia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "77463a7041fa55228f1243e6e5554688"
+ },
+ {
+  "name": "Simulador do Sistema Ptolomaico",
+  "descript": "Modela o movimento do Sol e dos planetas ao redor da Terra em um modelo ptolomaico simplificado do sistema solar, no qual a Terra está imóvel perto do centro. O Sol e os planetas circundam a Terra - movimento deferente - e em um loop menor chamado epiciclo. Mostra as posições em relação as constelações zodiacais para exemploficar os movimentos progressivo e retrógrado.",
+  "url": "https://foothill.edu/astronomy/astrosims/ptolemaic-system/index.html",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=bb7576db-4491-42ac-be7f-99dc4351ad99.gif",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geometria",
+   "Mecânica",
+   "Trigonometria"
+  ],
+  "author": "FoothillCollege",
+  "hash": "9a5ada45420f327170e55c8c2226afec"
+ },
+ {
+  "name": "Configurações planetárias copernicanas e posição zodiacal",
+  "descript": "Modela o movimento dos planetas ao redor do Sol em um modelo copernicano simplificado do sistema solar. Visualize a posição do sol nas constelações do zoadiaco e o movimento retrogrado dos planetas.",
+  "url": "https://foothillastrosims.github.io/planetary-config-react/",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=783ad97a-1766-435e-a7b8-a052c5eb32e2.gif",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geometria",
+   "Mecânica",
+   "Trigonometria"
+  ],
+  "author": "FoothillCollege",
+  "hash": "6dd10d7e726ca85492bda5d167c93acc"
+ },
+ {
+  "name": "Fases dos Planetas no Sistema Ptolomaico",
+  "descript": "Modela o movimento do Sol e dos planetas ao redor da Terra em um modelo ptolomaico simplificado do sistema solar. Visualize as fases (crescente, cheia, minguante e nova) e o movimento retrogrado dos planetas.",
+  "url": "https://foothillastrosims.github.io/ptolemaic-phases-sim/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geometria",
+   "Mecânica",
+   "Trigonometria"
+  ],
+  "author": "FoothillCollege",
+  "hash": "81e79ceef506fa94f583966c2b8defc2"
+ },
+ {
+  "name": "Fases do planeta no sistema copernicano",
+  "descript": "Modela o movimento dos planetas ao redor do Sol em um modelo copernicano simplificado do sistema solar. Visualize as fases (crescente, cheia, minguante e nova) e o movimento retrogrado dos planetas.",
+  "url": "https://foothillastrosims.github.io/alpha-venus-phase-sim/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geometria",
+   "Mecânica",
+   "Trigonometria"
+  ],
+  "author": "FoothillCollege",
+  "hash": "35da8c398283076b709576afc1fe3232"
+ },
+ {
+  "name": "Modificador de Espectro",
+  "descript": "Mostra o espctro do luz de uma estrela, com linhas de emissão e absorção, sendo desviado pelo efeito Dopller.",
+  "url": "https://foothillastrosims.github.io/Spectrum-Modifier/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "c3b37448348727d938002ef30ba4929d"
+ },
+ {
+  "name": "Estrutura Estelar",
+  "descript": "Compara as propriedades de estrelas, dependendo da massa, como o sol. Observe a cor, raio, luminosidade, densidade, energia e temperatura.",
+  "url": "https://foothillastrosims.github.io/stellar-structure/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Nuclear",
+   "Radiação",
+   "Termodinâmica",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "1e70f6c7afa9e82333d6431b2b3210c4"
+ },
+ {
+  "name": "Vida útil estelar",
+  "descript": "Simula o tempo de vida (sequência principal) de uma estrela em relação ao Sol em função da sua massa inicial ou luminosidade.",
+  "url": "https://foothillastrosims.github.io/stellar-lifespan/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Função",
+   "Física",
+   "Nuclear",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "fa0f0f4dbcd52053d3d4671767d39839"
+ },
+ {
+  "name": "Cefeidas - curva de luz",
+  "descript": "Variáveis Cefeidas (Cepheid) são estrelas váriaveis com intervalos de variação de brilho tamanho e temperatura muito bem definidos. São usadas para determinar distâncias de estrelas longínquas da nossa galáxia, e distâncias de outras galáxias. Nessa simulação podemos ver os gráficos de brilho, tamanho e Temperatura ao longo dos dias de observação.",
+  "url": "https://foothillastrosims.github.io/cepheid-lightcurve/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "214299c95f2786a8bd38ac32be5a2ff6"
+ },
+ {
+  "name": "Equação de Drake",
+  "descript": "A Equação de Drake é estima o número de civilizações extraterrestres ativas em nossa galáxia -Via Láctea- com as quais poderíamos ter chances de estabelecer comunicação. Nesta simulação podemos ajustar os parâmetros da equação e visualizar como fica a distribuição de civilizações na galáxia.",
+  "url": "https://foothillastrosims.github.io/Drake-equation/",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Biologia",
+   "Estatística",
+   "Evolução natural",
+   "Física",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "92da0119d9e82f5392c229750c121e77"
+ },
+ {
+  "name": "Colonização vs. Catástrofes",
+  "descript": "Simula a distribuição de planetas com vida e com civilizações ao longo do tempo em uma parte de uma galáxia. O modelo é baseado na Equação de Drake que estima o número de civilizações extraterrestres ativas. Pode-se ajustar os parâmetros da equação.",
+  "url": "http://netlogoweb.org/web?https://foothill.edu/astronomy/astrosims/space-colonization.nlogo",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Biologia",
+   "Estatística",
+   "Evolução natural",
+   "Física",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "4d0782a2f28f3b5c9f2e4e376d3b7921"
+ },
+ {
+  "name": "Cronogramas Planetários - vida de civilizações",
+  "descript": "Simula o tempo que planetas hospedam vida e civilizações em uma galáxia. O modelo é baseado na Equação de Drake que estima o número de civilizações extraterrestres ativas. Pode-se ajustar os parâmetros da equação.",
+  "url": "http://netlogoweb.org/web?https://foothill.edu/astronomy/astrosims/planet-timelines.nlogo",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Biologia",
+   "Estatística",
+   "Evolução natural",
+   "Física",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "12f7a247be88ffb4e211d2bd681d1d13"
+ },
+ {
+  "name": "Densidade da matéria escura e velocidades orbitais estelares",
+  "descript": "Simula órbitas de estrelas em diversos raios em volta do centro da galáxia mostrando o efeito da materia escura. Ajuste a densidade de matéria escura para mudar o movimento.",
+  "url": "https://foothillastrosims.github.io/dark-matter/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Densidade",
+   "Força",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico"
+  ],
+  "author": "FoothillCollege",
+  "hash": "9753096a949c2fd2a81cdf10f3bb83eb"
+ },
+ {
+  "name": "Matéria escura e orbitais circulares",
+  "descript": "Simula órbitas de estrelas em diversos raios em volta do centro da galáxia mostrando o efeito da materia escura. Ajuste a densidade de matéria escura para mudar o movimento.",
+  "url": "https://foothill.edu/astronomy/astrosims/darkmatter-v1/Dark_Matter_Simulation.xhtml",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=0b52c414-b9f6-4b6f-9b70-29d94dace803.gif",
+  "categorys": [
+   "Astronomia",
+   "Densidade",
+   "Força",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico"
+  ],
+  "author": "FoothillCollege",
+  "hash": "5b558070e272c165234f51bb2a7e187e"
+ },
+ {
+  "name": "Lente Gravitacional",
+  "descript": "Ilustra os efeitos das lentes gravitacionais ao alterar o caminho da luz de uma galáxia distante, variando a massa e a localização de um aglomerado de galáxias intermediário. Crie cluster (aglomerado) de galáxias entre a galáxia distante e a Terra. Alterar a distância da Terra e a massa do aglomerado para modelae os caminhos seguidos por dois feixes de luz que passam perto de um objeto massivo ao longo do caminho.",
+  "url": "https://foothillastrosims.github.io/gravitational-lensing/",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=c20316e1-7f95-4753-999e-1d914d0f0aec.jpg",
+  "categorys": [
+   "Astronomia",
+   "Densidade",
+   "Física",
+   "Gravitação",
+   "Gráfico",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "af9ceff46c741b0ccaf93993cd00e528"
+ },
+ {
+  "name": "Distâncias cosmológicas e redshift",
+  "descript": "Modela a viagem de um fóton de luz de 400 nanômetros em um universo em expansão, de uma fonte distânte a um observador, bem como o desvio para o vermelho da luz observe a separação entre a fonte e o observador, a distância do fóton ao observador e a distância total percorrida pelo fóton em um determinado momento.",
+  "url": "https://foothillastrosims.github.io/cosmological-redshift/",
+  "thumb": "https://aas236-aas.ipostersessions.com/GetFile.ashx?file=7bab451d-a69b-4cfb-b19a-390e2578febd.gif",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Energia",
+   "Física",
+   "Gravitação",
+   "Matemática",
+   "Mecânica",
+   "Relatividade",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "1925df713cf41c7b2bd0133c65873b58"
+ },
+ {
+  "name": "A hipótese da astrologia - a história dos signos solares",
+  "descript": "Simula um universo em que o signo solar de uma pessoa afeta suas chances de se tornar presidente, em maior ou menor grau.",
+  "url": "https://netlogoweb.org/web?https://foothill.edu/astronomy/astrosims/astrology-one-universe.nlogo",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Estatística",
+   "Física",
+   "Probabilidade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "374a29af7ae20e2e9b971e2deb59c364"
+ },
+ {
+  "name": "Observando o passado",
+  "descript": "Simula, numa linha do tempo, a observação de uma supernova, mostrando que quanto mais distânte está um evento astrônomico mais no passado ele ocorreu. Outra versão pode ser acessada em https://astro.unl.edu/mobile/lookback-time-simulator/index.html",
+  "url": "https://foothillastrosims.github.io/lookback-sim/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Física",
+   "Radiação",
+   "Relatividade",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "9028145de778b6ce2560a8147fe66a71"
+ },
+ {
+  "name": "Explorando o Diagrama Hertzsprung-Russell",
+  "descript": "O diagrama de Hertzsprung-Russell é um gráfico de distribuição que mostra a relação entre a magnitude absoluta ou luminosidade versus o tipo espectral ou classificação estelar e a temperatura efetiva. Essa simulação mostra as propriedades das estrelas em comparação com o Sol para qualquer ponto do diagrama HR",
+  "url": "http://astronomy.nmsu.edu/geas/labs/hrde/hrd_explorer.html",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico",
+   "Nuclear",
+   "Radiação",
+   "Termodinâmica",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "04ae4c4832ffd84db3a0a1b99fc16ae1"
+ },
+ {
+  "name": "Simulador galáctico de redshift.",
+  "descript": "Compara os gráficos de observação de espectro da luz com e sem efeito de redshift para diversas galáxias reais. Veja a correlação e encontre a velocidade relativa.",
+  "url": "http://astronomy.nmsu.edu/geas/labs/galaxy/html5/gal_spectra.html",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Cinemática",
+   "Energia",
+   "Física",
+   "Gravitação",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Relatividade",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "125d67d2973fa6371a1ef07dfb3603bb"
+ },
+ {
+  "name": "Curva de rotação de galáxias",
+  "descript": "Mostra um gráfico com a velocidade de rotação em função do raio, comparando o valor teórico com o observado. Ajuste a densidade de estrela e o raio do Halo e do disco galático para obter a melhor curva.",
+  "url": "https://pages.pomona.edu/~tmoore/RotCurve/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Densidade",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico"
+  ],
+  "author": "FoothillCollege",
+  "hash": "cd445d543e1c4883526fb7caa4665eb5"
+ },
+ {
+  "name": "Construtor de imagens astrônicas RGB",
+  "descript": "Constroi sobreposição de fotos astronômicas com base nos diversos filtros associados as cores RGB.",
+  "url": "https://heatherflew.github.io/ps1astroday/",
+  "thumb": "",
+  "categorys": [
+   "Aritmética",
+   "Astronomia",
+   "Física",
+   "Matemática",
+   "Química",
+   "Radiação",
+   "Termologia",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "fc28cfcce81f8ce6ba04b9bb11510dcd"
+ },
+ {
+  "name": "Raios Ópticos",
+  "descript": "Mostra trajetória de raios notáveis e outros raios de luz ao passar por diversos instrumentos óticos como lentes, espelhos, prismas e outros.",
+  "url": "https://ricktu288.github.io/ray-optics/simulator/",
+  "thumb": "",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Trigonometria",
+   "Óptica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "2804ca7fea570a21635210f7e361a821"
+ },
+ {
+  "name": "E se a Terra fosse Plana",
+  "descript": "Simula como seria o movimento aparente do Sol no céu da Terra Plana. Ajuste a posição (latitude e longitude) do observador, distância Terra-Sol e varios outros parâmetros.",
+  "url": "https://www.geogebra.org/m/C9BcVgd4",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Gravitação",
+   "Trigonometria"
+  ],
+  "author": "FoothillCollege",
+  "hash": "084f0fa268ef383bb99241e829c7ca13"
+ },
+ {
+  "name": "Star in a Box",
+  "descript": "Esrela numa Caixa permite-te explorar uma das mais enigmáticas ferramentas em Astronomia - o diagrama Hertzsprung-Russell. Dentro da caixa há uma estrela no inicio de sua vida, ajuste sua massa inicial em comparação com o Sol, os gráficos seguem o ciclo de vida da estrela. Veja a animação da estrela se movendo pelo diagrama e como a sua luminosidade, tamanho, temperatura à superfície e massa mudam ao longo do tempo até o fim da sua vida em uma nova ou supernova.",
+  "url": "https://starinabox.lco.global/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Densidade",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Gráfico",
+   "Radiação",
+   "Termodinâmica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "c1ca0d8fb3964ed99b69cb18a7376bc7"
+ },
+ {
+  "name": "ChromaStar",
+  "descript": "Um simulador de estrelas + zona habitável incrivelmente completo.",
+  "url": "http://www.ap.smu.ca/~ishort/OpenStars/ChromaStar/ChromaStar.html",
+  "thumb": "",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Biologia",
+   "Estatística",
+   "Física",
+   "Matemática",
+   "Números",
+   "Probabilidade",
+   "Química",
+   "Radiação",
+   "Termodinâmica"
+  ],
+  "author": "FoothillCollege",
+  "hash": "2887ab5c0db2647185927d46a801f722"
+ },
+ {
+  "name": "Colisão Planetária",
+  "descript": "Aprenda mais sobre configurações reais e hipotéticas de exoplanetas e tente construir seu próprio sistema estável! Sobreviva 1000 anos e vença o jogo.",
+  "url": "http://www.stefanom.org/spc/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gravitação",
+   "Jogo",
+   "Mecânica",
+   "Momentum"
+  ],
+  "author": "FoothillCollege",
+  "hash": "3e428a4ec67122f71f79d9845c92a6f7"
+ },
+ {
+  "name": "Simulador climático planetário",
+  "descript": "Ajuste os parâmetros de um planeta e obtenha um mapa climático de sua superfície.",
+  "url": "https://data.giss.nasa.gov/rocke3d/maps/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "be73d9d13106569eaffce98865167203"
+ },
+ {
+  "name": "Simulador climático planetário",
+  "descript": "Crie um planeta semelhante a Terra, tente faze-lo habitável. Ajuste a fração da superficie continental, a taxa de vulcanismo, o tipo de estrela que orbita e a distância à estrela para observar como será o clima.",
+  "url": "http://earthlike.world/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Jogo",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "d020d19b6828ff50063a197bdfb80887"
+ },
+ {
+  "name": "Explorador de cenários de mudanças climáticas",
+  "descript": "Uma ferramenta rápida e poderosa para compreender como podemos atingir nossos objetivos climáticos por meio de mudanças na energia, uso da terra, consumo, agricultura e outras políticas. O simulador concentra-se em como as mudanças no PIB global, na eficiência energética, na inovação tecnológica e no preço do carbono influenciam as emissões de carbono, a temperatura global e outros fatores. Permitem que as pessoas explorem os impactos climáticos a longo prazo das políticas globais e das decisões de investimento.",
+  "url": "https://en-roads.climateinteractive.org/scenario.html",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Biologia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Jogo",
+   "Química",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "12a7353ffc236caf3502d5c37d4dcd85"
+ },
+ {
+  "name": "Gerador de Espectro Planetário - PSG",
+  "descript": "Conjunto de modelos de transferência radiativa para sintetizar e recuperar espectros planetários (atmosferas e superfícies) para uma ampla gama de comprimentos de onda. Permite sintetizar/recuperar dados de espectrometria de massa de orbitadores, módulos de aterrissagem e instrumentação de laboratório. Combina modelos de transferência radiativa, dados espectroscópicos e dados planetárias (climatológicos e orbitais).",
+  "url": "https://psg.gsfc.nasa.gov/index.php",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Biologia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Jogo",
+   "Química",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "410656576d59cab2c94b29a97af05166"
+ },
+ {
+  "name": "Efeitos de impacto na Terra - versão mapa de danos",
+  "descript": "Um site interativo e fácil de usar para estimar as consequências ambientais regionais de um impacto na Terra. Este programa estimará a distribuição do material ejetado, o tremor do solo, a onda de choque atmosférica e os efeitos térmicos de um impacto, bem como o tamanho da cratera produzida.",
+  "url": "https://impact.ese.ic.ac.uk/ImpactEarth/ImpactEffectsMap/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Biologia",
+   "Clima",
+   "Energia",
+   "Estatística",
+   "Força",
+   "Física",
+   "Geografia",
+   "Jogo",
+   "Mecânica",
+   "Momentum",
+   "Química",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "a67fbd65a4869010b137fbbc5e4f0507"
+ },
+ {
+  "name": "Efeitos de impacto na Terra - versão texto :)",
+  "descript": "Um site interativo e fácil de usar para estimar as consequências ambientais regionais de um impacto na Terra. Este programa estimará a distribuição do material ejetado, o tremor do solo, a onda de choque atmosférica e os efeitos térmicos de um impacto, bem como o tamanho da cratera produzida.",
+  "url": "https://impact.ese.ic.ac.uk/ImpactEarth/ImpactEffects/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Biologia",
+   "Clima",
+   "Energia",
+   "Estatística",
+   "Força",
+   "Física",
+   "Geografia",
+   "Jogo",
+   "Mecânica",
+   "Momentum",
+   "Química",
+   "Termologia"
+  ],
+  "author": "FoothillCollege",
+  "hash": "e7b9f6f6ba84579f55632ecbfab92a3a"
+ },
+ {
+  "name": "órbita em um espaço-tempo fortemente curvado",
+  "descript": "Mostra, a partir de três perspectivas físicas diferentes, a órbita de uma partícula de teste de baixa massa , o pequeno círculo vermelho, em torno de um buraco negro não giratório. As leis do movimento planetário de Kepler e a teoria da gravidade de Newton, afirmam que a órbita é uma elipse mas quando os campos gravitacionais são fortes, como é o caso de objetos colapsados ​​como estrelas de nêutrons e buracos negros os cálculos devem ser feitos usando a teoria da Relatividade Geral de Einstein.",
+  "url": "https://www.fourmilab.ch/gravitation/orbits/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Força",
+   "Física",
+   "Gravitação",
+   "Mecânica",
+   "Relatividade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "89bde06c91bd488bbabcbfedb3cdde97"
+ },
+ {
+  "name": "VIGOR - Interação Virtual com Ondas Gravitacionais para Observar a Relatividade",
+  "descript": "Uma simulação em tempo real de buracos negros binários e ondas gravitacionais criadas na UTD.",
+  "url": "https://vigor.utdallas.edu/",
+  "thumb": "",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Energia",
+   "Força",
+   "Física",
+   "Gravitação",
+   "Mecânica",
+   "Momentum",
+   "Ondas",
+   "Oscilações",
+   "Relatividade"
+  ],
+  "author": "FoothillCollege",
+  "hash": "8e2233c49fd4691d7353944a762495d0"
  }
 ]
