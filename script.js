@@ -31,6 +31,7 @@ const btmessage = document.getElementById('btmessage');
 const spanmessage = document.getElementById('spanmessage');
 const h1message = document.getElementById('h1message');
 const clearFilters = document.getElementById('clearFilters');
+const urlsearch = document.getElementById('urlsearch');
 const categorias = {};
 const categoriasnome = [];
 const autores = {};
@@ -270,6 +271,7 @@ fetch(urlsimuls)
     opemwindowhash(querys.hash);
     simulist = data;
     nimages.max = data.length;
+    findurlquerys();
     aplicfilters();
   })
   .catch(error => {
@@ -380,15 +382,19 @@ fetch(urlarticles)
   });
 
 function aplicfilters(){
-  const filt = {
-    "category":filterCat.value,
-    "author":filterAut.value
-  }
+  const filt = {};
+  if (filterCat.value!='all') filt.category = filterCat.value;
+  if (filterAut.value!='all') filt.author = filterAut.value;
   if (wordsearche.value) filt.wordkey = wordsearche.value;
   listSimuls(simulist,filt);
   const querystrigsearch = '?'+Object.keys(filt).map(function(key){
-    return encodeURIComponent(key)+'='+encodeURIComponent(filt[key]);
+    if (encodeURIComponent(filt[key])!='all'&&encodeURIComponent(filt[key])!=''){
+      return encodeURIComponent(key)+'='+encodeURIComponent(filt[key]);
+    }else{
+      return false;
+    }
   }).join('&');
+  urlsearch.innerHTML = "URL da busca: "+window.location.host +'/'+ querystrigsearch
   console.log(querystrigsearch);
 }
 filterCat.addEventListener('change',aplicfilters);
