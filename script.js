@@ -394,7 +394,7 @@ function aplicfilters(){
       return false;
     }
   }).join('&');
-  urlsearch.innerHTML = "URL da busca: "+window.location.host +'/'+ querystrigsearch
+  urlsearch.innerHTML = "URL da busca: "+window.location.host +'/'+ querystrigsearch;
   console.log(querystrigsearch);
 }
 filterCat.addEventListener('change',aplicfilters);
@@ -406,5 +406,6 @@ clearFilters.addEventListener('click',function(){
   filterCat.selectedIndex = 0;
   filterAut.selectedIndex = 0;
   wordsearche.value = '';
+  urlsearch.innerHTML = '';
   listSimuls(simulist);
 })
