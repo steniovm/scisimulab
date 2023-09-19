@@ -142,7 +142,7 @@ function showsliderers(){
   },5900);
 }
 //abre simulação via url query
-querys.hash = urlParams.get('simu');
+if (urlParams.get('simu')) querys.hash = urlParams.get('simu');
 function opemwindowhash(hash){
   if (hashlist[hash]){
     let url = hashlist[hash];
@@ -151,6 +151,26 @@ function opemwindowhash(hash){
 }
 function opemwindow(url){
   window.open(url, "scisimulabWindow", "popup");
+}
+//busca via url query
+findurlquerys();
+function findurlquerys(){
+  let search = {};
+  if(urlParams.get('category')){
+    search.category = urlParams.get('category');
+    filterCat.value = search.category;
+  }
+  if(urlParams.get('author')){
+    search.author = urlParams.get('author');
+    filterAut.value = search.author;
+  }
+  if(urlParams.get('wordkey')){
+    search.wordkey = urlParams.get('wordkey');
+    wordsearche.value = search.wordkey;
+  }
+  if(Object.keys(search).length){
+    querys.search = search;
+  }
 }
 
 //alterna modo claro e escuro
@@ -239,7 +259,7 @@ fetch(urlsimuls)
     categoriasnome.sort();
     categoriasnome.forEach(categ => {
       let selected = "";
-      if (categ === initcategory) selected = "selected";
+      if (categ === initcategory && !querys.search) selected = "selected";
       filterCat.innerHTML += `<option id="${categ}" value="${categ}" ${selected}>${categ} (${cats[categ]})</option>`;
     });
     filterAut.innerHTML = `<option id="allAut" value="all">Todos (${data.length})</option>`;
@@ -362,10 +382,14 @@ fetch(urlarticles)
 function aplicfilters(){
   const filt = {
     "category":filterCat.value,
-    "author":filterAut.value,
-    "wordkey":wordsearche.value
+    "author":filterAut.value
   }
+  if (wordsearche.value) filt.wordkey = wordsearche.value;
   listSimuls(simulist,filt);
+  const querystrigsearch = '?'+Object.keys(filt).map(function(key){
+    return encodeURIComponent(key)+'='+encodeURIComponent(filt[key]);
+  }).join('&');
+  console.log(querystrigsearch);
 }
 filterCat.addEventListener('change',aplicfilters);
 filterAut.addEventListener('change',aplicfilters);
