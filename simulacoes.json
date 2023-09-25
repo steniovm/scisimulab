@@ -25203,17 +25203,6 @@
   "hash": "4175735d336d3ed0591de95ca48dca1a"
  },
  {
-  "name": "Anchor",
-  "descript": "The infinite scroll. It's dangerously easy to scroll mindlessly for hours, especially when it....  by  Brendan Browne-Adams, Lahari Goswami, Miki Chiu, Tayo Kopfer, Twomuch Studio ",
-  "url": "https://github.com/benjchan/Anchor",
-  "thumb": "https://lh3.googleusercontent.com/7sG9Pp9tbDnZ-roRu1ZjYTPvtdO-GQucieoSTf8olf7GytGeXnbTHVYPYvdTpSDJv1pGlQ9vu8vOMtQt0UXy93seN0g3Bg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "1541b614e3c1312effee404d20b22f61"
- },
- {
   "name": "My Storytime",
   "descript": "Helping families stay connected even when they're apart. Record stories from anywhere and play....  by  Instrument ",
   "url": "https://www.mystorytime.com/",
@@ -25487,17 +25476,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "27694f472b1c53d310fe091a747480d0"
- },
- {
-  "name": "Alphabets Got Talent",
-  "descript": "Using Morse Code, input a letter and receive a dancing animal with the same letter.  by  Center, Melville, Owen, Chaudhary ",
-  "url": "http://bit.ly/AlphabetsGotTalent",
-  "thumb": "https://lh3.googleusercontent.com/rOu0xyqPS42QQht7vAU2H0Skk5VYqG2HpHSa6vnGjjKvy0jn-DpiR3-VeX3Vik2u9AB8KBqcAwfMawJmq2rki4FkpTx1NYk",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "eda08b24b615151164984eb545af6b9b"
  },
  {
   "name": "Imaginary Soundscape",
@@ -25986,7 +25964,7 @@
  {
   "name": "Access Mars",
   "descript": "The real surface of Mars. Photographed by the Curiosity Rover. Used by NASA JPL scientists. Now....  by  Google Creative Lab + NASA JPL ",
-  "url": "http://accessmars.withgoogle.com/",
+  "url": "https://accessmars.withgoogle.com/",
   "thumb": "https://lh3.googleusercontent.com/MpcQ-VkmQ_t8b5NvcR8v-8o8oGeaIhZTrIC5i_G0RzIYnA_SCTd-z-Tm4xwDxX-qg8HW-AMNXLtluqWXUmx8OJ5lSyhCYf4",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -26303,17 +26281,6 @@
   "hash": "2b443730b9eb22cc0efe7d25eaf6e8a3"
  },
  {
-  "name": "Animal Detection Device",
-  "descript": "A machine learning & AndroidThings powered device to detect animals in the wild..  by  Paul A Trebilcox-Ruiz ",
-  "url": "https://www.youtube.com/watch?v=mqHW1Rxtu8E",
-  "thumb": "https://lh3.googleusercontent.com/tOaMouA9X9ClXyKjjWIbBD_0uz_6dBmaoUx_JcYrDvXSMH8PjeSas97yWy0cTDNKA9uoS9Gmc3GG1Qvz0PwCS_qrQta0Kyw1",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "30548b2b9ec7f4cce5fab3e3f0dba2f1"
- },
- {
   "name": "Home Screen Arcade",
   "descript": "A game platform that runs entirely on the home screen of your Android device..  by  Sterling Udell ",
   "url": "https://github.com/StringMon/homescreenarcade",
@@ -26589,17 +26556,6 @@
   "hash": "93d8afab4010b7ae368dab7e9042d2c0"
  },
  {
-  "name": "Android 3D Mouse",
-  "descript": "Turn an Android device into a wireless virtual 3d mouse!.  by  Pedro S. ",
-  "url": "https://www.youtube.com/watch?v=0j87vnCestY",
-  "thumb": "https://lh3.googleusercontent.com/xKVyVfFrnW_-_Y2uh_aKa-yudEQnSgeXnzfuHJXUlPrMwpEeeopxZzvb_pxVFIXyzRUSIqq8z3y7pN4Xkod_E9Mi2at0s5qS",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3c1d06f37365e201e84153f18780c409"
- },
- {
   "name": "Solace: An Interactive Film",
   "descript": "Solace is an interactive animated film based on celebrated science fiction writer Jeff Noon’s....  by  Evan Boehm &amp; Nexus Studios ",
   "url": "http://www.rememberspook.com/",
@@ -26818,17 +26774,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "700cd8254365a059d51ed67847ff865b"
- },
- {
-  "name": "A more better life",
-  "descript": "An interactive film that uses face-recognition technology and music from Young Empires. In order....  by  Thibaut Duverneix ",
-  "url": "https://amorebetterlife.com/",
-  "thumb": "https://lh3.googleusercontent.com/j52X63WPN-_5ID8Opc9fgmn-WQs3Gnnsx9r1G65vFS7q7oHC9AAoVc9itllWUANGzWn47Ki_w6FEiTNdoDMTeXDYSPy5RnrqpC8",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "30e4431aba75e2d9d86a8bc6312f0724"
  },
  {
   "name": "GPU Asteroids",
@@ -27062,17 +27007,6 @@
   "hash": "afa1f65cabc105358c3f92c2c033d16b"
  },
  {
-  "name": "Alice, AI that reads emotion from drawings",
-  "descript": "Alice is an interactive artificial intelligence that read emotion from your drawing. Draw any....  by  Jae Hyun Yoo ",
-  "url": "http://www.enteractive.space/alice/",
-  "thumb": "https://lh3.googleusercontent.com/BYxw06BnKF8GPcnBK483_qYnJedqWCKPsuCbmFiKYLLXJQ88ezPVYmt55waXCWPMXuUuuwcnclnsIIkicnToOih5TMRcyJdo8sB6",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "6720a142e1184115f816beec95b4aa99"
- },
- {
   "name": "MOD Synth",
   "descript": "MOD Synth lets you create your own modular synthesizer, or emulate different synths by simply....  by  Andre Venancio &amp; Janos Koos ",
   "url": "http://mod-synth.io/",
@@ -27104,17 +27038,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "8804bd5a1256e4bec77aa72531023688"
- },
- {
-  "name": "Arkade London / Audio Reactive Art",
-  "descript": "Arkade London is a purely personal and experimental webVJ fan art. It gives users some graphic....  by  samuel honigstein ",
-  "url": "http://arkade.london/",
-  "thumb": "https://lh3.googleusercontent.com/xTnx81Y0kNYT4nJFf6B805b73FgqZzMlrUTYG-TfhzuuvsY0SbU0JbAg_t14TuT8eBtQtEhn1UoTKsa7_G292AUicVHjefK7In9Phg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8b29670e669fc52343dd277105fe9567"
  },
  {
   "name": "Groove Pizza",
@@ -27326,31 +27249,9 @@
   "hash": "56fdfc51709a250d129c5ac5d4dea12e"
  },
  {
-  "name": "Autonomous Android Vehicle",
-  "descript": "2016 Android Experiments I/O Challenge Winner!.  by  Al Bencomo ",
-  "url": "https://www.youtube.com/watch?v=ihmyHNJodvQ",
-  "thumb": "https://lh3.googleusercontent.com/b9dktxfOdDjyujabm91hkC4CRz26fX0udxcbcfyQlXUFZNLV-U6b_BYIFcn0IkwKZUuOdr35OBE-MiGZlWmM2zxOoyhhwyOZ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4d15df84f559316e1e6574e00ca5b929"
- },
- {
-  "name": "Increasing Motorcycle Safety",
-  "descript": "A custom hardware integration for motorcycles..  by  Keith Conger ",
-  "url": "https://www.youtube.com/watch?v=76v-a6LSfiw",
-  "thumb": "https://lh3.googleusercontent.com/lA3WxHnlTS0ArVORN6H7Y9iz950R43kZByPW86QP5MwqKP94_3kEQZBm7l4j_UZ5q32MDX7J4U4sM0k0Uy_reAop1N5_yL5_HA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3861667520e9e4d9fe27205d63c16fce"
- },
- {
   "name": "Eye drop",
   "descript": "Reactive digital \"liquid\".  by  Stella Speziali &amp; Charlotte Broccard &amp; Romain Cazier ",
-  "url": "https://www.youtube.com/watch?v=SJCD5oIQjRQ",
+  "url": "https://stellaspeziali.ch/projects/altered_perceptions/index.html",
   "thumb": "https://lh3.googleusercontent.com/kO6qBZyV_TA2uOvhD-YxnKJwG6Yq0L1OtMBqwzgzoEBZCUrRDggUcLIak5Iw0TSaqBpRyjMGi-pa_HHmfqoowjqisR9VXAOR",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -29306,17 +29207,6 @@
   "hash": "1a50f9bdc8685163480d7e00237a0d4f"
  },
  {
-  "name": "ABGo! Create",
-  "descript": "ABGo! Create is a mini racing game editor where players build their own racing games and share....  by  Goo Technologies ",
-  "url": "http://mini-stage.gooengine.com/",
-  "thumb": "https://lh6.ggpht.com/ThiUn1R7LRcO5h6MzltyaN_lnuy2Dr2yNbJIS0Lpve1lyCygkrEHuIKpXJ8JDoTiTPLuR8cd_u52uKFglf2x5PgiK17GvH3zymP0",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e4578dda42b6b09d48a2e20939d9d7db"
- },
- {
   "name": "Inspirograph",
   "descript": "A digital replica of the classic Spirograph toy. Written in TypeScript, using D3.js..  by  Nathan Friend ",
   "url": "http://nathanfriend.com/inspirograph/",
@@ -30228,17 +30118,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "263f715db004476d68fb2f54417b1e0e"
- },
- {
-  "name": "AlphaTank",
-  "descript": "AlphaTank is a multiplayer top-down battle arena featuring a 2D physics engine. Grab power ups....  by  Assembly ",
-  "url": "http://alphatankgame.com/",
-  "thumb": "https://lh3.ggpht.com/r9rudAUsYRhJYpvZxwwuxJxjOF_HgHqNd05Iz8KiRkohoyLqbJ2vRhCdVr2tFilu3C3GbXs2zjD7-6gmXzOQ38B55sq5oqUfob80",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "2b43846910900b1edde3ff1fa50d6e7d"
  },
  {
   "name": "Connect 4 Baviux",
@@ -32859,17 +32738,6 @@
   "hash": "a09006c0564dce540358e6044eff251b"
  },
  {
-  "name": "ALB - Golden Chains",
-  "descript": "Pushing the browsers video-playback capabilities, this experience lets you interact with the....  by  ACNE Production ",
-  "url": "http://albgoldenchains.com/",
-  "thumb": "https://lh4.ggpht.com/osqN_uIeM6ajs3Ia-FLfENHJdHgYJ1DtE6yD8wzn_bTnVlRFCZrI8lA44CViYjnDNyYmVBvzZLTIzxACrrDTHh5HovMokpgdSFsBeQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "60865270a585e79d302605849cb64820"
- },
- {
   "name": "Lalo.li Short Voice Message Service",
   "descript": "Lalo.li is 100% client side short voice message service. Basically it transforms a given text....  by  Franz Enzenhofer ",
   "url": "http://lalo.li/#DcpBCsIwEAXQq4S/cRNCFYqQrXiQ0AwmYjrDZGor0ru328f7w2gzRDyKciP33IS0NpqthxDczOZ+vKhrbIX00t07fVOftIoFeKQmn2pLJsTrMHisrPmVBPHmIdWmgjie3IUon+U+7gc=8",
@@ -33486,17 +33354,6 @@
   "hash": "8f5ec8ce320a9692af34b80e53606644"
  },
  {
-  "name": "A Holiday Message",
-  "descript": "It's a Holiday Message, made with lots of HTML5 and love. You can change the text and the....  by  Jaume Sanchez ",
-  "url": "http://www.itsamessage.com/holiday2011/",
-  "thumb": "https://lh5.ggpht.com/v8n6AaOQlneQKvNJeMbf0tN3lHyh7I1cCSk94KH4gLou_ImgOgTFgin7HXJ3HyI1wew1XJzsnRBYiRJLpNml51UcMkdTm4bRTIIE9Q",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3c8c1296d7682562f562ce149db68589"
- },
- {
   "name": "Graph Drawer",
   "descript": "Graph Drawer is a tool for visualizing mathematical graphs in 2D and 3D..  by  Ivan Kuckir ",
   "url": "http://g.ivank.net/",
@@ -33715,17 +33572,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "059d2bf7429921464bd9022cff532170"
- },
- {
-  "name": "Arabesque",
-  "descript": "A particle experiment using a mixture of WebGL, real time audio analysis and colours..  by  Joshua Koo ",
-  "url": "http://jabtunes.com/labs/arabesque",
-  "thumb": "https://lh5.ggpht.com/37DNjPIY3_kSkJRhuy7h1lIsFgy9Vjyjon99cwFa59-ujp5uck1XhMC2uT7jnQFd1VACHpEUHRjS4dAfE-U260UKfamDqXt4eiaFUw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ffc3c325435ebb16dbda17fa2f47693c"
  },
  {
   "name": "Red Shooting Hood",
@@ -33968,17 +33814,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "60fde9f92b7e75aa01b5a9b791ea9787"
- },
- {
-  "name": "Alex the Allegator 4",
-  "descript": "An HTML5 remake of the Alex 4 game, a 2D platformer originally created by Johan Peitz from Free....  by  Olivier Biot ",
-  "url": "http://alex4.tapjs.com/",
-  "thumb": "https://lh5.ggpht.com/x4t46oRrCUq9brQfx4BKx2axISpfxPVPNQA5DiS6uvVTd-EE3lMjidgC851sLidAXrts7YlWHr3QnYLrtscsGGejlWpxTMcM_dLZ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "12a79099e94bb24d45a79637016eca77"
  },
  {
   "name": "Background Generator",
@@ -35750,16 +35585,5 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "40cccb0096be57c64c1e1a0d6ebb2069"
- },
- {
-  "name": "BallDroppings",
-  "descript": "BallDroppings has already been implemented in other languages, you can download it for Mac or....  by  Josh Nimoy ",
-  "url": "http://balldroppings.com/js",
-  "thumb": "https://lh6.ggpht.com/hvQ6KVXAwuw9vxQ64qav3j9jXxzQ030crGZ-ULshLuuN_KtVRYgWwG8hsoUblYUX2u5wmCB3WLqT3DasA1DElDVt8UYOeuUy-gY",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8304c6c7144c20ed967d4462b98e5486"
  }
 ]
