@@ -227,6 +227,11 @@
       "text":" FoothillCollege. O projeto Foothill Astrosims visa apoiar a educação em astronomia através de atualização de simulações educacionais existentes na web em Flash para Javascript, desenvolvivento de novas simulações para abordar tópicos ainda não encontrados e curadoria de simulações educacionais existentes acessíveis pelo navegado",
       "url": "https://foothill.edu/astronomy/astrosims.html",
       "thumb": "https://foothill.edu/favicon.ico"
+    },
+    {
+      "text":"Experiments With Google. Desde 2009 programadores criam experimentos incríveis usando Chrome, Android, IA, AR e muito mais. O Google apresenta aqui projetos, ferramentas e recursos úteis para inspirar outras pessoas a criar novos experimentos criados por qualquer pessoa ao redor do mundo. Divirta-se.",
+      "url": "https://experiments.withgoogle.com/experiments",
+      "thumb": "https://www.gstatic.com/search-labs/favicon/v2-favicon.ico"
     }
   ]
 }
