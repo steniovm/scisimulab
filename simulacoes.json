@@ -25830,7 +25830,7 @@
   "hash": "4b26444c744945df9c12150f748c7484"
  },
  {
-  "name": "glitch",
+  "name": "Glitch",
   "descript": "A study of glitch effects.  by  yoichi kobayashi ",
   "url": "http://ykob.github.io/sketch-threejs/sketch/glitch.html",
   "thumb": "https://lh3.googleusercontent.com/rnMaxBx8-teVJk3-7hjO6Z9djU8bqHtuZadgEOVlN3erK0AP9Vf61lJ_oglD0lzHrUQce0-LShyVHMANINEeg0J6BEYYyQ",
@@ -30824,17 +30824,6 @@
   "hash": "0f53540ba0382feb6117bff00a3fb50c"
  },
  {
-  "name": "GeoGuessr",
-  "descript": "Built as an experiment to investigate the possibilities that the Google Maps API v3 offers and....  by  Anton Wallén ",
-  "url": "http://www.geoguessr.com/",
-  "thumb": "https://lh6.ggpht.com/abXDhen5KcblESU9g6Q7UrrZGian9_O-rjnsXXTNXBdn00FOLX0pn0AiMPy0X7Bo7LxHxCsvFOQ4k2hZkr_Vllr26mqeON8HR6s9Pw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "60cd42f88874d843d0a3f3f27017a194"
- },
- {
   "name": "Project Windstorm",
   "descript": "A learning project. This demo actually consists of two parts: a terrain engine and a WebGL GUI.....  by  ZephyrosAnemos ",
   "url": "http://www.zephyrosanemos.com/windstorm/current/live-demo.html",
@@ -31748,7 +31737,7 @@
   "hash": "265a2196215acd8ac57dbee7ec5c6fa2"
  },
  {
-  "name": "fontBomb",
+  "name": "FontBomb",
   "descript": "A real HTML5 bomb, powerful enough to destroy the web!.  by  Philippe-Antoin Lehoux ",
   "url": "http://fontbomb.ilex.ca/",
   "thumb": "https://lh3.ggpht.com/_3PWp34TfdlJOFng7msEzmEWzV2kDcFfsVTckdtFHi5AlyNjMgFOvtFRKsJQU1o8sw9t_6KlJEcUStToeH4-5bhMKQS0UZ0SEFds",
@@ -33264,17 +33253,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "7d392a06e32641e63a46cc0239a590f5"
- },
- {
-  "name": "Geoid Viewer",
-  "descript": "A visualizer of the geoid computed from GOCE satellite data..  by  Andrea Gatti ",
-  "url": "http://geomatica.como.polimi.it/elab/geoid/geoidViewer.html",
-  "thumb": "https://lh6.ggpht.com/FS6cNRlmXYwa_ufc3Qw7FW4elnhnw8pQcf0-_Rf0vAtkS_fdtKyQ3mWsLr55e1oS1y5miMCV2FVnPkDV9L10OhhvkVFIIrZ5dOtQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4810daef0ac0f5c5354ede859a4cdf69"
  },
  {
   "name": "Hair Simulation",
