@@ -26468,17 +26468,6 @@
   "hash": "700cd8254365a059d51ed67847ff865b"
  },
  {
-  "name": "GPU Asteroids",
-  "descript": "A GPGU-driven particle system visualization in WebVR.  by  Felix MArtinez ",
-  "url": "http://sirokos.com/GPUAsteroids",
-  "thumb": "https://lh3.googleusercontent.com/9llHydXFbCBCL_4hwxojHCUYdn9KxtzedouoFaoBSLo6OS-irLeRbRz9XXTY9D9aONJBHHcCr5lzZSrYFqk4goTFb_oZAtyBT_z8",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "7c2cc3aaaec1ae4214d1e1cb402c60f0"
- },
- {
   "name": "Differential growth",
   "descript": "Real-time visualization of differential growth applied to a linear model.  by  Adrian Toncean ",
   "url": "https://adrianton3.github.io/differential-growth/",
@@ -28294,17 +28283,6 @@
   "hash": "dbd8e84fba2fca9c4c99585c903edfdd"
  },
  {
-  "name": "Infinite Zoom",
-  "descript": "Infinitely zooming patterns..  by  Nikolaus Baumgarten ",
-  "url": "http://www.infinitezoom.net/",
-  "thumb": "https://lh5.ggpht.com/JdsYExcXNbbNyOhlG9SiTVkm5IHH1dhaz1TVyCO53yXz77XJhZP6DrkSSTac-ErlxMt_q8HsqowEBruolsW8WuMKzK5VAFukKef7",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d335ee3abd6a7baf4ed016524b0a8e6d"
- },
- {
   "name": "JamBells",
   "descript": "JamBells is a seasonal mobile web app that allows you to make a handbell choir with friends on....  by  Viget ",
   "url": "http://jambells.com/",
@@ -28833,17 +28811,6 @@
   "hash": "902b1b64691e880cfaf1e0943604eb93"
  },
  {
-  "name": "Painter Bot",
-  "descript": "Brushstroke painter effect generated mostly on the GPU. Takes any texture as input, an image,....  by  Rikard Herlitz ",
-  "url": "http://labs.gooengine.com/examples/painter/",
-  "thumb": "https://lh5.ggpht.com/Kc8-j0XX8CWUYO8W3gCmRTYbPaMKCddLGDh4ibUq9O6B9MSs9Yj802DeKkacFPgh9oeY7YIiZ5pn5Zq_YogM2P8iuTHCNr-5byY",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "983ddd47450cee18af23df3b391a0493"
- },
- {
   "name": "Fluid &amp; Particles in WebGL",
   "descript": "Naiver-Stokes fluid simulation with particles, written in Haxe. Pull the fluid by clicking and....  by  George Corney ",
   "url": "http://haxiomic.github.io/projects/webgl-fluid-and-particles/",
@@ -29216,17 +29183,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "691d2495c14dbe122400a14b30251cbb"
- },
- {
-  "name": "Gorescript",
-  "descript": "gorescript is a retro first-person shooter in the vein of old '90s classics like Doom and Duke....  by  timeinvariant ",
-  "url": "http://timeinvariant.github.io/gorescript/play",
-  "thumb": "https://lh4.ggpht.com/jDBfpkOcn4_j4HlcFoHI1_DTx94hEHN-j4Y64Ty1F-7cCjXGSvlmzGStGtnHZVAAbgBYgVkhennYKyOf5wsr4A10KSZh4nEU44Y",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "153c9b05f13cb4432e66f779d81a3e6d"
  },
  {
   "name": "PollySynth",
@@ -29689,17 +29645,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "71b18d166a561146e9ed9357b899a3b5"
- },
- {
-  "name": "Songs of Diridum",
-  "descript": "Experience true web hi-fi jazz in a 3D magic voxel world with WebGL and WebAudio. Use WASD or ....  by  Goo Technologies ",
-  "url": "http://labs.gooengine.com/mozlod/",
-  "thumb": "https://lh3.ggpht.com/iYC8X9SftBydQbRs9GNJIjTWN6RIzD7zV2fHGtmR4ziSzbnX8kGtiss9vFTwrEe1DwkHeBdH5KiBxUDBZaQxFFovGSwlRG5NoFM",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ee3e136cc064544b18c0bc8bb97aa648"
  },
  {
   "name": "Maximum Ammo",
@@ -30360,17 +30305,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "8eefd27ad180f58f467d16763239979e"
- },
- {
-  "name": "Goo Video Sphere",
-  "descript": "Interactive video stream navigation interface built on Goo Engine showcasing how to embed....  by  Goo Technologies ",
-  "url": "http://labs.gooengine.com/videosphere/",
-  "thumb": "https://lh4.ggpht.com/R7q0KuH6VmFPMh9BNHTgMOqWCHS98yGk_OcD4CoTp5CLnqE4VFURIRVT_dIU6e2tQaVJ9HL6JAcG3T_OTLVmPD61HvJrp54u4xZp",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "a63c3e9f59e4ff86a332894066349e61"
  },
  {
   "name": "Ghost Trees",
@@ -31251,17 +31185,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "d8910ab5bc95aa151062e962811b0bfa"
- },
- {
-  "name": "Godio's Journey",
-  "descript": "Godio’s journey is my Résumé (Curriculum Vitae) made as a HTML5/WebGL game. All the engine....  by  Steeven Plu ",
-  "url": "http://terra-ex-machina.com/blog/play-godio-journey/",
-  "thumb": "https://lh6.ggpht.com/RJXLlYYa_mFKW2gwuGACrfGkndL45qvtl5UKXeIjO2N_5ggOKX1i8Dyt7OVu3kh1QkDbmvp1d_Ym6shTfLxeDgRPalzKFOFZ8Xe2",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4eaabe43b86ce313c33f98d2b70999cb"
  },
  {
   "name": "Billy",
@@ -34265,17 +34188,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "301f80282fb3807aadef11d672a02842"
- },
- {
-  "name": "Google Sphere",
-  "descript": "Once again your beloved searcher gets hijacked. This time forming a sphere. Mouse over the page....  by  Mr.doob ",
-  "url": "http://mrdoob.com/projects/chromeexperiments/google_sphere/",
-  "thumb": "https://lh3.ggpht.com/vXAvlR63eGZq1Q_P9UVia86GdQy6yIONB5i4KcelbzR-uOF2KqHYPWskza_oH4AMTTwf4CcpsNOzQAkZKJRA5fxzwF4kGF-KHwpU",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "5c9b85dc34dc50d1fdd3269045946f84"
  },
  {
   "name": "World of Solitaire",
