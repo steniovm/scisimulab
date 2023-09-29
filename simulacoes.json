@@ -25665,7 +25665,7 @@
   "hash": "c611ceaf58ec12897cf48575f6b67d97"
  },
  {
-  "name": "t-SNE Map",
+  "name": "T-SNE Map",
   "descript": "Artworks mapped using Machine Learning..  by  Cyril Diagne, Nicolas Barradeau &amp; Simon Doury ",
   "url": "https://artsexperiments.withgoogle.com/tsnemap/",
   "thumb": "https://lh3.googleusercontent.com/qpey57QKSeRXH8saqGEZPxZBYqQdGouEtMKmgMSNBko2XYa2TI49MEJMRZg3xto_ce5E8vOQoVImFoxma3EW-_e42SBm",
@@ -26402,17 +26402,6 @@
   "hash": "e477bb660aa0e07451b4ef2a4ef9b537"
  },
  {
-  "name": "Hair",
-  "descript": "Hair is a WebGL experiment crafted by Edan Kwan at Kuva. It intensively uses GPGPU for most of....  by  Kuva ",
-  "url": "https://kuva.io/hair-simulation/",
-  "thumb": "https://lh3.googleusercontent.com/LkJM9ed-Wk3jJJd7u5sHDLQsm2683IEb5uL9qD17Nni-_UNS7niB3FTspa7dAHZ5X-R2WJPakC96yxgcbS2GrS7PqvfVS1SASnlh",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "366e5c1515fd59f7f65e899d467086b8"
- },
- {
   "name": "Twitter Matrix",
   "descript": "A real time feed of global twitter messages visualized as Matrix data rain..  by  Konard ",
   "url": "https://konard.github.io/twittermatrix/messages.html",
@@ -26677,7 +26666,7 @@
   "hash": "d14d2918f5f10afe492e46cdced75797"
  },
  {
-  "name": "roTopo",
+  "name": "RoTopo",
   "descript": "An addictive and challenging puzzle game in three dimensions..  by  Bark and Fester ",
   "url": "https://rotopo.com/",
   "thumb": "https://lh3.googleusercontent.com/EE_iUbqZE0H6nhqyAwoNZ5T9s0bc_aMX9-5srVSpmEn9leFXGUlYMP4o03cdeMqWDMVrfedWC4XKY8FUU515CyD7xMh0PsLwePyD",
@@ -27051,7 +27040,7 @@
   "hash": "4c18f7a8ec3f5c97f492190ad4c63d38"
  },
  {
-  "name": "voxel.css",
+  "name": "Voxel.css",
   "descript": "A 3D voxel JS library rendered entirely in CSS.  by  Hunter John Larco ",
   "url": "http://voxelcss.com/demo",
   "thumb": "https://lh3.googleusercontent.com/8_vfqpkMKs6vi2zaDRPCqvMZQmsGD3vSODYtlL8H69IoVpYaNalYls_121njtgPFEZpudVyjfyNKFpG-FAf8tXepz_Xvs1j3zw",
@@ -27458,19 +27447,8 @@
   "hash": "2e1f46369ac02e9338148215e6a5698f"
  },
  {
-  "name": "Gravitatio",
-  "descript": "Procedural 3D drawing sketch.  by  Alfredo Borboa ",
-  "url": "http://www.alfredoborboa.com/v2_1_gravitatio",
-  "thumb": "https://lh3.googleusercontent.com/FAJz8afgIsZM4TjPLjxz7lRjTES0118yMNmKbsAt_X8NIQdkc0rAq3-4x0E2EX1NcDbMk71VoBiDQ5tBiRgVdKkLzvoj3HPROVuweA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "5d642a3ecc8c21735248c738909aca2f"
- },
- {
   "name": "Arkadia",
-  "descript": "Infinitely zooming digital botanical painting..  by  Nikolaus Baumgarten and Sophia Schomberg ",
+  "descript": "Infinitely zooming digital botanical painting.  by  Nikolaus Baumgarten and Sophia Schomberg ",
   "url": "http://www.arkadia.xyz/",
   "thumb": "https://lh3.googleusercontent.com/1z4KIvDWw2XFB53Rt-fizSpoeRMYghpQLc9v7jWrXCZHKdOcgW-Unv59Q-snCzL9bqB0jeVafmpzGMKm99wgk5p8TjnT-CJNbgA",
   "categorys": [
@@ -27909,17 +27887,6 @@
   "hash": "11b7815d9f9d66b0f9b19e385ae12524"
  },
  {
-  "name": "him",
-  "descript": "This is an experiment inspired by Spike Jonze's movie Her. But instead of talking to an OS, here....  by  Bjorn Johansson ",
-  "url": "https://himthesite.com/",
-  "thumb": "https://lh6.ggpht.com/pox9CebisuI0vCbklVjmUaFNAoCVKomniSWoDvBoCstioJeYyDzRb3fqLSqMn1Y-FCIrQGqJmA5wXKZ4qacMKQkI9cQpF0Zkm50",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "899110542a13ac5497fdf0beff39bbfc"
- },
- {
   "name": "Hopf Fibrations",
   "descript": "Explore the shape of 4-dimensional objects by learning about the Hopf Fibrations.  by  Nicolas Belmonte ",
   "url": "http://philogb.github.io/page/hopf/",
@@ -27931,7 +27898,7 @@
   "hash": "ffbfe55646a9b603ef203429e87daa6c"
  },
  {
-  "name": "I N S P I R I T",
+  "name": "INSPIRIT",
   "descript": "An interactive VR experience about people and light. Optimized for Google Cardboard and with 3D....  by  Unboring ",
   "url": "http://inspirit.unboring.net/",
   "thumb": "https://lh5.ggpht.com/qcz6MR0RjpIO0MbsEwFo1QzRZkg9JRNHWYIN9DEl6bI8E9ifI8Hz9d-yiN2mPPFljhMd2EzL8-N2vwpJaFtg1oaJTB9KmYfYBp1w",
@@ -28226,17 +28193,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "09b3e32318ee930bd80a1d24448f67e9"
- },
- {
-  "name": "publishpage",
-  "descript": "publishpage creates instantly available web pages. Place text and images freely without template....  by  Bernhard Pauler ",
-  "url": "http://www.publishpage.com/",
-  "thumb": "https://lh3.ggpht.com/FTduxU64ggr1uKeEXebqdrfQjPWXyvlHdCklVtZAUzN4geaf_2ZTsqz06HDdeI6BaA4FQw14CBB83DxRGP3P5e3MPxbAAVzPDcMG",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d9df540fb4ab6737712f0fc30560ca11"
  },
  {
   "name": "Palette Swap",
@@ -28668,7 +28624,7 @@
   "hash": "3c0a0dac9990edd442827e4bc2d21fa2"
  },
  {
-  "name": "see hear party",
+  "name": "See Hear Party",
   "descript": "See Hear Party is a gif-based music visualizer (www.seehearparty.com). It pulls gifs from....  by  Peter Javidpour ",
   "url": "http://www.seehearparty.com/",
   "thumb": "https://lh4.ggpht.com/JJhAJAlvtTFHp0Edk5EB2qoefpV_6pH7j1xB5J_3ZOB_xdYSqQCqCcWP4p9lj7236OLmlJGRR1KeEqerauIXLhAzBzjMUysgoCAcbQ",
@@ -29691,8 +29647,8 @@
   "hash": "d45bc780d285c7e4bc24451e00b29df2"
  },
  {
-  "name": "oimo.js",
-  "descript": "Oimo.js is light 3d physics engine for javascript. Full source....  by  loth ",
+  "name": "Oimo.js",
+  "descript": "Oimo.js is light 3d physics engine for javascript. Full source...  by  loth ",
   "url": "http://lo-th.github.io/Oimo.js/index.html",
   "thumb": "https://lh3.googleusercontent.com/DhaCjJ54U88-8z40R6dWuVzX8O12IpOD_NqGzjP6pnszsbnJEDNDhiGu_4LbKJ0qZhR3s635eCu_q2yEcn9WCl0CqlygS9InghcXXw",
   "categorys": [
@@ -30219,7 +30175,7 @@
   "hash": "5a3872fdc2efd87c8472c409650e57cb"
  },
  {
-  "name": "miniPaint",
+  "name": "MiniPaint",
   "descript": "Online graphics editing tool using HTML5. Key features: layers, transparency, offline graphics....  by  ViliusL ",
   "url": "http://viliusle.github.io/miniPaint/",
   "thumb": "https://lh4.ggpht.com/4MFs3qn73S8jrDzW0ExeIaCl9RJZWbMiFij3x8ihuTWIKew66DmmHCic25hx1lqZrCGbFTBB2QH1DHlm9caoPA-WinfPuf5WLLn3",
@@ -30327,17 +30283,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "38583c705e5201d16a7495ede981b442"
- },
- {
-  "name": "Gridsnake",
-  "descript": "Gridsnake is a revisited version of the famous game Snake. Work out your own strategy to win :....  by  Quentin Lambert ",
-  "url": "http://gridsnake.qlamb.com/",
-  "thumb": "https://lh3.ggpht.com/vE36JQM52LH1NwrdAI5R0ydhRRj2re7HfxObUt9Zkxz-tq7l-O99-VxgbiFIBPUtAKNEUldN5JW0UW4bpnSZS8-DZ_My2iW0w9Q",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3dc12a531af44ba60893a476f574d316"
  },
  {
   "name": "Drumbit",
@@ -30736,7 +30681,7 @@
   "hash": "b6267387575f04d723200e60dd951d81"
  },
  {
-  "name": "i-i-i-o",
+  "name": "I-I-I-O",
   "descript": "We created a series of mobile-first experiments and games for Google I/O 2013, focusing on touch....  by  Instrument ",
   "url": "http://instrument.github.io/google-io-2013/",
   "thumb": "https://lh3.googleusercontent.com/Ukz5o6V3tEhYVQ4pPo3tboQPhv3oT5IUWR1PemWxuzI9wTFauDycAlkJ_HjVwdL29muSS08sMbbScZvrl4mAzaCPggIG83e9yWkZgA",
@@ -31231,17 +31176,6 @@
   "hash": "dffc4e1f530ac7026ec4391872288877"
  },
  {
-  "name": "Gravity Trek",
-  "descript": "An addicting race against time, speed and high score! Your mission is to get through as many....  by  Gravity Jack ",
-  "url": "http://gravityguns.com/promo/gravitytrek/",
-  "thumb": "https://lh3.ggpht.com/-ynvzKm5u2nmAWfiNZiDCd_RrcabaQH4o4TJzUD7B905884hmxZfjj8DgQ32o_xi5MxO_faaavsa4Fpt1Q1POV5C06eyz1dI60d_",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "39b282aeb12c60de9864aa35c6053a2d"
- },
- {
   "name": "I Know the World",
   "descript": "Improve your knowledge of the world and its people through game-ified learning..  by  Corey Theiss ",
   "url": "http://iknowtheworld.com/",
@@ -31407,8 +31341,8 @@
   "hash": "2a432dde6a434b1c720f4816f7a97183"
  },
  {
-  "name": "hermicrab",
-  "descript": "Hermit crabs in the bucket..  by  Jacinto Costoso ",
+  "name": "Hermicrab",
+  "descript": "Hermit crabs in the bucket.  by  Jacinto Costoso ",
   "url": "http://www.costoso.net/seau/hermitcrab.html",
   "thumb": "https://lh4.ggpht.com/JAl6Pe5P29qk-i5rANwhxGSnWbytGKphHgEDiloteDw_RquD9kvsCddD60J8XRXn0zYRMGS9XIVzUDjOa4UE9gczEdJayakm3BsngQ",
   "categorys": [
@@ -34300,7 +34234,7 @@
   "hash": "fefcd0c082d62c96f9e8cf0c6e83cf8f"
  },
  {
-  "name": "js touch",
+  "name": "Js touch",
   "descript": "Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique..  by  Satoshi Ueyama ",
   "url": "http://gyu.que.jp/jscloth/touch.html",
   "thumb": "https://lh3.ggpht.com/uNLjuwY10Q6EoN2-a5EkvV0nLKjfTSE3W5IFt9i4IylxpCaoxGim74h8rkThTUf9LS8rJ3XgKpjJB0y0c_tzG0Nepun3J3e5uGKyww",
