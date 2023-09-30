@@ -28646,17 +28646,6 @@
   "hash": "d9fe23eeca95a7f0901f82bbc1514ff7"
  },
  {
-  "name": "Hi-ReS!",
-  "descript": "Hi-ReS! is a collaborative experiment between Henrique Matias and David Paul Rosser. Users are....  by  D. Rosser, H. Matias ",
-  "url": "http://ivxvixviii.io/modules/hires/public/index.html",
-  "thumb": "https://lh4.ggpht.com/6rivwHVo4ufpzTZIzyAWled9xhudYHrDm33OBhXU7rD98opbt0mHNK9LLT3Abt1qoRake1kppZbEfaQP38Ynv9S30pt5TSRN9Tam",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d4ec928296eaae43946fdba310566a77"
- },
- {
   "name": "Temperature Anomalies",
   "descript": "Visualize 200 years of temperature changes in the world. Data taken from NASA..  by  Nicolas Belmonte ",
   "url": "http://philogb.github.io/page/temperature-anomalies/",
@@ -28897,17 +28886,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "b1ca6efd30795867d995cda7243d34f1"
- },
- {
-  "name": "Hex Color Code Game",
-  "descript": "Very simple game designed to test your skills when identifying colors by their hex code.  by  David Johns ",
-  "url": "http://johnsythinks.com/hex/",
-  "thumb": "https://lh5.ggpht.com/_K_uWKjDe_ooMVo1wU1ATi_Ci0d86_OdHJ91YnSj6trhowKDzZyQCxhCndPjAklKHTtB5gXQ3po-n7XsNhujZ7rsutJX32tgkrXL",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e695e34898c8d8e89d2cd16b7fe0d13d"
  },
  {
   "name": "Butterflies &amp; Computer Eyes",
@@ -29216,17 +29194,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "cfa64e361b7f6dec043612dfd07a3a97"
- },
- {
-  "name": "House",
-  "descript": "House is an interactive musical experiment made for Christmas Experiments 2013. It allows you....  by  Damien Mortini ",
-  "url": "http://damienmortini.me.uk/house",
-  "thumb": "https://lh4.ggpht.com/lfa04-iX37L7F6Vaktu05BARR6kbZR-DhdaVY3SWs0JaK3p6TTseI-fNHU5R7lhnE2Q4oXBV70hYY1VaSoEmzZGpVXtIqiAfMRY",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e19c59a8c8cfe3a6d76a64270614832f"
  },
  {
   "name": "Fractal Gears",
@@ -31022,17 +30989,6 @@
   "hash": "90f443882c56d0c6e17e2b45df8da8dd"
  },
  {
-  "name": "HTML5 Minesweeper",
-  "descript": "An experiment to bring an age old favorite to the modern day browser using the latest features.....  by  Joey van Ommen ",
-  "url": "http://joeyvo.me/HTML5-minesweeper/",
-  "thumb": "https://lh4.ggpht.com/qTjgrXrVr6A_YSsofzSEf4vgdZ3pUTnx1MBgXIQpr5BUT7-AQT9SKY5xj-BE6RH4pVXX5HyE08snE-vgkHQEHrtrllKwQAlDpOOu9Q",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "42a874a1a85bb9cd8cde750534e816b3"
- },
- {
   "name": "WebGL Cubes",
   "descript": "Simple 150,000 rotating cubes lit with three lights (one directional and two point....  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_cubes.html",
@@ -31858,17 +31814,6 @@
   "hash": "e4b8437feff629560b0d4066d245e55b"
  },
  {
-  "name": "HolyMania",
-  "descript": "Your are a ball in a twisted tunnel and the tunnel is constantly shrinking. You must not touch....  by  Pascal Lamoureux ",
-  "url": "http://games.foobarmania.com/HolyMania/",
-  "thumb": "https://lh3.ggpht.com/OwlJA2aGv5BQQBh8mIucPw-la0HDXcemkSY5Rj3LhUMVGSIzlAbYw0Bn4KkENL0ihHG66I-fq1q2g3WX4r-eMs5igwHgJSdqlq1utA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "201b983051a5e556363c4148c07ca62d"
- },
- {
   "name": "Mecabricks",
   "descript": "Lego Design Tool that lets you create your own models using the bricks from the library. You....  by  Nicolas Jarraud ",
   "url": "http://www.mecabricks.com/en/workshop/",
@@ -32398,7 +32343,7 @@
  },
  {
   "name": "WebGL Terrain",
-  "descript": "Dynamic procedural terrain using 3d simplex noise. Featuring birds from ro.me. Music by Kevin MacLeod..  by  AlteredQualia ",
+  "descript": "Dynamic procedural terrain using 3d simplex noise. Featuring birds from ro.me. Music by Kevin MacLeod.  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_terrain_dynamic.html",
   "thumb": "https://lh5.ggpht.com/0g7X26L7GmmKnEOXb-og39ud2bK1dqWy4G_1L0ULWDpF2nIdQWhDh_LMpI1MHiLbCJlGVeAyYriLfdPJ9XvVWKvwtUXETBJ5ilpc",
   "categorys": [
@@ -32409,7 +32354,7 @@
  },
  {
   "name": "WebGL Playground",
-  "descript": "WebGL playground is a straightforward idea: type in your WebGL script and see the results. But....  by  Krystian Samp ",
+  "descript": "WebGL playground is a straightforward idea: type in your WebGL script and see the results. But...  by  Krystian Samp ",
   "url": "http://webglplayground.net/",
   "thumb": "https://lh5.ggpht.com/fjfMnhedF-ii2T2X7vCBvrQ5u4xkeATsvTxaIVzN9l-7Gta-UmV0PHbJlzQzPEKvYAJMY-TB1M_iW8DUnof74d_yITxD9L5sl2eJ",
   "categorys": [
@@ -32420,7 +32365,7 @@
  },
  {
   "name": "Gradient Creator",
-  "descript": "Drag & Drop GIMP .GGR files into your browser to view them, then export your gradient into CSS....  by  Michael Deal ",
+  "descript": "Drag & Drop GIMP .GGR files into your browser to view them, then export your gradient into CSS...  by  Michael Deal ",
   "url": "http://colrd.com/create/gradient/",
   "thumb": "https://lh3.ggpht.com/FozXSBoXIxIDyJElDbVX11fMbm5TUokCwSRVTMW907PC3CODW4IBrRddCAcfS8I-ypVkuHgm57RQDFPsvwnjB4wmR5dkPBxMfq3xMg",
   "categorys": [
@@ -32431,7 +32376,7 @@
  },
  {
   "name": "WebGL Attractors Trip",
-  "descript": "An interactive flight through attractor orbits generated using Martin's Hopalong formula..  by  Iacopo Sassarini ",
+  "descript": "An interactive flight through attractor orbits generated using Martin's Hopalong formula.  by  Iacopo Sassarini ",
   "url": "http://iacopoapps.appspot.com/hopalongwebgl/",
   "thumb": "https://lh3.ggpht.com/_j47aRUNiva_SNkE-1190kzrrJqi5U7WLYu1dyG7Ood-_6rZ0KHcytIOEMHOL2xDM3pu7cRbypIMRunl1TenX3g-UOQhtknu27I",
   "categorys": [
@@ -32442,7 +32387,7 @@
  },
  {
   "name": "Wormhole",
-  "descript": "A WebGL experiment involving a tunnel pulsating to a sine wave. As a bonus I added a sphere that....  by  Jaaq Jorissen ",
+  "descript": "A WebGL experiment involving a tunnel pulsating to a sine wave. As a bonus I added a sphere that...  by  Jaaq Jorissen ",
   "url": "http://webgl.janjorissen.be/vertex/",
   "thumb": "https://lh3.ggpht.com/IwalBh6XqwB2al-vsYgDu5TfrEP99v7g-L0qdVGwlZ_E_ektSRK3f6WRzMdiGFg-TEfPEgyuwP3dYvu0oqOs9P49TCpbI-QR17E",
   "categorys": [
@@ -32453,7 +32398,7 @@
  },
  {
   "name": "The Experiment",
-  "descript": "Launched today, The Experiment is a physics-based game that challenges players to create a chain....  by  Honda UK ",
+  "descript": "Launched today, The Experiment is a physics-based game that challenges players to create a chain...  by  Honda UK ",
   "url": "http://experimentgame.com/",
   "thumb": "https://lh5.ggpht.com/K5ebQPqIA6Q32e7p7vPiC4ETgvt5ERg355XPHuDBQ3bZ7j1gVcgHxuoW4mKew4WmZwqV7EB_7petOWiHcMaDII7PQlooePqqCTWO",
   "categorys": [
@@ -32464,7 +32409,7 @@
  },
  {
   "name": "Smoothed Particle Hydrodynamics",
-  "descript": "An SPH implementation on webGL. There is a video because there are some hardware config that....  by  miaumiau interactive studio ",
+  "descript": "An SPH implementation on webGL. There is a video because there are some hardware config that...  by  miaumiau interactive studio ",
   "url": "http://miaumiau.cat/examples/SPH/v1/",
   "thumb": "https://lh5.ggpht.com/fjo_Ezx8OjjHyyi3uMNUL3RPIQBUWF8s2nKL3ONPK3d54jWXYIGfkQvv_dylhL2pKiuZwdMx39BiaBeEJHy1CLR1iUsIYbWy-mc",
   "categorys": [
@@ -32475,7 +32420,7 @@
  },
  {
   "name": "Ablaze.js",
-  "descript": "Ablaze.js is a Javascript port of the original flash app. Ablaze is pretty fun to look at both....  by  Patrick Gunderson ",
+  "descript": "Ablaze.js is a Javascript port of the original flash app. Ablaze is pretty fun to look at both...  by  Patrick Gunderson ",
   "url": "http://theorigin.net/ablazejs/",
   "thumb": "https://lh5.ggpht.com/YZpCi__4NaFTsihPivc7mU4u2TpXzzXP38YUlQEY8exyZBnVf76vujBCMCJc3O_Lq77hCdQQ1U5q3NBjvzu-8N2uz-uwCpNB_p4",
   "categorys": [
@@ -32486,7 +32431,7 @@
  },
  {
   "name": "WebGL Cars",
-  "descript": "Controllable cars rendered with dynamic cube maps, shadow maps and some postprocessing effects..  by  AlteredQualia ",
+  "descript": "Controllable cars rendered with dynamic cube maps, shadow maps and some postprocessing effects  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_cars.html",
   "thumb": "https://lh4.ggpht.com/Fxh5rT3VtObDhm0xbZEyj6-DQCb2vDotfIWnAoxRxqwejJG_rql80pLWGT2ehTCfy_fnly2fJuIST2Kwum_ZJxJ0D3EyYwVM0Y8",
   "categorys": [
@@ -32508,7 +32453,7 @@
  },
  {
   "name": "Kinect+WebGL",
-  "descript": "Little experiment visualising Kinect data with WebGL..  by  Mr.doob ",
+  "descript": "Little experiment visualising Kinect data with WebGL.  by  Mr.doob ",
   "url": "http://mrdoob.com/lab/javascript/webgl/kinect/",
   "thumb": "https://lh4.ggpht.com/r_fGatzgKtSdh4ATrVUlJwNBpEjzGTPzzgj4YyS43JkTq_i8YjXKtPBzf-s4zUrmL2rmKpAquiYZJmtAhT6lgORwYbVUOdLiStq9",
   "categorys": [
@@ -32519,7 +32464,7 @@
  },
  {
   "name": "Nouvelle Vague",
-  "descript": "Nouvelle Vague offers a poetic and interactive real-time 3D experience based on Twitter. In a....  by  ultranoir ",
+  "descript": "Nouvelle Vague offers a poetic and interactive real-time 3D experience based on Twitter. In a...  by  ultranoir ",
   "url": "http://nouvellevague.ultranoir.com/",
   "thumb": "https://lh4.ggpht.com/_badjqdUjUpVD4jLjJgsgQDPBHE4PrWir8Ebgkf0_uf2xGxC0eXqBeVoX-TbuC3aLlv6QLtvvZP6dO8gYlnjoUriXrL2balD_UZR",
   "categorys": [
@@ -32529,19 +32474,8 @@
   "hash": "59dc856eec356a07f77ea7a278b024c8"
  },
  {
-  "name": "Highrise: One Millionth Tower",
-  "descript": "1MT is a webGL visualization of the virtual transformation of a highrise housing complex in....  by  Mike Robbins ",
-  "url": "http://highrise.nfb.ca/onemillionthtower/",
-  "thumb": "https://lh6.ggpht.com/0ZGwv4lYH1p29FL2bYPgOSt9zTv2fVi-bVzBloD0QjI6SRib-zDq7GcSUrdIxHbGxSjPV2Ko2nvHicQqUP21QSBpGKxNWaOC2D0",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "c8b4d3b3733f559c128255e39277f462"
- },
- {
   "name": "Ocean Simulation",
-  "descript": "This is an ocean simulation. You can adjust 9 settings to get a calm tropical sea or a dark....  by  Xavier Bourry ",
+  "descript": "This is an ocean simulation. You can adjust 9 settings to get a calm tropical sea or a dark...  by  Xavier Bourry ",
   "url": "http://www.spacegoo.com/beach",
   "thumb": "https://lh4.ggpht.com/rDoQWXgR9NdjMNjFwt1PRdyxhzfUKvcZ4F1KvoaMPVyeX868V2p9hMudrZp4_ANBRC4m8U4vJX1OsVZkQw3uiepr1X__05N58Ns",
   "categorys": [
@@ -32552,7 +32486,7 @@
  },
  {
   "name": "Paper Simulation",
-  "descript": "Simulation of a sheet of paper using a vertex shader..  by  Bartek Drozdz ",
+  "descript": "Simulation of a sheet of paper using a vertex shader.  by  Bartek Drozdz ",
   "url": "http://www.everyday3d.com/j3d/demo/013_Paper.html",
   "thumb": "https://lh4.ggpht.com/TxcZiGNRmn7ddgvZL2vkm4x_9oUC3Z027RL4JSy9OZgeec3MYQ9UJ9qsPDc4jx2Mdcb3OYOtAlTA6-K6mDgiWt5sRD-5twGjmfp8",
   "categorys": [
@@ -32563,7 +32497,7 @@
  },
  {
   "name": "Red Shooting Hood",
-  "descript": "This is a WebGL game where you help Little Red Shooting Hood find her way through the forest....  by  Tymon Zgainski ",
+  "descript": "This is a WebGL game where you help Little Red Shooting Hood find her way through the forest...  by  Tymon Zgainski ",
   "url": "http://redshootinghood.info/",
   "thumb": "https://lh3.ggpht.com/o8XVk_Q5DLMraW6TPu7QQo0FOca-NOO1-CNDjFrlJOECLD5_xUCeJCHO0AgvkJCOYjkvWO1ej6lF6bBwi1joXOiji-Dx8uvaCSyr4A",
   "categorys": [
@@ -32585,7 +32519,7 @@
  },
  {
   "name": "WebGL Cadillac Ranch",
-  "descript": "This experiment is a web version of the Cadillac Ranch, which is a public art installation and....  by  Xavier Bourry ",
+  "descript": "This experiment is a web version of the Cadillac Ranch, which is a public art installation and..  by  Xavier Bourry ",
   "url": "http://www.spacegoo.com/cadillac",
   "thumb": "https://lh3.ggpht.com/HCTwN-p-0IKL2f11EnqTTih57sUFrVm4u4XDrSBSIUpDtf4OAsjJXNWt2CsWG26-cb-zDJxBMZVS5jx75XCvlgfWQWi5xpd0-hJ9Mw",
   "categorys": [
@@ -32596,7 +32530,7 @@
  },
  {
   "name": "Voxels Liquid",
-  "descript": "3D representation of this classic 2D water effect....  by  Mr.doob ",
+  "descript": "3D representation of this classic 2D water effect...  by  Mr.doob ",
   "url": "http://mrdoob.com/lab/javascript/webgl/voxels_liquid/",
   "thumb": "https://lh4.ggpht.com/EEONl0d8OlIIacvgvsn1YpWBlwRJe7kq5kZLcSJAU-bl3PX-rhm4H6vgyGm7AIHdJWbHUkQbkO0mB-p5P_bcuh1C9ZwOGlzpdSiV",
   "categorys": [
@@ -32607,7 +32541,7 @@
  },
  {
   "name": "Ellie Goulding's Lights",
-  "descript": "Lose yourself in Ellie Goulding’s Lights, an interactive and colorful music experience using WebGL..  by  HelloEnjoy ",
+  "descript": "Lose yourself in Ellie Goulding’s Lights, an interactive and colorful music experience using WebGL.  by  HelloEnjoy ",
   "url": "http://lights.elliegoulding.com/",
   "thumb": "https://lh3.ggpht.com/NUEMBNdkR72k2LKBj0GRAk8SHnRw-rHiuWEwyIIb8zR_MlhKiC5OCFSfVgulgbFoa1eKqnw6B76DVDAJIDMQ7H3cr6Yg_ubMsElAmA",
   "categorys": [
@@ -32618,7 +32552,7 @@
  },
  {
   "name": "Robots Are People Too",
-  "descript": "RAPT is a complex and challenging two-player HTML5 platformer that won \"Most Fun\" in Mozilla's....  by  Evan Wallace, Justin Ardini, and Kayle Gishen ",
+  "descript": "RAPT is a complex and challenging two-player HTML5 platformer that won \"Most Fun\" in Mozilla's...  by  Evan Wallace, Justin Ardini, and Kayle Gishen ",
   "url": "http://raptjs.com/play/",
   "thumb": "https://lh3.ggpht.com/Hr0vy-mE4ccyT1PbexRXp-ZbsoEuMy5NtdxZqTC7TvUlxXYyXcf6wBWTmAzs5q1K7PsxGgIjI9-0oI0HsB39QKjTZOAWUyiJKZla",
   "categorys": [
@@ -32629,7 +32563,7 @@
  },
  {
   "name": "Neon Flames",
-  "descript": "An interactive drawing tool based on particles using HDR rendering. The source code is on....  by  Jonas Wagner ",
+  "descript": "An interactive drawing tool based on particles using HDR rendering. The source code is on...  by  Jonas Wagner ",
   "url": "http://29a.ch/sandbox/2011/neonflames/",
   "thumb": "https://lh6.ggpht.com/-67i2Ci02xpzp2fxXyM-eSz8vawvNO009qWZXRglRk5TzeIZVrxQxzn2e98tN3kwFP3jFgpEyu9M9uHERlzsyXq0IIDNL7Jmb5lT",
   "categorys": [
@@ -32640,7 +32574,7 @@
  },
  {
   "name": "Plink",
-  "descript": "Plink is a multiplayer music experience with a super intuitive user interface. Simply by....  by  Dinahmoe ",
+  "descript": "Plink is a multiplayer music experience with a super intuitive user interface. Simply by...  by  Dinahmoe ",
   "url": "http://labs.dinahmoe.com/plink/",
   "thumb": "https://lh3.googleusercontent.com/3nTILqZTGf8Q01CfJV80SdxpYDcECbOc7pXrh6_wlFetyFZrsYaaH2KJzU8_1SLjahRM0RHln6ODqvMnq1ohks5WerZamuEPIcs",
   "categorys": [
@@ -32651,7 +32585,7 @@
  },
  {
   "name": "ProfileRoom",
-  "descript": "A work in progress to present all public information associated with a Google Profile inside of....  by  Gerwin Sturm ",
+  "descript": "A work in progress to present all public information associated with a Google Profile inside of...  by  Gerwin Sturm ",
   "url": "https://www.foldedsoft.at/profileroom/scarygami",
   "thumb": "https://lh6.ggpht.com/0U8HYu6jh6qEIqHIQUqYynmfbASMz16V0x-pZb5CchLlbFdEEaL5i43hu70uQtvSHMZtW9YhsZdEOe7yf-Nt3oLFStHkyMiGP2Qjjg",
   "categorys": [
@@ -32662,7 +32596,7 @@
  },
  {
   "name": "CSS Zoetrope",
-  "descript": "An early animation device built entirely with CSS. Play around with different rotational....  by  Andrew Hoyer ",
+  "descript": "An early animation device built entirely with CSS. Play around with different rotational...  by  Andrew Hoyer ",
   "url": "http://andrew-hoyer.com/experiments/zoetrope/",
   "thumb": "https://lh6.ggpht.com/0febXi8J0ZnM36zg7eKCO-pk0WbGJOKZQwzlm6yZpNE4pasHAe1OXC_0eX2A86XoLXOpBOKOeT8ceRKCipO0OUqzl3FS3PNk5iql",
   "categorys": [
@@ -32673,7 +32607,7 @@
  },
  {
   "name": "Urban Arteries",
-  "descript": "Explore your surroundings in a new way: see a representation of the city around you, the....  by  Jaume Sánchez  ",
+  "descript": "Explore your surroundings in a new way: see a representation of the city around you, the...  by  Jaume Sánchez  ",
   "url": "http://www.clicktorelease.com/code/urban-arteries/",
   "thumb": "https://lh6.ggpht.com/9nNbYNWromHzNHvs7PYyKYjSLC9OChAPE6zolxxplwLE0vsQ2PFhltTrAb2-W1XldQ9wm_OErN9ortZU_ANvQLeO63YgULMZF9q-",
   "categorys": [
@@ -32684,7 +32618,7 @@
  },
  {
   "name": "Conway's Game of Life 3D",
-  "descript": "A colorful version of Conway's Game of Life in 3D, using three.js..  by  Jaume Sánchez  ",
+  "descript": "A colorful version of Conway's Game of Life in 3D, using three.js.  by  Jaume Sánchez  ",
   "url": "http://www.clicktorelease.com/code/conway3d",
   "thumb": "https://lh3.ggpht.com/O5gIUiVN9e69urwldaGFCsJylJqDoJaHJMkwKKsXZt-heoAbKlNNGkPG0FI4ROamwvNXq_2HvBQhrveHUA7ZPl70iRg9vTHkE_g",
   "categorys": [
@@ -32695,7 +32629,7 @@
  },
  {
   "name": "John Conway's Game Of Life",
-  "descript": "John Conway's \"Game Of Life\" in WebGL with a native screen resolution and a free ruleset..  by  Tim Scheiter ",
+  "descript": "John Conway's \"Game Of Life\" in WebGL with a native screen resolution and a free ruleset.  by  Tim Scheiter ",
   "url": "http://webgl.timmey-home.de/",
   "thumb": "https://lh5.ggpht.com/Dr2h2cEj_FHqKQ6D4UyuBjCVquayb6MgeGXFObSNGfIKKczSr-tqwJ5-Rhg1WQEra077xAGyjZ3yOpVScv4QzN3UhcJQ1dZ9Atjp",
   "categorys": [
@@ -32717,7 +32651,7 @@
  },
  {
   "name": "Cosmic Journey",
-  "descript": "Old-school arcade space shooter. CONTROLS: Cursor keys, WSAD, 8546 -- Move Ctrl, Space, Alt --....  by  Jan Milé? ",
+  "descript": "Old-school arcade space shooter. CONTROLS: Cursor keys, WSAD, 8546 -- Move Ctrl, Space, Alt --...  by  Jan Milé? ",
   "url": "http://www.rw-designer.com/cosmic-journey",
   "thumb": "https://lh6.ggpht.com/dW7zbgx-zIh3vadmyFs0_jREU8ilI5PGmObDWcCSqGwob69W9AX5WFRr82_jb6oBH9n6uR-tvIgPbFuSDPu2CvpIsKsG8CAt0ljc",
   "categorys": [
@@ -32728,7 +32662,7 @@
  },
  {
   "name": "Rutt-Etra-Izer",
-  "descript": "Rutt-Etra-Izer is a WebGL emulation of the classic Rutt-Etra video synthesizer. This demo....  by  Felix Turner ",
+  "descript": "Rutt-Etra-Izer is a WebGL emulation of the classic Rutt-Etra video synthesizer. This demo...  by  Felix Turner ",
   "url": "http://airtightinteractive.com/demos/js/ruttetra/",
   "thumb": "https://lh4.ggpht.com/Gv3iw3uzcciM0pCs4SyWyUzHWudOGO22tZ4pkrNBalK_5oHbv9vX27i-ocSmnxw4aJOSSnr1WRhjWM2nlxhi_dRPx86E2-Ve0_g",
   "categorys": [
@@ -32750,7 +32684,7 @@
  },
  {
   "name": "WebGL Skin",
-  "descript": "Skin rendering using subsurface scattering approximation by four blur layers with physically....  by  AlteredQualia ",
+  "descript": "Skin rendering using subsurface scattering approximation by four blur layers with physically...  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_materials_skin.html",
   "thumb": "https://lh6.ggpht.com/Nc-UeXpoMJzOFSviKClCvt8QpETXju7Blvt-yVtr11vIiTxOlI4OnFInpfFgTTbGXgOh1hJ_hFxdJtMWgXSs5-tKNuRDTn8aL6pg",
   "categorys": [
@@ -32761,7 +32695,7 @@
  },
  {
   "name": "Background Generator",
-  "descript": "Background generator allows you to design your websites background within your browser. Create....  by  Michael Deal ",
+  "descript": "Background generator allows you to design your websites background within your browser. Create...  by  Michael Deal ",
   "url": "http://mudcu.be/bg/",
   "thumb": "https://lh6.ggpht.com/nW0a6DrFDlwC8A4mGQZK0TYMnvjYtCOCylquP9Q6Xw7IrhHptv7e6J03LHHpVBHLdbK4UobHNSmJjRREcM53EqHc5uCePbwOSNBq",
   "categorys": [
@@ -32772,7 +32706,7 @@
  },
  {
   "name": "Dymaxion Map Challenge",
-  "descript": "The Open Call HTML5 Challenge for GDD 2011 invited participants from across the world to....  by  Google Developer Day 2011 ",
+  "descript": "The Open Call HTML5 Challenge for GDD 2011 invited participants from across the world to...  by  Google Developer Day 2011 ",
   "url": "https://sites.google.com/site/opencallxhtml5/home/all-submissions",
   "thumb": "https://lh6.ggpht.com/NmVTduMvescygtuk44hT63CA69RG623Vz79F3GXwOltBNZzeIj2wLrz9lkjYNq1Vq5Qo964tVvVEuLholLyodHDNSSdgKqF9Qkwu",
   "categorys": [
@@ -32783,7 +32717,7 @@
  },
  {
   "name": "Traveling Wavefronts",
-  "descript": "An extended Reaction-Diffusion system that uses only one 8bit color channel. A final....  by  Felix Woitzel ",
+  "descript": "An extended Reaction-Diffusion system that uses only one 8bit color channel. A final...  by  Felix Woitzel ",
   "url": "http://www.cake23.de/traveling-wavefronts-lit-up.html",
   "thumb": "https://lh3.ggpht.com/xDXv2tgGoo5IYwJSHYL16RAAQBxz403GZ-9JwqHbDCG8QBLJqArq0QKS9WpfOMLbv9aSlQwqQZU5PNzReUEpd71gohgHNRh80nw9",
   "categorys": [
@@ -32794,7 +32728,7 @@
  },
  {
   "name": "WebGL Water Simulation",
-  "descript": "A pool of water rendered with reflection, refraction, caustics, and ambient occlusion. The pool....  by  Evan Wallace ",
+  "descript": "A pool of water rendered with reflection, refraction, caustics, and ambient occlusion. The pool...  by  Evan Wallace ",
   "url": "http://madebyevan.com/webgl-water/",
   "thumb": "https://lh3.googleusercontent.com/Jp2ANjRXi1DiS0PDfIos3d5sWd3CXZTJf8s0xrfTdpc68fv8UL2zhxIuPjCPjPXqoWiQ5DkBNKhuXRV-fUex3F3qkZD75QeZxA8",
   "categorys": [
@@ -32805,7 +32739,7 @@
  },
  {
   "name": "WebGL Path Tracing",
-  "descript": "Path tracing is a realistic lighting algorithm that simulates light bouncing around a scene.....  by  Evan Wallace ",
+  "descript": "Path tracing is a realistic lighting algorithm that simulates light bouncing around a scene...  by  Evan Wallace ",
   "url": "http://madebyevan.com/webgl-path-tracing/",
   "thumb": "https://lh3.ggpht.com/Fqd57fR5kWWtJEFqr_V4CyoAgW-Fzf66j0-zSZ2tJHVEaFQL-V9KINySZk_lso7bfFmtODRVqmgQ3gz9n-yfClfnKEs3xQbpmkRu",
   "categorys": [
@@ -32816,7 +32750,7 @@
  },
  {
   "name": "Pacmaze",
-  "descript": "Pacmaze v1 is a pacman in webgl..  by  Jerome Etienne ",
+  "descript": "Pacmaze v1 is a pacman in webgl.  by  Jerome Etienne ",
   "url": "http://pacmaze.com/",
   "thumb": "https://lh5.ggpht.com/HtKtnt4pLj4rKgxTJBKVmsfCnWGHlYoVw8SijZiFwArdTfK7rXstmqFCA2l9pG9ZWzSFGpaLarFvOHYUQbI0vA_JfZYKbqxr5yUmbg",
   "categorys": [
@@ -32827,7 +32761,7 @@
  },
  {
   "name": "Progressive Julia Fractal",
-  "descript": "Mouse-Reactive Progressive Julia Fractals. The fractals develop with every animation frame..  by  Felix Woitzel ",
+  "descript": "Mouse-Reactive Progressive Julia Fractals. The fractals develop with every animation frame.  by  Felix Woitzel ",
   "url": "http://cake23.de/progressive-fractal-fullscreen.html",
   "thumb": "https://lh3.ggpht.com/09FOrj3ssdu6kLGS-F_H9XoUN9qokjFcoe4YOIFvgdhyhof474HGpDP-pWQGyEWzLTLN1jPGa3rtO7s9VuW4Z48edquJBE59ZvoZ",
   "categorys": [
@@ -32838,7 +32772,7 @@
  },
  {
   "name": "The Sproingies",
-  "descript": "After years of seclusion, the youngest generation of Sproingies make an appearence on a WebGL....  by  Ed Mackey ",
+  "descript": "After years of seclusion, the youngest generation of Sproingies make an appearence on a WebGL...  by  Ed Mackey ",
   "url": "http://www.snappymaria.com/webgl/Sproingies.html",
   "thumb": "https://lh3.ggpht.com/_iOVexIRh38sXMN_2Un-8QZXsSMzcJdk1z56SQXY3ScK_Hh11BQkatnaASSo7aiPSlInaBfIjuHl6hcHc8_ADWX1T0eiVpcJ_Gqd",
   "categorys": [
@@ -32849,7 +32783,7 @@
  },
  {
   "name": "WebGL Shadowmap",
-  "descript": "Experimenting with shadow mapping in three.js. (1024 x 1024 shadow texture with....  by  AlteredQualia ",
+  "descript": "Experimenting with shadow mapping in three.js. (1024 x 1024 shadow texture with...  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_shadowmap.html",
   "thumb": "https://lh5.ggpht.com/V6Q6gOiEQWrQm0vGn2vPFpf0SVIGwrUiF_tc_Jpgd8dSExfnTu6VktMueitI4ZnG6O7m_oLR4dIacgnCcASXK4wlBev2BY0rICLt",
   "categorys": [
@@ -32860,7 +32794,7 @@
  },
  {
   "name": "ToneCraft 3D Music",
-  "descript": "ToneCraft lets you build music in 3D. The Y-axis represents the pitch of the tone, the X-axis....  by  Dinahmoe ",
+  "descript": "ToneCraft lets you build music in 3D. The Y-axis represents the pitch of the tone, the X-axis...  by  Dinahmoe ",
   "url": "http://labs.dinahmoe.com/tonecraft/",
   "thumb": "https://lh4.ggpht.com/9_QpDewsshfnhPedRWzu3XfYX8APJ5lbLMIeSMH5dwMfdwbH3G4F5Q8o2i2Tx2D4M-HzVMR42Q16_AXmzegtvzG3Vwo5SGbrlsdB",
   "categorys": [
@@ -32871,7 +32805,7 @@
  },
  {
   "name": "CSS3-D Clock",
-  "descript": "A 3D clock made with lots of divs sprinkled with CSS3 3D transforms. Click (or touch) and drag to rotate..  by  Andrew Hoyer ",
+  "descript": "A 3D clock made with lots of divs sprinkled with CSS3 3D transforms. Click (or touch) and drag to rotate.  by  Andrew Hoyer ",
   "url": "http://andrew-hoyer.com/experiments/clock/",
   "thumb": "https://lh5.ggpht.com/uIQOd9AJ8CA5xucFSWnfKvF-oG5pBGC7QXdNLZn1_hakNutOzsBnX9x0DjVYRmyauxUXhQoTmgUVC74Zl1YIPeebYspMkzATShj2Hw",
   "categorys": [
@@ -32882,7 +32816,7 @@
  },
  {
   "name": "Reaction Diffusion",
-  "descript": "Warning, this experiment is surely not for the epileptics! Scale the previous render output to....  by  Felix Woitzel ",
+  "descript": "Warning, this experiment is surely not for the epileptics! Scale the previous render output to...  by  Felix Woitzel ",
   "url": "http://cake23.de/diffusion-mix.html",
   "thumb": "https://lh6.ggpht.com/OFmN5dH4eaJGLqQB8_HPgkzCL_wqbHbb-P2s2pm9Fqx9tAiwdCirCxkt56axAPeN6W1MbFG4hpWEutQMdCf_KexrXE1B-pkTiruiwA",
   "categorys": [
@@ -32893,7 +32827,7 @@
  },
  {
   "name": "Glass Shader",
-  "descript": "Glass shader with refraction, reflection, fresnel effect and chromatic dispersion..  by  Bartek Drozdz ",
+  "descript": "Glass shader with refraction, reflection, fresnel effect and chromatic dispersion.  by  Bartek Drozdz ",
   "url": "http://www.everyday3d.com/j3d/demo/004_Glass.html",
   "thumb": "https://lh3.ggpht.com/ZttuJ7JSFmwTgbagpsPVLxaD1FHcGyIFTNRGDJ29T6rO-HcWjMraKYqmoHQcZnD0R3ne5Kuic136DoD_23Iiim-qvxDq8HSvwfuZ",
   "categorys": [
@@ -32904,7 +32838,7 @@
  },
  {
   "name": "Generative Sketches",
-  "descript": "P5P is a collection of generative sketches. The interactive visuals are each defined by a....  by  Beat Raess ",
+  "descript": "P5P is a collection of generative sketches. The interactive visuals are each defined by a...  by  Beat Raess ",
   "url": "http://p5p.cecinestpasparis.net/",
   "thumb": "https://lh5.ggpht.com/biCCee4xKlLLoWGhNyqbt1EdL7bOxzUKeeXB197y06tDyiuS7CkfxokhnMMYyjPR4jMe-UbAWrkgX7uudey1MA9R-5jKdM7xmts",
   "categorys": [
@@ -32915,7 +32849,7 @@
  },
  {
   "name": "Generative Boids",
-  "descript": "Generative art using flocking boids in 2D space..  by  Tim Holman ",
+  "descript": "Generative art using flocking boids in 2D space.  by  Tim Holman ",
   "url": "http://tholman.com/experiments/html5/generative/01/",
   "thumb": "https://lh5.ggpht.com/lyX4vapIYdq5AV-0LZ31auFdjDsKt8jJeDnspq1X1FVDzqN0YbAslrTR7_-wfcJxVSaAbOQJLjOYeXgDqlssL5Gbsre8cEVvXFqS",
   "categorys": [
@@ -32926,7 +32860,7 @@
  },
  {
   "name": "Curvy",
-  "descript": "Presented to you by FlamingLunchbox is a puzzle, originally for Android phones, using a simple....  by  Robey Holderith ",
+  "descript": "Presented to you by FlamingLunchbox is a puzzle, originally for Android phones, using a simple...  by  Robey Holderith ",
   "url": "http://www.flaminglunchbox.net/curvy",
   "thumb": "https://lh5.ggpht.com/c9FR5EYg6b9zog5Re4zRKi162WVm5zqT4gvjk0SMf64jJM-sZoLoBt8dIov-YaQAESQKjv3jx2-xYQkckxFVRcXAGqmSLe1bvaOkTw",
   "categorys": [
@@ -32937,7 +32871,7 @@
  },
  {
   "name": "WebGL Skull",
-  "descript": "Low poly normal mapped model exported from Blender, rendered in Three.js using Blinn-Phong....  by  AlteredQualia ",
+  "descript": "Low poly normal mapped model exported from Blender, rendered in Three.js using Blinn-Phong...  by  AlteredQualia ",
   "url": "http://alteredqualia.com/three/examples/webgl_skull.html",
   "thumb": "https://lh3.ggpht.com/Fx9zOUuGQVNkGwnVDXUfPqRQo_ggTDptJIur1LgN-rMR9B9y6r_q9Zod4hKEHqMrdqpVsKTss-6Yr_ln-m0GXTXVIOhJlpz_MznN",
   "categorys": [
@@ -32947,41 +32881,8 @@
   "hash": "990f3bb09d573f80d0273a01031ae3a5"
  },
  {
-  "name": "Metaball Playground",
-  "descript": "This demo uses the Marching Cubes algorithm to create metaballs. You can also customize the....  by  3 Dreams of Black ",
-  "url": "http://www.ro.me/tech/metaball-playground",
-  "thumb": "https://lh3.ggpht.com/LLbJjEXvz5qCfAdTkFgeNrd1Xw_8ETSBbjpdNnq-7afbniXHcDMisTstskFJTdd4F3h01GNuypf2KzrOdehaLGQ6GD3k2yNyXfAWmg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ccd2f754ba9963d1c03011dd31b00ff0"
- },
- {
-  "name": "Mouse in 3D Space",
-  "descript": "A demo showing how to use a two dimensional peripheral like the mouse to interact with objects....  by  3 Dreams of Black ",
-  "url": "http://www.ro.me/tech/mouse-in-3d-space",
-  "thumb": "https://lh4.ggpht.com/yAhHwXjiKpvW98SKbECaIw4P0wNjfn_u4vlzCjWsKCs_pJtFnOdHErfvHCP1vjA4zsHPy128KeMCS7pfWu1mIl1f_0LNlgz_peuxpw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "85fbdd59e9555b2565a659d79369665e"
- },
- {
-  "name": "Hatching Glow Shader",
-  "descript": "A demo that applies a crosshatching effect to a 3D model in real time using GLSL, or OpenGL....  by  3 Dreams of Black ",
-  "url": "http://www.ro.me/tech/hatching-glow-shader",
-  "thumb": "https://lh5.ggpht.com/Wvt11hsBOLKOxV9cRlwvf1WpAkKus-y9uWlj48TWfynZsNJGzzCnINQr-iHQ0eACXLCIncm1hb7y6AmFVY9h-8KYBPJXqgulezyp",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "2cd60e8b54fb382960587994c8a02df0"
- },
- {
   "name": "CInk",
-  "descript": "This is pure Javascript built artist's tool to create awesome arts in a simple programming....  by  Apple Grew ",
+  "descript": "This is pure Javascript built artist's tool to create awesome arts in a simple programming...  by  Apple Grew ",
   "url": "http://cink.applegrew.com/art.html",
   "thumb": "https://lh5.ggpht.com/uWVZfJwuWE1gIim8RF4rrRvKcaY3Cg7RyeIH7V4xNCxJxzrYSNOTItmgaskDthemCDHUGswQqMcariOdQsp0VMVIBrZdxfp3VIjV",
   "categorys": [
@@ -33200,17 +33101,6 @@
   "hash": "15f7e26cf70fe3ed8a7e512002ab019e"
  },
  {
-  "name": "HTML5 Metaballs",
-  "descript": "Metaballs in HTML5.  by  Pierre-Loic Doulcet ",
-  "url": "http://pierreloicdoulcet.fr/metaballs/ballv2.html",
-  "thumb": "https://lh3.ggpht.com/2ISpt2BoAOPnGUZ61oPkbPPczFU8TNuQ8OgZkNdHJafU_D-yUWkeFqlJw3zn0Z2jn3LZcck0Stp2XlhDVIPRzp0F23e9bZ10fpU",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "6805ea0bcafb32293aa456b2293b9fd3"
- },
- {
   "name": "Typographic Effects",
   "descript": "Inner and outer-shadows, Stereoscopy (3D), Rainbow-Neon Glow, and many other interesting....  by  Michael Deal ",
   "url": "http://www.html5rocks.com/tutorials/canvas/texteffects/Text-Effects.html#spaceage",
@@ -33374,17 +33264,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "d0697d337a85e3233e78e9b0feeeee65"
- },
- {
-  "name": "HTML5 Logo - 3D",
-  "descript": "The shiny new tongue-in-cheek HTML5 logo in glorious 3D!.  by  Kevin Roast ",
-  "url": "http://www.kevs3d.co.uk/dev/html5logo/",
-  "thumb": "https://lh3.ggpht.com/Qmc5CU8f7ygUzI5gdKU3_62TxjuNU_SDSO_Plg57ZXE4f2WYkMFuIPNGg0yORO-Qu066R9vI7m_RF-dE_Sed4xnMalXFJ7U9y0CIlQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "6eb67c9daa10857374d601fffb028de5"
  },
  {
   "name": "CubeOut",
