@@ -28186,7 +28186,7 @@
  {
   "name": "Hya Wave",
   "descript": "A modern audio sample editor for the Web featuring: - Copy, paste, cut, clear, crop - Seamless....  by  Cristiano Belloni ",
-  "url": "https://wav.hya.io/",
+  "url": "https://hya.io/wave/",
   "thumb": "https://lh3.googleusercontent.com/IrmvClT6_Uy28-IeM2sEFGBOEFDaQaoQV_txYAyJMaPdSej5KO6ANbmsuBJ8BocJU6buEurplXMd8-saqKUigVPC1w02OZoZji4",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -29009,17 +29009,6 @@
   "hash": "42afaea0bf9bd8b6cd83cd0cf99cabf2"
  },
  {
-  "name": "Moiré Patterns",
-  "descript": "Moiré Effect.  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/moire/",
-  "thumb": "https://lh3.ggpht.com/ly4Fq1p3NAOkFa_saMVCgV7RdchKoYFomeFkge6ksZTMwaApzWT00a3QI51n_-_IisDCj_98NAw0kxTkm2pvsDHPoFjY_AMuz1Y",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "db93b7f1a94be4ecc33c4424d1d5a499"
- },
- {
   "name": "Stochasticity",
   "descript": "Stochasticity is a series of programming poems that explore the idea of random processes visually..  by  Greg Tatum ",
   "url": "http://gregtatum.com/poems/stochasticity/1/",
@@ -29029,17 +29018,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "6b4dcafb7c5e7710f2ac0f93218ca952"
- },
- {
-  "name": "Spin",
-  "descript": "Spinning Colors !.  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/spin/",
-  "thumb": "https://lh4.ggpht.com/uS445ijc085XXsEMUR4KQ1yOYzdprdEzi1mt97JJ4SwgmhLDbZnhDLYUkcsbrHuCTA6d_b0KZi_O7WvtM4tTzLnuFTxO3t4zENtkGg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "a9ec0bfb800c783c41dc5cb365a6990f"
  },
  {
   "name": "Three.js Template",
@@ -29436,17 +29414,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "1ed52119365c4988b4a6a1da099fc893"
- },
- {
-  "name": "Hya.io",
-  "descript": "A web DAW with save in the cloud features, dynamically loaded plugins, public patches and midi....  by  Cristiano Belloni ",
-  "url": "http://hya.io/",
-  "thumb": "https://lh6.ggpht.com/4H5VzP41BoqH1tgrTOHXoPwzcHA_j3sS4DnCV5YwBo1-nZ1DU2QJ_ZVutm_UCU9ENcyoSV_JJvQUP0StlUkpmSCeekMooLMzHwkN",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3905b8af6301a9ae21b6d4ddab0aac04"
  },
  {
   "name": "Patatap",
@@ -30087,17 +30054,6 @@
   "hash": "853d32db2de5ca3bf50775f32b26d8c9"
  },
  {
-  "name": "Rain",
-  "descript": "Just some adjustable rain..  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/rain/",
-  "thumb": "https://lh3.ggpht.com/FGrBnXvP2p_kZxbwUpK-Pz6Si5zRMMwYUqHUw8MEyXQYlCDC-ytFuUgUsHp0rwYYgulsRkxkZwiQVz2aqOnPakPqAO-jsth8dDuhLQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "a7d8962782a8a17a39df60bb0fdfd432"
- },
- {
   "name": "Parallax.js",
   "descript": "Simple, lightweight Parallax Engine that reacts to the orientation of a smart device. Where no....  by  Matthew Wagerfield ",
   "url": "http://wagerfield.github.io/parallax/",
@@ -30351,17 +30307,6 @@
   "hash": "f6f20204cabf2dde87b34ce1831bc2d3"
  },
  {
-  "name": "Hypnotic Effect",
-  "descript": "Stare closely at the center of the screen and keep you eyes still..  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/lsd/",
-  "thumb": "https://lh3.ggpht.com/zoSxiy5JCwTHaeiQuJHAK94wQiisVfZYxFMcmRzc80dQD_vnA3QB5L-NW7F4uepPR9DwvUwBQIa_VaFjrl4AtrPYLJYSGvzGQ9Q",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e89af2eb5859ae53d8d3585a545fc4da"
- },
- {
   "name": "The Qubitzoid",
   "descript": "The QubitZoid is an interactive metaverse; a real-time social sculpture, a post-digital living....  by  Crazy Qubits ",
   "url": "http://crazyqubits.com/qubitzoid",
@@ -30459,17 +30404,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "d6ec3ae2da96268a59e93f3a4a88a340"
- },
- {
-  "name": "Molecules",
-  "descript": "Just some adjustable molecules..  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/molecules/",
-  "thumb": "https://lh4.ggpht.com/ITkK1XPqeD71DdPVjacIc_27TfwsFp4FTXIxFqAYtQ8xGhzkYbRvJhrMWlojBjZbn00ZFiZIffDX-UQFsSC060dWUwxBMcGtjA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "a4ea121e71e07db5386830399e9d943f"
  },
  {
   "name": "One Million Particles",
@@ -30690,17 +30624,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "d58bdd46b4fc280299f65a37d9eb539e"
- },
- {
-  "name": "Particle Emitter",
-  "descript": "A little fully adjustable particles emitter..  by  Rodolphe Delapierre ",
-  "url": "http://sheepeuh.com/particles/",
-  "thumb": "https://lh4.ggpht.com/WZr6hqQ4KgK7zzvlWZvbNLdHP4LkRFnK7CpUX8bTf-LdDaGoQDosoEO1L8UszMxbLLtrm-e0TceTVphZXu6LAFon11fKjaEkNRXG",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "7a1d8b829b1987a89a4be6ed09b193d6"
  },
  {
   "name": "Pixelbased KdTree Voronoi",
