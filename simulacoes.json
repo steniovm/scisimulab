@@ -28064,7 +28064,7 @@
  },
  {
   "name": "Oculus Rift GUI",
-  "descript": "For simple WebGL applications based on Three.js the Google's Chrome Experiment DAT.GUI is a good....  by  Markus Sprunck ",
+  "descript": "For simple WebGL applications based on Three.js the Google's Chrome Experiment DAT.GUI is a good...  by  Markus Sprunck ",
   "url": "http://webgl-examples.appspot.com/simple-webgl-gui-oculus-rift/THREE.SimpleDatGuiOculusRiftDemo.html",
   "thumb": "https://lh3.googleusercontent.com/3IYnfs8W_9ZOYQVGO98kmQ9UYkfxP30wQk7jYrao5kQ7p2nMW-kgcvxWFbUeyG73GB_Uigzc2qhv-1yPRlX2SgL23cWFaJpNJZyaUQ",
   "categorys": [
@@ -28160,17 +28160,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "dbd8e84fba2fca9c4c99585c903edfdd"
- },
- {
-  "name": "JamBells",
-  "descript": "JamBells is a seasonal mobile web app that allows you to make a handbell choir with friends on....  by  Viget ",
-  "url": "http://jambells.com/",
-  "thumb": "https://lh5.ggpht.com/_SlyHI6C1BmidTtWKLw7YF4wo5nzz_D4OR5xpIVN1Au7uVLcQEpjK6pgJqZ_iafobLTBN7ZwCISiQjMzGJf2pFTW7o9r7eEHteA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d3b7c9711e358e45c523c5996afee826"
  },
  {
   "name": "Sapo.js",
@@ -28569,17 +28558,6 @@
   "hash": "449b37306fc436d4bdd614db58787540"
  },
  {
-  "name": "Particles In A Vector Field",
-  "descript": "This is an update to my old uni project. I'm trying to learn FBO's usage and rendering to....  by  Marek Janiszewski ",
-  "url": "http://www.marky.pl/vector-field/",
-  "thumb": "https://lh5.ggpht.com/n-GpOHOqDHi7YvYDfRpPIl4_44zoSv-4E8x_c24dvIMqiv53Cs13jGQwNrCdpnPcDQTRvKjVKIih5IhYPD-rTizwgxJhSdD9mD6N",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8721ca4ae1907d168a3a9b454e8a9ce8"
- },
- {
   "name": "JS Racing",
   "descript": "Was using WebSocket and WebGL, this is an online racing game. When read by a smartphone QR code,....  by  Shingo Nishida ",
   "url": "http://js-racing.knockknock.jp/",
@@ -28732,17 +28710,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "b0415ad24bc3b01b022a33a7267cdcde"
- },
- {
-  "name": "Kinect View",
-  "descript": "Had a free moment and decided to try something I never tried, using the webcam. Inspired by few....  by  Marek Janiszewski ",
-  "url": "http://marky.pl/vu/wce/",
-  "thumb": "https://lh6.ggpht.com/OG0lEdjcRCrjqAhZO-akUiz8XLgblkt2rlxBVe4z60VZBZ3oaYGnxlDPFHghTuEWclGkH0IYyjtUmd7irmWA_KWhLRu-FaIGQQvH",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "b92e06e4d49fbaead668ea1086a94844"
  },
  {
   "name": "Geometric Photo Filter",
@@ -29570,8 +29537,8 @@
   "hash": "608a3e7a8adf665784072313686b7412"
  },
  {
-  "name": "jsOrrery",
-  "descript": "jsOrrery is a visualization of our Solar System. It shows the accurate positions of the planets....  by  Martin Vézina ",
+  "name": "JsOrrery",
+  "descript": "jsOrrery is a visualization of our Solar System. It shows the accurate positions of the planets...  by  Martin Vézina ",
   "url": "http://mgvez.github.io/jsorrery",
   "thumb": "https://lh6.ggpht.com/FqqJHP6vfMDyxMo-9ukXOHhsl3Im71nZU6SeatO1A174HmT8ag0v36_77txiXdf1cdrAij12RZQv9v9Ztb-BhRaXtH6a0ZyN-cef",
   "categorys": [
@@ -30164,17 +30131,6 @@
   "hash": "ddd5606fc20b304298c9cdc2e3cc43c8"
  },
  {
-  "name": "Just In Time",
-  "descript": "\"Just In Time\" is an interactive videostory. A student has to go to the university for exam. On....  by  Ralf Leifel ",
-  "url": "http://www.omm-jit.de/",
-  "thumb": "https://lh3.ggpht.com/447ckbQnwophNtT_WNdiyDmaZgzN-AXCwfE3eYx3RqJR5L6vkIaNVWP-V810K40rffW-J6vKej275o5OSzrKIrv-bY9V1OHKhGwUVw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ee0ba10cf90a9e2bcf142c0ecabf8cba"
- },
- {
   "name": "InkRays",
   "descript": "An interactive SVG Generator..  by  Thorsten Karge ",
   "url": "http://thoka.net/inkrays.html",
@@ -30748,7 +30704,7 @@
  },
  {
   "name": "Responsive Typography",
-  "descript": "This experiment is a proof of concept about how capturing the user with a web camera can be used....  by  Marko Dugonji? ",
+  "descript": "This experiment is a proof of concept about how capturing the user with a web camera can be used...  by  Marko Dugonji? ",
   "url": "http://webdesign.maratz.com/lab/responsivetypography/",
   "thumb": "https://lh5.ggpht.com/QCIRaID2ozetlwMpi32jIxJqSf7u9tgMQMxYS2jWu-EnKn49YM35jbkigLjQJQrM1Jg8DqQWWZ2sutZx0ebHsaQj89HsOmzFiyLY",
   "categorys": [
@@ -30759,7 +30715,7 @@
  },
  {
   "name": "Texter",
-  "descript": "Texter lets you use your mouse to draw, although rather than drawing lines or paint, it uses....  by  Tim Holman ",
+  "descript": "Texter lets you use your mouse to draw, although rather than drawing lines or paint, it uses...  by  Tim Holman ",
   "url": "http://tholman.com/experiments/html5/texter/",
   "thumb": "https://lh4.ggpht.com/zxZgWZllE-7yUepVTqgsHaddl6fays2NbLkvWEXRw1vaMXJvMehxI-SGgm3amyYdDayeWrLL3qWr2rs6MpPwj6AIbp8R25voVh1N",
   "categorys": [
@@ -31947,7 +31903,7 @@
  },
  {
   "name": "TypeKern",
-  "descript": "TypeKern is a kerning game that helps you practice your typography stills..  by  Mark MacKay ",
+  "descript": "TypeKern is a kerning game that helps you practice your typography stills.  by  Mark MacKay ",
   "url": "http://type.method.ac/",
   "thumb": "https://lh4.ggpht.com/AGvPSs80QgQEG-gchR6Y4leiTN1_WJTswItKkWLkLmytz2Xi9Y6pkgk9B4lNXI4uPK-Keohli_3mgZB8Yif4eFe5WV9C4nmCs08",
   "categorys": [
@@ -32419,17 +32375,6 @@
   "hash": "09101eeb14d90aedd22a72c60429ecd5"
  },
  {
-  "name": "John Conway's Game Of Life",
-  "descript": "John Conway's \"Game Of Life\" in WebGL with a native screen resolution and a free ruleset.  by  Tim Scheiter ",
-  "url": "http://webgl.timmey-home.de/",
-  "thumb": "https://lh5.ggpht.com/Dr2h2cEj_FHqKQ6D4UyuBjCVquayb6MgeGXFObSNGfIKKczSr-tqwJ5-Rhg1WQEra077xAGyjZ3yOpVScv4QzN3UhcJQ1dZ9Atjp",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "407e70885f71240c40de7973443855d4"
- },
- {
   "name": "Wormz",
   "descript": "HTML5 Canvas Experiment.  by  Zanoni Miranda and Zeno Rocha ",
   "url": "http://zenorocha.github.io/wormz/",
@@ -32683,19 +32628,8 @@
   "hash": "aed70275ff4eea820baedb0b46cd5436"
  },
  {
-  "name": "Memela",
-  "descript": "A lite-brite inspired drawing application..  by  Mark MacKay ",
-  "url": "http://memela.com/",
-  "thumb": "https://lh3.ggpht.com/CocGXuU58mYdAzQMcWVgN2QQxH95FvOIdsYLcLaMO0EXuBVBLAGfUafAMcwFJcJfNDmb59Z_NLy6iTL5soR0y_mZ31TYc1CLZ1PUKw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ede013aa31bc0da72cff92c0ceda1d9e"
- },
- {
   "name": "Iceberg",
-  "descript": "A little demo showing off an iceberg with normal mapping, eflective water, and hdr rendering.....  by  Jonas Wagner ",
+  "descript": "A little demo showing off an iceberg with normal mapping, eflective water, and hdr rendering...  by  Jonas Wagner ",
   "url": "http://29a.ch/sandbox/2011/webglice/",
   "thumb": "https://lh5.ggpht.com/B-63V9ew2L66d2VyDFTAArH2ch-pHKDQnSe1E08S5MkH9p7kHGdsNXPNuCFYiJM8dY12q3HEWGxYAyJ98RMfcfdoKLzLDa_nddA",
   "categorys": [
@@ -33025,7 +32959,7 @@
  },
  {
   "name": "Julia Sets Animation",
-  "descript": ".  by  Evgeny Demidov ",
+  "descript": "Fractais animados.  by  Evgeny Demidov ",
   "url": "http://www.ibiblio.org/e-notes/webgl/makin.html",
   "thumb": "https://lh6.ggpht.com/Tmold6eqoNaRWqG_Szry4vUv8aMpEJ0wYzv0z-JNiHf3iRDK2z_tz55QXTO2GfKqLBixh0WdQMeXiyq20e2z8NKoOqkrMz2GF1pJ",
   "categorys": [
@@ -33827,17 +33761,6 @@
   "hash": "7691b5576dc6b111539fa87ae38a67c8"
  },
  {
-  "name": "Javascript Canvas Raytracer",
-  "descript": "Renders a static scene of textured spheres, discs, cylinders and planes..  by  Mark Webster ",
-  "url": "http://jupiter909.com/mark/jsrt.html",
-  "thumb": "https://lh6.ggpht.com/7eq5ylLdLNebkuqRpxIuioHaaPah7g-zaZiZxRlQv6inw6P7r3_ycB78LAfYqUusK-uDsEi4xc-9dkDlutlHjkXabzpm4GcYfdr6",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "77005203b13c4a734023e3a9ca54cac2"
- },
- {
   "name": "Wavy Scrollbars",
   "descript": "Touch scrollbar thumb to make waves. Based on verletphysics library by toxi..  by  Andrey ",
   "url": "http://the389.com/experiment/",
@@ -33861,7 +33784,7 @@
  },
  {
   "name": "Vizeddit",
-  "descript": "Vizeddit visualizes a stream of votes and comments from the Reddit.com API. Colored bars....  by  Yvo Schaap ",
+  "descript": "Vizeddit visualizes a stream of votes and comments from the Reddit.com API. Colored bars...  by  Yvo Schaap ",
   "url": "http://erqqvg.com/vizeddit/",
   "thumb": "https://lh3.ggpht.com/YlYbRRiDM48rv7mGdDrLrllkSaoKy0L-db7WyOzPCx9f0UeFDiWUUKs0BvcjHLBbACzkqgg8rqiq5AQP3aPOmz0FmdAioZ0-eKI-",
   "categorys": [
