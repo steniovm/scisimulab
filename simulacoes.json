@@ -25280,17 +25280,6 @@
   "hash": "6010e7c438ad015caccbca75b5b78244"
  },
  {
-  "name": "Infinite Patterns",
-  "descript": "Artist Pinar&Viola create one-of-a-kind patterns using machine learning.  by  Pinar&amp;Viola, Alexander Mordvintsev ",
-  "url": "https://colab.sandbox.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/appendix/infinite_patterns.ipynb",
-  "thumb": "https://lh3.googleusercontent.com/9WHlGmgkVRMYzifLC4Tml6IGcoMVwG846oL3mEHxbEbg_F4CLfoaQtDIr4isNDBmpS31Y5KvQ6NNLUDwSnVxv_qnnh6h",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "816e2a808bf22f86d4ca4cdaf26d7bc3"
- },
- {
   "name": "POEMPORTRAITS",
   "descript": "Artist & Designer, Es Devlin invites you to take part in a collective poem - woven at the....  by  Es Devlin, Ross Goodwin, IYOIYO, Google Arts &amp; Culture ",
   "url": "https://artsexperiments.withgoogle.com/poemportraits",
@@ -27027,17 +27016,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "ddeaced87afe7b93b980f316fc22c425"
- },
- {
-  "name": "Infinite city",
-  "descript": "Infinite procedurally generated city on Three.js.  by  Alex K ",
-  "url": "http://mylittlerapture.com/three.js/Infinite_city.html",
-  "thumb": "https://lh3.googleusercontent.com/xc16EwYvk2CNS6wgRUnS4xuJwJfZn4M9dXtZRykeq1BU8MgfG93TO-X5GSJqJrkaLetW9vTQhbKxzqRG1sFAcgq3IjmAUfXBJSfb",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4c18f7a8ec3f5c97f492190ad4c63d38"
  },
  {
   "name": "Voxel.css",
