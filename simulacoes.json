@@ -25478,17 +25478,6 @@
   "hash": "d0085360c86d65974527a37c56ceeb3a"
  },
  {
-  "name": "Lantern",
-  "descript": "Transform any surface into AR using Raspberry Pi, a laser projector, and Android Things. by Nord Projects for Google",
-  "url": "http://nordprojects.co/lantern",
-  "thumb": "https://lh3.googleusercontent.com/F2xrngufPi4uldRislEEQlXUlZrSv30He7pbmTSiJoVnIfW7KZo3KIT84VBXShOJeEIIuwH01RL-KEE2gg6hVu5MhIP2cA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4fae0467e07e2e7fb7f86a30c5f1f481"
- },
- {
   "name": "Scrying Pen",
   "descript": "A realtime implementation of SketchRNN which predicts future strokes while you draw. by Andy Matuschak",
   "url": "https://andymatuschak.org/scrying-pen/",
@@ -27546,17 +27535,6 @@
   "hash": "fe504e8b2676950424584d5290086c5e"
  },
  {
-  "name": "LYD",
-  "descript": "A keyboard-based interactive music video for the LA-based band Busy Living. This experiment lets... by Spencer Sheridan",
-  "url": "http://publictrust.biz/thru-interactive",
-  "thumb": "https://lh3.googleusercontent.com/gUYcH5s67pYxBUJAmg9E_dGRE42zaakHmQTNKJbD5xB61TJEH_YcwicZpg6knglpDsjSyegOFWOvqZwXuvv768ZjdtkCXtGvd-cw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "0d76bb86be2b041f7d6dfbb22b504463"
- },
- {
   "name": "NType",
   "descript": "NType is a 4D communication tool. Use it to explore typography extruded into the 4th dimension... by Kevin Zweerink",
   "url": "http://ntype.blue/",
@@ -27599,17 +27577,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "9c0b5940313fa64bb418ea55a69935c2"
- },
- {
-  "name": "Magic mirror",
-  "descript": "Web camera triangulation. by Alexey Roudenko",
-  "url": "http://www.alexeyrudenko.com/cc/js/030_triangles/",
-  "thumb": "https://lh3.googleusercontent.com/Bi3_flmLnRVPQ1g56h9rOeXbV__C_9DHZhI_zK7LrqlZ5Dq1eSqaSiUB3bE_SqgUL8qkJzLvebTx7xzt6dxFKVrUtZetrtUAY0BA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "9b357c7fe8636b3901a0f9af34421e7f"
  },
  {
   "name": "Box Physics",
@@ -28030,7 +27997,7 @@
   "hash": "40dac6678b27a3364f1eabb0aabee7ec"
  },
  {
-  "name": "marching cubes music player",
+  "name": "Marching cubes music player",
   "descript": "THREE.js \"marching cubes\" animated to music and textured with webcam. by geraldine erman",
   "url": "http://geraldineerman.com/mcubes/marchingMusicCubes.html",
   "thumb": "https://lh4.ggpht.com/IW-kiqsKc6NdBIvsc_BP3OzOKXU44JgnxVFi6IPX2TYeT6MnxlGW6lVfupDNONUMAN-3tU8qxSNy4PjKQdMc3_gjcaK45aeKVl5D",
@@ -28316,17 +28283,6 @@
   "hash": "520d1ba5119ab813111b198dee40fee7"
  },
  {
-  "name": "Streetlights",
-  "descript": "An interactive christmas card. Click/tap on the buildings to arrange the lights and play with... by Einar Öberg",
-  "url": "http://inear.se/streetlights",
-  "thumb": "https://lh5.ggpht.com/AeTOEYAvjLOeKqJ10ylfP2rz4gvahupGHoptHR5t9SIhJPNkWeuQiSkEWF_YE2SZmAd1NSzubo7gEPn0xBSyWC5czxlRUAn0gSw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "2e709deef850735a8ea828b2d26cd542"
- },
- {
   "name": "We Need Us",
   "descript": "We Need Us asks questions about the purpose and nature of data, beyond their informational... by Julie Freeman",
   "url": "http://www.weneedus.org/",
@@ -28457,17 +28413,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "fc80d7199e9f6a6c41208ffc154046f8"
- },
- {
-  "name": "Three Mesh with Physics",
-  "descript": "Porting of Litsphere shading from open frameworks https://github.com/alexeyroudenko/ofxLitSphere. by Alexey Roudenko",
-  "url": "http://www.alexeyrudenko.com/cc/js/014/",
-  "thumb": "https://lh3.ggpht.com/lLsdnmImUj6NM_kMwzawcZpE2MwDBN63jjeZxOvdPI4zUMHw8ARi9c84Ue1Q4Dh8e9yfStOJt3AoU0w59LqcE4ZZhhxzuDkojyb7cg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3c0a0dac9990edd442827e4bc2d21fa2"
  },
  {
   "name": "See Hear Party",
@@ -28699,17 +28644,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "b4b90b44cb850f725315b4c1e6484520"
- },
- {
-  "name": "Lich.js",
-  "descript": "Lich.js is a browser based live coding language for music and graphics. by Chad McKinney",
-  "url": "http://www.chadmckinneyaudio.com/lichdemo",
-  "thumb": "https://lh5.ggpht.com/n8L2CGEBtZWEL8N1v12j-hzCGFizYDHL3SWhGXkxUtFTgmOu7KeXgeq5-5LV4msG12tmLRXNWguwZ8Yn9czhq5_0Q9QnvOKZZVY",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "b1ca6efd30795867d995cda7243d34f1"
  },
  {
   "name": "Butterflies &amp; Computer Eyes",
@@ -29227,17 +29161,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "69df322a6325019e3510b069ab4126cb"
- },
- {
-  "name": "Urban Jungle",
-  "descript": "Turn your neighbourhood into a jungle with the help of Google Maps Street View. by Einar Öberg",
-  "url": "http://inear.se/urbanjungle",
-  "thumb": "https://lh4.ggpht.com/HhKVBIzMqb63ZrJd1PzSGsJJErf8mljbi_viGmSiYss_pg825WNxa_hMLH8eGrv5WsOc4iWXwaGjUSSCAZlmV2dWKANmsmNDIQLXaA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "1ed52119365c4988b4a6a1da099fc893"
  },
  {
   "name": "Patatap",
@@ -30802,17 +30725,6 @@
   "hash": "3f6eed3de387a8a7f57ccbc6caa99695"
  },
  {
-  "name": "Line Art",
-  "descript": "A little experiment with animated lines trying to create an elegant visual experience. by Alejandro U. Álvarez",
-  "url": "http://lab.nuostudio.com/lineart",
-  "thumb": "https://lh4.ggpht.com/p7x8Ua2xLwd-bHpxPluFg4ENdvbrUrZYqb7ftqBg3tfa9wmusOXIj6oluv0l46Rj2sFEImauVesnElkXuDKt_At1DoTtUxjkfFM",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d8910ab5bc95aa151062e962811b0bfa"
- },
- {
   "name": "Billy",
   "descript": "Billy is a tiny, visually-oriented programming language for children. The goal of the project is... by Simon Last",
   "url": "http://simonlast.org/billy/",
@@ -31152,17 +31064,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "e401860c4203e3b780e7253752c64b42"
- },
- {
-  "name": "visualEYEzer",
-  "descript": "A procedural eye that react to the music and follows the mouse. by Einar Öberg",
-  "url": "http://inear.se/visualeyezer/",
-  "thumb": "https://lh4.ggpht.com/_PlJn9hx4CCX2tPk8VmLiXuOudXQkMFCbOR4t2nE9g-Ph75k121dS5KE1S9Xwrj6dwll48lg1uM5b-HcrQLKfVX6z-amaMhOamdWUA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e142cd786f3b3a7e1e9dc17092d35ca2"
  },
  {
   "name": "Wireframe Ripple",
@@ -31539,17 +31440,6 @@
   "hash": "1869c544645aa246a549312022dccb6e"
  },
  {
-  "name": "Livecodelab",
-  "descript": "Livecodelab is a special secret place where you can make fancy \"on-the-fly\" 3d visuals and play... by sketchPatch",
-  "url": "http://www.sketchpatch.net/livecodelab/index.html",
-  "thumb": "https://lh6.ggpht.com/ZXMx9odpvYfANC65xRwsr90LzMMM5mDnCKiHcFUCHcD3L9AfaHlOHWFB7xnWzFmuHKa69NzM_yP8ufFLizJrWULPYFjGWOnZ2fM4",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "c078e2a92bbea9b742d96b0bd4ecde17"
- },
- {
   "name": "Simon Says",
   "descript": "A fun and simple music memory game. Inspired by Simon, a toy from the 80s. by Daniel Christopher",
   "url": "http://labs.uxmonk.com/simon-says/",
@@ -31735,17 +31625,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "cbe0fbbf8d37fc33369d1bf7600ba221"
- },
- {
-  "name": "Lathe Machine",
-  "descript": "A virtual lathe machine. Select your material and hold SPACE to get it to spin. Use your left... by Einar Öberg",
-  "url": "http://inear.se/lathe",
-  "thumb": "https://lh4.ggpht.com/bRUwUkrrF98HMqMEuFnMlbis9UDrPM97hwSb_DjU886FCM9E5rNOQMVkpfTAkSfMc0Vb3dGGfomPM9l6H-HJOYDup_Y6IYCVD4J7yw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "4c5469dc851375fd9e110e4e78306a1a"
  },
  {
   "name": "Planet Sudoku",
