@@ -27062,17 +27062,6 @@
   "hash": "a767f5d418b81aac22993a54277957bf"
  },
  {
-  "name": "Sound Room 1",
-  "descript": "Microphone audio is sampled and placed in a virtual room. Interactive tiles repeat the samples... by Ray McClure",
-  "url": "http://dreamboat.io/soundroom1/",
-  "thumb": "https://lh3.googleusercontent.com/COdN_4IKB0v2Kbt9azrejScUW99KmsCBElpPSuq3YbwxH6oA-pJOpFbMprG0-8uoOlxS3Wo2qoVaER4TrqUzi0NPnnR78ideVhfz",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3f6d1e2478f9e44827e4bac2b9c8ae4a"
- },
- {
   "name": "Typatone",
   "descript": "Make music while you write. by jonobr1",
   "url": "http://typatone.com/",
@@ -28030,17 +28019,6 @@
   "hash": "e3f83095444738e0ef6a7ae59885de34"
  },
  {
-  "name": "Word Map",
-  "descript": "This experiment brings together the power of Google Translate and the collective knowledge of... by Loducca",
-  "url": "http://wordmap.co/",
-  "thumb": "https://lh6.ggpht.com/f8-rroahFy2BTpC1M3_mHAka9GifU-ktwov5FpoCczTyo3t4BBkazK_-EpRytIg43j6-fAdRZvhv_8UpX6ugl0rVvGv1KV9TrdDslQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "992d9313d861b70d5ace85fc01ce0abd"
- },
- {
   "name": "ShinyText",
   "descript": "GPGPU Spring Mesh being demolished by angry bees. 3D GUI changes rendering and simulation information. by Isaac Cohen",
   "url": "http://cabbi.bo/ShinyText/",
@@ -28699,17 +28677,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "691d2495c14dbe122400a14b30251cbb"
- },
- {
-  "name": "PollySynth",
-  "descript": "PollySynth is a multiplayer polyphonic synthesizer. Synthesizer voices are visualized as... by R. McClure &amp; S. Roux",
-  "url": "http://pollysynth.com/",
-  "thumb": "https://lh3.ggpht.com/Kd-ZCKC7CNmcgiBHnegyDXdXng5Bnbx5nGFAxvIdnmiQJIwgi1KTE4enG2lnEBfEsA-fp6l0wE5KCYj6WOP_Gkl__Mmq8dWufjG21g",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "bf3db9979b1322bfd3dfcf2b60361bbd"
  },
  {
   "name": "Recollections",
@@ -31000,17 +30967,6 @@
   "hash": "f0a445f8617385cb1ad0e1ddb75cf56a"
  },
  {
-  "name": "Pronunciation Game",
-  "descript": "A game for english students to practice their pronunciation skills with Google's speech... by Loducca",
-  "url": "http://easywaytest.com/",
-  "thumb": "https://lh4.ggpht.com/N900rKw6kh9A_bEXuQKEyHHancRLjOo6TtQtCfh8LC_JOUWvF5p8d0N6FR2UfEe_h1GX0pQlu4EWbAlCAlTFNFuzTD7F3gU4JgDg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "737b6c6ec18732a5bf040f70bedfcd38"
- },
- {
   "name": "Paintbrush",
   "descript": "A fun and unpredictable kinetic vector-painter. by Simon Last",
   "url": "http://simonlast.org/paintbrush",
@@ -31858,17 +31814,6 @@
   "hash": "acac21132dee445f87ea8bc02cfe9940"
  },
  {
-  "name": "Progressive Julia Fractal",
-  "descript": "Mouse-Reactive Progressive Julia Fractals. The fractals develop with every animation frame. by Felix Woitzel",
-  "url": "http://cake23.de/progressive-fractal-fullscreen.html",
-  "thumb": "https://lh3.ggpht.com/09FOrj3ssdu6kLGS-F_H9XoUN9qokjFcoe4YOIFvgdhyhof474HGpDP-pWQGyEWzLTLN1jPGa3rtO7s9VuW4Z48edquJBE59ZvoZ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "404d500982383105c75546487da0c71f"
- },
- {
   "name": "The Sproingies",
   "descript": "After years of seclusion, the youngest generation of Sproingies make an appearence on a WebGL... by Ed Mackey",
   "url": "http://www.snappymaria.com/webgl/Sproingies.html",
@@ -32067,17 +32012,6 @@
   "hash": "209c9aeed06a8e147b8215de4344f4ea"
  },
  {
-  "name": "Pong3D",
-  "descript": "Everybody loves Pong. Pong3D is Pong in 3 dimensions. Features: - retro colors - audio... by Yvo Schaap",
-  "url": "http://yvoschaap.com/pong3d/",
-  "thumb": "https://lh5.ggpht.com/uDA9QRLYjdwAbFEgoMrPTnzeF0Qj0cPmU26-hXjntpep0ii7WnBMQYe6t0b4KKbwhZbHOzFknXhAgtpgZFyYxyMP9dAmgBUn3z2w",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "9f0baf82fa1b8270c96dac4a57000d31"
- },
- {
   "name": "WebGL Maze",
   "descript": "This is a 3D maze game made with Webgl. You have to go from the START display to the END display... by Xavier Bourry",
   "url": "http://www.spacegoo.com/maze",
@@ -32263,17 +32197,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "ba8f551505e7e6868c5cb5b1fe4b1ae6"
- },
- {
-  "name": "Protein Ribbon Models",
-  "descript": "Search the Protein Data Bank and load ribbon models. View ribbon models for proteins and nucleic... by Kevin Theisen",
-  "url": "http://web.chemdoodle.com/demos/pdb-ribbons",
-  "thumb": "https://lh4.ggpht.com/6AB-rozqVeDJXoV-Gsx3W0kvJXMaen1_1c30xI_tW61nOywPlaca_iArtq8YKBB43GbmvP7Scm9d9xIeMCJg3MBYQ8BYvaIN5qwPsg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "1e1919bd1d258857abc151f46d4e75c1"
  },
  {
   "name": "Argon",
