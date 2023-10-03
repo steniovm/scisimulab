@@ -25610,17 +25610,6 @@
   "hash": "aa80034368f95166c70883ebc9eb5ed1"
  },
  {
-  "name": "Neve",
-  "descript": "An enchanting AR snow globe. by Active Theory",
-  "url": "https://drive.google.com/file/d/1mbtjm9fEU49y0YoZAw42Qc6MhRiGtuRy/view?usp=sharing",
-  "thumb": "https://lh3.googleusercontent.com/JKBJ7sVgd0i1sSxuVWby38Mt-Bel12OUtHiZUF44pF6Og7TuWQQ93RenYiGaG6imKPyI5cGiL438bLLV3GriA86xYUatEgE",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d3f7433820075372c7fd58f7ce29e20f"
- },
- {
   "name": "VoxSculpt",
   "descript": "A WebGL voxel sculpting application. by Josh Shadik",
   "url": "https://joshshadik.github.io/voxsculpt/src/",
@@ -26631,17 +26620,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "4bb7849e53a5b2f9407a1a7d902e1fef"
- },
- {
-  "name": "Nocturne",
-  "descript": "Truths about the world, knowledges of matters, deductions of how liquid flows, predictions of... by sydneyzh",
-  "url": "http://nocturne.sydneyzh.com/",
-  "thumb": "https://lh3.googleusercontent.com/4QZ-wI6ZbWzO9Z9lFDJmEkl52yaWP7l40WCtX1NORjEEtQ1fmWhFMy-crKGSWu2EuOmxU-Pzs1pxuMVnnrajp4igZ2IAzBXLk6Fp",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d11d54db0c3e1d7ea445225581d6c13d"
  },
  {
   "name": "Cubic Time!",
@@ -32562,17 +32540,6 @@
   "hash": "cce6c5f36836e4c66bf0c5d4c827fe5b"
  },
  {
-  "name": "No Eleven - High",
-  "descript": "This is a music video for the trip-hop band \"No Eleven\". Images which are used in the... by No Eleven",
-  "url": "http://www.noeleven.com/animations/high/",
-  "thumb": "https://lh6.ggpht.com/xLr8Ti_zie5a_0LdyqmKT8edMl-Ys0wl9iijrs4bryg_zfb_73BqHb0HcANq6VtPwgclsmJKDR3lMv28BVmMdZKK7P9qj6F96sLg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "2897bc26cedc8dee4bd6ce41a0457789"
- },
- {
   "name": "WebGL Earth",
   "descript": "WebGL Earth is an open source project enabling to explore, zoom and “play” with the 3D globe... by Klokan Technologies",
   "url": "http://www.webglearth.com/",
@@ -33187,17 +33154,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "90db431e49f30f44a663030f2172b4f0"
- },
- {
-  "name": "Normal Mapping",
-  "descript": "It's just a little experiment with realtime normal mapping in javascript. by Jonas Wagner",
-  "url": "http://29a.ch/2010/3/24/normal-mapping-with-javascript-and-canvas-tag",
-  "thumb": "https://lh6.ggpht.com/gLVTYZ-yfoQKvCdrfAfJjbDFIzLEI5k5akKvrjxj4O1gF3afV_ukpUqEIqYVGCi-JLLVeMK3yW4WhyAv2TYME-d2Q8mHGLDH5K4",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "a7d64743693d5570f0ae4caea58f6f0e"
  },
  {
   "name": "Harmony",
