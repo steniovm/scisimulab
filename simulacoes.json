@@ -26481,7 +26481,7 @@
  {
   "name": "Meteor Showers",
   "descript": "Discover what meteor showers look like from space and explore meteor clouds in our solar system. by Ian Webster",
-  "url": "http://www.ianww.com/meteor-showers/",
+  "url": "https://www.meteorshowers.org/",
   "thumb": "https://lh3.googleusercontent.com/pFZtwP-gto9PZpCy38A2w7eYnepXVqftuvbgiH-4y8URNopy_ZqxUqTnh0H_vYJJ8qfDAKL6vJI1nIlK94oUF2Pw5Peb55tmHbbKqw",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -26609,17 +26609,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "57774abc86bc343b8e07b0ff8b199871"
- },
- {
-  "name": "Musiv (Music Visualizer)",
-  "descript": "A visualizer using dots and other components that change color, size, and speed depending on the... by Andre Ruegg",
-  "url": "http://musiv.net/",
-  "thumb": "https://lh3.googleusercontent.com/CtDzCIEGvnMfHZZpqluGVUw6gSyzzxUgYt8x3fBASI40AJviKWEg-lwQTIDIGgQ0Ay0jxU9mBjEnKxWhqkXB5AfJpndEd5Vuxts",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8bbb6747591a346329e14816be4d24a2"
  },
  {
   "name": "Conway's Game of Life",
@@ -27821,17 +27810,6 @@
   "hash": "31b77f59bdffe603dcae9beedf529e09"
  },
  {
-  "name": "MY SHARDS",
-  "descript": "Using Three.js and a bunch of 3D models of glass shards, magic happens. by Ezra Miller",
-  "url": "http://myshards.com/",
-  "thumb": "https://lh3.googleusercontent.com/QWjCvW5kIpM-bn05Bx5VQ6FNvS6lh0nzDoPDWlwxvOr3H_O3A_hkJb5rOl930fxoFfi--EG27gtZucqTOQL3jMtQADTN86a-c-w",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "80dffb70eb31fe85c2c7c9238acf36f5"
- },
- {
   "name": "Audio Landscape",
   "descript": "Generates landscape from MP3 files, drag your own on or click to play a default. There are 3... by Dan Neame",
   "url": "http://dan.nea.me/audiolandscape",
@@ -27863,17 +27841,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "59a457a161604f7c92910e2803881fcb"
- },
- {
-  "name": "MOSH",
-  "descript": "Web app that allows you to apply creative ‘glitch’ filters to images and the web cam. Hit the... by Felix Turner",
-  "url": "http://getmosh.io/",
-  "thumb": "https://lh5.ggpht.com/n7Q47p3q7JI83I8nED-WMNMYUMSK9rHyMVT4PvjzuXyOe5CyNMGWBDhlHJaxxYkRp6dAtv4M9_eJgCx6wEvCes_PW-Uii3vOJda6",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "38e6e82c3651dbffdbd48884b2c1caec"
  },
  {
   "name": "GPU Curl Meshes",
@@ -28303,17 +28270,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "5dc24c7c1fee7eb0d6a4229e37e58f14"
- },
- {
-  "name": "Moles &amp; Furious",
-  "descript": "Moles and Furious is a simple 2D javascript / html5 canvas one button shooter. Kill the furious... by Ludovic CLUBER",
-  "url": "http://molesandfurious.roostrjs.com/",
-  "thumb": "https://lh3.ggpht.com/51AYiTMNPPF6i8MgWymOAjgizKrVL1sGP07Aokp86V_QOdmOPwzyfOCUIhvBLxZ7tFwc_Qr0IrBgkLpF59BRef5iE5DnxMbZWnMX_A",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "9fcf5ed61ca49537a03b65e1a9063de6"
  },
  {
   "name": "WebGL Ray Tracer",
@@ -29691,17 +29647,6 @@
   "hash": "e10d311f34c7e4cce79fb1cae5deabf8"
  },
  {
-  "name": "Namek Solitaire",
-  "descript": "This is a Solitaire Game Engine. It is different in that games are built out of JSON objects,... by Namek Games",
-  "url": "http://www.namekgames.com/solitaire",
-  "thumb": "https://lh3.ggpht.com/h3J3FFKHcK602nmfZioyWcE_MxPfaM_3Im4Fav4nPA8d2CXknF4UO2ix5FkvuuT5HfkDvLtKZhfnuI-KIHCofbbR0qLj64dU5Cg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "fa40789b73244022bafa530e0b3d4f95"
- },
- {
   "name": "TiberSynth",
   "descript": "TiberSynth is a real-time audio synthesizer that runs in your web browser. By \"real-time\" we... by Cory OBrien",
   "url": "http://tibersynth.prtcl.cc/",
@@ -29889,17 +29834,6 @@
   "hash": "b2ae8b79b393b2d832d432c154081399"
  },
  {
-  "name": "NessBots",
-  "descript": "A full, free game in which you design and code robots to fight against other players or... by Ronen Ness",
-  "url": "http://www.nessbots.com/demo/",
-  "thumb": "https://lh6.ggpht.com/o1LLPZzO0Q_KB3PTrZYiVp6nGB7yPAwIhlnAZlIJ-W5BaUk_cXHxFv6KrD4SpLsOvybgzzNu_6sS0JfyH97rHvoFAqbftaVe0Chr3Q",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3402237e526c8fb77bede385955c803b"
- },
- {
   "name": "Hashima: Forgotten World",
   "descript": "Take a digital dip through history and discover the secrets & myths hidden amongst Hashima... by Bryan James",
   "url": "http://www.hashima-island.co.uk/",
@@ -29942,17 +29876,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "e57f94b0fbd6c30000a66ca51c373c69"
- },
- {
-  "name": "Motion Detection",
-  "descript": "Experimenting with HTML5, webcam access and cavas. Using some basic motion detection /... by DHD",
-  "url": "http://webcamtest.davidhunterdesign.com/motion_bubbles.html",
-  "thumb": "https://lh5.ggpht.com/WeCIanEAbRsV_n7-QRbIAzIYxFv_VoCPZm29IZ-Dw2cXM-_w0fcAy5Y46qxXKYXk84nPQSFSE-JOySOUdfTiPbPjcUY-_6q7DjMA",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "38583c705e5201d16a7495ede981b442"
  },
  {
   "name": "Drumbit",
@@ -30747,17 +30670,6 @@
   "hash": "0708bd070a42eaefeea13abcc3e2f6ee"
  },
  {
-  "name": "Paint With Time",
-  "descript": "Combining webcams with canvas to allow the user to paint with video. by DHD",
-  "url": "http://webcamtest.davidhunterdesign.com/paint_with_time.html",
-  "thumb": "https://lh5.ggpht.com/FqOovYm1--zCiozsW1EZ_9-K3EfRylFbPbXtdjGe5_jxTcnJOvcwJVMbA6yJqjgIO2zdZh78R02bjlh3UbZMeep0DPhZ6Y_7g20",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3c1862f62d5e7e4146cca50c863169d3"
- },
- {
   "name": "Asterank",
   "descript": "Asterank is an astronomically accurate interactive visualization of our inner solar system. It... by Ian Webster",
   "url": "http://www.asterank.com/3d/",
@@ -31031,28 +30943,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "5cc4a54d88713f9081eecb1511aa5319"
- },
- {
-  "name": "Movi.Kanti.Revo",
-  "descript": "Movi.Kanti.Revo is a sensory Chrome Experiment uniquely crafted by Cirque du Soleil that... by Cirque du Soleil",
-  "url": "http://www.movikantirevo.com/",
-  "thumb": "https://lh6.ggpht.com/F5TUriBuuoUsep1JEwLuonQeegzBzWHnzo4MuznF8JIJNUksRAAIt-kEsLj-JMWdTK4yyyNxLtI1gi2x4kU9DTC45S_CYcjLEbb3mw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "6f3dda095c7d5eb5f18c305204bb015d"
- },
- {
-  "name": "MorningStar Synth",
-  "descript": "Morning Star is a monophonic bassline synthesizer controlled by a step sequencer, designed to... by Cristiano Belloni",
-  "url": "http://bitterspring.net/ms/morningstar/",
-  "thumb": "https://lh4.ggpht.com/Ksd2AAeeUkc0bejywPBbi2_BDg8T6Brgpyjt3FO1x55vG_lyE_EwOq-XMEBgIpCz_pMyTsyeWU7N-gYEXhsKHrSxhdXTrbn8QUDieQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "197ca70ecef919ce6e30edf993d3a173"
  },
  {
   "name": "Radar",
@@ -31372,17 +31262,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "42cfa20002369bbbb60a31743478aad5"
- },
- {
-  "name": "NerdPax!",
-  "descript": "NerdPax! is a full html5 / Canvas web drawing surface developped by Lorenzo Pastrana. The... by Lorenzo Pastrana",
-  "url": "http://www.nerdpax.com/preview",
-  "thumb": "https://lh6.ggpht.com/LgQrpEvkE_RgBh-ff_lIGxVoug8dyAHUPmoWE5OjcB51roxA-Y_hNHR1SejpHO40z_KJ4DdlA5BhsolR0oBiNM2YgFJZCeA7IC15",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "1ceaf28f350b4cd341e905f715e7efbf"
  },
  {
   "name": "BVH Player",
@@ -31889,17 +31768,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "722f06805217ea6a239aaa24632adaa6"
- },
- {
-  "name": "Mugeda Animation Tool",
-  "descript": "Mugeda allows users to create and publish HTML5 animation in the cloud... by Lucas Wang",
-  "url": "https://www.mugeda.com/animation/edit/1263",
-  "thumb": "https://lh3.ggpht.com/jyykYmwrQjReQ3_fLO_fHiSVNI40nxMjYw1I-tfvFiR-2lHYH1Ssk93Efmshjx9D31J9ScHW9uljuCd7TkWEFkWVcofu6xOdRTY",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ca701d6bc398265067744e392ad444c9"
  },
  {
   "name": "The Single Lane Superhighway",
