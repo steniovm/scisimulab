@@ -25335,17 +25335,6 @@
   "hash": "9f5ef55ab7d9f1720074ee0e0cece051"
  },
  {
-  "name": "Talk to Books",
-  "descript": "Browse passages from books using experimental AI. by Google AI",
-  "url": "https://books.google.com/talktobooks/",
-  "thumb": "https://lh3.googleusercontent.com/t4d0quhOC7PhMdlalPHg-T5kEloQzPv_d1BbeMnLce-lFCntfvtWuRTF3LNNoPPVHuQA4_zeFgJnCJUfIFPEQvMFJmqjsw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "9d1c31749a4969445d1f9eba4146ff5d"
- },
- {
   "name": "Fontjoy",
   "descript": "Generate font combinations with deep learning. by Jack Qiao",
   "url": "http://fontjoy.com/",
@@ -28569,17 +28558,6 @@
   "hash": "5be62ead97d3d9a73d23eec3982b2fba"
  },
  {
-  "name": "Tempogram",
-  "descript": "Produces slit-scan style images from the user's webcam. by Jake Pyne",
-  "url": "http://tempogram.jakepyne.net/",
-  "thumb": "https://lh5.ggpht.com/gZ_taTyfVCe5LdWj0dTcLoiZZUVv_iCsx1QLlZ7lZHZDfzFB-daypsCzkwrI-so87dFoGfwxjw060twYV9HQokrOagh384g-rbIF",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "d06f80c85c626e3ed85280f599e41a54"
- },
- {
   "name": "Draw A Cat",
   "descript": "An interactive, canvas-based cat-drawing experience. Use your mouse or touch-screen device to... by Michael Bromley",
   "url": "http://www.drawacat.net/",
@@ -29557,28 +29535,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "ebb0718a38e4ad7a6e846b704016aa4e"
- },
- {
-  "name": "The Crazymaton",
-  "descript": "The CrazyMaton is an interactive Cellular Automaton full of surprises. by Crazy Qubits",
-  "url": "http://crazyqubits.com/crazymaton/",
-  "thumb": "https://lh6.ggpht.com/GEGbNAO6PKciI_ykhGdoQiYgTUxWf5ByPhV6vVNgb15h3V95oxb7R2hSACF7v3fU4R2r1TFGhB-kBPavREISmcjLAQMaqJM6sc0kYQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "f6f20204cabf2dde87b34ce1831bc2d3"
- },
- {
-  "name": "The Qubitzoid",
-  "descript": "The QubitZoid is an interactive metaverse; a real-time social sculpture, a post-digital living... by Crazy Qubits",
-  "url": "http://crazyqubits.com/qubitzoid",
-  "thumb": "https://lh5.ggpht.com/vKl8utn51BPc8CDoUO0UEpCXgzJyZ1T7fWHk_N_oz0E1wvlzJUhuVhgKjxdH4ogAtjJ9iYHhS_3rNx-5QVu188R2Q2KycTynVGg",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "0e5af27f828c2a576b57c32ef2e36af2"
  },
  {
   "name": "Obsidian",
@@ -31055,17 +31011,6 @@
   "hash": "91e509519a08628b6f30795efd9dadb8"
  },
  {
-  "name": "The Drumlet",
-  "descript": "The Drumlet is the lastest experiment from Epic.net mixing Javascript, Canvas, Web Audio and... by Epic Agency",
-  "url": "http://drumlet.epic.net/",
-  "thumb": "https://lh5.ggpht.com/2YOMhI91mtwqF-xfDZDY_u59jHDB2cF_T7NC94OqhUurPXhrwRlInTwPnDXMZtWDOcm552tdJbl8L2Cvr0hZVdxP_N18NK64-Uk",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "be628a30f29ad4c4b9d65df49b63479f"
- },
- {
   "name": "Sticky Thing",
   "descript": "Throw it and see if it sticks. There's a mobile version as well: http://m.spielzeugz.de/sticky. by Daniel Puhe",
   "url": "http://www.spielzeugz.de/html5/sticky-thing",
@@ -31240,17 +31185,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "76c6342053e4cd6ccb68d40cda666028"
- },
- {
-  "name": "The Experiment",
-  "descript": "Launched today, The Experiment is a physics-based game that challenges players to create a chain... by Honda UK",
-  "url": "http://experimentgame.com/",
-  "thumb": "https://lh5.ggpht.com/K5ebQPqIA6Q32e7p7vPiC4ETgvt5ERg355XPHuDBQ3bZ7j1gVcgHxuoW4mKew4WmZwqV7EB_7petOWiHcMaDII7PQlooePqqCTWO",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "54c0f859a94af907da654d0cbd4284d1"
  },
  {
   "name": "Smoothed Particle Hydrodynamics",
@@ -31759,17 +31693,6 @@
   "hash": "ee2723184bfcd1dcacc91a56dc0c40cc"
  },
  {
-  "name": "Textify.it",
-  "descript": "Drag images onto Textify.it and it will turn them into text portraits. The characteristics of... by Hakim El Hattab",
-  "url": "http://textify.it/",
-  "thumb": "https://lh6.ggpht.com/xlP-DcWq9jlRTxDDDFrJ2Sb5dde6ROoVgir4rKtyGb3DD0xyuIPajw6mjLC9VJBUePYnPjei9tueyxR7NrziPU8AuLhKfvfz_XTM",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "209c9aeed06a8e147b8215de4344f4ea"
- },
- {
   "name": "WebGL Maze",
   "descript": "This is a 3D maze game made with Webgl. You have to go from the START display to the END display... by Xavier Bourry",
   "url": "http://www.spacegoo.com/maze",
@@ -31955,17 +31878,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "c97647d698efbdfdc24a63db3175afbd"
- },
- {
-  "name": "TankWorld",
-  "descript": "Tankworld is a tank shooter, you can use a wide range of weapons to fight your opponents. In... by Arno van der Vegt",
-  "url": "http://www.playtankworld.com/",
-  "thumb": "https://lh6.ggpht.com/QFRbYSdIT6l2blzFrTkFUY9ZpNDlnXTYMXJW6TrRj4dgwwhpTLEXmiz9boYhcakSPFeCAqBkGD-W46fZ17L5TbUEPqO7kg5P_WM",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "6d4833539ea19240bc6e592b6931eccd"
  },
  {
   "name": "Sketch",
