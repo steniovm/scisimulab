@@ -26193,17 +26193,6 @@
   "hash": "c4561a82afad9918eedf8d763d348dd5"
  },
  {
-  "name": "Through The Dark",
-  "descript": "A collaboration with Google Play Music and #1 selling Australian artist Hilltop Hoods, Through... by Google Play Music",
-  "url": "https://throughthedark.withgoogle.com/",
-  "thumb": "https://lh3.googleusercontent.com/ekrsh1aZdhfOl1tACCWguDYAzX9UYwgMiCusc_omKZQuA9uzF0Kx1GYeWpDvRysbGtmUc3IC01S51ox9fpEG8ZEWkHwh_gM",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "107df93f0995621d9d5489e8d988d7c5"
- },
- {
   "name": "Hollow",
   "descript": "Explore the data visualization of Hollow, a physical installation made of 10,000 tree species... by Hello Monday",
   "url": "http://hollow.org.uk/",
@@ -26488,17 +26477,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "eec6bc6325b9411df6821c1fb0ec4689"
- },
- {
-  "name": "The Searching Planet",
-  "descript": "The Searching Planet is a project co-created by Google and Miraikan (National Museum of Emerging... by Google",
-  "url": "https://searchingplanet.withgoogle.com/",
-  "thumb": "https://lh3.googleusercontent.com/Jdd82j0wJWmFfL77M1bH294cHXveM5VByju3uGVcvpeUyARRfzTCT8civpbMS6bD8mZN-VlIVUlLnEzs067pblnLkCebYt_7iYc3",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "57774abc86bc343b8e07b0ff8b199871"
  },
  {
   "name": "Conway's Game of Life",
@@ -29260,17 +29238,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "e10d311f34c7e4cce79fb1cae5deabf8"
- },
- {
-  "name": "TiberSynth",
-  "descript": "TiberSynth is a real-time audio synthesizer that runs in your web browser. By \"real-time\" we... by Cory OBrien",
-  "url": "http://tibersynth.prtcl.cc/",
-  "thumb": "https://lh5.ggpht.com/FBcfn1IIGXueS7BiI8wPl348kA_TBbuZQghF4IiQeA-OaxQvhEdAIHxamzK7hBGRJtREMYfjc6zxPORHs7KkAbdZJR3wLV070-C5",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8dc4b8efe91178b8827f63a81acf6150"
  },
  {
   "name": "Pixi.js WebGL Filters",
