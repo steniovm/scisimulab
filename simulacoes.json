@@ -27403,17 +27403,6 @@
   "hash": "f5774c5d1c2286b2646637481eb572af"
  },
  {
-  "name": "Stuff: The Abandoned Land",
-  "descript": "Stuff: The Abandoned Land is an interactive role-playing HTML5 Canvas web application game... by Chien-Ju Peng",
-  "url": "http://stuffadventure.com/",
-  "thumb": "https://lh3.googleusercontent.com/tUIZNlAeHm2ho_Mjgre5V4se1a4Qhx1ENX0b6C-ByvsI7HPRQdYTib009QJ4dEFQRfRTyFxon7bk1Jygrtij53i3Y7Q72fFmvxKF3A",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "12ab0abebea6296828efe1108b184c3a"
- },
- {
   "name": "Tree of Human Development",
   "descript": "An experimental visualization using Human Development Index data from the United Nations. The... by Jurjen Verhagen",
   "url": "http://www.zolabo.com/projects/hdi/",
@@ -28450,7 +28439,7 @@
  {
   "name": "Street Cloud",
   "descript": "An experiment to render multiple Google Street View ® scenes as a 3D point cloud using the LiDAR... by Callum Prentice",
-  "url": "http://callum.com/apps/street_cloud_flow/index.html",
+  "url": "https://callumprentice.github.io/apps/street_cloud_flow/index.html",
   "thumb": "https://lh5.ggpht.com/M0XMRihgESfg_6IFH7391aYspzNhtKCnmTLnFuT9m6yaVpbYz_aQpdJ8wADWCFeuvXMAiPbVrEJbOL_-qcFeC0XrFzY-wXahXNzx",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -29185,17 +29174,6 @@
   "hash": "8f48302c00a1f305630b36cdda1dc2fd"
  },
  {
-  "name": "Swarm Sandbox",
-  "descript": "In this experiment I created an abstracted 'swarm' that can be manipulated to perform a number... by Sam Fox Royston",
-  "url": "http://somatostat.in/swarmSandbox.html",
-  "thumb": "https://lh5.ggpht.com/KqR8zw9-8FGzuUkQYLS0eoQDhUtfvhuGUNXthEcTC6WTuqRNRHIoeg8CsIWEk3jMitYU6KLGkHYWyzhdivCLdIX704RUtCovyw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ae66b1e64e201e8c5684fdde7c581ccb"
- },
- {
   "name": "GearWorks",
   "descript": "Create and play with interactive gears. by Djordje Ungar",
   "url": "http://lab.djordjeungar.com/experiment/gearworks",
@@ -29271,17 +29249,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "a1769a946fa882bb7fd5cd49bb40025a"
- },
- {
-  "name": "Synth",
-  "descript": "Synth is a WebGL video synthesizer. Synth uses your webcam as an input and maps the brightness... by Steve Belovarich",
-  "url": "http://kineticvideo.co/",
-  "thumb": "https://lh5.ggpht.com/dTW30HRqYScvw9kASNcqdz8C-8qlur7hHMV_XbtVYZjlsqkQCoDaT6MduulN5xISRUMGWVtaomZmCJ1ePNtdO8-lz77xCrmIv0Wi",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "b4468ebbba5d49093f1c49011a5a0c6f"
  },
  {
   "name": "Spherical Normal Mapping",
@@ -29469,17 +29436,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "55e11194a49a02ae0f49d10c9b933147"
- },
- {
-  "name": "Spherical Harmonics Distortion",
-  "descript": "Spherical harmonics distortion vertex shader of sphere and torus. For some reason the shader... by Stefan H Singer",
-  "url": "http://stuff.wemadeyoulook.at/stefan/webgl/spherical-harmonics/",
-  "thumb": "https://lh5.ggpht.com/JRI5ogRTAbYrP1yQjx7vEK0jOOzkGHIVo-dLvD8bo1UrlpZwkyaFzpUYiYTkDerd-RB-GFuLvK7n-ra9RgtT6bvdovF17HIoDDMOLw",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "b14d4e8be3ae498d9b268fdba1782c0b"
  },
  {
   "name": "Lilypad",
@@ -30142,17 +30098,6 @@
   "hash": "d948a72c27abf4775159c4175d48c8af"
  },
  {
-  "name": "Super Resize Me",
-  "descript": "Turn procrastination into a rewarding experience in Maximin's debut game SuperResizeMe. Resize... by Maximin",
-  "url": "http://www.maximin.tv/srm",
-  "thumb": "https://lh6.ggpht.com/7WcpU3Umc8YjyCHFefL-JXUVNlYg-AMc_VojoBUlxphhZmkvrIUUeK9cmfaL2uJQJs4BR2zzydzBLGt2ZVmJLmEqiV6-3d0zbC6m",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ac27a5110c596463352fe169566ff8e0"
- },
- {
   "name": "Rocketship",
   "descript": "ROCKETSHIP is an intergalactic musical experience, putting users at the helm of a spacecraft in... by Dutch Gramophone",
   "url": "http://beta.dutchgramophone.com/rocketship/",
@@ -30307,20 +30252,9 @@
   "hash": "b27d8c6171eeea44a7586842491af0ef"
  },
  {
-  "name": "Swarm",
-  "descript": "This is a javascript 2d game using 2 dpads. by Roger Li",
-  "url": "http://tablocks.com/swarm",
-  "thumb": "https://lh4.ggpht.com/_N4_P-mSrE8PfW9H8UMrzLt6s8VffkHEIgwLUDNXReXAjgnhKM7MCn88bdsmFnFcOm97oc1WYYF0jMTSqEIYPvI-VSEeZxhQtEAl",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "7937f6a18f4e974d2a99b00110ec2cc8"
- },
- {
   "name": "Storm Tracks WebGL",
   "descript": "Storm Tracks WebGL is an interactive visualization of hurricanes, typhoons, cyclones and... by Callum Prentice",
-  "url": "http://callum.com/sandbox/webglex/storm_tracks_webgl/",
+  "url": "https://callumprentice.github.io/apps/storm_tracks_webgl_too/index.html",
   "thumb": "https://lh4.ggpht.com/JQV9Sw32hBq3GA2ozKaTn9BiNAQd7EqIuKCs_12rbc9Rg1meStkFlq9rbTl6yOcJxIkDXFJRwEuM2c1Fg-H0lFLxWArTmvdEvE8",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -30844,17 +30778,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "2fc55902ba0c8a8b82d85156ed096028"
- },
- {
-  "name": "Supershape.js",
-  "descript": "Supershape.js let's you experiment with the 3D superformula in the browser. Besides the... by Sebastian Sadowski",
-  "url": "http://supershape.ahoi.in/",
-  "thumb": "https://lh5.ggpht.com/sjNXjOn0GLbjL9GOoa-j8yI5CJgoVaDGLuSNPrhGBjk0lm15hIkUJ3dFetLF4E0K--p9OiS2GM7sP-XYTeNN6_g4CtdWxA7tbc4",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "958b354bab86a2600782557b8882b4f9"
  },
  {
   "name": "Break It Game",
@@ -32782,17 +32705,6 @@
   "hash": "780766dc8ff29690ebe7b7024b0222d7"
  },
  {
-  "name": "Starfield",
-  "descript": "A simple starfield (512 stars). You can: + change direction by moving the cursor over the... by Christophe Résigné",
-  "url": "http://www.chiptune.com/starfield/starfield.html",
-  "thumb": "https://lh3.ggpht.com/GNNkXHbXgPg4HxhHRNXUTZlR1l51rK-5cw25gWB3xWcogwOyNzigbkTRMVOVpM7kQ3hn8HyBvVFkhzwpm6CgY2xXWQ2DjtwdrsQO1g",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "52121bb11204c0cd5ad466d38061978b"
- },
- {
   "name": "InterNetris",
   "descript": "The classic block game built on the modern Internet. Works on touch devices, too. by Stephen M. McKamey",
   "url": "http://internetris.net/",
@@ -32815,17 +32727,6 @@
   "hash": "0f58ecd4b08dcb42a56577ab06804ec2"
  },
  {
-  "name": "Amiga Workbench Emulator",
-  "descript": "It's a full javascript (~3000 lines of code) remake of the classic Amiga's operating system... by Christophe Résigné",
-  "url": "http://www.chiptune.com/",
-  "thumb": "https://lh5.ggpht.com/0Z-Be7fOdcfAeCkes7I63Ua2LCj3MZ_24_6-XUVOVziKBZZNRQWBXqaG9_dVTaOS0KsJu8CLdvOkmkMMIvh_ISN2pe4aSQFNK9qy",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "ff6e70550a9f708c60b362c8ee317ddd"
- },
- {
   "name": "Vizeddit",
   "descript": "Vizeddit visualizes a stream of votes and comments from the Reddit.com API. Colored bars... by Yvo Schaap",
   "url": "http://erqqvg.com/vizeddit/",
@@ -32835,17 +32736,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "064f1a176dae496e2241e43388c4a428"
- },
- {
-  "name": "Kaleidoscope",
-  "descript": "A kind of kaleidscope made only of filled circles with opacity. All parameters are random, so... by REZ",
-  "url": "http://www.chiptune.com/kaleidoscope/",
-  "thumb": "https://lh4.ggpht.com/XKOMXv7fmYQo6mfso3xDrY1YXERnhuv5rjX19wDCOHV_xbZ0MROLaHEuhjSk6dMvJorQ7vtDDVEbpYNvo72W7xENqUzWtrkJify2",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "3e40f860f3fabc4ecec039a3a2365b32"
  },
  {
   "name": "Bomomo",
