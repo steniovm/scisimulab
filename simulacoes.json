@@ -25313,28 +25313,6 @@
   "hash": "8319134df94a121776aa40ef81cede85"
  },
  {
-  "name": "UFO Sightings Around the World",
-  "descript": "A project analyzing the National UFO Reporting Center (NUFORC) data using the WebGL globe. by Man, Grunwald, Xenopaoulos, Villafane",
-  "url": "http://www.mayaman.cc/ufo/",
-  "thumb": "https://lh3.googleusercontent.com/kmLbUR2nSCwLaqi5fYNolM7UltnlGp3y9pH0czOdFGW6Aqg1iF-ZIwbgTqv7zB1Rpm98cedb_rNTH6sCGEdN5CCN_FhJCSs",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "dbd88f5d9b25137c8dab623c77f08303"
- },
- {
-  "name": "Twenty Years of Search Trends",
-  "descript": "An interactive visualization of Search queries (English language only) to celebrate 20 Years of... by Artist in Residence at Google Arts &amp; Culture Lab: Cyril Diagne",
-  "url": "https://20years.withgoogle.com/",
-  "thumb": "https://lh3.googleusercontent.com/QcYYSYV6fbOghDCJAVxfHhmiBs9klx9aoZywzS4GaCb5e8vkfohY5KPV2uuEAsDxWplqbegB3E3hE5yLfbdP9KUtN377",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "9f5ef55ab7d9f1720074ee0e0cece051"
- },
- {
   "name": "Fontjoy",
   "descript": "Generate font combinations with deep learning. by Jack Qiao",
   "url": "http://fontjoy.com/",
@@ -25498,17 +25476,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "4c57b8419f6f8a1fba44fe7e46f85c92"
- },
- {
-  "name": "Zaha Hadid VR Experience",
-  "descript": "Experience Zaha Hadid in 360. by Google Arts &amp; Culture Lab with Serpentine Galleries",
-  "url": "https://artsandculture.google.com/project/zaha-hadid-at-the-serpentine",
-  "thumb": "https://lh3.googleusercontent.com/XFHCGSS1iirpeQHWHCwtj29TLMbmMMG_SMQAGmQFE-5dPMHN1qNRVmJxGozBK0_Mt1_stbfn5hADucTTKHreRXZudY06P4c",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "66e5b1f7005e26dc630d936c047175b2"
  },
  {
   "name": "Chrome Music Lab: Song Maker",
@@ -25843,7 +25810,7 @@
  {
   "name": "Vortex Shedding Fluid Simulation",
   "descript": "Realtime GPU-accelerated fluid simulation for WebGL. This simulation solves the Navier-Stokes... by Amanda Ghassaei",
-  "url": "http://git.amandaghassaei.com/VortexShedding/",
+  "url": "https://apps.amandaghassaei.com/VortexShedding/",
   "thumb": "https://lh3.googleusercontent.com/iYhnrSVs9JuKKSuZbpsm4f3HjHGe_5zCKQttUeojNd3DGjhbk41s6YJXjH_b-ASbsZCsOEZOK_uGS9zQBHRss-w5K9JqS1JF7hK3",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -26072,17 +26039,6 @@
   "hash": "c74b42c96260e312513dfb2099993ea8"
  },
  {
-  "name": "WikiWhere",
-  "descript": "A game where players are given snippets of a Wikipedia article describing a location. Players... by Richard Zhang, Graham Lee, Jacky Mak",
-  "url": "https://wiki-where.github.io/",
-  "thumb": "https://lh3.googleusercontent.com/YXhWhMtVYls5ybx3bzfeY3RO2hp7M6zxk0-wWUpRmhSUsghH_ETFsTqX07Ango6RXi0p2aY1Twb5txKhA-4veH1QnUR-Dz5jOkcW",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "93d8afab4010b7ae368dab7e9042d2c0"
- },
- {
   "name": "Wildflowers",
   "descript": "Generative plants in the browser. Use the dat.GUI controls to change the plants' attributes. by Jason Farwell",
   "url": "https://jasfar.github.io/wildflowers/",
@@ -26092,17 +26048,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "5e44100157b9331ce6475794d31d0a3e"
- },
- {
-  "name": "YeahBoi",
-  "descript": "A fun, simple game made with p5.js. by Callum",
-  "url": "http://yeahboi.me/",
-  "thumb": "https://lh3.googleusercontent.com/kKrhJe2usp9wkDm8S4rgfL_zI4hR6ncD5d8tggaZqxlmtFO2_0XkXQP2dSyAUPXdF8GM-GGQ0jmEZl7bnugUfahVl6tHY47Qask",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "954c5aa1c362ca94c11d695a5c547e70"
  },
  {
   "name": "ClubberToy",
@@ -26169,17 +26114,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "e477bb660aa0e07451b4ef2a4ef9b537"
- },
- {
-  "name": "Twitter Matrix",
-  "descript": "A real time feed of global twitter messages visualized as Matrix data rain. by Konard",
-  "url": "https://konard.github.io/twittermatrix/messages.html",
-  "thumb": "https://lh3.googleusercontent.com/7Tx6EmNwSkaKTVlCLxEncDT8L0NGLO_2uTDpqgE7mgNl-3224MxGQ7nNRBcJBmZk0jgfvv4itNqIWwITA7uqmIg90uVdgufM-FTp",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "0e76f50eea22f2280bea6040ea142f12"
  },
  {
   "name": "The Mars Voyage",
@@ -27293,17 +27227,6 @@
   "hash": "ac8ee1134787bc40b247eb49497e9e07"
  },
  {
-  "name": "Unstable Clock",
-  "descript": "A simple 3d, particle based clock visualization. by Tomasz Slawnikowski",
-  "url": "http://freelance-html-developer.com/clock/",
-  "thumb": "https://lh3.googleusercontent.com/--udUUAO3oeBgDZ4gBSy_zmzPQLxNwRzQV5Y1GA32xZReOespJR9q5RrBLh1Px9fEN79Q1gWZvLa3otGcfGZktsww19OirnTFo02",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "81fe24045bdfae597e42a16ff8aeb457"
- },
- {
   "name": "SpaceLamb",
   "descript": "Help Bishop the Lamb get back to Earth safe and unharmed after having got into trouble during a... by 12Wave Production",
   "url": "http://spacelamb.12wave.com/",
@@ -27645,17 +27568,6 @@
   "hash": "ee5502f32755937fb1d7665d40d7340c"
  },
  {
-  "name": "YARA'N'YARED",
-  "descript": "Yara n Yared is a duo album produced by world renowned film composer Gabriel Yared. Ultranoir... by ultranoir",
-  "url": "http://www.yaranyared.com/",
-  "thumb": "https://lh6.ggpht.com/XH-2Za6sFIUdTBf0JCJSiL5Ya3n69_lCSLeJIRgz0is6VYZYgG4UipAUAPPHCjdA043p6kvw_KNB_JpvOJT8GQ-knqjmj2OAp0s",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "f319fd16e59b3f1fc36b6783a47f5b83"
- },
- {
   "name": "X Piano",
   "descript": "X Piano is a simple toy that allows you to use your own sound effects as keys on a piano. You... by Jesse Talavera-Greenberg",
   "url": "http://jessetg.github.io/X-Piano/",
@@ -27863,17 +27775,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "e68a63a09d69b650e53149270bb40cab"
- },
- {
-  "name": "Way to Go",
-  "descript": "Way to Go is a walk in the woods. It is an astonishing interactive experience, a restless... by Vincent Morisset",
-  "url": "http://a-way-to-go.com/",
-  "thumb": "https://lh4.ggpht.com/WSOdn_timD34l5eP37l8PNyuajB_sRP7vmtC7iPJ3Rew112iip2AcOLeRwgBfVeozdqI1CCBL_SLSgcmKPcRjozsOcRlxh6oZADy",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "e3f83095444738e0ef6a7ae59885de34"
  },
  {
   "name": "ShinyText",
@@ -29539,7 +29440,7 @@
  {
   "name": "WebGL Academy",
   "descript": "This is an online simplified IDE to learn WebGL. by Xavier Bourry",
-  "url": "http://www.webglacademy.com/",
+  "url": "http://www.webglacademy.com/courses.php",
   "thumb": "https://lh6.ggpht.com/8Vd3QklysfA-rI4KDubA3alSy4X2LWQwAf7EbeNDl_jQuxHbTrhldpOogGM1Mc6av-j6apQb28JOZhDnh53rBOf0RA4mqyg0o9k",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -30626,17 +30527,6 @@
   "hash": "0c3d8c4b4a55f39f440ea0491e591290"
  },
  {
-  "name": "Tweetopia",
-  "descript": "Tweetopia is a 3D Twitter hashtag visualization. Tweets are rendered as speech bubbles above... by Scott Garner",
-  "url": "http://tweetopia.net/#GoogleChrome",
-  "thumb": "https://lh5.ggpht.com/Pauaabl9CAyd3ypA8_m-j8UKbPfc1HPyJ1IuGrRwI9mio1K6442NnWSsMtpG8WralxN5KtyXV-MJkROgi3570vb7jFf_o_cweI0",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "42cfa20002369bbbb60a31743478aad5"
- },
- {
   "name": "BVH Player",
   "descript": "An application for playing Biovision Hierarchy (.BVH) character animation files. by Aki A.",
   "url": "http://www.akjava.com/demo/bvhplayer/",
@@ -30769,17 +30659,6 @@
   "hash": "1999b8ff5a3b2a235a0d5f21fa68b9d6"
  },
  {
-  "name": "WaterStretch",
-  "descript": "Little WebGL dynamic Water Rendering using a caustic approximation algorithm. by Edouard Coulon",
-  "url": "http://waterstretch.ecoulon.com/",
-  "thumb": "https://lh4.ggpht.com/AEcEagFBovPOdIKo4Kob05S_3LSNFKDVWCTU9DH7GOLZ5bgOTYkky3TMkqZjURig7-KO7MVlsz4mK0lXbvYCQ2zziQmr2WyVn0g9-g",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "788214d58cd5e42b8f09f5284a48c832"
- },
- {
   "name": "Artfolio Art Gallery",
   "descript": "Virtual art gallery. Artists can display there art online in our 3D gallery. Beta Version. by Team Artfolio",
   "url": "http://www.artfolio.de/galerie3d.php",
@@ -30833,17 +30712,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "cbe0fbbf8d37fc33369d1bf7600ba221"
- },
- {
-  "name": "Water Underground",
-  "descript": "Interactive visualization of global groundwater fluctuations on a monthly basis from 2002 to... by Jay Weeks",
-  "url": "http://www.waterunderground.info/",
-  "thumb": "https://lh6.ggpht.com/F3jpnijbr2Bylbb5sjJ9irAV6rvqjoZEDHYmxPl8llO5BoKRLilHGmQUakbs6uT6naReZWZhBU_4ZlSdSoyDRzFLlQCyexx-FbnX",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "8e231314cf13138c821569ba084a96c4"
  },
  {
   "name": "Animated GIF in 3D",
@@ -31013,7 +30881,7 @@
  {
   "name": "WebGL Image Editing",
   "descript": "Image editing with GPU accelerated filters. by Hamada Ko",
-  "url": "http://lkzf.info/main.html",
+  "url": "http://lkzf.info/main2.html",
   "thumb": "https://lh6.ggpht.com/cTE2chZaRo2vFKXNof0EjxJFE7NXH-AHS_9nkV3N7UmeoIQ75mg6kl8Y4qyl8THHZV2b3LbNog46VDJMrq08fvFadrvvCxpybdQ",
   "categorys": [
    "ExperimentsWithGoogle"
@@ -31737,17 +31605,6 @@
   "hash": "57e4b035ff233e4e25ed2dd6e9076bb7"
  },
  {
-  "name": "Typographic Effects",
-  "descript": "Inner and outer-shadows, Stereoscopy (3D), Rainbow-Neon Glow, and many other interesting... by Michael Deal",
-  "url": "http://www.html5rocks.com/tutorials/canvas/texteffects/Text-Effects.html#spaceage",
-  "thumb": "https://lh5.ggpht.com/XcbuPff9caKLJC9b1RRZd8ASF7pN0sgBQ5CSmQeU5qzf8e0SqBpsSnosr2tYxfD6ztI41Cvj5VWPFosqYgR14B2_wu42IcwQNbOznQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "313e6df756404319d0c027f62ee14041"
- },
- {
   "name": "Rot.Sketch Web App",
   "descript": "Rot.Sketch Web App is a HTML5 creative sketching experiment. by Jean Helfenstein",
   "url": "http://www.jeanhelfenstein.com/rotsketch/app/",
@@ -31922,17 +31779,6 @@
   ],
   "author": "ExperimentsWithGoogle",
   "hash": "4b0839523392f6d822a035138c025706"
- },
- {
-  "name": "Word²",
-  "descript": "Word² (wordsquared) is the world's first Massively Multiplayer Online crossword game! It pits... by Massively Fun",
-  "url": "http://wordsquared.com/",
-  "thumb": "https://lh4.ggpht.com/gkd4GdBnXyB-tANNz1DEq1lgRSFyN0kFv_Vy4yMrGQBkSonTYoctKpMgKP3cRNbZ_jM3Sskwo5oVRXToR1zMS_pLdX6F6rypkS6bPQ",
-  "categorys": [
-   "ExperimentsWithGoogle"
-  ],
-  "author": "ExperimentsWithGoogle",
-  "hash": "2fce488e4d68fe1b2b8e12bd3e43ca4f"
  },
  {
   "name": "Starburst",
