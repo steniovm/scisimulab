@@ -395,7 +395,7 @@ function aplicfilters(){
       return false;
     }
   }).join('&');
-  urlsearch.innerHTML = "URL da busca: <span id='urlsearchcp'>"+window.location.host +'/'+ querystrigsearch+"</span>";
+  urlsearch.innerHTML = "URL da busca: <input id='urlsearchcp' type='text' readonly value='"+window.location.host +'/'+ querystrigsearch+"'/>";
   console.log(querystrigsearch);
 }
 btcopyurl.addEventListener('click',()=>{
