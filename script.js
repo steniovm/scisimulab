@@ -32,6 +32,7 @@ const spanmessage = document.getElementById('spanmessage');
 const h1message = document.getElementById('h1message');
 const clearFilters = document.getElementById('clearFilters');
 const urlsearch = document.getElementById('urlsearch');
+const btcopyurl = document.getElementById('btcopyurl');
 const categorias = {};
 const categoriasnome = [];
 const autores = {};
@@ -394,9 +395,15 @@ function aplicfilters(){
       return false;
     }
   }).join('&');
-  urlsearch.innerHTML = "URL da busca: "+window.location.host +'/'+ querystrigsearch;
+  urlsearch.innerHTML = "URL da busca: <span id='urlsearchcp'>"+window.location.host +'/'+ querystrigsearch+"</span>";
   console.log(querystrigsearch);
 }
+btcopyurl.addEventListener('click',()=>{
+  let textCopy = document.getElementById("urlsearchcp");
+  textCopy.select();
+  textCopy.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+})
 filterCat.addEventListener('change',aplicfilters);
 filterAut.addEventListener('change',aplicfilters);
 wordsearche.addEventListener('change',aplicfilters);

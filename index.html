@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,13 +10,16 @@
   <meta property="og:image:alt" content="Logo do átomo na tela de um computador" />
   <meta property="og:description" content="Coletânea de simulações educacionais" />
   <meta property="og:locale" content="pt-br" />
-  <meta name="description" content="A ciência de forma interativa. Simulações didáticas envolventes. Uma jornada fascinante de aprendizado e descoberta!"/>
-  <meta name="site-verification" content="344033652bfe69395b94fdb91834052c"/>
+  <meta name="description"
+    content="A ciência de forma interativa. Simulações didáticas envolventes. Uma jornada fascinante de aprendizado e descoberta!" />
+  <meta name="site-verification" content="344033652bfe69395b94fdb91834052c" />
   <title>SciSimuLab - Simulações Didáticas de Ciências</title>
   <link rel="stylesheet" href="style.css" />
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261" crossorigin="anonymous">
-  </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6830908978727261"
+    crossorigin="anonymous">
+    </script>
 </head>
+
 <body id="bodyblog">
   <header>
     <!-- Cabeçalho aqui -->
@@ -48,7 +52,7 @@
     <div id="menufind" class="navmenu">
       <strong>Procurar por:</strong>
       <div class="submit-line">
-        <input id="wordsearche" type="search" style="width: auto" spellcheck placeholder="palavras chave"/>
+        <input id="wordsearche" type="search" style="width: auto" spellcheck placeholder="palavras chave" />
         <button id="submitwordsearche" type="submit"></button>
       </div>
     </div>
@@ -57,11 +61,18 @@
     </div>
   </nav>
   <label id="urlsearch"></label>
+  <button id="btcopyurl" type="button"><span role="img">
+      <svg viewBox="64 64 896 896" focusable="false" data-icon="copy" width="1em" height="1em" fill="currentColor"
+        aria-hidden="true">
+        <path
+          d="M832 64H296c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h496v688c0 4.4 3.6 8 8 8h56c4.4 0 8-3.6 8-8V96c0-17.7-14.3-32-32-32zM704 192H192c-17.7 0-32 14.3-32 32v530.7c0 8.5 3.4 16.6 9.4 22.6l173.3 173.3c2.2 2.2 4.7 4 7.4 5.5v1.9h4.2c3.5 1.3 7.2 2 11 2H704c17.7 0 32-14.3 32-32V224c0-17.7-14.3-32-32-32zM350 856.2L263.9 770H350v86.2zM664 888H414V746c0-22.1-17.9-40-40-40H232V264h432v624z" />
+      </svg></span>
+  </button>
   <div id="controls">
     <strong id="titlecat">Simulações <i>SciSimuLab</i>:</strong>
     <div>
-      <input id="nimages" type="number" min="0" value="12"/>imagens
-      <img id="darklightbt" src="darkligth.svg" alt="modo escuro e claro"/>
+      <input id="nimages" type="number" min="0" value="12" />imagens
+      <img id="darklightbt" src="darkligth.svg" alt="modo escuro e claro" />
     </div>
   </div>
   <section id="simulations">
@@ -71,57 +82,67 @@
     <!-- Sobre o SciSimuLab aqui -->
     <div class="container">
       <h2>Sobre</h2>
-      <p>Bem-vindo ao SciSimuLab, uma coleção de simulações interativas de diversas fontes para aprender ciências de forma divertida e envolvente.</p>
-      <p>Nosso objetivo é facilitar a busca e o acesso a simulações que abrangem diversas áreas científicas, desde física e química, biologia, matemática e muito mais.</p>
-      <p>As simulações são projetadas para ajudar estudantes e entusiastas de todas as idades a explorar conceitos científicos de maneira prática, promovendo o entendimento dos princípios fundamentais e estimulando a curiosidade pelo mundo ao nosso redor.</p>
-      <p>Embarque nesta jornada de descoberta científica e divirta-se explorando simulações interativas. Aprender nunca foi tão empolgante!</p>
+      <p>Bem-vindo ao SciSimuLab, uma coleção de simulações interativas de diversas fontes para aprender ciências de
+        forma divertida e envolvente.</p>
+      <p>Nosso objetivo é facilitar a busca e o acesso a simulações que abrangem diversas áreas científicas, desde
+        física e química, biologia, matemática e muito mais.</p>
+      <p>As simulações são projetadas para ajudar estudantes e entusiastas de todas as idades a explorar conceitos
+        científicos de maneira prática, promovendo o entendimento dos princípios fundamentais e estimulando a
+        curiosidade pelo mundo ao nosso redor.</p>
+      <p>Embarque nesta jornada de descoberta científica e divirta-se explorando simulações interativas. Aprender nunca
+        foi tão empolgante!</p>
     </div>
     <div id="contacts">
       <h2>Contato</h2>
-      <br/>
+      <br />
       <button id="formsimul">Enviar uma simulação</button>
-      <br/><br/>
+      <br /><br />
       <button id="formmenss">Enviar uma mensagem</button>
     </div>
   </section>
   <div id="disqus_thread"></div>
   <script>
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-var disqus_config = function () {
-this.page.url = "https://www.scisimulab.com.br/";
-};
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://scisimulab.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    var disqus_config = function () {
+      this.page.url = "https://www.scisimulab.com.br/";
+    };
+    (function () { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://scisimulab.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
   </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+      Disqus.</a></noscript>
   <section id="resources">
-     <!--Recursos adicionais aqui--> 
+    <!--Recursos adicionais aqui-->
   </section>
   <footer>
     <!-- Rodapé aqui -->
     <img id="myimg" class="myimg" src="logo.svg" alt="Logo do site" />
     <div id="divinfo" class="divinfo">
       <span>Autor: Stênio Vinicios de Medeiros</span>
-      <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"  alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
-      <span>Email: <a href="mailto:steniovm@gmail.com"  alt="Meu email">steniovm@gmail.com</a></span>
+      <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"
+          alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+      <span>Email: <a href="mailto:steniovm@gmail.com" alt="Meu email">steniovm@gmail.com</a></span>
       <div id="sfc8rndjwyjz9cpt1136x4fe5jbq1zb2rqc" class="hiddemdiv"></div>
-      <script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=8rndjwyjz9cpt1136x4fe5jbq1zb2rqc&down=async" async></script><br/>
+      <script type="text/javascript"
+        src="https://counter10.optistats.ovh/private/counter.js?c=8rndjwyjz9cpt1136x4fe5jbq1zb2rqc&down=async"
+        async></script><br />
       <a href="https://www.webcontadores.com" class="hiddemdiv">contador para site</a>
       <noscript>
         <a href="https://www.webcontadores.com" title="contador para site">
-          <img src="https://counter10.optistats.ovh/private/webcontadores.php?c=8rndjwyjz9cpt1136x4fe5jbq1zb2rqc" border="0" title="contador para site" alt="contador para site">
+          <img src="https://counter10.optistats.ovh/private/webcontadores.php?c=8rndjwyjz9cpt1136x4fe5jbq1zb2rqc"
+            border="0" title="contador para site" alt="contador para site">
         </a>
       </noscript>
     </div>
@@ -145,52 +166,65 @@ s.setAttribute('data-timestamp', +new Date());
       (adsbygoogle = window.adsbygoogle || []).push({});
   </script>-->
   <section id="contactforms" class="contactforms hiddemdiv">
-    <button id="closebt" type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <button id="closebt" type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+        aria-hidden="true">&times;</span></button>
     <div>
-      <form id="insertform" class="hiddemdiv" action="https://script.google.com/macros/s/AKfycby0ubBEDPyGRU-ubClB6Up1x_g06Xmgjf6JLYVLxPwr6AehZPy3Dh29Z15qw-Tn9r48-Q/exec" method="post" target="response">
-          <h3>Adicione sua simulação</h3>
-          <input type="hidden" name="typemail" value="simul"/>
-          <label for="nameuser">Seu Nome:</label>
-          <input type="text" id="nameuser" name="nameuser" placeholder="Insira seu nome" required/>
-          <label for="emailuser">Seu Email:</label>
-          <input type="emailuser" id="emailuser" name="emailuser" placeholder="Insira seu email" required>
-          <label for="namedit">Nome:</label>
-          <input type="text" id="namedit" name="namedit" placeholder="Insira o nome" required/>
-          <label for="descedit">Descrição:</label>
-          <input type="text" id="descedit" name="descedit" placeholder="Insira a descrição (opcional)" />
-          <label for="urledit">URL:</label>
-          <input type="text" id="urledit" name="urledit" placeholder="Insira a url" required/>
-          <label for="thumbedit">Thumb:</label>
-          <input type="text" id="thumbedit" name="thumbedit" placeholder="Insira a url da imagem (opcional)" />
-          <label for="categoryedit">Categorias (separador ','):</label>
-          <input type="text" id="categoryedit" name="categoryedit" placeholder="Insira as categorias (opcional)" />
-          <label for="authoredit">Autor:</label>
-          <input type="text" id="authoredit" name="authoredit" placeholder="Insira a origem" required/>
-          <button id="btinsert" type="submit">Enviar</button>
+      <form id="insertform" class="hiddemdiv"
+        action="https://script.google.com/macros/s/AKfycby0ubBEDPyGRU-ubClB6Up1x_g06Xmgjf6JLYVLxPwr6AehZPy3Dh29Z15qw-Tn9r48-Q/exec"
+        method="post" target="response">
+        <h3>Adicione sua simulação</h3>
+        <input type="hidden" name="typemail" value="simul" />
+        <label for="nameuser">Seu Nome:</label>
+        <input type="text" id="nameuser" name="nameuser" placeholder="Insira seu nome" required />
+        <label for="emailuser">Seu Email:</label>
+        <input type="emailuser" id="emailuser" name="emailuser" placeholder="Insira seu email" required>
+        <label for="namedit">Nome:</label>
+        <input type="text" id="namedit" name="namedit" placeholder="Insira o nome" required />
+        <label for="descedit">Descrição:</label>
+        <input type="text" id="descedit" name="descedit" placeholder="Insira a descrição (opcional)" />
+        <label for="urledit">URL:</label>
+        <input type="text" id="urledit" name="urledit" placeholder="Insira a url" required />
+        <label for="thumbedit">Thumb:</label>
+        <input type="text" id="thumbedit" name="thumbedit" placeholder="Insira a url da imagem (opcional)" />
+        <label for="categoryedit">Categorias (separador ','):</label>
+        <input type="text" id="categoryedit" name="categoryedit" placeholder="Insira as categorias (opcional)" />
+        <label for="authoredit">Autor:</label>
+        <input type="text" id="authoredit" name="authoredit" placeholder="Insira a origem" required />
+        <button id="btinsert" type="submit">Enviar</button>
       </form>
-      <form id="contactform" class="hiddemdiv" action="https://script.google.com/macros/s/AKfycby0ubBEDPyGRU-ubClB6Up1x_g06Xmgjf6JLYVLxPwr6AehZPy3Dh29Z15qw-Tn9r48-Q/exec" method="post" target="response">
-          <h3>Envie sua mensagem</h3>
-          <input type="hidden" name="typemail" value="message"/>
-          <label for="name">Nome:</label>
-          <input type="text" id="name" name="name" placeholder="Insira seu nome" required>
-          <label for="email">Email:</label>
-          <input type="email" id="email" name="email" placeholder="Insira seu email" required>
-          <label for="topic">Assunto:</label>
-          <input type="text" id="topic" name="topic" placeholder="Insira o assunto" required>
-          <label for="message">Mensagem:</label>
-          <textarea id="message" name="message" placeholder="Digite sua mensagem (sugestões, elogios, criticas, pedidos, etc.)" required></textarea>
-          <button id="btmessage" type="submit">Enviar</button>
+      <form id="contactform" class="hiddemdiv"
+        action="https://script.google.com/macros/s/AKfycby0ubBEDPyGRU-ubClB6Up1x_g06Xmgjf6JLYVLxPwr6AehZPy3Dh29Z15qw-Tn9r48-Q/exec"
+        method="post" target="response">
+        <h3>Envie sua mensagem</h3>
+        <input type="hidden" name="typemail" value="message" />
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name" placeholder="Insira seu nome" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" placeholder="Insira seu email" required>
+        <label for="topic">Assunto:</label>
+        <input type="text" id="topic" name="topic" placeholder="Insira o assunto" required>
+        <label for="message">Mensagem:</label>
+        <textarea id="message" name="message"
+          placeholder="Digite sua mensagem (sugestões, elogios, criticas, pedidos, etc.)" required></textarea>
+        <button id="btmessage" type="submit">Enviar</button>
       </form>
     </div>
     <iframe id="response" name="response" style="display: none"></iframe>
   </section>
-  <span id="spanmessage" class="contactforms hiddemdiv"><h1 id="h1message"></h1></span>
+  <span id="spanmessage" class="contactforms hiddemdiv">
+    <h1 id="h1message"></h1>
+  </span>
   <script id="dsq-count-scr" src="//scisimulab.disqus.com/count.js" async></script>
   <!--<script type='text/javascript' src='//pl19840247.highrevenuegate.com/34/ee/b1/34eeb1a61a04c1035e3ff6de919386c9.js'></script>-->
-  <script type="text/javascript" src="https://diclotrans.com/redirect?id=14925&auth=67448f33eda47d2b8713138c2884599c6eb753fb"></script>
-<script type="text/javascript" src="https://diclotrans.com/redirect?id=14924&auth=4cb98118fad4f19ef404e8e3c86a2a625b45e669"></script>
-<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/14927/6c0c7a8a8ab865e183d00e1d16b6c08b92e9af70/lib.js"></script>
-<script type="text/javascript" src="https://cdn.diclotrans.com/sdk/v1/14929/c9d5ad28f92d771d3260f3e36892ee1b736ca197/lib.js"></script>
+  <script type="text/javascript"
+    src="https://diclotrans.com/redirect?id=14925&auth=67448f33eda47d2b8713138c2884599c6eb753fb"></script>
+  <script type="text/javascript"
+    src="https://diclotrans.com/redirect?id=14924&auth=4cb98118fad4f19ef404e8e3c86a2a625b45e669"></script>
+  <script type="text/javascript"
+    src="https://cdn.diclotrans.com/sdk/v1/14927/6c0c7a8a8ab865e183d00e1d16b6c08b92e9af70/lib.js"></script>
+  <script type="text/javascript"
+    src="https://cdn.diclotrans.com/sdk/v1/14929/c9d5ad28f92d771d3260f3e36892ee1b736ca197/lib.js"></script>
 </body>
 <script src="script.js" type="text/javascript"></script>
+
 </html>
