@@ -400,7 +400,7 @@ function aplicfilters(){
 }
 btcopyurl.addEventListener('click',()=>{
   let textCopy = document.createElement('input');
-  textCopy.value = window.location.host +'/'+ querystrigsearch;
+  textCopy.value = document.querySelector('#urlsearch>span').textContent;
   textCopy.select();
   textCopy.setSelectionRange(0, 99999)
   document.execCommand("copy");
