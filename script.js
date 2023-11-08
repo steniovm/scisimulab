@@ -395,14 +395,16 @@ function aplicfilters(){
       return false;
     }
   }).join('&');
-  urlsearch.innerHTML = "URL da busca: <input id='urlsearchcp' type='text' readonly value='"+window.location.host +'/'+ querystrigsearch+"'/>";
+  urlsearch.innerHTML = "URL da busca: <span>"+window.location.host +'/'+ querystrigsearch+"</span>";
   console.log(querystrigsearch);
 }
 btcopyurl.addEventListener('click',()=>{
-  let textCopy = document.getElementById("urlsearchcp");
+  let textCopy = document.createElement('input');
+  textCopy.value = window.location.host +'/'+ querystrigsearch;
   textCopy.select();
   textCopy.setSelectionRange(0, 99999)
   document.execCommand("copy");
+  console.log(textCopy.value)
 })
 filterCat.addEventListener('change',aplicfilters);
 filterAut.addEventListener('change',aplicfilters);
