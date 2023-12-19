@@ -22,7 +22,7 @@ body {
     padding: 2px;
     text-align: center;
   }
-  
+
   h1, h2 {
     -webkit-text-stroke: 1px #999;
     font-style: italic;
@@ -32,11 +32,11 @@ body {
     animation-iteration-count: infinite;
     animation-direction: alternate;
   }
-  
+
   header>p {
     font-size: 18px;
   }
-  
+
   /* Estilos da barra de navegação */
   nav {
     background-color: #58625f;
@@ -46,7 +46,7 @@ body {
     justify-content:space-around;
     flex-wrap: wrap;
   }
-  
+
   button {
     background-color: #666;
     color: #e6edf3;
@@ -81,7 +81,7 @@ body {
     display: flex;
     justify-content:start;
   }
-  
+
   /* Estilos da seção de destaque */
   #highlight {
     background-color: #535754;
@@ -177,7 +177,7 @@ body {
   #about>p {
     font-size: 18px;
   }
-  
+
   /* Estilos da seção "Recursos adicionais" */
   #resources {
     background-color: #38423f;
@@ -192,7 +192,7 @@ body {
     padding: 5px;
     font-size: 18px;
   }
-  
+
   /* Estilos do rodapé */
   footer {
     background-color: #48524f;
@@ -271,7 +271,7 @@ ul, li{
   animation: fade 3s infinite alternate;
 }
 #articleframe{
-  background-color: #bbb; 
+  background-color: #bbb;
 }
 @keyframes fade {
   from { opacity: 0; }
@@ -487,6 +487,12 @@ select, #wordsearche {
 }
 #wordsearche{
   min-width: 100%;
+}
+#urlsearch>input {
+  width: 70%;
+  min-width: auto;
+  box-shadow: none;
+  font-size: unset;
 }
 #clearFilters{
   height: 100%;

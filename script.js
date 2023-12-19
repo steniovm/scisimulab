@@ -395,17 +395,13 @@ function aplicfilters(){
       return false;
     }
   }).join('&');
-  urlsearch.innerHTML = "URL da busca: <span>"+window.location.host +'/'+ querystrigsearch+"</span>";
+  urlsearch.innerHTML = "URL da busca: <input value="+window.location.toString() + querystrigsearch+" readonly />";
   console.log(querystrigsearch);
 }
 btcopyurl.addEventListener('click',()=>{
-  let textCopy = document.createElement('input');
-  textCopy.value = document.querySelector('#urlsearch>span').textContent;
-  textCopy.select();
-  textCopy.setSelectionRange(0, 99999)
+  document.querySelector('#urlsearch>input').select();
   document.execCommand("copy");
-  console.log(textCopy.value)
-})
+});
 filterCat.addEventListener('change',aplicfilters);
 filterAut.addEventListener('change',aplicfilters);
 wordsearche.addEventListener('change',aplicfilters);
