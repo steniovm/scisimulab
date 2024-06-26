@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta property="og:title" content="Probabilidade em rolagem de dados" />
+    <meta property="og:description" content='Gera gráfico de probabilidade em rolagem de dados' />
+    <meta property="og:locale" content="pt-br" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta property="description" content='Gera gráfico de probabilidade em rolagem de dados' />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <title>Gera gráfico de probabilidade em rolagem de dados"</title>
+    <style>
+        body {
+            background-color: #9FCFBF;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            max-width: 800px;
+            margin: 0;
+        }
+
+        h1,
+        h2,
+        h3 {
+            align-self: center;
+            margin: auto 0;
+        }
+
+        #supermain {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap-reverse;
+            width: 100%;
+        }
+
+        main {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap-reverse;
+            justify-content: center;
+            align-items: center;
+        }
+
+        section {
+            display: flex;
+            flex-direction: column;
+        }
+
+        b {
+            font-size: xx-large;
+        }
+
+        footer {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        span {
+            font-weight: bold;
+            white-space: normal;
+            padding: 0 2px;
+        }
+
+        .myimg {
+            height: 12vh;
+            min-height: 60px;
+            padding: 1vh;
+            ;
+        }
+
+        .divinfo {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .entree {
+            font-size: large;
+            font-weight: bold;
+            margin: 10px 50px;
+        }
+
+        input,
+        button {
+            border-radius: 20px;
+            background-color: #eeb;
+            text-align: center;
+            width: 50px;
+        }
+
+        table {
+            margin: auto;
+            border-spacing: unset;
+        }
+
+        th {
+            background-color: #666;
+            color: white;
+        }
+
+        td {
+            background-color: #eee;
+            color: black;
+            text-align: center;
+            padding: 0;
+            border: none;
+        }
+
+        .configs * {
+            display: flex;
+            flex-direction: column;
+        }
+
+        #links {
+            height: 20px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+        }
+
+        canvas {
+            background-color: #eee;
+        }
+
+        #yaxis,
+        #xaxis {
+            width: 14px;
+            height: 14px;
+            border-radius: 0;
+            border: none;
+            background-color: unset;
+        }
+
+        #canvas {
+            border-left: black 2px solid;
+            border-bottom: black 2px solid;
+        }
+
+        #zerotd {
+            text-align: end;
+        }
+
+        #addice {
+            width: 25px;
+            height: 25px;
+            padding: 0;
+            background-color: red;
+            color: #f0f0f0;
+            font-size: large;
+            font-weight: bolder;
+            text-align: center;
+        }
+
+        #addtd {
+            background-color: transparent;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Probabilidade de rolagem de dados</h1>
+    <div id="supermain">
+        <main>
+            <section class="graphsec">
+                <table>
+                    <tr>
+                        <td><input id="yaxis" type="number" min="2" value="100"></td>
+                        <td>
+                            <h3>Ocorrencia X Valor</h3>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><canvas id="cyaxis" width="14" height="500"></canvas></td>
+                        <td><canvas id="canvas" width="320" height="500"></canvas></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td id="zerotd">0</td>
+                        <td><canvas id="cxaxis" width="320" height="14"></canvas></td>
+                        <td><input id="xaxis" type="number" min="2" value="20"></td>
+                    </tr>
+                </table>
+            </section>
+            <section class="entree">
+                <h2>Dados</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nº dados</th>
+                            <th>Nº faces</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tdices">
+                        <tr>
+                            <td><input type="number" class="ndices" value="3" step="1" min="0" /></td>
+                            <td><input type="number" class="nfaces" value="6" step="1" min="2" /></td>
+                            <td id="addtd"><button id="addice">+</button></td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th class="configs">
+                                <label>Rolagens</label>
+                                <input type="number" id="nRolls" value="500" />
+                                <label>Cor</label>
+                                <input type="color" id="dotcolor" />
+                            </th>
+                            <th class="configs">
+                                <button id="Rollbt">Rolar</button>
+                                <button id="Clearbt">limpar</button>
+                            </th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </section>
+        </main>
+    </div>
+    <footer>
+        <div id="divinfo" class="divinfo">
+            <span>Autor:</span>
+            <span>Stênio Vinicios de Medeiros</span>
+            <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"
+                    alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+            <span>Email: <a href="mailto:steniovm@gmail.com" alt="Meu email">steniovm@gmail.com</a></span>
+        </div>
+    </footer>
+    <div id="links">
+        <img src="https://scisimulab.com.br/logo.svg" alt="logo SciSimuLab" style="height: 60px;" />
+        Conheça também:
+        <a href="https://steniovm.github.io/steniovm/RPGSongs/index.html" target="_blank">
+            <i>RPG Songs</i>
+        </a>
+        <a href="https://steniovm.github.io/steniovm/GoblinSongs/index.html" target="_blank">
+            <i>Sons de Goblins</i>
+        </a>
+        <a href="https://guaxinimonline.onrender.com/" target="_blank">
+            <i>Guaxinins & Gambiarras</i>
+        </a>
+        <a href="https://historias-incriveis.onrender.com/" target="_blank">
+            <i>Histórias Incríveis</i>
+        </a>
+        <a href="https://scisimulab.com.br/" target="_blank">
+            <i>Sci Simu Lab</i>
+        </a>
+        <a href="https://steniovm.github.io/steniovm/" target="_blank">
+            <i>Outras produções minhas</i>
+        </a>
+    </div>
+    <script type="text/javascript">
+        //elementos html
+        const Rollbt = document.getElementById('Rollbt');
+        const Clearbt = document.getElementById('Clearbt');
+        const ndices = document.getElementsByClassName('ndices');
+        const nfaces = document.getElementsByClassName('nfaces');
+        const nRolls = document.getElementById('nRolls');
+        const canvas = document.getElementById('canvas');
+        const dotcor = document.getElementById('dotcolor');
+        const yaxis = document.getElementById('yaxis');
+        const xaxis = document.getElementById('xaxis');
+        const cyaxis = document.getElementById('cyaxis');
+        const cxaxis = document.getElementById('cxaxis');
+        const addice = document.getElementById('addice');
+        const tdices = document.getElementById('tdices');
+        const addtd = document.getElementById('addtd');
+        //variaveis globais
+        const ctx = canvas.getContext('2d');
+        const yctx = cyaxis.getContext('2d');
+        const xctx = cxaxis.getContext('2d');
+        yctx.font = '8px sans-serif';
+        xctx.font = '14px sans-serif';
+        let xdbk = parseInt(xaxis.value);
+        let ydbk = parseInt(yaxis.value);
+        //eventos
+        Rollbt.addEventListener('click', execRolls);
+        Clearbt.addEventListener('click', clearCanvas);
+        xaxis.addEventListener('change', printXAxi);
+        yaxis.addEventListener('change', printYAxi);
+        addice.addEventListener('click', addDice);
+        //executa programa
+        printAxis();
+        async function execRolls() {
+            const nd = new Array(ndices.length);
+            const nf = new Array(nfaces.length);
+            const nsums = { nd: 0, nf: 0, mr: 0 };
+            const nr = parseInt(nRolls.value);
+            for (let i = 0; i < nd.length; i++) {
+                nd[i] = ndices[i].value;
+                nsums.nd += parseInt(nd[i]);
+                nf[i] = nfaces[i].value;
+                nsums.nf += parseInt(nf[i]);
+                nsums.mr += nd[i] * nf[i];
+            }
+            const rsuns = (new Array(nsums.mr));
+            rsuns.forEach(val => val = 0);
+            for (let i = 0; i < nsums.mr; i++) {
+                rsuns[i] = 0;
+            }
+            let roolResult, sum = 0;
+            for (let i = 0; i < nr; i++) {
+                roolResult = roolAllDices(nf, nd);
+                sum = roolResult.reduce((pv, cv) => cv += pv);
+                rsuns[sum - 1]++;
+                console.log(roolResult.join('+') + " = " + sum);
+                await plotDot(sum, rsuns[sum - 1]);
+            }
+        }
+        //rolagem de dados
+        function roolAllDices(nf, nd) {
+            const alldices = [];
+            for (let i = 0; i < nd.length; i++) {
+                alldices.push(...(roolDices(nf[i], nd[i])));
+            }
+            return alldices;
+        }
+        function roolDices(nf, nd) {
+            const dices = [];
+            for (let i = 0; i < nd; i++) {
+                dices.push(roolDice(nf));
+            }
+            return dices;
+        }
+        function roolDice(nf) {
+            return Math.ceil(Math.random() * nf);
+        }
+        async function plotDot(xd, yd) {
+            const wc = canvas.width + 2;
+            const hc = canvas.height - 2;
+            const hd = parseInt(yaxis.value);
+            const wd = parseInt(xaxis.value);
+            await new Promise(res => setTimeout(res, 10));
+            ctx.beginPath();
+            let x = (wc / (wd + 1)) * xd;
+            let y = hc - ((hc / hd) * yd);
+            ctx.fillStyle = dotcor.value;
+            ctx.arc(x, y, 2, 0, 2 * Math.PI);
+            ctx.fill();
+        }
+        function clearCanvas() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+        }
+        function printAxis() {
+            printXAxi();
+            printYAxi();
+        }
+        function printXAxi() {
+            const xdivs = parseInt(xaxis.value) + 1
+            const xspace = cxaxis.width / xdivs;
+            xctx.clearRect(0, 0, cxaxis.width, cxaxis.height);
+            for (let i = 1; i < xdivs; i++) {
+                xctx.fillText(i, i * xspace - 3, cxaxis.height * 0.75);
+            }
+            const nw = canvas.width * (xdbk / parseInt(xaxis.value));
+            rePlot(nw, canvas.height);
+            xdbk = parseInt(xaxis.value);
+        }
+        function printYAxi() {
+            const ydivs = parseInt(yaxis.value) + 1
+            const yspace = cyaxis.height / ydivs;
+            yctx.clearRect(0, 0, cyaxis.width, cyaxis.height);
+            for (let i = 1; i < ydivs; i++) {
+                yctx.fillText(i, 0, cyaxis.height - (i * yspace) + 3);
+            }
+            const nh = canvas.height * (ydbk / parseInt(yaxis.value));
+            rePlot(canvas.width, nh);
+            ydbk = parseInt(yaxis.value);
+        }
+        function rePlot(nw, nh) {
+            const newcanvas = document.createElement('canvas');
+            newcanvas.attributes = canvas.attributes;
+            const newctx = newcanvas.getContext('2d');
+            newctx.drawImage(canvas, 0, 0, newcanvas.width, newcanvas.height);
+            clearCanvas();
+            ctx.drawImage(newcanvas, 0, canvas.height - nh, nw, nh);
+        }
+        function addDice() {
+            const tr = document.createElement('tr');
+            const td1 = document.createElement('td');
+            const td2 = document.createElement('td');
+            const inp1 = document.createElement('input');
+            const inp2 = document.createElement('input');
+            inp1.type = "number";
+            inp1.classList.add('ndices');
+            inp1.value = "1";
+            inp1.step = "1";
+            inp1.min = "0";
+            inp2.type = "number";
+            inp2.classList.add('nfaces');
+            inp2.value = "2";
+            inp2.step = "1";
+            inp2.min = "2";
+            td1.appendChild(inp1);
+            td2.appendChild(inp2);
+            tr.appendChild(td1);
+            tr.appendChild(td2);
+            tr.appendChild(addtd);
+            tdices.appendChild(tr);
+        }
+    </script>
+</body>
+
+</html>
