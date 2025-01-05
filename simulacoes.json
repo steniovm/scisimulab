@@ -29353,7 +29353,7 @@
       "Ondas",
       "Oscilações"
     ],
-    "Author": "Arcademo",
+    "author": "Arcademo",
     "hash": "263217136b68f6fc4357db97fa116db2"
   },
   {
@@ -29373,7 +29373,7 @@
       "Radiação",
       "Óptica"
     ],
-    "Author": "Chemical Thinking Interactives",
+    "author": "Chemical Thinking Interactives",
     "hash": "fa7c66c8f5cd0c106ebe0876c7856b20"
   },
   {
@@ -29393,7 +29393,7 @@
       "Radiação",
       "Óptica"
     ],
-    "Author": "Ostralo",
+    "author": "Ostralo",
     "hash": "4c6bb6d272f0f7947ddd5cdd455807d1"
   },
   {
@@ -29415,7 +29415,7 @@
       "Ondas",
       "Oscilações"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "de9d9d4031644e7f9f3e80005e7ad69c"
   },
   {
@@ -29437,7 +29437,7 @@
       "Ondas",
       "Oscilações"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "1baa7b8ca2e77a5b927b98cedf23e1bc"
   },
   {
@@ -29459,7 +29459,7 @@
       "Ondas",
       "Oscilações"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "7491001a1bae5c554762143c6bf2f34c"
   },
   {
@@ -29477,7 +29477,7 @@
       "Termodinâmica",
       "Termologia"
     ],
-    "Author": "Pearson Chemistry Simulations",
+    "author": "Pearson Chemistry Simulations",
     "hash": "f13180b2e9de444a361bb03f4ad83fd6"
   },
   {
@@ -29493,7 +29493,7 @@
       "Trigonometria",
       "Óptica"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "349667e54154182a40bfa80cff6171cd"
   },
   {
@@ -29513,7 +29513,7 @@
       "Gráfico",
       "Vetores"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "e5bc209c5f912d1ad001fad5810b3c0e"
   },
   {
@@ -29532,7 +29532,7 @@
       "Mecânica",
       "Vetores"
     ],
-    "Author": "Physics and Chemistry by a Clear Learning",
+    "author": "Physics and Chemistry by a Clear Learning",
     "hash": "7685c86ea8249bcd723495939739c7c0"
   }
 ]
