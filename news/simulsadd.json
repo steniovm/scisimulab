@@ -1,0 +1,550 @@
+[
+  {
+    "name": "Flutuabilidade: Básico",
+    "descript": "Procure a relação entre o volume submerso, a massa de um bloco e peso aparente em um tanque de liquido. Determine os fatores e a relação da força de empuxo em um objeto.",
+    "url": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics-420.png",
+    "categorys": [
+      "Aritmética",
+      "Clima",
+      "Densidade",
+      "Força",
+      "Física",
+      "Hidrostática",
+      "Mecânica",
+      "Termologia",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "4fceee4c72521b455d6f183155da2a14"
+  },
+  {
+    "name": "Flutuabilidade: Lab",
+    "descript": "Procure a relação entre o volume submerso de diferentes objetos, a massa de um corpo e peso aparente em tanques de diferentes liquidos. Determine os fatores e a relação da força de empuxo em objetos.",
+    "url": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy-420.png",
+    "categorys": [
+      "Aritmética",
+      "Clima",
+      "Densidade",
+      "Força",
+      "Física",
+      "Hidrostática",
+      "Mecânica",
+      "Termologia",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "59df974ebbb5a749b15374bb36d47818"
+  },
+  {
+    "name": "Gerador",
+    "descript": "Mostra o funcionamento de um gerador de corrente eletrico com diferentes numeros de espiras. Observe a representação do campo magnético e da bússula enquanto acompanha a variação da corrente induzida.",
+    "url": "https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/generator/latest/generator-420.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Mecânica",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "4575f99c5e42a189a15619b437229132"
+  },
+  {
+    "name": "Ímãs e Eletroímãs",
+    "descript": "Observe e messa o campo magnético de um imã em barra, de um solenoide ou até da Terra, utilizando a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra, assim como a corrente eletrica sobre as espiras, se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "f794d5b72951bc7c7dea757300a94421"
+  },
+  {
+    "name": "Ímã e Bússola",
+    "descript": "Observe e messa o campo magnético de um imã em barra ou da Terra, utilizando a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "6a08a264ab5f15ef5bee6ba2a80ab5d6"
+  },
+  {
+    "name": "Laboratório Eletromagnético de Faraday",
+    "descript": "Observe e messa o campo magnético de um imã em barra, de um solenoide com diferentes números de espiras ou até da Terra. Observe também a corrente induzida gerada pela variação do campo elétrico e vice-versa. Veja o efeito sobre a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra, assim como a corrente eletrica sobre as espiras, se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "5a7e5d8a7e812a6aad4f3e356486da2a"
+  },
+  {
+    "name": "Distribuição Amostral de Projéteis",
+    "descript": "Simula o lançamento de projéteis com variabilidade aleatória na direção do disparo. Faça um levantamento estatístico e calcule a média do alcance.",
+    "url": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions-420.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Cinemática",
+      "Estatística",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Probabilidade",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "bb2aa79b8deee87221b706adf7b8c9d3"
+  },
+  {
+    "name": "Lab Dados de Projéteis",
+    "descript": "Simula o lançamento de projéteis com diferentes fontes de variabilidade aleatória na direção do disparo. Faça um levantamento estatístico e calcule a média do alcance.",
+    "url": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab-420.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Cinemática",
+      "Estatística",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Probabilidade",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "0a3bf113ea0098c742e4f7af0d110fca"
+  },
+  {
+    "name": "Leis de Kepler",
+    "descript": "Demonstre as leis de Kepler separadamente ou juntas. Veja as órbitas dos planetas e compare com a do corpo estudado. Observe diferentes medidas orbitais como foco, corda, semi-eixo, vetor velocidade, força gravitacional, área varrida, afélio, periélio, périodo e massa estelar.",
+    "url": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png",
+    "categorys": [
+      "Aritmética",
+      "Astronomia",
+      "Cinemática",
+      "Energia",
+      "Estatística",
+      "Força",
+      "Função",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Matemática",
+      "Mecânica",
+      "Oscilações",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "205b90e066ae0d347f4d11447083ee83"
+  },
+  {
+    "name": "Ondas Sonoras",
+    "descript": "Observe diferentes fenômenos ondulatórios, especialmente acústicos. Veja a representação visual e sonora das ondas, com diferentes frequências e amplitudes. Observe a interferência da onda emitiuda por duas fontes, a reflexão em superficies com diferentes ângulos e caixa com isolamento acústico.",
+    "url": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves-420.png",
+    "categorys": [
+      "Acústica",
+      "Física",
+      "Mecânica",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "Phet",
+    "hash": "afb231655bd77e4dcce959f355e08194"
+  },
+  {
+    "name": "Quadrilátero",
+    "descript": "Mova os vértices de um quadrilátero e veja se transformando em diferentes tipos de figuras, como: quadrado, retângulo, losango, pipa e romboide. Observe os ângulos e tamanhos dos lados.",
+    "url": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral-420.png",
+    "categorys": [
+      "Aritmética",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Trigonometria"
+    ],
+    "author": "Phet",
+    "hash": "237f6af3f95dab736d0fce092f32e409"
+  },
+  {
+    "name": "Óptica Geométrica: Básico",
+    "descript": "Explica como uma imagem é formada por lentes ou espelhos, convergentes ou divergentes, utilizando diagramas de raios. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics-420.png",
+    "categorys": [
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Trigonometria",
+      "Óptica"
+    ],
+    "author": "Phet",
+    "hash": "7847862d95a130a2dbed82b4a2551a55"
+  },
+  {
+    "name": "Kit para Montar um Circuito: AC - Laboratório Virtual",
+    "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional, incluindo elementos magnéticos",
+    "url": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Física",
+      "Gráfico"
+    ],
+    "author": "Phet",
+    "hash": "80f164d2b2009e8d318b56895efca25b"
+  },
+  {
+    "name": "Laboratório de Força Gravitacional: Básico",
+    "descript": "Relaciona a força gravitacional às massas dos objetos e à distância entre os objetos. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Força",
+      "Função",
+      "Física",
+      "Gravitação",
+      "Vetores"
+    ],
+    "author": "Phet",
+    "hash": "6c0d0f37ce0488443f96f561c2ce7271"
+  },
+  {
+    "name": "Kit para Montar um Circuito: DC - Laboratório Virtual",
+    "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional. Incluindo elementos de segurança como fusiveis.",
+    "url": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Física",
+      "Gráfico"
+    ],
+    "author": "Phet",
+    "hash": "f609717576e4e90be5bce9a103fbfd3e"
+  },
+  {
+    "name": "Estados da Matéria: Básico",
+    "descript": "Descreve como aquecimento ou resfriamento altera o comportamento das moléculas em ólidos, líquidos e gases. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Atômica",
+      "Clima",
+      "Densidade",
+      "Energia",
+      "Física",
+      "Química",
+      "Termodinâmica",
+      "Termologia"
+    ],
+    "author": "Phet",
+    "hash": "491db217778c422dcea914a2c61b639e"
+  },
+  {
+    "name": "Geometria Molecular: Básico",
+    "descript": "Explica que a geometria molecular se deve a repulsões entre os grupos de elétrons e nomes das geométrias. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/molecule-shapes-basics/latest/molecule-shapes-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrostática",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Química",
+      "Trigonometria"
+    ],
+    "author": "Phet",
+    "hash": "31e471ae93c9da7aac54f72c503635b4"
+  },
+  {
+    "name": "Energia na Pista de Skate: Básico",
+    "descript": "Explicar o conceito de Conservação de Energia Mecânica usando energias cinética, potencial gravitacional e térmica. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Cinemática",
+      "Energia",
+      "Força",
+      "Física",
+      "Gráfico"
+    ],
+    "author": "Phet",
+    "hash": "430c64360beff05f52bfe86494430dcf"
+  },
+  {
+    "name": "Escala de pH: Básico",
+    "descript": "Descreve em uma escala molecular, com ilustrações, como o equilíbrio da água varia com o pH. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Biologia",
+      "Densidade",
+      "Função",
+      "Física",
+      "Química"
+    ],
+    "author": "Phet",
+    "hash": "63d686c4f1e1fb5e1320095bf515f6a3"
+  },
+  {
+    "name": "Osciloscópio virtual",
+    "descript": "Simula um osciloscópio com diferentes entradas, inclusive a entrada do microfone do seu dispositivo. É possivel escolher diferentes sinais de entrada, com ajuste de frequência e amplitude de onda, e fazer ajustes de escala e tensão (em volts)",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPGSDOgP_5gqVxTve_m_qokAhk5ApzNQLOM465rK45wJ57i1mjjIenj0NhbE5ozNXC1-IHS8nFZzip__c5iAbY2WwLzeBKmZt4oEcGgCBg4pekWKYAGPpCLqBU9ab4PZFNDc8c6Fvjvso/s1600/Screenshot_5.jpg",
+    "url": "https://academo.org/demos/virtual-oscilloscope/",
+    "categorys": [
+      "Acústica",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Função",
+      "Física",
+      "Genética",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Ondas",
+      "Oscilações"
+    ],
+    "Author": "Arcademo",
+    "hash": "263217136b68f6fc4357db97fa116db2"
+  },
+  {
+    "name": "Espectros de fotoelétrons (H5 CT)",
+    "descript": "Mostra a energia de ionização de diferentes eletróns para diferentes atômos. O espectro fotoeletrico é mostrado em um ou dois gráficos.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsqgQlFUZVHCCZdkTHfEzOnTg-d2jAzLF5HzWquRaQ4tf6yyAXXjV7DN4khFsNDsyXJWX80avv4saHE3CKqUlij-g_ognfMqF058dejiMWJCAuswaz97swcsehHAXrQJvvQCEGk5KVWQ/s125-p/espect+fotoelect.jpg",
+    "url": "https://chemicalthinking.xyz/pem/pem.html",
+    "categorys": [
+      "Astronomia",
+      "Atômica",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Quântica",
+      "Química",
+      "Radiação",
+      "Óptica"
+    ],
+    "Author": "Chemical Thinking Interactives",
+    "hash": "fa7c66c8f5cd0c106ebe0876c7856b20"
+  },
+  {
+    "name": "Espectros de emissão e absorção de elementos",
+    "descript": "Simulação que permite visualizar e comparar os espectros de emissão e absorção dos elementos.",
+    "thumb": "https://physique.ostralo.net/spectre_em_abs/ecran.png",
+    "url": "https://physique.ostralo.net/spectre_em_abs/",
+    "categorys": [
+      "Astronomia",
+      "Atômica",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Quântica",
+      "Química",
+      "Radiação",
+      "Óptica"
+    ],
+    "Author": "Ostralo",
+    "hash": "4c6bb6d272f0f7947ddd5cdd455807d1"
+  },
+  {
+    "name": "Osciloscópio virtual - Amplitude",
+    "descript": "Simula um osciloscópio com controle de amplitude (tensão) do sinal de entrada e ajuste de escala de vertical.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRSXfbNx9twu3EzeuhPGcdDfpUNWGP16ebDrA-lHs5t54FiSWCINlVbQy8Gze9JQJsfx04TBMb0KJLeehSkJksN54Ffxcf6giNlPT-lkJ_FLSDdgu9SW5Z5iUPi7o3Atsa3mM2s-y1wG8/s1600/oscilo1.jpg",
+    "url": "https://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/oscilloscope_description_tutorial_amplitude_peak_sine_voltage_AC_flash.htm",
+    "categorys": [
+      "Acústica",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Ondas",
+      "Oscilações"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "de9d9d4031644e7f9f3e80005e7ad69c"
+  },
+  {
+    "name": "Osciloscópio virtual - Periodo",
+    "descript": "Simula um osciloscópio com controle de periodo (segundos) do sinal de entrada e ajuste de escala de horizontal.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimNltgEsZesWjNVMKyjKu9D0G-I4WGVDpBTwBjSjBgLII6MIOLirV_QAQeY93W9eHLxrWB7eThRmINFSXndxzH8rC4nGwDNq3cXrIiLOFBnHLjzbmNuh1QTe8a8OZQL2UL32XJyf_mJpk/s1600/oscilo2.jpg",
+    "url": "https://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/oscilloscope_description_tutorial_frequency_period_sine_voltage_AC_flash.htm",
+    "categorys": [
+      "Acústica",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Ondas",
+      "Oscilações"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "1baa7b8ca2e77a5b927b98cedf23e1bc"
+  },
+  {
+    "name": "Osciloscópio sonoro",
+    "descript": "Simula um osciloscópio com ajuste de escala de vertical e horizontal ligado a um teclado musical que emite diferentes notas (frequência) e com ajuste de forma (timbre) e amplitude (volume).",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE2uFqPn33uZ9fTusWbbxLNUeLRVj0JsTH_U6ptx7d0aRAnFu_QAh0nt4HJFtJXl2YyXjhreeZ4JJrTI-6GtAQcbAMugAgCY3mmVXVq7NBk1p3qIYdB_ZN4nNLuQdG_OgbW5ekh2TKlBE/s400/oscilo.jpg",
+    "url": "https://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/oscilloscope_description_tutorial_sounds_frequency_flash.htm",
+    "categorys": [
+      "Acústica",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Ondas",
+      "Oscilações"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "7491001a1bae5c554762143c6bf2f34c"
+  },
+  {
+    "name": "Calorimetria",
+    "descript": "Simula um calorimetro com a capacidade de manipular variáveis ​​de massa (ou volume), temperatura (ou molaridade para ácidos/bases) e tipo de substância (líquidos, sólidos e soluções) e observar como a alteração dessas variáveis ​​afeta a temperatura inicial e/ou final e a quantidade de calor trocada em um experimento de calorímetro de pressão constante.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEaZxfSBVjm5D3-8R_yxy24tM3BjL-3TmH63Aqoj4Ofb85etNUw6mmjeAvJ3OPwaIWQFFCcWWpbCf8b9CmUH4oek97l994lXovw3_nCaHeDpdQ50foUcv2HPxpCtRWo81UsWMfMIlakoA/s320/cal3.jpg",
+    "url": "https://media.pearsoncmg.com/bc/bc_0media_chem/chem_sim/calorimetry/Calor.php",
+    "categorys": [
+      "Densidade",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Química",
+      "Termodinâmica",
+      "Termologia"
+    ],
+    "Author": "Pearson Chemistry Simulations",
+    "hash": "f13180b2e9de444a361bb03f4ad83fd6"
+  },
+  {
+    "name": "REFRAÇÃO DA LUZ - LEI SNELL/DESCARTES",
+    "descript": "Esta simulação torna possível encontrar a lei de Snell-Descartes quando um feixe de laser passa do ar para a água, para o vidro e para o diamante, sofrendo refração. O fenômeno da reflexão total é observável.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_pXnJ1Sz_9PB73xUK1eBwCDfLrOCGy7sKL8uJLEko1ljbYTYTeE-w1VRXdNr3rXcawdimWo8Rc6TOtWaX04wRlp-30hcAL6MPd7I9lOmg4hxrzS5CAjIeNJcxR_5k9gA5bzdg6G0zcI/s1600/SnellDescartes.jpg",
+    "url": "https://www.physics-chemistry-interactive-flash-animation.com/optics_interactive/refraction_Snell_Descartes_law_flash.htm",
+    "categorys": [
+      "Função",
+      "Física",
+      "Geometria",
+      "Química",
+      "Trigonometria",
+      "Óptica"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "349667e54154182a40bfa80cff6171cd"
+  },
+  {
+    "name": "Velocidade Terminal - MOVIMENTO UNIFORME - CRONOFOTOGRAFIA",
+    "descript": "Princípio do paraquedas. Um objeto para o qual o atrito do ar não é desprezível comparado ao peso pode \"cair\" em velocidade constante. As forças de atrito aumentam com a velocidade e quando elas compensam exatamente o peso, o móvel atingiu uma velocidade limite, que ele mantém.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsXkFjrg0R3Un7LASwSggRgoS1JoRXGZ5xOdEDqZWbzp_1cuMoOs9At3kMEOULjkumQSewMwgf00xLvNgA4KqOO9sD4qZwmqQ_63g8cxuc6150ELANGftS-A-3YeRnxr5vy99LGbyd6hw/s125-p/velocterminal.jpg",
+    "url": "https://simulfq.blogspot.com/2013/10/velocidade-terminal.html",
+    "categorys": [
+      "Aritmética",
+      "Cinemática",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Geografia",
+      "Gravitação",
+      "Gráfico",
+      "Vetores"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "e5bc209c5f912d1ad001fad5810b3c0e"
+  },
+  {
+    "name": "TEOREMA DA ENERGIA CINÉTICA DO TRABALHO",
+    "descript": "Simulação para verificar o teorema da conservação da energia mecânica medindo forças, velocidades e massas.",
+    "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEIYnT1jxcxjhHiSxd_RIG1itYV6UWMqC5xEcpUVXQ1L50Xh1nS-66AboMJjgFJ-riC-kcSrd3DSWvOQbZO7qwYBwWf2RIYsCJlZSnMyv-oeky6p32t_dMEixkLNXRE9mbH8DVLxcS-HQ/s400/2%C2%AAlei-a.jpg",
+    "url": "https://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/work_kinetic_energy_theorem_flash.htm",
+    "categorys": [
+      "Aritmética",
+      "Cinemática",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Mecânica",
+      "Vetores"
+    ],
+    "Author": "Physics and Chemistry by a Clear Learning",
+    "hash": "7685c86ea8249bcd723495939739c7c0"
+  }
+]

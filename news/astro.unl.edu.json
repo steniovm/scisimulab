@@ -1,0 +1,1138 @@
+{
+  "ca0": {
+    "desc": "Shows how the finite speed of light and the great distances to most astronomical objects cause us to observe things as they were in the past.",
+    "src": "classaction/animations/intro/lookbacktimesim.jpg",
+    "title": "Lookback Time Simulator"
+  },
+  "ca1": {
+    "desc": "Shows how small angles can be approximated.",
+    "src": "classaction/animations/intro/smallangledemo.jpg",
+    "title": "Small-Angle Approximation Demonstrator"
+  },
+  "ca2": {
+    "desc": "Demonstrates how the day of the year when a star is first visible in the morning (the heliacal rising) depends on the observer's latitude and the star's position on the celestial sphere.",
+    "src": "classaction/animations/ancientastro/heliacalrisingsim.jpg",
+    "title": "Heliacal Rising Simulator"
+  },
+  "ca3": {
+    "desc": "Shows how stars rotate around the North Star over time (both daily and seasonal motions are shown).",
+    "src": "classaction/animations/ancientastro/dipperclock.jpg",
+    "title": "Big Dipper Clock"
+  },
+  "ca4": {
+    "desc": "Shows the geometry for calculating the meridional altitude of objects.",
+    "src": "classaction/animations/coordsmotion/meridaltdiagram.jpg",
+    "title": "Meridional Altitude Simulator"
+  },
+  "ca5": {
+    "desc": "Shows how an observer's latitude determines the circumpolar, rise and set, and never rise regions in the sky.",
+    "src": "classaction/animations/coordsmotion/latsim.jpg",
+    "title": "Declination Ranges Simulator"
+  },
+  "ca6": {
+    "desc": "Shows how the sun's declination and right ascension change over the course of a year.",
+    "src": "classaction/animations/coordsmotion/seasonsim.jpg",
+    "title": "Ecliptic Simulator"
+  },
+  "ca7": {
+    "desc": "Demonstrates the changing declination of the sun with a time-lapse movie, which shows how the shadow of a building changes over the course of a year.",
+    "src": "classaction/animations/coordsmotion/transitmovie.jpg",
+    "title": "Union Seasons Demonstrator"
+  },
+  "ca8": {
+    "desc": "Demonstrates the horizon coordinate system, where altitude and azimuth define an object's position in the sky.",
+    "src": "classaction/animations/coordsmotion/altazimuth.jpg",
+    "title": "Azimuth/Altitude Demonstrator"
+  },
+  "ca9": {
+    "desc": "Simulation showing daylight and nighttime regions on a flat map of Earth.  Daily and yearly motions of the sunlight pattern can be shown.",
+    "src": "classaction/animations/coordsmotion/daylightsimulator.jpg",
+    "title": "Daylight Simulator"
+  },
+  "ca10": {
+    "desc": "Shows how obliquity (tilt) is defined.",
+    "src": "classaction/animations/coordsmotion/obliquity.jpg",
+    "title": "Obliquity Simulator"
+  },
+  "ca11": {
+    "desc": "Shows the sun's position in the sky relative to the background stars (the zodiac constellations) over the course of a year.",
+    "src": "classaction/animations/coordsmotion/zodiac.jpg",
+    "title": "Ecliptic (Zodiac) Simulator"
+  },
+  "ca12": {
+    "desc": "Demonstrates latitude and longitude with an interactive globe, providing an analogy to the celestial and horizon coordinate systems.",
+    "src": "classaction/animations/coordsmotion/longlat.jpg",
+    "title": "Longitude/Latitude Demonstrator"
+  },
+  "ca13": {
+    "desc": "Demonstrates the celestial-equatorial (RA/dec) coordinate system, where declination and right ascension define an object's position on the celestial sphere.",
+    "src": "classaction/animations/coordsmotion/radecdemo.jpg",
+    "title": "Celestial-Equatorial (RA/Dec) Demonstrator"
+  },
+  "ca14": {
+    "desc": "Shows how the declination of the sun varies over the course of a year using a horizon diagram.",
+    "src": "classaction/animations/coordsmotion/sunpaths.jpg",
+    "title": "Paths of the Sun"
+  },
+  "ca15": {
+    "desc": "Shows the paths of the sun on the celestial sphere.",
+    "src": "classaction/animations/coordsmotion/sunmotionsoverview.jpg",
+    "title": "Sun Motions Overview"
+  },
+  "ca16": {
+    "desc": "Models the motions of the sun in the sky using a horizon diagram, demonstrating daily and seasonal changes in the sun's position.",
+    "src": "classaction/animations/coordsmotion/sunmotions.jpg",
+    "title": "Sun Motions Demonstrator"
+  },
+  "ca17": {
+    "desc": "Shows how the sun's most direct rays hit different parts of the earth as the seasons change.",
+    "src": "classaction/animations/coordsmotion/sunsrays.jpg",
+    "title": "Sun's Rays Simulator"
+  },
+  "ca18": {
+    "desc": "Shows how the direction of the sun at sunrise or sunset changes over the course of the year.",
+    "src": "classaction/animations/coordsmotion/horizon.jpg",
+    "title": "Sun's Position on Horizon"
+  },
+  "ca19": {
+    "desc": "Demonstrates how the stars of the big dipper, which are at various distance from earth, project onto the celestial sphere to give the familiar asterism.",
+    "src": "classaction/animations/coordsmotion/bigdipper.jpg",
+    "title": "Big Dipper 3D"
+  },
+  "ca20": {
+    "desc": "Shows the geometry of the earth and sun over the course of a year, demonstrating how seasons occur. This simulator allows both orbital and celestial sphere representations of the seasonal motions.",
+    "src": "classaction/animations/coordsmotion/eclipticsimulator.jpg",
+    "title": "Seasons Simulator (NAAP)"
+  },
+  "ca21": {
+    "desc": "Shows how the rotation of the earth leads to the apparent rotation of the sky, and how celestial sphere and horizon diagram representations of the sky are correlated.",
+    "src": "classaction/animations/coordsmotion/celhorcomp.jpg",
+    "title": "Coordinate Systems Comparison"
+  },
+  "ca22": {
+    "desc": "Shows the hours of daylight received during the year for an observer at a given latitude. This is an important factor contributing to the seasons.",
+    "src": "classaction/animations/coordsmotion/daylighthoursexplorer.jpg",
+    "title": "Daylight Hours Explorer"
+  },
+  "ca23": {
+    "desc": "Demonstrates antipodal points, which are points on opposite sides of the Earth from each other.",
+    "src": "classaction/animations/coordsmotion/antipodesexplorer.jpg",
+    "title": "Antipodes Explorer"
+  },
+  "ca24": {
+    "desc": "Shows how sidereal time and the hour angle of a star are related.",
+    "src": "classaction/animations/200level/siderealTimeAndHourAngleDemo.jpg",
+    "title": "Sidereal Time and Hour Angle Demonstrator"
+  },
+  "ca25": {
+    "desc": "Demonstrates how the celestial sphere and horizon diagram are related.",
+    "src": "classaction/animations/coordsmotion/celestialhorizon.jpg",
+    "title": "Celestial and Horizon Systems Comparison"
+  },
+  "ca26": {
+    "desc": "Helps demonstrate the difference between sidereal and solar time.",
+    "src": "classaction/animations/coordsmotion/siderealSolarTime.jpg",
+    "title": "Sidereal and Solar Time Simulator"
+  },
+  "ca27": {
+    "desc": "Shows the appearance of the moon at each of the named moon phases.",
+    "src": "classaction/animations/lunarcycles/lunar_phaser.jpg",
+    "title": "Lunar Phase Vocabulary"
+  },
+  "ca28": {
+    "desc": "Shows an illuminated basketball that can be viewed from multiple directions, providing an analogy to moon phases.",
+    "src": "classaction/animations/lunarcycles/basketball.jpg",
+    "title": "Basketball Phases Simulator"
+  },
+  "ca29": {
+    "desc": "Shows how the phase of the moon depends on the viewing geometry by allowing the moon to be viewed from the earth, the sun, and an arbitrary point in space.",
+    "src": "classaction/animations/lunarcycles/moonphases.jpg",
+    "title": "Three Views Simulator"
+  },
+  "ca30": {
+    "desc": "Demonstrates the correspondence between the moon's position in its orbit, its phase, and its position in an observer's sky at different times of day.",
+    "src": "classaction/animations/lunarcycles/lunarapplet.jpg",
+    "title": "Lunar Phases Simulator (NAAP)"
+  },
+  "ca31": {
+    "desc": "Demonstrates how the inclination of the moon's orbit precludes eclipses most of the time, leading to distinct eclipse seasons.",
+    "src": "classaction/animations/lunarcycles/mooninc.jpg",
+    "title": "Moon Inclination"
+  },
+  "ca32": {
+    "desc": "Consists of a table of solar and lunar eclipses, showing the banding that represents the eclipse seasons that occur about twice a year.",
+    "src": "classaction/animations/lunarcycles/eclipsetable.jpg",
+    "title": "Eclipse Table"
+  },
+  "ca33": {
+    "desc": "Provides draggable earth and moon discs with shadows, which can be used to demonstrate how the umbral (complete) and penumbral (partial) shadows give rise to different types of eclipses.",
+    "src": "classaction/animations/lunarcycles/shadowsim.jpg",
+    "title": "Eclipse Shadow Simulator"
+  },
+  "ca34": {
+    "desc": "Shows how the sun, moon, and earth's rotation combine to create tides.",
+    "src": "classaction/animations/lunarcycles/tidesim.jpg",
+    "title": "Tidal Bulge Simulation"
+  },
+  "ca35": {
+    "desc": "Demonstrates how planet and moon phases depend on orbital geometry. Users can drag two bodies around to see how the observed appearances change.",
+    "src": "classaction/animations/lunarcycles/phaseDemonstrator.jpg",
+    "title": "Phase Positions Demonstrator"
+  },
+  "ca36": {
+    "desc": "Provides a method of learning the correlation between the phase of the moon, the time of day, and the position of the moon in the sky.",
+    "src": "classaction/animations/lunarcycles/positionsdemonstrator.jpg",
+    "title": "Moon Phases and the Horizon Diagram"
+  },
+  "ca37": {
+    "desc": "Demonstrates the difference between a sidereal and synodic (solar) day, which arises from the earth's revolution around the sun.",
+    "src": "classaction/animations/lunarcycles/synodiclag.jpg",
+    "title": "Synodic Lag"
+  },
+  "ca38": {
+    "desc": "Shows the declination range of the full moon over the course of a year, and the corresponding changes in altitude for a northern hemisphere observer.",
+    "src": "classaction/animations/lunarcycles/fullmoondec.jpg",
+    "title": "Full Moon Declination Simulator"
+  },
+  "ca39": {
+    "desc": "Shows the standard orbital view of the Moon, but with the option to hide the Moon's phase, the Moon's position, or the Sun's direction.",
+    "src": "classaction/animations/lunarcycles/lunarphasequizzer.jpg",
+    "title": "Lunar Phase Quizzer"
+  },
+  "ca40": {
+    "desc": "Demonstrates a method for determining moon phases using planes that bisect the earth and moon.",
+    "src": "classaction/animations/lunarcycles/moonbisector.jpg",
+    "title": "Moon Phases With Bisectors"
+  },
+  "ca41": {
+    "desc": "Shows what Venus looks like through a telescope as the planets go around in their orbits. Compare with the Ptolemaic Phases of Venus simulation.",
+    "src": "classaction/animations/renaissance/venusphases.jpg",
+    "title": "Phases of Venus"
+  },
+  "ca42": {
+    "desc": "Shows what Venus would look like through a telescope if Ptolemy's model was correct. Compare with the other Phases of Venus simulation.",
+    "src": "classaction/animations/renaissance/ptolemaic.jpg",
+    "title": "Ptolemaic Phases of Venus"
+  },
+  "ca43": {
+    "desc": "Shows Ptolemy's model for the orbit of Mars.",
+    "src": "classaction/animations/renaissance/marsorbit.jpg",
+    "title": "Ptolemaic Orbit of Mars"
+  },
+  "ca44": {
+    "desc": "Demonstrates that the heliocentric and geocentric models are equivalent for predictive purposes when limited to circular orbits. One can watch the same system in motion with different bodies held in fixed position.",
+    "src": "classaction/animations/renaissance/pathtracer.jpg",
+    "title": "Epicycles Demo"
+  },
+  "ca45": {
+    "desc": "Demonstrates the retrograde motion of Mars with an annotated animation.",
+    "src": "classaction/animations/renaissance/retrograde.jpg",
+    "title": "Retrograde Motion"
+  },
+  "ca46": {
+    "desc": "Lets one calculate the period of a planet from its semimajor axis, and vice versa.",
+    "src": "classaction/animations/renaissance/keplers_third.jpg",
+    "title": "Kepler's Third Law"
+  },
+  "ca47": {
+    "desc": "Lets one calculate the sidereal period of the planet (P) from the synodic period (S), and vice versa.",
+    "src": "classaction/animations/renaissance/synodiccalculator.jpg",
+    "title": "Synodic Period Calculator"
+  },
+  "ca48": {
+    "desc": "Models the movements of the planets around the sun in a simplified Copernican model of the solar system.",
+    "src": "classaction/animations/renaissance/configurationssimulator.jpg",
+    "title": "Planetary Configurations Simulator (NAAP)"
+  },
+  "ca49": {
+    "desc": "Models the motion of a hypothetical planet that orbits the sun according to Kepler's laws of motion. This simulator includes controls for investigating each of Kepler's laws.",
+    "src": "classaction/animations/renaissance/kepler.jpg",
+    "title": "Planetary Orbit Simulator (NAAP)"
+  },
+  "ca50": {
+    "desc": "Demonstrates the parameters that define the eccentricity of an ellipse.",
+    "src": "classaction/animations/renaissance/ellipsedemo.jpg",
+    "title": "Eccentricity Demonstrator"
+  },
+  "ca51": {
+    "desc": "Shows the orbital period as a function of orbital distance for satellites of Earth.",
+    "src": "classaction/animations/renaissance/earthorbitplot.jpg",
+    "title": "Earth Orbit Plot"
+  },
+  "ca52": {
+    "desc": "Allows one to calculate the force of gravity acting on a variety of masses over a range of distances.",
+    "src": "classaction/animations/renaissance/gravcalc.jpg",
+    "title": "Newton's Law of Gravity Calculator"
+  },
+  "ca53": {
+    "desc": "Shows how the force of gravity would be different if the values used in Newton's law of universal gravitation formula are changed.",
+    "src": "classaction/animations/renaissance/gravalgebra.jpg",
+    "title": "Gravity Algebra"
+  },
+  "ca54": {
+    "desc": "A movie showing the heating and eventual melting of a nail, and the theoretical blackbody curve produced in the process.",
+    "src": "classaction/animations/light/meltednail.jpg",
+    "title": "Blackbody Curves of Melting"
+  },
+  "ca55": {
+    "desc": "Allows one to generate a variety of simulated spectra, depending on factors such as the type of source, luminosity class, spectral type, and individually selected elements.",
+    "src": "classaction/animations/light/spectrum010.jpg",
+    "title": "Spectrum Explorer"
+  },
+  "ca56": {
+    "desc": "Surveys the electromagnetic spectrum, showing a typical astronomical image for different wavelengths of light and the kind of instrument that would take such an image.",
+    "src": "classaction/animations/light/emspectrum.jpg",
+    "title": "EM Spectrum Module"
+  },
+  "ca57": {
+    "desc": "Demonstrates how the blackbody spectrum varies with temperature. This explorer also shows how the relative intensities observed through different filters (a 'color index') can give an estimate of temperature.",
+    "src": "classaction/animations/light/bbexplorer.jpg",
+    "title": "Blackbody Curves (NAAP)"
+  },
+  "ca58": {
+    "desc": "Demonstrates how different light sources and filters combine to determine an observed spectrum. This simulator also shows the perceived colors associated with the spectra shown.",
+    "src": "classaction/animations/light/filters.jpg",
+    "title": "Filters Simulator (NAAP)"
+  },
+  "ca59": {
+    "desc": "Models a hydrogen atom and its interactions with light, demonstrating the quantum nature of absorption and emission.",
+    "src": "classaction/animations/light/hydrogenatom.jpg",
+    "title": "Hydrogen Atom Simulator (NAAP)"
+  },
+  "ca60": {
+    "desc": "Demonstrates how different spectra can arise from a light bulb (a thermal source) and a cold, thin gas cloud. The spectrometer shows emission, absorption, or continuous spectra based on where the draggable telescope is pointed.",
+    "src": "classaction/animations/light/threeviewsspectra.jpg",
+    "title": "Three Views Spectrum Demonstrator"
+  },
+  "ca61": {
+    "desc": "Demonstrates how the spectrum of a star is shifted as it and its planet orbit their common center of mass.",
+    "src": "classaction/animations/light/radialvelocitydemo.jpg",
+    "title": "Extrasolar Planet Radial Velocity Demonstrator"
+  },
+  "ca62": {
+    "desc": "Shows circular waves expanding from a source. Movement of the source or observer affects the frequency of the waves seen by the observer, demonstrating doppler shift.",
+    "src": "classaction/animations/light/dopplershift.jpg",
+    "title": "Doppler Shift Demonstrator"
+  },
+  "ca63": {
+    "desc": "Demonstrates the properties of a telescope, and how these vary with aperture and eyepiece selection.",
+    "src": "classaction/animations/telescopes/telescope10.jpg",
+    "title": "Telescope Simulator"
+  },
+  "ca64": {
+    "desc": "Shows a rainfall and bucket analogy to CCD imaging.",
+    "src": "classaction/animations/telescopes/buckets.jpg",
+    "title": "CCD Simulator"
+  },
+  "ca65": {
+    "desc": "Demonstrates Snell's Law, a formula that describes how light is refracted when it moves between different media.",
+    "src": "classaction/animations/telescopes/snellslaw.jpg",
+    "title": "Snell's Law Demonstrator"
+  },
+  "ca66": {
+    "desc": "Shows an animated diagram of the proton-proton chain reaction, which is the dominant fusion reaction in the sun's core.",
+    "src": "classaction/animations/sunsolarenergy/fusion01.jpg",
+    "title": "Proton-Proton Animation"
+  },
+  "ca67": {
+    "desc": "Shows an animated diagram of the CNO cycle, which dominates in stars larger than the sun.",
+    "src": "classaction/animations/sunsolarenergy/fusion02.jpg",
+    "title": "CNO Cycle Animation"
+  },
+  "ca68": {
+    "desc": "Shows how the distance modulus formula combines apparent and absolute magnitudes to give the distance to a star.",
+    "src": "classaction/animations/stellarprops/stellarmag.jpg",
+    "title": "Distance Modulus Explorer"
+  },
+  "ca69": {
+    "desc": "Shows how the distance to a star, its doppler shift, and its proper motion allow one to calculate the star's true space velocity.",
+    "src": "classaction/animations/stellarprops/stellarvel.jpg",
+    "title": "Stellar Velocity Calculator"
+  },
+  "ca70": {
+    "desc": "Diagrams the geometry and shows the math involved in determining a star's distance via parallax.",
+    "src": "classaction/animations/stellarprops/parallaxdiag.jpg",
+    "title": "Parallax Calculator"
+  },
+  "ca71": {
+    "desc": "Demonstrates how the technique of spectroscopic parallax works. Spectral type and luminosity class determine the observed spectrum of a star, from which the star's luminosity can be estimated.",
+    "src": "classaction/animations/stellarprops/spectroparallax.jpg",
+    "title": "Spectroscopic Parallax Simulator"
+  },
+  "ca72": {
+    "desc": "Demonstrates how a star's luminosity depends on its temperature and radius. ",
+    "src": "classaction/animations/stellarprops/stellarlum.jpg",
+    "title": "Stellar Luminosity Calculator"
+  },
+  "ca73": {
+    "desc": "Demonstrates the inverse square law of light with a lightbulb and detector. The lightbulb's intensity and the detector's distance can be adjusted to see how they affect the reading. There are two bulbs and detectors to allow side-by-side comparisons.",
+    "src": "classaction/animations/stellarprops/lightdetector.jpg",
+    "title": "Flux Simulator"
+  },
+  "ca74": {
+    "desc": "Introduces the Hertzsprung-Russell Diagram, a plot showing the relationship between luminosity and temperature for stars.",
+    "src": "classaction/animations/stellarprops/hrexplorer.jpg",
+    "title": "HR Explorer (NAAP)"
+  },
+  "ca75": {
+    "desc": "Models the motions of two stars in orbit around each other, and the combined lightcurve they produce. This simulator allows the user to control multiple parameters to see how they effect the lightcurve. Includes several real datasets.",
+    "src": "classaction/animations/binaryvariablestars/eclipsingbinarysim.jpg",
+    "title": "Eclipsing Binary Simulator"
+  },
+  "ca76": {
+    "desc": "Demonstrates aliasing through the analogy of a wagon wheel being filmed. For some combinations of frame rates and true rotation speeds the wheel can appear to rotate backwards.",
+    "src": "classaction/animations/binaryvariablestars/wagonwheel.jpg",
+    "title": "Aliasing in Wagon Wheels"
+  },
+  "ca77": {
+    "desc": "Shows how the center of mass of two objects changes as their masses change.",
+    "src": "classaction/animations/binaryvariablestars/centerofmass.jpg",
+    "title": "Center of Mass Simulator"
+  },
+  "ca78": {
+    "desc": "Shows how a lightcurve is constructed from observations of an eclipsing binary system.",
+    "src": "classaction/animations/binaryvariablestars/lightcurve.jpg",
+    "title": "Lightcurve Simulator"
+  },
+  "ca79": {
+    "desc": "A plot of the rotational velocity of stars at varying distances from the center of the milky way. A draggable cursor allows determining the contained mass implied by the curve.",
+    "src": "classaction/animations/milkyway/milkywayrotationalvelocity.jpg",
+    "title": "Milky Way Rotational Velocity"
+  },
+  "ca80": {
+    "desc": "The build-up of traffic behind a slow moving tractor provides an analogy to the density wave formation of spiral arms.",
+    "src": "classaction/animations/milkyway/trafficdensity.jpg",
+    "title": "Traffic Density Analogy"
+  },
+  "ca81": {
+    "desc": "An animation of coins attached to a balloon, providing an analogy to the expansion of the universe. The coins represent galaxies, which maintain their scale while the space between them grows.",
+    "src": "classaction/animations/cosmology/balloon.jpg",
+    "title": "Balloon Universe"
+  },
+  "ca82": {
+    "desc": "Demonstrates the redshift of a galaxy due to the expansion of the universe, and the effect this shift has on the galaxy's brightness as observed through various filters.",
+    "src": "classaction/animations/cosmology/galacticredshift.jpg",
+    "title": "Galactic Redshift Simulator"
+  },
+  "ca83": {
+    "desc": "Shows planet formation temperature as a function of distance from the Sun. Also indicates the state (gas or solid) of several substances at the given distance and temperature.",
+    "src": "classaction/animations/solar/formationtemps.jpg",
+    "title": "Planet Formation Temperatures Plot"
+  },
+  "ca84": {
+    "desc": "Allows one to explore a set of histograms for characteristics like number of satellites, mass, orbital period, etc. for the terrestial and jovian planets, plus Pluto.",
+    "src": "classaction/animations/solar/solarsystemproperties.jpg",
+    "title": "Solar System Properties Explorer"
+  },
+  "ca85": {
+    "desc": "Shows the movement of the sun due to the gravitational pull of the planets. The contribution from each planet can be isolated by toggling checkboxes.",
+    "src": "classaction/animations/extrasolarplanets/ca_extrasolarplanets_starwobble.jpg",
+    "title": "Influence of Planets on the Sun"
+  },
+  "ca86": {
+    "desc": "Shows a star and planet in orbit around each other while tracing out the star's radial velocity curve.",
+    "src": "classaction/animations/extrasolarplanets/ca_extrasolarplanets_graph.jpg",
+    "title": "Radial Velocity Graph"
+  },
+  "ca87": {
+    "desc": "Demonstrates how a planet passing in front of its parent star can cause dips in the star's lightcurve, potentially leading to the planet's detection.",
+    "src": "classaction/animations/extrasolarplanets/transitsimulator.jpg",
+    "title": "Transit Simulator (NAAP)"
+  },
+  "ca88": {
+    "desc": "Demonstrates how the spectrum of a star is shifted as it and its planet orbit their common center of mass.",
+    "src": "classaction/animations/light/radialvelocitydemo.jpg",
+    "title": "Extrasolar Planet Radial Velocity Demonstrator"
+  },
+  "ca89": {
+    "desc": "Models the motion of an extrasolar planet and its star around their common center of mass, and the effect this motion has on the star's observed radial velocity.",
+    "src": "classaction/animations/extrasolarplanets/radialvelocitysimulator.jpg",
+    "title": "Radial Velocity Simulator (NAAP)"
+  },
+  "ca90": {
+    "desc": "Shows circular waves expanding from a source. Movement of the source or observer affects the frequency of the waves seen by the observer, demonstrating doppler shift.",
+    "src": "classaction/animations/light/dopplershift.jpg",
+    "title": "Doppler Shift Demonstrator"
+  },
+  "ca91": {
+    "desc": "Demonstrates how the movement of a pulsar and planet around their common center of mass affects the timing of pulse arrivals.",
+    "src": "classaction/animations/extrasolarplanets/pulsarPeriodSim001.jpg",
+    "title": "Pulsar Period Simulator"
+  },
+  "ca92": {
+    "desc": "Illustrates how the movement of a star and its planet about their center of mass compares to a hammer thrower swinging a heavy metal ball.",
+    "src": "classaction/animations/extrasolarplanets/hammerthrower.jpg",
+    "title": "Hammer Thrower Comparison"
+  },
+  "ca93": {
+    "desc": "Shows a snow shower from the perspective of a car driving through it, demonstrating how the snow seems to diverge from some central point (the radiant). Provides an analogy to a meteor shower.",
+    "src": "classaction/animations/solarsystemdebris/drivingthroughsnow.jpg",
+    "title": "Driving Through Snow"
+  },
+  "ca94": {
+    "desc": "Models the movements of the planets around the sun in a simplified Copernican model of the solar system.",
+    "src": "classaction/animations/renaissance/configurationssimulator.jpg",
+    "title": "Planetary Configurations Simulator (NAAP)"
+  },
+  "ca95": {
+    "desc": "Models the motion of a hypothetical planet that orbits the sun according to Kepler's laws of motion. This simulator includes controls for investigating each of Kepler's laws.",
+    "src": "classaction/animations/renaissance/kepler.jpg",
+    "title": "Planetary Orbit Simulator (NAAP)"
+  },
+  "ca96": {
+    "desc": "Shows how sidereal time and the hour angle of a star are related.",
+    "src": "classaction/animations/200level/siderealTimeAndHourAngleDemo.jpg",
+    "title": "Sidereal Time and Hour Angle Demonstrator"
+  },
+  "naap0": {
+    "desc": "Models the movements of the planets around the sun in a simplified Copernican model of the solar system.",
+    "src": "naap/ssm/animations/configurationsSimulator.jpg",
+    "title": "Planetary Configurations Simulator"
+  },
+  "naap1": {
+    "desc": "Demonstrates how Ptolemy's geocentric model accounts for the movements of the planets.",
+    "src": "naap/ssm/animations/ptolemaic.jpg",
+    "title": "Ptolemaic System Simulator"
+  },
+  "naap2": {
+    "desc": "Shows the geometry of the earth and sun over the course of a year, demonstrating how seasons occur. This simulator allows both orbital and celestial sphere representations of the seasonal motions.",
+    "src": "naap/motion1/animations/seasons_ecliptic.jpg",
+    "title": "Seasons and Ecliptic Simulator"
+  },
+  "naap3": {
+    "desc": "Shows how the rotation of the earth leads to the apparent rotation of the sky, and how celestial sphere and horizon diagram representations of the sky are correlated.",
+    "src": "naap/motion2/animations/ce_hc.jpg",
+    "title": "Rotating Sky Explorer"
+  },
+  "naap4": {
+    "desc": "Models the motions of the sun in the sky using a horizon diagram, demonstrating daily and seasonal changes in the sun's position.",
+    "src": "naap/motion3/animations/sunmotions.jpg",
+    "title": "Motions of the Sun Simulator"
+  },
+  "naap5": {
+    "desc": "Helps demonstrate the difference between sidereal and solar time.",
+    "src": "naap/motion3/animations/siderealSolarTime.jpg",
+    "title": "Sidereal and Solar Time Simulator"
+  },
+  "naap6": {
+    "desc": "Models the motion of a hypothetical planet that orbits the sun according to Kepler's laws of motion. This simulator includes controls for investigating each of Kepler's laws.",
+    "src": "naap/pos/animations/kepler.jpg",
+    "title": "Planetary Orbit Simulator"
+  },
+  "naap7": {
+    "desc": "Outlines a proceedure for determining moon phases by using bisectors (planes that divide the moon in two halves).",
+    "src": "naap/lps/animations/moonBisectorDemo.jpg",
+    "title": "Moon Bisector Demo"
+  },
+  "naap8": {
+    "desc": "Demonstrates the correspondence between the moon's position in its orbit, its phase, and its position in an observer's sky at different times of day.",
+    "src": "naap/lps/animations/lps.jpg",
+    "title": "Lunar Phase Simulator"
+  },
+  "naap9": {
+    "desc": "Provides a method of learning the correlation between the phase of the moon, the time of day, and the position of the moon in the sky.",
+    "src": "naap/lps/animations/moonPhasesHorizonDiagram.jpg",
+    "title": "Moon Phases and the Horizon Diagram"
+  },
+  "naap10": {
+    "desc": "Demonstrates how the blackbody spectrum varies with temperature. This explorer also shows how the relative intensities observed through different filters (a 'color index') can give an estimate of temperature.",
+    "src": "naap/blackbody/animations/blackbody.jpg",
+    "title": "Blackbody Curves and Filters Explorer"
+  },
+  "naap11": {
+    "desc": "Demonstrates how different light sources and filters combine to determine an observed spectrum. This simulator also shows the perceived colors associated with the spectra shown.",
+    "src": "naap/blackbody/animations/filters.jpg",
+    "title": "Light and Filters Simulator"
+  },
+  "naap12": {
+    "desc": "Models a hydrogen atom and its interactions with light, demonstrating the quantum nature of absorption and emission.",
+    "src": "naap/hydrogen/animations/hydrogen_atom.jpg",
+    "title": "Hydrogen Atom Simulator"
+  },
+  "naap13": {
+    "desc": "Introduces the Hertzsprung-Russell Diagram, a plot showing the relationship between luminosity and temperature for stars.",
+    "src": "naap/hr/animations/hrExplorer.jpg",
+    "title": "Hertzsprung-Russell Diagram Explorer"
+  },
+  "naap14": {
+    "desc": "Models the motions of two stars in orbit around each other, and the combined lightcurve they produce. This simulator allows the user to control multiple parameters to see how they effect the lightcurve. Includes several real datasets.",
+    "src": "naap/ebs/animations/ebs.jpg",
+    "title": "Eclipsing Binary Simulator"
+  },
+  "naap15": {
+    "desc": "Shows how the molecular mass, temperature, and escape speed determine whether a gas will remain gravitationally bound to a planet.",
+    "src": "naap/atmosphere/animations/gasRetentionPlot.jpg",
+    "title": "Gas Retention Plot"
+  },
+  "naap16": {
+    "desc": "Demonstrates how gases of different molecular masses behave when maintained at thermodynamic equilibrium in a chamber. The chamber can be set to allow particles that exceed a certain speed to escape, providing an analogy for the bleeding of a planet's atmosphere into space.",
+    "src": "naap/atmosphere/animations/gasRetentionSimulator.jpg",
+    "title": "Gas Retention Simulator"
+  },
+  "naap17": {
+    "desc": "Models the motion of an extrasolar planet and its star around their common center of mass, and the effect this motion has on the star's observed radial velocity.",
+    "src": "naap/esp/animations/radialVelocitySimulator.jpg",
+    "title": "Exoplanet Radial Velocity Simulator"
+  },
+  "naap18": {
+    "desc": "Demonstrates how a planet passing in front of its parent star can cause dips in the star's lightcurve, potentially leading to the planet's detection.",
+    "src": "naap/esp/animations/transitSimulator.jpg",
+    "title": "Exoplanet Transit Simulator"
+  },
+  "naap19": {
+    "desc": "Allows one to adjust the relative positions of three images so that their contents are alligned.",
+    "src": "naap/vsp/animations/registrationSimulator.jpg",
+    "title": "Registration Simulator"
+  },
+  "naap20": {
+    "desc": "Cycles through multiple images of the same field, revealing variable stars. The variable stars identified in this simulator can then be analyzed with the Variable Star Photometry Analyzer.",
+    "src": "naap/vsp/animations/blinkComparatorSimulator.jpg",
+    "title": "Blink Comparator Simulator"
+  },
+  "naap21": {
+    "desc": "Demonstrates aperture photometry by allowing one to drag aperture discs over a star field.",
+    "src": "naap/vsp/animations/photometrySimulator.jpg",
+    "title": "Photometry Simulator"
+  },
+  "naap22": {
+    "desc": "Demonstrates variable star analysis through period determination and lightcurve folding.",
+    "src": "naap/vsp/animations/variableStarPhotometryAnalyzer.jpg",
+    "title": "Variable Star Photometry Analyzer"
+  },
+  "naap23": {
+    "desc": "Demonstrates the concept of parallax and how it can be used to determine distance using an analogy of a boat on a lake.",
+    "src": "naap/distance/animations/parallaxExplorer.jpg",
+    "title": "Parallax Explorer"
+  },
+  "naap24": {
+    "desc": "Demonstrates how the technique of spectroscopic parallax works. Spectral type and luminosity class determine the observed spectrum of a star, from which the star's luminosity can be estimated.",
+    "src": "naap/distance/animations/spectroParallax.jpg",
+    "title": "Spectroscopic Parallax Simulator"
+  },
+  "naap25": {
+    "desc": "Allows determining the distance to a cluster by fitting the cluster's stars to the main sequence in an HR diagram.",
+    "src": "naap/distance/animations/clusterFittingExplorer.jpg",
+    "title": "HR Diagram Star Cluster Fitting Explorer"
+  },
+  "naap26": {
+    "desc": "Allows determining the distance to a supernova by fitting observations to a theoretical Type Ia curve.",
+    "src": "naap/distance/animations/snCurveExplorer.jpg",
+    "title": "Supernova Light Curve Fitting Explorer"
+  },
+  "naap27": {
+    "desc": "Demonstrates location and evolution of the stellar habitable zone, which is the region around a star where surface water may exist on a earth like planet.",
+    "src": "naap/habitablezones/animations/stellarHabitableZone.jpg",
+    "title": "Circumstellar Habitable Zone Simulator"
+  },
+  "naap28": {
+    "desc": "Shows how two factors important to life &ndash; metallicity and extinction risk &ndash; vary throughout the Milky Way Galaxy.",
+    "src": "naap/habitablezones/animations/milkyWayHabitability.jpg",
+    "title": "Milky Way Habitability Explorer"
+  },
+  "titles": [
+    {
+      "name": "Simulador de tempo de lookback",
+      "url": "https://astro.unl.edu/classaction/animations/intro/lookbacktimesim.html"
+    },
+    {
+      "name": "Demonstrador de aproximação de pequeno ângulo",
+      "url": "https://astro.unl.edu/classaction/animations/intro/smallangledemo.html"
+    },
+    {
+      "name": "Simulador de Ascensão Heliacal",
+      "url": "https://astro.unl.edu/classaction/animations/ancientastro/heliacalrisingsim.html"
+    },
+    {
+      "name": "Relógio Ursa Maior",
+      "url": "https://astro.unl.edu/classaction/animations/ancientastro/dipperclock.html"
+    },
+    {
+      "name": "Simulador de Altitude Meridional",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/meridaltdiagram.html"
+    },
+    {
+      "name": "Simulador de intervalos de declinação",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/latsim.html"
+    },
+    {
+      "name": "Simulador Eclíptico",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/seasonsim.html"
+    },
+    {
+      "name": "Demonstrador de temporadas da União",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/transitmovie.html"
+    },
+    {
+      "name": "Demonstrador de Azimute/Altitude",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/altazimuth.html"
+    },
+    {
+      "name": "Simulador de luz do dia",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/daylightsimulator.html"
+    },
+    {
+      "name": "Simulador de Obliquidade",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/obliquity.html"
+    },
+    {
+      "name": "Simulador Eclíptico (Zodíaco)",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/zodiac.html"
+    },
+    {
+      "name": "Demonstrador de Longitude/Latitude",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/longlat.html"
+    },
+    {
+      "name": "Demonstrador Celeste-Equatorial (RA/Dec)",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/radecdemo.html"
+    },
+    {
+      "name": "Caminhos do Sol",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/sunpaths.html"
+    },
+    {
+      "name": "Visão geral dos movimentos do sol",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/sunmotionsoverview.html"
+    },
+    {
+      "name": "Demonstrador de movimentos solares",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/sunmotions.html"
+    },
+    {
+      "name": "Simulador de Raios Solares",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/sunsrays.html"
+    },
+    {
+      "name": "Posição do Sol no Horizonte",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/horizon.html"
+    },
+    {
+      "name": "Ursa Maior 3D",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/bigdipper.html"
+    },
+    {
+      "name": "Simulador de Estações (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/eclipticsimulator.html"
+    },
+    {
+      "name": "Comparação de sistemas de coordenadas",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/celhorcomp.html"
+    },
+    {
+      "name": "Explorador de horas de luz do dia",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/daylighthoursexplorer.html"
+    },
+    {
+      "name": "Explorador de Antípodas",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/antipodesexplorer.html"
+    },
+    {
+      "name": "Demonstrador de tempo sideral e ângulo horário",
+      "url": "https://astro.unl.edu/classaction/animations/200level/siderealTimeAndHourAngleDemo.html"
+    },
+    {
+      "name": "Comparação de sistemas celestes e horizontais",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/celestialhorizon.html"
+    },
+    {
+      "name": "Simulador de Tempo Sideral e Solar",
+      "url": "https://astro.unl.edu/classaction/animations/coordsmotion/siderealSolarTime.html"
+    },
+    {
+      "name": "Vocabulário da fase lunar",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/lunar_phaser.html"
+    },
+    {
+      "name": "Simulador de Fases de Basquete",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/basketball.html"
+    },
+    {
+      "name": "Simulador de três visualizações",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/moonphases.html"
+    },
+    {
+      "name": "Simulador de Fases Lunares (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/lunarapplet.html"
+    },
+    {
+      "name": "Inclinação da Lua",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/mooninc.html"
+    },
+    {
+      "name": "Mesa Eclipse",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/eclipsetable.html"
+    },
+    {
+      "name": "Simulador de Sombras Eclipse",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/shadowsim.html"
+    },
+    {
+      "name": "Simulação de protuberância de maré",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/tidesim.html"
+    },
+    {
+      "name": "Demonstrador de Posições de Fase",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/phaseDemonstrator.html"
+    },
+    {
+      "name": "Fases da Lua e o Diagrama do Horizonte",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/positionsdemonstrator.html"
+    },
+    {
+      "name": "Atraso Sinódico",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/synodiclag.html"
+    },
+    {
+      "name": "Simulador de Declinação da Lua Cheia",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/fullmoondec.html"
+    },
+    {
+      "name": "Questionário da fase lunar",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/lunarphasequizzer.html"
+    },
+    {
+      "name": "Fases da Lua com Bissetores",
+      "url": "https://astro.unl.edu/classaction/animations/lunarcycles/moonbisector.html"
+    },
+    {
+      "name": "Fases de Vênus",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/venusphases.html"
+    },
+    {
+      "name": "Fases Ptolomaicas de Vênus",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/ptolemaic.html"
+    },
+    {
+      "name": "Órbita Ptolomaica de Marte",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/marsorbit.html"
+    },
+    {
+      "name": "Demonstração de Epiciclos",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/pathtracer.html"
+    },
+    {
+      "name": "Movimento retrógrado",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/retrograde.html"
+    },
+    {
+      "name": "Terceira Lei de Kepler",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/keplers_third.html"
+    },
+    {
+      "name": "Calculadora de Período Sinódico",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/synodiccalculator.html"
+    },
+    {
+      "name": "Simulador de Configurações Planetárias (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/configurationssimulator.html"
+    },
+    {
+      "name": "Simulador de Órbita Planetária (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/kepler.html"
+    },
+    {
+      "name": "Demonstrador de excentricidade",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/ellipsedemo.html"
+    },
+    {
+      "name": "Gráfico da órbita da Terra",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/earthorbitplot.html"
+    },
+    {
+      "name": "Calculadora da Lei da Gravidade de Newton",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/gravcalc.html"
+    },
+    {
+      "name": "Álgebra da Gravidade",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/gravalgebra.html"
+    },
+    {
+      "name": "Curvas de fusão do corpo negro",
+      "url": "https://astro.unl.edu/classaction/animations/light/meltednail.html"
+    },
+    {
+      "name": "Explorador de espectro",
+      "url": "https://astro.unl.edu/classaction/animations/light/spectrum010.html"
+    },
+    {
+      "name": "Módulo de espectro EM",
+      "url": "https://astro.unl.edu/classaction/animations/light/emspectrum.html"
+    },
+    {
+      "name": "Curvas de corpo negro (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/light/bbexplorer.html"
+    },
+    {
+      "name": "Simulador de Filtros (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/light/filters.html"
+    },
+    {
+      "name": "Simulador de átomo de hidrogênio (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/light/hydrogenatom.html"
+    },
+    {
+      "name": "Demonstrador de espectro de três visualizações",
+      "url": "https://astro.unl.edu/classaction/animations/light/threeviewsspectra.html"
+    },
+    {
+      "name": "Demonstrador de velocidade radial de planeta extrasolar",
+      "url": "https://astro.unl.edu/classaction/animations/light/radialvelocitydemo.html"
+    },
+    {
+      "name": "Demonstrador de Desvio Doppler",
+      "url": "https://astro.unl.edu/classaction/animations/light/dopplershift.html"
+    },
+    {
+      "name": "Simulador de Telescópio",
+      "url": "https://astro.unl.edu/classaction/animations/telescopes/telescope10.html"
+    },
+    {
+      "name": "Simulador CCD",
+      "url": "https://astro.unl.edu/classaction/animations/telescopes/buckets.html"
+    },
+    {
+      "name": "Demonstrador da Lei de Snell",
+      "url": "https://astro.unl.edu/classaction/animations/telescopes/snellslaw.html"
+    },
+    {
+      "name": "Animação Próton-Próton",
+      "url": "https://astro.unl.edu/classaction/animations/sunsolarenergy/fusion01.html"
+    },
+    {
+      "name": "Animação do Ciclo CNO",
+      "url": "https://astro.unl.edu/classaction/animations/sunsolarenergy/fusion02.html"
+    },
+    {
+      "name": "Explorador do módulo de distância",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/stellarmag.html"
+    },
+    {
+      "name": "Calculadora de Velocidade Estelar",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/stellarvel.html"
+    },
+    {
+      "name": "Calculadora de Paralaxe",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/parallaxdiag.html"
+    },
+    {
+      "name": "Simulador de Paralaxe Espectroscópico",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/spectroparallax.html"
+    },
+    {
+      "name": "Calculadora de Luminosidade Estelar",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/stellarlum.html"
+    },
+    {
+      "name": "Simulador de fluxo",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/lightdetector.html"
+    },
+    {
+      "name": "Explorador de RH (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/stellarprops/hrexplorer.html"
+    },
+    {
+      "name": "Simulador binário eclipsante",
+      "url": "https://astro.unl.edu/classaction/animations/binaryvariablestars/eclipsingbinarysim.html"
+    },
+    {
+      "name": "Aliasing em Rodas de Vagão",
+      "url": "https://astro.unl.edu/classaction/animations/binaryvariablestars/wagonwheel.html"
+    },
+    {
+      "name": "Simulador de Centro de Massa",
+      "url": "https://astro.unl.edu/classaction/animations/binaryvariablestars/centerofmass.html"
+    },
+    {
+      "name": "Simulador de curva de luz",
+      "url": "https://astro.unl.edu/classaction/animations/binaryvariablestars/lightcurve.html"
+    },
+    {
+      "name": "Velocidade de rotação da Via Láctea",
+      "url": "https://astro.unl.edu/classaction/animations/milkyway/milkywayrotationalvelocity.html"
+    },
+    {
+      "name": "Analogia da densidade do tráfego",
+      "url": "https://astro.unl.edu/classaction/animations/milkyway/trafficdensity.html"
+    },
+    {
+      "name": "Universo de Balões",
+      "url": "https://astro.unl.edu/classaction/animations/cosmology/balloon.html"
+    },
+    {
+      "name": "Simulador de Redshift Galáctico",
+      "url": "https://astro.unl.edu/classaction/animations/cosmology/galacticredshift.html"
+    },
+    {
+      "name": "Gráfico de temperaturas de formação de planetas",
+      "url": "https://astro.unl.edu/classaction/animations/solar/formationtemps.html"
+    },
+    {
+      "name": "Explorador de Propriedades do Sistema Solar",
+      "url": "https://astro.unl.edu/classaction/animations/solar/solarsystemproperties.html"
+    },
+    {
+      "name": "Influência dos Planetas no Sol",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/ca_extrasolarplanets_starwobble.html"
+    },
+    {
+      "name": "Gráfico de velocidade radial",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/ca_extrasolarplanets_graph.html"
+    },
+    {
+      "name": "Simulador de Trânsito (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/transitsimulator.html"
+    },
+    {
+      "name": "Demonstrador de velocidade radial de planeta extrasolar",
+      "url": "https://astro.unl.edu/classaction/animations/light/radialvelocitydemo.html"
+    },
+    {
+      "name": "Simulador de Velocidade Radial (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/radialvelocitysimulator.html"
+    },
+    {
+      "name": "Demonstrador de Desvio Doppler",
+      "url": "https://astro.unl.edu/classaction/animations/light/dopplershift.html"
+    },
+    {
+      "name": "Simulador de Período Pulsar",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/pulsarPeriodSim001.html"
+    },
+    {
+      "name": "Comparação de lançadores de martelo",
+      "url": "https://astro.unl.edu/classaction/animations/extrasolarplanets/hammerthrower.html"
+    },
+    {
+      "name": "Dirigindo na neve",
+      "url": "https://astro.unl.edu/classaction/animations/solarsystemdebris/drivingthroughsnow.html"
+    },
+    {
+      "name": "Simulador de Configurações Planetárias (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/configurationssimulator.html"
+    },
+    {
+      "name": "Simulador de Órbita Planetária (NAAP)",
+      "url": "https://astro.unl.edu/classaction/animations/renaissance/kepler.html"
+    },
+    {
+      "name": "Demonstrador de tempo sideral e ângulo horário",
+      "url": "https://astro.unl.edu/classaction/animations/200level/siderealTimeAndHourAngleDemo.html"
+    },
+    {
+      "name": "Simulador de Configurações Planetárias",
+      "url": "https://astro.unl.edu/naap/ssm/animations/configurationsSimulator.html"
+    },
+    {
+      "name": "Simulador do Sistema Ptolomaico",
+      "url": "https://astro.unl.edu/naap/ssm/animations/ptolemaic.html"
+    },
+    {
+      "name": "Simulador de estações e eclíptica",
+      "url": "https://astro.unl.edu/naap/motion1/animations/seasons_ecliptic.html"
+    },
+    {
+      "name": "Explorador do céu rotativo",
+      "url": "https://astro.unl.edu/naap/motion2/animations/ce_hc.html"
+    },
+    {
+      "name": "Simulador de movimentos do Sol",
+      "url": "https://astro.unl.edu/naap/motion3/animations/sunmotions.html"
+    },
+    {
+      "name": "Simulador de Tempo Sideral e Solar",
+      "url": "https://astro.unl.edu/naap/motion3/animations/siderealSolarTime.html"
+    },
+    {
+      "name": "Simulador de Órbita Planetária",
+      "url": "https://astro.unl.edu/naap/pos/animations/kepler.html"
+    },
+    {
+      "name": "Demonstração do Bissetor da Lua",
+      "url": "https://astro.unl.edu/naap/lps/animations/moonBisectorDemo.html"
+    },
+    {
+      "name": "Simulador de Fase Lunar",
+      "url": "https://astro.unl.edu/naap/lps/animations/lps.html"
+    },
+    {
+      "name": "Fases da Lua e o Diagrama do Horizonte",
+      "url": "https://astro.unl.edu/naap/lps/animations/moonPhasesHorizonDiagram.html"
+    },
+    {
+      "name": "Explorador de Curvas e Filtros de Corpo Negro",
+      "url": "https://astro.unl.edu/naap/blackbody/animations/blackbody.html"
+    },
+    {
+      "name": "Simulador de Luz e Filtros",
+      "url": "https://astro.unl.edu/naap/blackbody/animations/filters.html"
+    },
+    {
+      "name": "Simulador de Átomo de Hidrogênio",
+      "url": "https://astro.unl.edu/naap/hydrogen/animations/hydrogen_atom.html"
+    },
+    {
+      "name": "Explorador do Diagrama Hertzsprung-Russell",
+      "url": "https://astro.unl.edu/naap/hr/animations/hrExplorer.html"
+    },
+    {
+      "name": "Simulador binário eclipsante",
+      "url": "https://astro.unl.edu/naap/ebs/animations/ebs.html"
+    },
+    {
+      "name": "Gráfico de retenção de gás",
+      "url": "https://astro.unl.edu/naap/atmosphere/animations/gasRetentionPlot.html"
+    },
+    {
+      "name": "Simulador de retenção de gás",
+      "url": "https://astro.unl.edu/naap/atmosphere/animations/gasRetentionSimulator.html"
+    },
+    {
+      "name": "Simulador de velocidade radial de exoplanetas",
+      "url": "https://astro.unl.edu/naap/esp/animations/radialVelocitySimulator.html"
+    },
+    {
+      "name": "Simulador de trânsito de exoplanetas",
+      "url": "https://astro.unl.edu/naap/esp/animations/transitSimulator.html"
+    },
+    {
+      "name": "Simulador de Registro",
+      "url": "https://astro.unl.edu/naap/vsp/animations/registrationSimulator.html"
+    },
+    {
+      "name": "Simulador de Comparador de Piscadas",
+      "url": "https://astro.unl.edu/naap/vsp/animations/blinkComparatorSimulator.html"
+    },
+    {
+      "name": "Simulador de Fotometria",
+      "url": "https://astro.unl.edu/naap/vsp/animations/photometrySimulator.html"
+    },
+    {
+      "name": "Analisador de fotometria de estrelas variáveis",
+      "url": "https://astro.unl.edu/naap/vsp/animations/variableStarPhotometryAnalyzer.html"
+    },
+    {
+      "name": "Explorador de Parallax",
+      "url": "https://astro.unl.edu/naap/distance/animations/parallaxExplorer.html"
+    },
+    {
+      "name": "Simulador de Paralaxe Espectroscópico",
+      "url": "https://astro.unl.edu/naap/distance/animations/spectroParallax.html"
+    },
+    {
+      "name": "Diagrama HR Explorador de ajuste de aglomerados estelares",
+      "url": "https://astro.unl.edu/naap/distance/animations/clusterFittingExplorer.html"
+    },
+    {
+      "name": "Explorador de ajuste de curva de luz Supernova",
+      "url": "https://astro.unl.edu/naap/distance/animations/snCurveExplorer.html"
+    },
+    {
+      "name": "Simulador de Zona Habitável Circunstelar",
+      "url": "https://astro.unl.edu/naap/habitablezones/animations/stellarHabitableZone.html"
+    },
+    {
+      "name": "Explorador de Habitabilidade da Via Láctea",
+      "url": "https://astro.unl.edu/naap/habitablezones/animations/milkyWayHabitability.html"
+    }
+  ]
+}

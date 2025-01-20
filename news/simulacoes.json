@@ -1,0 +1,245 @@
+[
+ {
+  "name": "EFICIÊNCIA DE MOTOR ELÉTRICO",
+  "descript": "Defina a eficiência de um conversor. Avalie a eficiência de um motor elétrico ao realizar trabalho de elevação de uma massa. Energia Elétrico → Energia Mecânica + Calor",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8kpdzLxyzkRlOwKPn9ZeyV8gcoUQ2-ofuz0Woxjn8-i0dOFZsUKZxNVNRnjWpAUeeyreEJ2N6O__E4CGVpZlYH7aU-ADb86utr9KqU2YINkUUwsupcIqIq9EAdJwGyyaQsNe_Y1xnS28/s1600/motor.jpg",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/electric_motor_efficiency_ratio_mechanical_energy_Joule_flash.htm",
+  "categorys": [
+   "Aritmética",
+   "Eletrodinâmica",
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Mecânica",
+   "Termodinâmica",
+   "Termologia"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "0306cd378d0ef4cc2b8aeca22bec25e5"
+ },
+ {
+  "name": "Efeito Fotoeletrico",
+  "descript": "Mostra o esquema de um circuito que simula uma experiência realizada para a determinação da energia de remoção de um eletrom. é possivel escolher o material, a cor da luz e a tensão.",
+  "thumb": "https://phet.colorado.edu/sims/photoelectric/photoelectric-600.png",
+  "url": "https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=pt",
+  "categorys": [
+   "Atômica",
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Física",
+   "Momentum",
+   "Quântica",
+   "Radiação",
+   "Semicondutores",
+   "Óptica"
+  ],
+  "author": "Phet",
+  "hash": "53e05fb9b27469c82949395f81dfa718"
+ },
+ {
+  "name": "LEI DE OHM - Desenho da curva característica de um condutor ôhmico",
+  "descript": "Explore a relação entre a resistência e a corrente através de um circuito. Varie o valor de resistência e observe a variação da corrente. leia medidores analógicos para obter a tensão e a corrente. Desenhe a curva característica corrente-tensão de um condutor ôhmico e dê a equação que será a relação V=RI, conhecida como Lei de Ohm. 7 simuladores diferentes.",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7Wyoyp1Z3gmLrar5RxJozooqbCe2KwS9xhXucZt7kn26oggDUJZjHNv9k3yrqtRRYOQrkbjPCQmY_TUoOesN9Tkli_mArEBuApLJGsCMULBtQsatjKN51n64JP1EHnKjvOItcX791VY/s1600/lei+Ohm.jpg",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/resistance_ohm_law_1.htm",
+  "categorys": [
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "87ee53b76ee6c7ec7fe600102a26bc34"
+ },
+ {
+  "name": "Oscilação harmónica vertical",
+  "descript": "Simula uma atividade para encontrar a relação entre o período T e a massa m do objeto pendurado em uma mola.",
+  "thumb": "https://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/vertical_oscillator_small.jpg",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/oscillations_vertical_pendulum_mass_spring_flash.htm",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "122229f91a42d20bbb8331823d9557e3"
+ },
+ {
+  "name": "Pêndulo simples",
+  "descript": "Pêndulo hipotético suspenso por um fio sem massa e sem atrito de comprimento constante. Ajuste o comprimento, o ângulo inicial e a massa suspensa e acompanhe o gráfico do movimento",
+  "thumb": "http://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/oscillations_simple_gravity_pendulum_period_mcq.htm",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/mechanics_forces_gravitation_energy_interactive/oscillations_simple_gravity_pendulum_period_mcq_flash.htm",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Mecânica",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "51808874885d408e980bde58c805ae6e"
+ },
+ {
+  "name": "MULTÍMETRO: voltímetro, amperímetro, ohmímetro",
+  "descript": "Simula a utilização de um multímetro (instrumento de medida) em suas três principais funções: voltímetro (para tensão em Volts), amperímetro para corrente em Amperes), ohmímetro (para resistência em Ohms), tanto em corrente alternada quanto continua e em diversas escalas.",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrazSEOZ9sEAWDy-8YeEZ2A3nZt2oHzCMxqXUDqPNbzqNuhpidlLgbopUpEw1oWj53PqbSgwI_s0m45XzLDyAy4CJVHz-8IDvyCZeNTjXQ0uJZCybLZjQn6ZhJSVxh0ZPeC2GQIUukOAA/s400/multim.jpg",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/electricity_electromagnetism_interactive/multimeter_flash.htm",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletrostática",
+   "Energia",
+   "Função",
+   "Física",
+   "Números"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "6b9cb306f4ab4966e60220fd81a19179"
+ },
+ {
+  "name": "FUSÃO (derretimento) de uma SUBSTÂNCIA PURA",
+  "descript": "Acompanhe a mudança de temperatura de uma substância pura ao longo do tempo, de uma temperatura abaixo do ponto de fusão a um acima, passando pela mudança de fase da fusão, (de solido para liquido)",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9AkV1-6G8GTQk2e98wmX1JbXQM8nxkXdJ29MIC0S5c1Bq_CbKMz0BB_KgXdiPCDygzP2UyhQyAMArAt721hJFuX9Cff_SIYrK1jq172zmk4IMk1KT3uO1AI5uiCG9lk8XO7IQ1Ttj38c/s400/pf.jpg",
+  "url": "https://www.physics-chemistry-interactive-flash-animation.com/matter_change_state_measurement_mass_volume/fusion_melting_pure_ice_water_flash.htm",
+  "categorys": [
+   "Função",
+   "Física",
+   "Gráfico",
+   "Química",
+   "Termodinâmica",
+   "Termologia"
+  ],
+  "author": "Physics and Chemistry by a Clear Learning",
+  "hash": "09b22a3680135c3ba153bd2ca4bf8394"
+ },
+ {
+  "name": "Laboratório de capacitor",
+  "descript": "Explica as relações entre tensão, carga, energia armazenada e capacitância. Prevé como a capacitância muda quando a área de cada placa ou a separação entre elas é alterada.",
+  "thumb": "https://phet.colorado.edu/sims/capacitor-lab/capacitor-lab-600.png",
+  "url": "https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab&locale=pt_BR",
+  "categorys": [
+   "Eletrodinâmica",
+   "Eletrostática",
+   "Energia",
+   "Função",
+   "Física"
+  ],
+  "author": "Phet",
+  "hash": "690f6745cc55aea03cf185ba9b0484ee"
+ },
+ {
+  "name": "Força e movimento",
+  "descript": "Determina a soma de forças (força resultante) em um objeto e prevé o movimento dele. Há tambem um jogo de um robo descarregando caminhão de mudança.",
+  "thumb": "https://phet.colorado.edu/sims/motion-series/forces-and-motion-600.png",
+  "url": "https://phet.colorado.edu/sims/cheerpj/motion-series/latest/motion-series.html?simulation=forces-and-motion",
+  "categorys": [
+   "Cinemática",
+   "Energia",
+   "Força",
+   "Física",
+   "Gráfico",
+   "Jogo",
+   "Mecânica",
+   "Momentum"
+  ],
+  "author": "Phet",
+  "hash": "2003f43bd9040da73efe2ddad984fa0d"
+ },
+ {
+  "name": "Decaimento radioativo",
+  "descript": "Demostra como ocorre a radiação Alfa, explicando o conceito de meia-vida de isotpos radioativos de diferentes elementos quimicos. Comece a entender as forças que atuam para manter um núcleo atômico unido (força nuclear forte) e as forças que atuam para separá-lo (Coulomb, ou seja, carga elétrica, força).",
+  "thumb": "https://phet.colorado.edu/sims/nuclear-physics/alpha-decay-600.png",
+  "url": "https://phet.colorado.edu/sims/cheerpj/nuclear-physics/latest/nuclear-physics.html?simulation=alpha-decay&locale=pt_BR",
+  "categorys": [
+   "Atômica",
+   "Estatística",
+   "Física",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Quântica",
+   "Química",
+   "Radiação"
+  ],
+  "author": "Phet",
+  "hash": "126ee86b46f099cf4f7bd88f932e51c6"
+ },
+ {
+  "name": "Datação por radioatividade - JOGO",
+  "descript": "Aborda Datação radiométrica; Datação por carbono; Meia-vida e Radioatividade. Explique o conceito de meia-vida de isotópos radiotivos dos elementos, incluindo sua natureza aleatória, em termos de partículas individuais e amostras maiores. Descreva os processos de decaimento, incluindo como os elementos mudam e emitem energia e/ou partículas. Explique como a datação radiométrica funciona e por que diferentes elementos são usados ​​para datar diferentes objetos.",
+  "thumb": "https://phet.colorado.edu/sims/nuclear-physics/radioactive-dating-game-600.png",
+  "url": "https://phet.colorado.edu/sims/cheerpj/nuclear-physics/latest/nuclear-physics.html?simulation=radioactive-dating-game&locale=pt",
+  "categorys": [
+   "Atômica",
+   "Densidade",
+   "Energia",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Jogo",
+   "Nuclear",
+   "Números",
+   "Probabilidade",
+   "Quântica",
+   "Química",
+   "Radiação"
+  ],
+  "author": "Phet",
+  "hash": "2363b893ea4efc70bbd6af293e4fd1a7"
+ },
+ {
+  "name": "OhmZone - Simulador de Circuito",
+  "descript": "Simula uma placa de circuito impressa perfurada onde se é possivel ligar baterias, lâmpadas, amperimetros, voltimetros, resistores e fios e verificar o funcionamento do circuito",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRasR_CK1yhLdbUnileNlAC1h6fugNEEH6iYP5qs4E71B9e38vpec3pMzeyt153FCxGHj7X-i8uJSCl3sLsisMlhMoDbGjrYM5biuZyjqekwBmDL7uKzfixhBSIayd3F0Jv-jMtcVRv2U/s320/o_nosso_estudo.pdf.jpg",
+  "url": "https://simulfq.blogspot.com/2009/08/ohmzone.html",
+  "categorys": [
+   "Eletrodinâmica",
+   "Energia",
+   "Física"
+  ],
+  "author": "article19",
+  "hash": "e42a5dfcca5000adf18fb4c9c59e7620"
+ },
+ {
+  "name": "Tutoriais e Physlet® Problems  do livro  Physics  (Giancoli)",
+  "descript": "Simula a transferência de calor por condução entre dois calorimetrimetros com agua interligado com uma barra metalica. É possivel escolher entre varios metais para verificar a diferença de condutancia. Com acompanhamento da temperatura tabela e gráficos, e controle de vários parâmetros.",
+  "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6hB2PVupczoFC8uxHAqA674753OoLvZGkw9__T1QF2gmrdG3kcRWDQzEYP1Qys3D1AseUb5xoPNVe8_8qLSbqZbArXA7waiTZdLkj3jDO1ViBf-RrG5qfufAvcZofiquu7wAIUTt_whc/s320/h.jpg",
+  "url": "https://gizmos.explorelearning.com/find-gizmos/launch-gizmo?resourceId=388",
+  "categorys": [
+   "Energia",
+   "Física",
+   "Gráfico",
+   "Química",
+   "Termodinâmica",
+   "Termologia"
+  ],
+  "author": "explorelearning",
+  "hash": "992103b58bd1e4b284b3b3f2647b113b"
+ },
+ {
+  "name": "Animações de Física",
+  "descript": "Observe como os atômos se separam dos sais quando dissolvidos em água,Descreve as relações entre volume e quantidade de soluto na concentração da solução.",
+  "thumb": "https://phet.colorado.edu/sims/soluble-salts/soluble-salts-600.png",
+  "url": "https://simulfq.blogspot.com/2009/07/phet-interactive-simulations-university.html",
+  "categorys": [
+   "Atômica",
+   "Biologia",
+   "Densidade",
+   "Física",
+   "Química"
+  ],
+  "author": "Phet",
+  "hash": "3b4710dd9623771b60204cb2b674e952"
+ }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Flutuabilidade: Básico",
+    "descript": "Procure a relação entre o volume submerso, a massa de um bloco e peso aparente em um tanque de liquido. Determine os fatores e a relação da força de empuxo em um objeto.",
+    "url": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics-420.png",
+    "categorys": [
+      "Aritmética",
+      "Clima",
+      "Densidade",
+      "Força",
+      "Física",
+      "Hidrostática",
+      "Mecânica",
+      "Termologia",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Flutuabilidade: Lab",
+    "descript": "Procure a relação entre o volume submerso de diferentes objetos, a massa de um corpo e peso aparente em tanques de diferentes liquidos. Determine os fatores e a relação da força de empuxo em objetos.",
+    "url": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy-420.png",
+    "categorys": [
+      "Aritmética",
+      "Clima",
+      "Densidade",
+      "Força",
+      "Física",
+      "Hidrostática",
+      "Mecânica",
+      "Termologia",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Gerador",
+    "descript": "Mostra o funcionamento de um gerador de corrente eletrico com diferentes numeros de espiras. Observe a representação do campo magnético e da bússula enquanto acompanha a variação da corrente induzida.",
+    "url": "https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/generator/latest/generator-420.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Mecânica",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Ímãs e Eletroímãs",
+    "descript": "Observe e messa o campo magnético de um imã em barra, de um solenoide ou até da Terra, utilizando a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra, assim como a corrente eletrica sobre as espiras, se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Ímã e Bússola",
+    "descript": "Observe e messa o campo magnético de um imã em barra ou da Terra, utilizando a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Laboratório Eletromagnético de Faraday",
+    "descript": "Observe e messa o campo magnético de um imã em barra, de um solenoide com diferentes números de espiras ou até da Terra. Observe também a corrente induzida gerada pela variação do campo elétrico e vice-versa. Veja o efeito sobre a agulha de uma bússola e/ou um medidor de campo(teslâmetro). Observe que os pólos magnéticos da barra magnética e da Terra, assim como a corrente eletrica sobre as espiras, se orientam mutualmente com a agulha da bússola.",
+    "url": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab-420.png",
+    "categorys": [
+      "Astronomia",
+      "Clima",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Física",
+      "Geografia",
+      "Oscilações",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Distribuição Amostral de Projéteis",
+    "descript": "Simula o lançamento de projéteis com variabilidade aleatória na direção do disparo. Faça um levantamento estatístico e calcule a média do alcance.",
+    "url": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions-420.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Cinemática",
+      "Estatística",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Probabilidade",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Lab Dados de Projéteis",
+    "descript": "Simula o lançamento de projéteis com diferentes fontes de variabilidade aleatória na direção do disparo. Faça um levantamento estatístico e calcule a média do alcance.",
+    "url": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab-420.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Cinemática",
+      "Estatística",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Probabilidade",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Leis de Kepler",
+    "descript": "Demonstre as leis de Kepler separadamente ou juntas. Veja as órbitas dos planetas e compare com a do corpo estudado. Observe diferentes medidas orbitais como foco, corda, semi-eixo, vetor velocidade, força gravitacional, área varrida, afélio, periélio, périodo e massa estelar.",
+    "url": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png",
+    "categorys": [
+      "Aritmética",
+      "Astronomia",
+      "Cinemática",
+      "Energia",
+      "Estatística",
+      "Força",
+      "Função",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Matemática",
+      "Mecânica",
+      "Oscilações",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Ondas Sonoras",
+    "descript": "Observe diferentes fenômenos ondulatórios, especialmente acústicos. Veja a representação visual e sonora das ondas, com diferentes frequências e amplitudes. Observe a interferência da onda emitiuda por duas fontes, a reflexão em superficies com diferentes ângulos e caixa com isolamento acústico.",
+    "url": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves-420.png",
+    "categorys": ["Acústica", "Física", "Mecânica", "Ondas", "Oscilações"],
+    "author": "Phet"
+  },
+  {
+    "name": "Quadrilátero",
+    "descript": "Mova os vértices de um quadrilátero e veja se transformando em diferentes tipos de figuras, como: quadrado, retângulo, losango, pipa e romboide. Observe os ângulos e tamanhos dos lados.",
+    "url": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral-420.png",
+    "categorys": [
+      "Aritmética",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Trigonometria"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Óptica Geométrica: Básico",
+    "descript": "Explica como uma imagem é formada por lentes ou espelhos, convergentes ou divergentes, utilizando diagramas de raios. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics-420.png",
+    "categorys": ["Física", "Geometria", "Gráfico", "Trigonometria", "Óptica"],
+    "author": "Phet"
+  },
+  {
+    "name": "Kit para Montar um Circuito: AC - Laboratório Virtual",
+    "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional, incluindo elementos magnéticos",
+    "url": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Física",
+      "Gráfico"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Laboratório de Força Gravitacional: Básico",
+    "descript": "Relaciona a força gravitacional às massas dos objetos e à distância entre os objetos. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": ["Força", "Função", "Física", "Gravitação", "Vetores"],
+    "author": "Phet"
+  },
+  {
+    "name": "Kit para Montar um Circuito: DC - Laboratório Virtual",
+    "descript": "Construir circuitos a partir de desenhos esquemáticos e naturais, com corrente real e convencional. Incluindo elementos de segurança como fusiveis.",
+    "url": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Física",
+      "Gráfico"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Estados da Matéria: Básico",
+    "descript": "Descreve como aquecimento ou resfriamento altera o comportamento das moléculas em ólidos, líquidos e gases. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Atômica",
+      "Clima",
+      "Densidade",
+      "Energia",
+      "Física",
+      "Química",
+      "Termodinâmica",
+      "Termologia"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Geometria Molecular: Básico",
+    "descript": "Explica que a geometria molecular se deve a repulsões entre os grupos de elétrons e nomes das geométrias. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/molecule-shapes-basics/latest/molecule-shapes-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": [
+      "Eletrostática",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Química",
+      "Trigonometria"
+    ],
+    "author": "Phet"
+  },
+  {
+    "name": "Energia na Pista de Skate: Básico",
+    "descript": "Explicar o conceito de Conservação de Energia Mecânica usando energias cinética, potencial gravitacional e térmica. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": ["Cinemática", "Energia", "Força", "Física", "Gráfico"],
+    "author": "Phet"
+  },
+  {
+    "name": "Escala de pH: Básico",
+    "descript": "Descreve em uma escala molecular, com ilustrações, como o equilíbrio da água varia com o pH. Básico.",
+    "url": "https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_all.html?locale=pt_BR",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png",
+    "categorys": ["Biologia", "Densidade", "Função", "Física", "Química"],
+    "author": "Phet"
+  }
+]
