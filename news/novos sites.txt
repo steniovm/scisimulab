@@ -64,3 +64,70 @@ https://gizmos.explorelearning.com/
 
 https://article19.com/
 
+for (i=0; i<70; i++){
+ simuls[i] = {
+  name: elements[i].childNodes[3].innerText,
+  descript: "",
+  url: elements[1].href,
+  thumb: elements[1].childNodes[1].src,
+  categorys: [],
+  author: "Arcademo"
+ }
+}
+
+{
+    "name": "",
+    "descript": "",
+    "url": "",
+    "thumb": "",
+    "categorys": [
+      "Acústica",
+      "Alfabeto",
+      "Algorítimo",
+      "Aritmética",
+      "Astronomia",
+      "Atômica",
+      "Baixar",
+      "Biologia",
+      "Cinemática",
+      "Clima",
+      "Densidade",
+      "Eletrodinâmica",
+      "Eletromagnetismo",
+      "Eletrostática",
+      "Energia",
+      "Estatística",
+      "Evolução natural",
+      "ExperimentsWithGoogle",
+      "Força",
+      "Função",
+      "Física",
+      "Genética",
+      "Geografia",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Hidrostática",
+      "Jogo",
+      "Matemática",
+      "Mecânica",
+      "Mobile",
+      "Momentum",
+      "Nuclear",
+      "Números",
+      "Ondas",
+      "Oscilações",
+      "Probabilidade",
+      "Quântica",
+      "Química",
+      "Radiação",
+      "Relatividade",
+      "Semicondutores",
+      "Termodinâmica",
+      "Termologia",
+      "Trigonometria",
+      "Vetores",
+      "Óptica"
+    ],
+    "author": ""
+}

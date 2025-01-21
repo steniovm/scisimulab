@@ -1,0 +1,1137 @@
+[
+ {
+  "name": "19 Teclado TET",
+  "descript": "Um teclado de piano com de 12 tons com mais 7 tons adcionais intermediarios",
+  "url": "https://academo.org/demos/19-tet-keyboard/",
+  "thumb": "https://academo.org/demos/19-tet-keyboard/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Aritmética",
+   "Física",
+   "Matemática",
+   "Números",
+   "Ondas"
+  ],
+  "author": "Arcademo",
+  "hash": "3b6d8581ca6166609f24006a3997421d"
+ },
+ {
+  "name": "Equação de onda 1D",
+  "descript": "Mostra pulsos de onda em uma corda se propagando e interferindo tanto contrutivamente quento destrutivamente.",
+  "url": "https://academo.org/demos/1D-wave-equation/",
+  "thumb": "https://academo.org/demos/1D-wave-equation/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "7824db466a39b63872dcb8ef09b23de9"
+ },
+ {
+  "name": "Rotação 2D em torno de um ponto",
+  "descript": "Mostra o ângulo rotacionado por um seguimento de reta em torno de um ponto.",
+  "url": "https://academo.org/demos/rotation-about-point/",
+  "thumb": "https://academo.org/demos/rotation-about-point/thumbnail.png",
+  "categorys": [
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "cc09e39704d1134e4abaa62821cedb9c"
+ },
+ {
+  "name": "Plotter de superfície 3D",
+  "descript": "Plota um grafico tridimensional de qualquer função de superficie.",
+  "url": "https://academo.org/demos/3d-surface-plotter/",
+  "thumb": "https://academo.org/demos/3d-surface-plotter/thumbnail.png",
+  "categorys": [
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "bbf36e371db811a387d318c5d50d233e"
+ },
+ {
+  "name": "Plotter vetorial 3D",
+  "descript": "Um gráfico interativo de vetores 3D. Veja como dois vetores estão relacionados com sua resultante, diferença e produto cruzado.",
+  "url": "https://academo.org/demos/3d-vector-plotter/",
+  "thumb": "https://academo.org/demos/3d-vector-plotter/thumbnail.png",
+  "categorys": [
+   "Cinemática",
+   "Força",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Mecânica",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "2c3aab84edea575c5a5c9e863f0769a2"
+ },
+ {
+  "name": "Modulação de amplitude",
+  "descript": "Permite que você veja e ouça o resultado da multiplicação de uma onda senoidal por um envelope de amplitude de cosseno formando uma onda com duas componentes.",
+  "url": "https://academo.org/demos/amplitude-modulation/",
+  "thumb": "https://academo.org/demos/amplitude-modulation/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Algorítimo",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "1d887e3fb6c20cd50fb1c78fc6b7d8ef"
+ },
+ {
+  "name": "Tamanho da abertura e profundidade de campo",
+  "descript": "Demonstrando como o tamanho da abertura afeta a profundidade de campo de uma fotografia tirada em uma câmera escura (pinhole).",
+  "url": "https://academo.org/demos/aperture-depth-of-field/",
+  "thumb": "https://academo.org/demos/aperture-depth-of-field/thumbnail.png",
+  "categorys": [
+   "Física",
+   "Geometria",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "be676f6fcc7dbdd9b05ca3d5c6c41e1e"
+ },
+ {
+  "name": "Área de um círculo (Método de rearranjo)",
+  "descript": "Uma demonstração de como dividir e reorganizar setores pode ajudar você a visualizar a área de um círculo.",
+  "url": "https://academo.org/demos/circle-area-rearrangement-method/",
+  "thumb": "https://academo.org/demos/circle-area-rearrangement-method/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria"
+  ],
+  "author": "Arcademo",
+  "hash": "2bf06b946a59b34803f548f9e9eeda9d"
+ },
+ {
+  "name": "Calculadora de Azimute",
+  "descript": "Use esta ferramenta para estabelecer em qual direção você precisa olhar ao tentar localizar objetos no céu noturno.",
+  "url": "https://academo.org/demos/azimuth-calculator/",
+  "thumb": "https://academo.org/demos/azimuth-calculator/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geografia",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "2e50759e8bb5fc6acc411c79124504b0"
+ },
+ {
+  "name": "Conversor de números base-n",
+  "descript": "Uma ferramenta para converter números de uma base para outra, de 2 a 16, como decimal para binário ou ternário para hexadecimal.",
+  "url": "https://academo.org/demos/base-n-converter/",
+  "thumb": "https://academo.org/demos/base-n-converter/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "b26ccf9104aa0ec233ae7f5abe502d48"
+ },
+ {
+  "name": "Escala Bortle",
+  "descript": "Demonstrando como a poluição luminosa afeta negativamente nossa visão do céu noturno.",
+  "url": "https://academo.org/demos/bortle-scale/",
+  "thumb": "https://academo.org/demos/bortle-scale/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Geografia",
+   "Gráfico",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "621aeade36f256666e32dd0f4f1b2c81"
+ },
+ {
+  "name": "Mapa das Capitais",
+  "descript": "Um mapa interativo do Google de todas as capitais do mundo.",
+  "url": "https://academo.org/demos/capital-cities-map/",
+  "thumb": "https://academo.org/demos/capital-cities-map/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Geografia",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "c47593aae23ea79c19bd8aa1a09030d9"
+ },
+ {
+  "name": "Relação Cor-Temperatura",
+  "descript": "Uma ferramenta para converter uma temperatura em Kelvin em uma cor RGB.",
+  "url": "https://academo.org/demos/colour-temperature-relationship/",
+  "thumb": "https://academo.org/demos/colour-temperature-relationship/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "06ba6526d35ed78f130be0fd119a0482"
+ },
+ {
+  "name": "Plotter de contorno",
+  "descript": "Você pode usar esta ferramenta para criar linhas de contorno, ou linhas de nível, para qualquer função que você inserir.",
+  "url": "https://academo.org/demos/contour-plot/",
+  "thumb": "https://academo.org/demos/contour-plot/thumbnail.png",
+  "categorys": [
+   "Função",
+   "Geografia",
+   "Gráfico",
+   "Matemática",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "f8f906e71c97e61dbc9d5aa567dc2bd1"
+ },
+ {
+  "name": "Jogo da vida de Conway",
+  "descript": "Uma demonstração interativa do Jogo da Vida de Conway.",
+  "url": "https://academo.org/demos/conways-game-of-life/",
+  "thumb": "https://academo.org/demos/conways-game-of-life/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Evolução natural",
+   "Genética",
+   "Gráfico",
+   "Jogo",
+   "Matemática"
+  ],
+  "author": "Arcademo",
+  "hash": "8101c2599ac7ca3198ac04080290a126"
+ },
+ {
+  "name": "Mapa dos limitres do Dia/Noite",
+  "descript": "Mostra o limite de onde a noite começa e o dia começa em tempo real num mapa do google maps.",
+  "url": "https://academo.org/demos/day-night-terminator/",
+  "thumb": "https://academo.org/demos/day-night-terminator/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "016cddbc43078bbb365dcb14a041d028"
+ },
+ {
+  "name": "Respiração da Terra",
+  "descript": "Observe o fluxo e refluxo do gelo da Terra ao longo de 12 meses em um mapa mundi.",
+  "url": "https://academo.org/demos/earth-breathing/",
+  "thumb": "https://academo.org/demos/earth-breathing/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "3d5481b9761526eea86925acad381886"
+ },
+ {
+  "name": "Terra à noite",
+  "descript": "Uma visão de satélite da Terra à noite.",
+  "url": "https://academo.org/demos/night-time-satellite-imagery/",
+  "thumb": "https://academo.org/demos/night-time-satellite-imagery/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "4ed35ae51a3792090953d7ce71c0308f"
+ },
+ {
+  "name": "Simulador de linha de campo elétrico",
+  "descript": "Uma demonstração interativa mostrando o comportamento das linhas de campo elétrico em torno de cargas pontuais positivas e negativas.",
+  "url": "https://academo.org/demos/electric-field-line-simulator/",
+  "thumb": "https://academo.org/demos/electric-field-line-simulator/thumbnail.png",
+  "categorys": [
+   "Eletrostática",
+   "Energia",
+   "Força",
+   "Física",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "e4c153ca943946b04bc77fbf47ab25a8"
+ },
+ {
+  "name": "Estimando Pi usando o Método de Monte Carlo",
+  "descript": "Como estimar um valor de Pi usando o método de Monte Carlo - gere um grande número de pontos aleatórios e veja quantos caem no círculo delimitado pelo quadrado unitário.",
+  "url": "https://academo.org/demos/estimating-pi-monte-carlo/",
+  "thumb": "https://academo.org/demos/estimating-pi-monte-carlo/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "Arcademo",
+  "hash": "c180af24f535e904c84742206a062ff2"
+ },
+ {
+  "name": "Número de Euler (Função Exponencial)",
+  "descript": "Gráfico interativo de y = a x (linha azul) e sua derivada (linha verde).",
+  "url": "https://academo.org/demos/exponential-function/",
+  "thumb": "https://academo.org/demos/exponential-function/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "Arcademo",
+  "hash": "afb420423d7b8b74fe2680dc1191765f"
+ },
+ {
+  "name": "Desenhos das manchas solares de Galileu",
+  "descript": "Versão animada dos desenhos de manchas solares de Galileu, de 400 anos atrás.",
+  "url": "https://academo.org/demos/galileos-sunspots/",
+  "thumb": "https://academo.org/demos/galileos-sunspots/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia"
+  ],
+  "author": "Arcademo",
+  "hash": "61e4b26bb18b41fe515c05785201e242"
+ },
+ {
+  "name": "Distribuição Gaussiana (Normal)",
+  "descript": "Gráfico interativo de distribuição gaussiana (normal), permite a comparação entre duas curvas.",
+  "url": "https://academo.org/demos/gaussian-distribution/",
+  "thumb": "https://academo.org/demos/gaussian-distribution/thumbnail.png",
+  "categorys": [
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "6c29200f87b4c3ec77302b4f7f401c87"
+ },
+ {
+  "name": "Geodésica na Terra",
+  "descript": "Demonstrando como as geodésicas parecem curvar-se em uma representação 2D do espaço 3D utilizando um mapa do google maps.",
+  "url": "https://academo.org/demos/geodesics/",
+  "thumb": "https://academo.org/demos/geodesics/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Geografia",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "64891dcfe05b8b5345814cd1b86f21a8"
+ },
+ {
+  "name": "Quebra-cabeça do Armarinho (Haberdasher's Puzzle)",
+  "descript": "Recriação interativa do problema do Armarinho.Um triângulo equilátero foi cuidadosamente dividido em quatro pedaços. Arraste, solte e gire os pedaços para transformar o triângulo em um quadrado perfeito.",
+  "url": "https://academo.org/demos/haberdashers-puzzle/",
+  "thumb": "https://academo.org/demos/haberdashers-puzzle/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Geometria",
+   "Jogo",
+   "Matemática"
+  ],
+  "author": "Arcademo",
+  "hash": "4734e7c52a7c83bbe7b5a108e7f2a1e9"
+ },
+ {
+  "name": "Campo ultraprofundo do Hubble (Hubble Ultra Deep Field)",
+  "descript": "Imagem interativa do Hubble Ultra Deep Field",
+  "url": "https://academo.org/demos/hubble-ultra-deep-field/",
+  "thumb": "https://academo.org/demos/hubble-ultra-deep-field/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geografia",
+   "Gravitação",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "5b5658ec8bb3b9a56523e857c961c760"
+ },
+ {
+  "name": "Animação hipociclóide",
+  "descript": "Demonstração interativa de um círculo menor rolando dentro de um círculo maior para criar um hipocicloide.",
+  "url": "https://academo.org/demos/hypocycloid/",
+  "thumb": "https://academo.org/demos/hypocycloid/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Geometria",
+   "Gráfico",
+   "Matemática"
+  ],
+  "author": "Arcademo",
+  "hash": "3c965586701a67bc7f187f2d84d8d662"
+ },
+ {
+  "name": "Mapa interativo de poluição luminosa",
+  "descript": "Um mapa que mostra como a poluição luminosa varia ao redor do mundo",
+  "url": "https://academo.org/demos/light-pollution-map/",
+  "thumb": "https://academo.org/demos/light-pollution-map/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Geografia",
+   "Geometria",
+   "Gráfico",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "cf600062c24c142fdd3ad1febd303f99"
+ },
+ {
+  "name": "Comparação do Telescópio Espacial James Webb com o Telescópio Hubble",
+  "descript": "Use a ferramenta para explorar o aglomerado de galáxias SMACS 0723, com imagens tiradas pelo novo Telescópio Espacial James Webb e pelo Telescópio Hubble.",
+  "url": "https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/",
+  "thumb": "https://academo.org/demos/james-webb-vs-hubble-telescope-comparison/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Física",
+   "Geografia",
+   "Gravitação",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "603618a204ef90b94d1bd97d515cd887"
+ },
+ {
+  "name": "Terceira Lei de Kepler",
+  "descript": "Uma demonstração interativa mostrando como o semieixo maior de uma órbita está relacionado ao período orbital.",
+  "url": "https://academo.org/demos/keplers-third-law/",
+  "thumb": "https://academo.org/demos/keplers-third-law/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Força",
+   "Função",
+   "Física",
+   "Geografia",
+   "Geometria",
+   "Gravitação",
+   "Gráfico",
+   "Mecânica",
+   "Oscilações",
+   "Trigonometria",
+   "Vetores",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "defbd589ed97b42b84fa1859ff49d576"
+ },
+ {
+  "name": "Linha de regressão dos mínimos quadrados",
+  "descript": "Uma demonstração interativa de ajuste de uma linha reta a um gráfico de dispersão usando o método dos mínimos quadrados a partir de uma lista de pares de coordenadas.",
+  "url": "https://academo.org/demos/least-squares-regression-line/",
+  "thumb": "https://academo.org/demos/least-squares-regression-line/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
+  ],
+  "author": "Arcademo",
+  "hash": "e5efcb6e44911513f352a205961d8f71"
+ },
+ {
+  "name": "Sensor de luz",
+  "descript": "Use este sensor de luz online para medir e plotar a iluminância em unidades de lux do ambientre a sua volta.",
+  "url": "https://academo.org/demos/light-sensor/",
+  "thumb": "https://academo.org/demos/light-sensor/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "5d692073f52778ae61c379c32b0d7033"
+ },
+ {
+  "name": "Curvas de Lissajous",
+  "descript": "Uma demonstração interativa das curvas de Lissajous.",
+  "url": "https://academo.org/demos/lissajous-curves/",
+  "thumb": "https://academo.org/demos/lissajous-curves/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "a615660ce507284423737074867b595e"
+ },
+ {
+  "name": "Simulador de Porta Lógica",
+  "descript": "Um simulador de porta lógica online, simples e gratuito. Investigue o comportamento das portas AND, OR, NOT, NAND, NOR e XOR.",
+  "url": "https://academo.org/demos/logic-gate-simulator/",
+  "thumb": "https://academo.org/demos/logic-gate-simulator/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Eletrodinâmica",
+   "Função",
+   "Gráfico",
+   "Jogo",
+   "Matemática",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "ca63c5d0129d2cc9e771c70bb5b8e725"
+ },
+ {
+  "name": "Fotografia Lunar",
+  "descript": "Uma sequência de fotografias da Lua ao longo de duas semanas.",
+  "url": "https://academo.org/demos/lunar-photography/",
+  "thumb": "https://academo.org/demos/lunar-photography/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gravitação",
+   "Gráfico",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "8dfa86306768ce193289826c16871a24"
+ },
+ {
+  "name": "Mapa da gravidade da Terra",
+  "descript": "Modelo 3D das flutuações da gravidade da Terra.",
+  "url": "https://academo.org/demos/gravity-map/",
+  "thumb": "https://academo.org/demos/gravity-map/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Geometria",
+   "Gravitação",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "63e7dd4f4ba12062ce5c9390205ab12d"
+ },
+ {
+  "name": "Tradutor de código Morse",
+  "descript": "Use esta ferramenta online para gerar código morse a partir de texto regular. Sua entrada é convertida em pontos e traços, e você pode ouvir como soa.",
+  "url": "https://academo.org/demos/morse-code-translator/",
+  "thumb": "https://academo.org/demos/morse-code-translator/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Alfabeto",
+   "Algorítimo",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "949f34861260eb19313c35b5a584a2f2"
+ },
+ {
+  "name": "Crateras de bombas nucleares no Google Maps",
+  "descript": "Imagens de satélite de crateras formadas por bombas nucleares.",
+  "url": "https://academo.org/demos/nuclear-craters/",
+  "thumb": "https://academo.org/demos/nuclear-craters/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Atômica",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico",
+   "Nuclear"
+  ],
+  "author": "Arcademo",
+  "hash": "dc1767165a766fd91e4f6c08044fe286"
+ },
+ {
+  "name": "Colisões Elásticas Unidimensionais",
+  "descript": "Uma demonstração de colisões elásticas unidimensionais destacando a conservação do momento e da energia.",
+  "url": "https://academo.org/demos/one-dimensional-elastic-collisions/",
+  "thumb": "https://academo.org/demos/one-dimensional-elastic-collisions/thumbnail.png",
+  "categorys": [
+   "Energia",
+   "Força",
+   "Função",
+   "Física",
+   "Mecânica",
+   "Momentum",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "4ebf9fc2fad86e6862ee445331ccc313"
+ },
+ {
+  "name": "Minas a céu aberto no Google Maps",
+  "descript": "Imagens de satélite de minas a céu aberto.",
+  "url": "https://academo.org/demos/open-pit-mines/",
+  "thumb": "https://academo.org/demos/open-pit-mines/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "7da366b8f5c3fa8fc7a520f69ef6706f"
+ },
+ {
+  "name": "Simulador de Órbita",
+  "descript": "Uma demonstração interativa de uma órbita de um corpo menor em torno de um maior, como um planeta em torna de sua estrela ou uma lua em torno de seu planeta.",
+  "url": "https://academo.org/demos/orbit-simulator/",
+  "thumb": "https://academo.org/demos/orbit-simulator/thumbnail.png",
+  "categorys": [
+   "Força",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Jogo",
+   "Mecânica"
+  ],
+  "author": "Arcademo",
+  "hash": "9c969a3dc23ef8d3637da58c89921f30"
+ },
+ {
+  "name": "Simulador de órbita (simplificado)",
+  "descript": "Ajuste a velocidade de um corpo menor para descobrir os diferentes tipos de órbita em torno de um corpo maior, como um planeta em torna de sua estrela ou uma lua em torno de seu planeta.",
+  "url": "https://academo.org/demos/orbit-simulator-simple/",
+  "thumb": "https://academo.org/demos/orbit-simulator-simple/thumbnail.png",
+  "categorys": [
+   "Força",
+   "Função",
+   "Física",
+   "Gravitação",
+   "Jogo",
+   "Mecânica"
+  ],
+  "author": "Arcademo",
+  "hash": "170a020f74f37ef15747103ca4987ab3"
+ },
+ {
+  "name": "Ruído Perlin",
+  "descript": "Uma demonstração do ruído Perlin em comparação com o ruido branco.",
+  "url": "https://academo.org/demos/perlin-noise/",
+  "thumb": "https://academo.org/demos/perlin-noise/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Algorítimo",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "ef7193cbf00550b94024c62606c17f28"
+ },
+ {
+  "name": "Lei de Planck da radiação do corpo negro",
+  "descript": "Gráfico interativo da Lei de Planck e Lei de Wien, mostrando o gráfico da radiação de corpo negro para dois corpos comtemperatura regulável.",
+  "url": "https://academo.org/demos/blackbody-radiation/",
+  "thumb": "https://academo.org/demos/blackbody-radiation/thumbnail.png",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Quântica",
+   "Química",
+   "Radiação",
+   "Termodinâmica",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "c8695ef8352f825ef04067fca261151c"
+ },
+ {
+  "name": "Calculadora de Área Quadrilátero",
+  "descript": "Uma ferramenta rápida e simples para desenhar e calcular áreas de quadriláteros.",
+  "url": "https://academo.org/demos/quadrilateral-area-calculator/",
+  "thumb": "https://academo.org/demos/quadrilateral-area-calculator/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "a0160e949ddacc9214c04e9b61dc1b6c"
+ },
+ {
+  "name": "ROT-13 Criptografador/descriptografador",
+  "descript": "Um criptografador/descriptografador ROT-13 interativo e online",
+  "url": "https://academo.org/demos/ROT-13-cipher/",
+  "thumb": "https://academo.org/demos/ROT-13-cipher/thumbnail.png",
+  "categorys": [
+   "Alfabeto",
+   "Algorítimo",
+   "Jogo",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "8d8631d8887599315a0f854098e609da"
+ },
+ {
+  "name": "Simulador de decaimento radioativo",
+  "descript": "Use este simulador para ver como uma população de átomos radioativos decai ao longo do tempo. Ajuste a meia-vida e veja como isso afeta a taxa na qual os átomos decaem.",
+  "url": "https://academo.org/demos/radioactive-decay-simulator/",
+  "thumb": "https://academo.org/demos/radioactive-decay-simulator/thumbnail.png",
+  "categorys": [
+   "Atômica",
+   "Energia",
+   "Estatística",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Nuclear",
+   "Números",
+   "Radiação"
+  ],
+  "author": "Arcademo",
+  "hash": "d8c8b18d1670a1f7280647819a0482c5"
+ },
+ {
+  "name": "Rhodonea Curves (Rosas)",
+  "descript": "Uma demonstração interativa das curvas de Rhodonea, também conhecidas como Rosas.",
+  "url": "https://academo.org/demos/rhodonea-curves/",
+  "thumb": "https://academo.org/demos/rhodonea-curves/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "aab53f7aa06270fc9eeb61c2cdbb68e5"
+ },
+ {
+  "name": "Gerador de Hash SHA-256",
+  "descript": "Use esta ferramenta para encontrar o hash SHA-256 de qualquer texto/string que você inserir na caixa de texto.",
+  "url": "https://academo.org/demos/SHA-256-hash-generator/",
+  "thumb": "https://academo.org/demos/SHA-256-hash-generator/thumbnail.png",
+  "categorys": [
+   "Alfabeto",
+   "Algorítimo",
+   "Jogo",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "485eaf8ab09b447544ab16e6b50a1fce"
+ },
+ {
+  "name": "Naufrágios no Google Maps",
+  "descript": "Imagens de satélite de naufrágios.",
+  "url": "https://academo.org/demos/shipwrecks/",
+  "thumb": "https://academo.org/demos/shipwrecks/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Clima",
+   "Física",
+   "Geografia",
+   "Gráfico"
+  ],
+  "author": "Arcademo",
+  "hash": "31c612f0037be0df94274e20e254db68"
+ },
+ {
+  "name": "Pêndulo simples",
+  "descript": "Uma demonstração interativa de um pêndulo simples.",
+  "url": "https://academo.org/demos/simple-pendulum/",
+  "thumb": "https://academo.org/demos/simple-pendulum/thumbnail.png",
+  "categorys": [
+   "Força",
+   "Física",
+   "Gravitação",
+   "Mecânica",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "33993d7984f71b401f585123f2418481"
+ },
+ {
+  "name": "Analisador de espectro",
+  "descript": "Este analisador de espectro de áudio permite que você veja as frequências presentes nas gravações de áudio.",
+  "url": "https://academo.org/demos/spectrum-analyzer/",
+  "thumb": "https://academo.org/demos/spectrum-analyzer/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Algorítimo",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "4d129384383eb0c8b70785f32f1721a7"
+ },
+ {
+  "name": "Visualizador de velocidade da luz",
+  "descript": "Uma demonstração interativa mostrando quanto tempo um sinal viajando na velocidade da luz leva para atravessar o mundo.",
+  "url": "https://academo.org/demos/speed-of-light-visualizer/",
+  "thumb": "https://academo.org/demos/speed-of-light-visualizer/thumbnail.png",
+  "categorys": [
+   "Astronomia",
+   "Cinemática",
+   "Física",
+   "Geografia",
+   "Gráfico",
+   "Mecânica",
+   "Relatividade",
+   "Vetores",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "52fa32e28fe3e0d08e9d15a2ec0690a0"
+ },
+ {
+  "name": "Ondas Esféricas",
+  "descript": "Um gráfico interativo de ondas esféricas. Veja como o número de onda, a frequência e a amplitude afetam o comportamento.",
+  "url": "https://academo.org/demos/spherical-waves/",
+  "thumb": "https://academo.org/demos/spherical-waves/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "320596ad8a8fb929a2fb0a49b62d046c"
+ },
+ {
+  "name": "Calculadora de desvio padrão",
+  "descript": "Uma ferramenta interativa para calcular o desvio padrão de um conjunto de números.",
+  "url": "https://academo.org/demos/standard-deviation-calculator/",
+  "thumb": "https://academo.org/demos/standard-deviation-calculator/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "Arcademo",
+  "hash": "cfce1fe562359bec5063c8d72979f7b6"
+ },
+ {
+  "name": "Estatísticas de dados rolando",
+  "descript": "Uma demonstração interativa do comportamento binomial de rolagem de dados",
+  "url": "https://academo.org/demos/dice-roll-statistics/",
+  "thumb": "https://academo.org/demos/dice-roll-statistics/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Probabilidade"
+  ],
+  "author": "Arcademo",
+  "hash": "f78e6d60dda4c2514b2c4efe1573ef47"
+ },
+ {
+  "name": "Calculadora de Regra Trapezoidal",
+  "descript": "Esta ferramenta interativa demonstra como a regra trapezoidal pode ser usada para calcular a área abaixo de uma curva. Insira sua própria expressão e escolha o número de trapézios que deseja usar e veja o plote do gráfico.",
+  "url": "https://academo.org/demos/trapezoidal-rule-calculator/",
+  "thumb": "https://academo.org/demos/trapezoidal-rule-calculator/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria"
+  ],
+  "author": "Arcademo",
+  "hash": "1f9da2e0aac8d5b21ae35f1cb2066102"
+ },
+ {
+  "name": "Plotter de campo vetorial",
+  "descript": "Uma visualização interativa de campos vetoriais em um gráfico bidimencional.",
+  "url": "https://academo.org/demos/vector-field-plotter/",
+  "thumb": "https://academo.org/demos/vector-field-plotter/thumbnail.png",
+  "categorys": [
+   "Função",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "847d289418c55ff7da13505330ac847e"
+ },
+ {
+  "name": "Vectorscópio",
+  "descript": "Este vectorscope online usa áudio estéreo como entrada. Os dois canais são plotados um contra o outro nos eixos x e y para produzir uma gama de padrões interessantes.",
+  "url": "https://academo.org/demos/vectorscope/",
+  "thumb": "https://academo.org/demos/vectorscope/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Eletrodinâmica",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Ondas",
+   "Oscilações",
+   "Trigonometria",
+   "Vetores"
+  ],
+  "author": "Arcademo",
+  "hash": "c9bb2472b5b999d24b3bf313a38ec016"
+ },
+ {
+  "name": "Gerador de Diagramas de Venn",
+  "descript": "Use esta ferramenta para gerar diagramas de Venn interativos e salvá-los como imagens.",
+  "url": "https://academo.org/demos/venn-diagram-generator/",
+  "thumb": "https://academo.org/demos/venn-diagram-generator/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Aritmética",
+   "Estatística",
+   "Gráfico",
+   "Matemática",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "3fff07d0546547ccd0159efaa9df5611"
+ },
+ {
+  "name": "Osciloscópio Virtual",
+  "descript": "Um osciloscópio virtual online que permite visualizar a entrada de som ao vivo, aprenda a ajustar o display com diferentes entradas, inclusive a entrada do microfone do seu dispositivo, ajuste de frequência e amplitude de onda, e ajuste de escala e tensão (em volts).",
+  "url": "https://academo.org/demos/virtual-oscilloscope/",
+  "thumb": "https://academo.org/demos/virtual-oscilloscope/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Eletrodinâmica",
+   "Energia",
+   "Função",
+   "Física",
+   "Geometria",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "c8ee8ca2f26016096304a23a763856fb"
+ },
+ {
+  "name": "Interferência de Ondas e Frequência de Batimento",
+  "descript": "Uma demonstração interativa que permite que você veja e ouça o resultado da adição de duas ondas senoidais de frequências diferentes.",
+  "url": "https://academo.org/demos/wave-interference-beat-frequency/",
+  "thumb": "https://academo.org/demos/wave-interference-beat-frequency/thumbnail.png",
+  "categorys": [
+   "Acústica",
+   "Algorítimo",
+   "Aritmética",
+   "Função",
+   "Física",
+   "Gráfico",
+   "Matemática",
+   "Números",
+   "Ondas",
+   "Oscilações"
+  ],
+  "author": "Arcademo",
+  "hash": "eb8eff3a74207a5149b5f2632eb48958"
+ },
+ {
+  "name": "Relação entre comprimento de onda e cor",
+  "descript": "Uma ferramenta simples para converter um comprimento de onda em nm para uma cor RGB, hexadecimal ou HSL.",
+  "url": "https://academo.org/demos/wavelength-to-colour-relationship/",
+  "thumb": "https://academo.org/demos/wavelength-to-colour-relationship/thumbnail.png",
+  "categorys": [
+   "Algorítimo",
+   "Astronomia",
+   "Atômica",
+   "Energia",
+   "Função",
+   "Física",
+   "Matemática",
+   "Números",
+   "Ondas",
+   "Quântica",
+   "Radiação",
+   "Óptica"
+  ],
+  "author": "Arcademo",
+  "hash": "7209b09606d87037acb0c477f44d7667"
+ },
+ {
+  "name": "Países da Europa",
+  "descript": "Aprenda os países da Europa com estes flashcards.",
+  "url": "https://academo.org/flashcards/countries-of-europe/",
+  "thumb": "https://academo.org/flashcards/thumbnails/countries-of-europe.png",
+  "categorys": [
+   "Geografia",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "028993e8cffff877c410c9dcfe0a942b"
+ },
+ {
+  "name": "Capitais Europeias",
+  "descript": "Aprenda as capitais da Europa com estes flashcards.",
+  "url": "https://academo.org/flashcards/european-capitals/",
+  "thumb": "https://academo.org/flashcards/thumbnails/european-capitals.png",
+  "categorys": [
+   "Geografia",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "8aedc15e7d328272ee9502c1c5ba5db2"
+ },
+ {
+  "name": "Bandeiras da Europa",
+  "descript": "Aprenda as bandeiras da Europa com estes flashcards.",
+  "url": "https://academo.org/flashcards/flags-of-europe/",
+  "thumb": "https://academo.org/flashcards/thumbnails/flags-of-europe.png",
+  "categorys": [
+   "Geografia",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "aa6709f96afda0e6b313f242d29982a7"
+ },
+ {
+  "name": "Código Morse",
+  "descript": "Aprenda as letras do alfabeto em código Morse com estes flashcards de áudio.",
+  "url": "https://academo.org/flashcards/morse-code/",
+  "thumb": "https://academo.org/flashcards/thumbnails/morse-flashcards.png",
+  "categorys": [
+   "Acústica",
+   "Alfabeto",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "8be8b75a9f8643ad9c662344ac77a9a0"
+ },
+ {
+  "name": "Palavras em código Morse",
+  "descript": "Aprenda palavras em código Morse com estes flashcards de áudio.",
+  "url": "https://academo.org/flashcards/morse-code-words/",
+  "thumb": "https://academo.org/flashcards/thumbnails/morse-code-words.png",
+  "categorys": [
+   "Acústica",
+   "Alfabeto",
+   "Números"
+  ],
+  "author": "Arcademo",
+  "hash": "25d7b419a02c2331110400c63a95c200"
+ },
+ {
+  "name": "Mapa dos Estados Unidos Flashcards",
+  "descript": "Aprenda as capitais dos Estaqdo Unidos com estes flashcards.",
+  "url": "https://academo.org/flashcards/us-states/",
+  "thumb": "https://academo.org/flashcards/thumbnails/us-states-and-capitals.png",
+  "categorys": [
+   "Geografia",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "0b258ca3e9158b11fef80b77dd95774b"
+ },
+ {
+  "name": "Estados dos EUA e suas capitais",
+  "descript": "Aprenda sobre os 50 estados dos EUA e suas capitais com estes flashcards.",
+  "url": "https://academo.org/flashcards/us-states-and-capitals/",
+  "thumb": "https://academo.org/flashcards/thumbnails/us-capitals.png",
+  "categorys": [
+   "Geografia",
+   "Jogo"
+  ],
+  "author": "Arcademo",
+  "hash": "d1009e85e00d2d792432845fefd4a110"
+ }
+]
