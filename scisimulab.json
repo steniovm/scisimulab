@@ -149,7 +149,7 @@
       "thumb": "https://cdn.minutelabs.io/logos/logo-minutelabs-on.jpg"
     },
     {
-      "text": " LabFis-IFC. Laboratório Virtual de Física da Universidade Federal do Ceará.",
+      "text": " LabFis-IFC. Laboratório Virtual de Física da Universidade Federal do Ceará. Apresenta duas alternativas aos experimentos reais de física: Simulações de Experimentos e Experimentos Fiilmados. Muitas estão acompanhadas de roteiros para uso em aulas.",
       "url": "https://www.laboratoriovirtual.fisica.ufc.br/",
       "thumb": "https://static.wixstatic.com/media/e02095_e4c985d9086b4c589843118dc57f97cb~mv2.png"
     },
@@ -207,6 +207,16 @@
       "text": " FoothillCollege. O projeto Foothill Astrosims visa apoiar a educação em astronomia através de atualização de simulações educacionais existentes na web em Flash para Javascript, desenvolvivento de novas simulações para abordar tópicos ainda não encontrados e curadoria de simulações educacionais existentes acessíveis pelo navegado",
       "url": "https://foothill.edu/astronomy/astrosims.html",
       "thumb": "https://foothill.edu/favicon.ico"
+    },
+    {
+      "text": "Academo. Uma coleção de demonstrações e ferramentas interativas e educacionais completamente gratuito.",
+      "url": "https://academo.org/demos/",
+      "thumb": "https://academo.org/icon.png"
+    },
+    {
+      "text": "Michael Fowler. Uma coleção de ferramentas interativas e educacionais completamente gratuito de física, astrônomia e matemática.",
+      "url": "https://galileoandeinstein.phys.virginia.edu/more_stuff/Applets/home.html",
+      "thumb": "https://web.phys.virginia.edu/2021/Config/images/uva-large-newbox.svg"
     },
     {
       "text": "Experiments With Google. Desde 2009 programadores criam experimentos incríveis usando Chrome, Android, IA, AR e muito mais. O Google apresenta aqui projetos, ferramentas e recursos úteis para inspirar outras pessoas a criar novos experimentos criados por qualquer pessoa ao redor do mundo. Divirta-se.",

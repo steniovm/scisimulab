@@ -8,209 +8,213 @@
 }
 /* Estilos gerais */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f6f6f6;
-    margin: 0;
-    padding: 0;
-  }
+  font-family: Arial, sans-serif;
+  background-color: #f6f6f6;
+  margin: 0;
+  padding: 0;
+}
 
-  /* Estilos do cabeçalho */
-  header {
-    background-color: #b4c7c1;
-    color: #6b12ad;
-    padding: 2px;
-    text-align: center;
-  }
+/* Estilos do cabeçalho */
+header {
+  background-color: #b4c7c1;
+  color: #6b12ad;
+  padding: 2px;
+  text-align: center;
+}
 
-  h1,h2 {
-    -webkit-text-stroke: 1px #666;
-    font-style: italic;
-    margin: 0;
-    animation-duration: 10s;
-    animation-name: faderepte;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-  }
+h1,
+h2 {
+  -webkit-text-stroke: 1px #666;
+  font-style: italic;
+  margin: 0;
+  animation-duration: 10s;
+  animation-name: faderepte;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
 
-  header>p {
-    font-size: 18px;
-  }
+header > p {
+  font-size: 18px;
+}
 
-  /* Estilos da barra de navegação */
-  nav {
-    background-color: #eee;
-    padding: 10px;
-    text-align: center;
-    display: flex;
-    justify-content:space-around;
-    flex-wrap: wrap;
-  }
+/* Estilos da barra de navegação */
+nav {
+  background-color: #eee;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 
-  button {
-    background-color: #ccc;
-    border-radius: 10px;
-    text-decoration: none;
-    border: none;
-    box-shadow: 2px -2px 4px #999;
-    margin: 2px 10px;
-  }
-  button:hover {
-    background-color: #eee;
-  }
-  button:active {
-    background-color: #fff;
-    box-shadow: none;
-  }
-  input, select{
-    background-color: transparent;
-    border-radius: 15px;
-    height: 1.5em;
-    width: 3em;
-    border: none;
-    margin: 2px;
-    box-shadow: 1px -1px 6px #999;
-  }
-  #darklightbt{
-    height: 1.5em;
-    padding: 0 0 0 1em;
-  }
-  section {
-    display: flex;
-    justify-content:start;
-  }
+button {
+  background-color: #ccc;
+  border-radius: 10px;
+  text-decoration: none;
+  border: none;
+  box-shadow: 2px -2px 4px #999;
+  margin: 2px 10px;
+}
+button:hover {
+  background-color: #eee;
+}
+button:active {
+  background-color: #fff;
+  box-shadow: none;
+}
+input,
+select {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 1.5em;
+  width: 3em;
+  border: none;
+  margin: 2px;
+  box-shadow: 1px -1px 6px #999;
+}
+#darklightbt {
+  height: 1.5em;
+  padding: 0 0 0 1em;
+}
+section {
+  display: flex;
+  justify-content: start;
+}
 
-  /* Estilos da seção de destaque */
-  #highlight {
-    background-color: #f2f2f2;
-    padding: 0;
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
-  #highlight>strong{
-    padding: 0 5%;
-    animation-duration: 5s;
-    animation-name: faderepte;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-  }
-  strong{
-    color: #333;
-  }
-  #controls{
-    background-color: #f6f6f6;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin: 0;
-    padding: 2px 5%;
-  }
-  .emphasis{
-    padding: 0 5px;
-    font-weight: bold;
-    border-radius: 5px;
-    animation-duration: 5s;
-    animation-name: faderepte;
-    animation-iteration-count: infinite;
-    animation-direction: alternate;
-    text-decoration: none;
-  }
-  .emphasis>img{
-    max-width: 3em;
-    max-height: 3em;
-    border-radius: 30%;
-  }
-  /* Estilos das simulações em destaque */
-  #simulations {
-    text-align: center;
-    background-color: #f6f6f6;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-  }
-  .card {
-    width: 20%;
-    min-width: 250px;
-    max-height: 400px;
-    margin: 10px;
-    background-color: #9FCFBF;
-    border: #333 1px solid;
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    text-decoration: none;
-  }
-  .card>img{
-    width: 95%;
-    max-height: 155px;
-    border-radius: 5px;
-  }
-  .card>p{
-    width: 95%;
-    max-height: 200px;
-    font-weight: bold;
-    text-align: justify;
-    overflow: hidden;
-  }
-  .card>*{
-    margin: 5px;
-    text-align: justify;
-  }
+/* Estilos da seção de destaque */
+#highlight {
+  background-color: #f2f2f2;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+#highlight > strong {
+  padding: 0 5%;
+  animation-duration: 5s;
+  animation-name: faderepte;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+strong {
+  color: #333;
+}
+#controls {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0;
+  padding: 2px 5%;
+}
+.emphasis {
+  padding: 0 5px;
+  font-weight: bold;
+  border-radius: 5px;
+  animation-duration: 5s;
+  animation-name: faderepte;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  text-decoration: none;
+}
+.emphasis > img {
+  max-width: 3em;
+  max-height: 3em;
+  border-radius: 30%;
+}
+/* Estilos das simulações em destaque */
+#simulations {
+  text-align: center;
+  background-color: #f6f6f6;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.card {
+  width: 20%;
+  min-width: 250px;
+  max-height: 400px;
+  margin: 10px;
+  background-color: #9fcfbf;
+  border: #333 1px solid;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+.card > img {
+  width: 95%;
+  max-height: 155px;
+  border-radius: 5px;
+}
+.card > p {
+  width: 95%;
+  max-height: 200px;
+  font-weight: bold;
+  text-align: justify;
+  overflow: hidden;
+}
+.card > * {
+  margin: 5px;
+  text-align: justify;
+}
 
-  /* Estilos da seção "Sobre o SciSimuLab" */
-  #about {
-    background-color: #f9f9f9;
-    padding: 1%;
-    text-align: center;
-  }
-  #about>h2 {
-    font-size: 28px;
-  }
-  #about>p {
-    font-size: 18px;
-  }
+/* Estilos da seção "Sobre o SciSimuLab" */
+#about {
+  background-color: #f9f9f9;
+  padding: 1%;
+  text-align: center;
+}
+#about > h2 {
+  font-size: 28px;
+}
+#about > p {
+  font-size: 18px;
+}
 
-  /* Estilos da seção "Recursos adicionais" */
-  #resources {
-    background-color: #e6e6e6;
-    padding: 40px;
-    display: flex;
-    flex-direction: column;
-    text-align:start;
-  }
-  #resources>.emphasis{
-    padding: 5px;
-    font-size: 18px;
-  }
+/* Estilos da seção "Recursos adicionais" */
+#resources {
+  background-color: #e6e6e6;
+  padding: 40px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  text-align: start;
+}
+#resources > .emphasis {
+  padding: 5px;
+  font-size: 18px;
+}
 
-  /* Estilos do rodapé */
-  footer {
-    background-color: #b4c7c1;
-    color: #333;
-    padding: 20px;
-    text-align: center;
-    display: flex;
-    justify-content:start;
-    font-weight: bold;
-    flex-wrap: wrap;
-  }
-  footer>p {
-    font-size: 14px;
-  }
-  #myimg {
-    width: 60px;
-    padding: 0 5px 0 0;
-  }
-  .divinfo{
-    display: flex;
-    flex-direction: column;
-    justify-content:start;
-    text-align: start;
-  }
+/* Estilos do rodapé */
+footer {
+  background-color: #b4c7c1;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  font-weight: bold;
+  flex-wrap: wrap;
+}
+footer > p {
+  font-size: 14px;
+}
+#myimg {
+  width: 60px;
+  padding: 0 5px 0 0;
+}
+.divinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  text-align: start;
+}
 
 /*para funcionamento do slider*/
-ul, li{
+ul,
+li {
   padding: 0;
   margin: 0;
 }
@@ -259,38 +263,42 @@ ul, li{
   animation: fade 3s infinite alternate;
 }
 @keyframes fade {
-  from { opacity: 0; }
-  to   { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
-.mycard{
+.mycard {
   flex-direction: row;
   width: 100%;
   min-width: 100%;
   background-color: #9fcfbf9f;
 }
-.mycard>img{
+.mycard > img {
   max-height: 100%;
   width: auto;
   height: auto;
 }
-.mycard>div{
+.mycard > div {
   display: flex;
   flex-direction: column;
 }
-.mycard>div>h3{
+.mycard > div > h3 {
   padding: 0;
   margin: 0;
 }
-.mycard>*{
+.mycard > * {
   max-width: 50%;
 }
 /*modal submit*/
-.contactforms{
+.contactforms {
   display: flex;
   flex-direction: column;
   width: min-content;
   max-width: 350px;
-  position:fixed;
+  position: fixed;
   z-index: 1;
   top: 6%;
   left: calc(50% - 150px);
@@ -299,12 +307,12 @@ ul, li{
   background-color: #cccccc80;
   box-shadow: 10px 10px 40px #333;
 }
-.contactforms>div{
+.contactforms > div {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
 }
-.close{
+.close {
   display: flex;
   justify-content: end;
   border: none;
@@ -312,7 +320,7 @@ ul, li{
   margin: 0;
   padding: 0;
 }
-.close>span{
+.close > span {
   width: 1em;
   height: 1em;
   border-radius: 50%;
@@ -322,11 +330,11 @@ ul, li{
   text-align: center;
   vertical-align: middle;
 }
-h2{
+h2 {
   text-align: center;
 }
-form{
-  border:groove;
+form {
+  border: groove;
   display: flex;
   flex-direction: column;
   width: 49%;
@@ -336,60 +344,61 @@ form{
   border-radius: 15px;
   border: none;
 }
-form input, textarea{
+form input,
+textarea {
   width: 90%;
   min-width: 200px;
   margin: 0 5%;
   background-color: #eeeeee;
   font-weight: bold;
 }
-form h3{
+form h3 {
   margin: auto;
 }
-form label{
+form label {
   font-weight: bold;
   margin: 0 4px;
 }
-textarea{
+textarea {
   height: 14.7em;
   border-radius: 15px;
 }
-form button{
+form button {
   width: 30%;
   margin: 2px auto;
 }
-#spanmessage{
+#spanmessage {
   background-color: #ccc;
   width: 300px;
 }
 /*escoder elemento*/
-.hiddemdiv{
+.hiddemdiv {
   display: none;
 }
-#homesite{
+#homesite {
   background: #f6f6f6;
 }
 
 /*menu suspenso*/
-.ul{
+.ul {
   margin: 0;
   padding: 0;
   list-style: none;
   /*width:200px;*/
 }
-.ul>.li {
+.ul > .li {
   position: relative;
 }
-.li>.ul {
+.li > .ul {
   position: absolute;
   left: 20px;
   top: 30px;
   display: none;
 }
-.li>.ul>.li{
+.li > .ul > .li {
   min-width: fit-content;
 }
-.ul>.li>a{
+.ul > .li > a {
   display: block;
   text-decoration: none;
   font-weight: bold;
@@ -401,22 +410,22 @@ form button{
   border-radius: 5px;
   white-space: nowrap;
 }
-.li>a:visited{
-  color:#500;
+.li > a:visited {
+  color: #500;
 }
-.li:hover>.ul {
+.li:hover > .ul {
   display: block;
 }
-.ul>.li>a:hover{
+.ul > .li > a:hover {
   font-weight: bold;
   background: #ccc;
 }
-#menusup{
+#menusup {
   margin: 10px 0 0 0;
   max-width: 99vw;
   overflow: hidden;
 }
-#menusup>a{
+#menusup > a {
   display: block;
   text-decoration: none;
   font-weight: bold;
@@ -428,10 +437,10 @@ form button{
   border-radius: 5px;
   white-space: nowrap;
 }
-#menusup>a:visited{
-  color:#500;
+#menusup > a:visited {
+  color: #500;
 }
-iframe{
+iframe {
   max-width: 99vw;
   overflow: hidden;
 }
@@ -452,25 +461,26 @@ iframe{
   width: 2em;
   background-image: url(./search-circle-outline.svg);
 }
-select, #wordsearche {
+select,
+#wordsearche {
   width: 100%;
   font-size: larger;
 }
-#wordsearche{
+#wordsearche {
   min-width: 100%;
 }
-#urlsearch>input {
+#urlsearch > input {
   width: 70%;
   min-width: auto;
   box-shadow: none;
   font-size: unset;
 }
 
-#clearFilters{
+#clearFilters {
   height: 100%;
   font-size: larger;
 }
-.navmenu{
+.navmenu {
   display: flex;
   flex-direction: column;
   width: 20vw;
