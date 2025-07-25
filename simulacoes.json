@@ -31835,5 +31835,889 @@
     "categorys": ["Geografia", "Jogo"],
     "author": "Arcademo",
     "hash": "d1009e85e00d2d792432845fefd4a110"
+  },
+  {
+    "name": "Rolagem de dados",
+    "descript": "Animação que permite rolar dados para simular a decadência radioativa",
+    "url": "https://physique.ostralo.net/simulation_decroissance_radioactive/",
+    "thumb": "https://physique.ostralo.net/simulation_decroissance_radioactive/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Atômica",
+      "Estatística",
+      "Física",
+      "Nuclear",
+      "Números",
+      "Probabilidade",
+      "Quântica",
+      "Química",
+      "Radiação"
+    ],
+    "author": "ostralo",
+    "hash": "4c0cd2c63e1a7be30fd995fe21ea77e0"
+  },
+  {
+    "name": "Diagrama da NZ, número por massa atômica",
+    "descript": "Diagrama interativo da NZ, número por massa atômica.",
+    "url": "https://physique.ostralo.net/diagramme_NZ/",
+    "thumb": "https://physique.ostralo.net/diagramme_NZ/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Densidade",
+      "Estatística",
+      "Gráfico",
+      "Nuclear",
+      "Números",
+      "Quântica",
+      "Química",
+      "Radiação"
+    ],
+    "author": "ostralo",
+    "hash": "621516e47f3e27d21d7ca967aef7c746"
+  },
+  {
+    "name": "Estrutura eletrônica",
+    "descript": "Animação que permite visualizar a distribuição de elétrons nas camadas 1s, 2s, 2p, 3s e subcamadas...",
+    "url": "https://chimie.ostralo.net/structure_electronique_spdf/",
+    "thumb": "https://chimie.ostralo.net/structure_electronique_spdf/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Densidade",
+      "Estatística",
+      "Gráfico",
+      "Nuclear",
+      "Números",
+      "Quântica",
+      "Química",
+      "Radiação"
+    ],
+    "author": "ostralo",
+    "hash": "f4b518c4e0c764abe1b30c8ed0e41a09"
+  },
+  {
+    "name": "Progresso de uma transformação química",
+    "descript": "Animação que permite visualizar as quantidades de materiais de acordo com o andamento de uma transformação química.",
+    "url": "https://chimie.ostralo.net/avancement/",
+    "thumb": "https://chimie.ostralo.net/avancement/ecran.png",
+    "categorys": [
+      "Aritmética",
+      "Atômica",
+      "Estatística",
+      "Gráfico",
+      "Matemática",
+      "Números",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "ba9a8203bee4c2c29166843edc09649e"
+  },
+  {
+    "name": "Amostragem",
+    "descript": "Animação que permite visualizar os erros de uma amostragem.",
+    "url": "https://physique.ostralo.net/echantillonnage/",
+    "thumb": "https://physique.ostralo.net/echantillonnage/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Estatística",
+      "Função",
+      "Gráfico",
+      "Matemática",
+      "Números"
+    ],
+    "author": "ostralo",
+    "hash": "b0557baccc58d2a9d9a238474188ad24"
+  },
+  {
+    "name": "Princípio da inércia",
+    "descript": "Animação que propõe três situações-problema em torno do princípio da inércia",
+    "url": "https://physique.ostralo.net/principe_inertie/",
+    "thumb": "https://physique.ostralo.net/principe_inertie/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Força",
+      "Física",
+      "Mecânica",
+      "Relatividade",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "fea587e90d65f46802e3375b1990b339"
+  },
+  {
+    "name": "Introdução ao Pygame",
+    "descript": "Site para aprender a usar a biblioteca Pygame (com Python).",
+    "url": "https://numerique.ostralo.net/pygame/",
+    "thumb": "https://numerique.ostralo.net/pygame/ecran.png",
+    "categorys": ["Algorítimo", "Jogo"],
+    "author": "ostralo",
+    "hash": "b61a58ee7a5390a2917a13eff88c47bf"
+  },
+  {
+    "name": "Daniell Pile",
+    "descript": "Animação que permite visualizar o princípio de funcionamento químico de uma bateria Daniell.",
+    "url": "https://chimie.ostralo.net/pile/",
+    "thumb": "https://chimie.ostralo.net/pile/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Eletrodinâmica",
+      "Energia",
+      "Química",
+      "Semicondutores"
+    ],
+    "author": "ostralo",
+    "hash": "eba97a55d666c93e29c5edf18031c539"
+  },
+  {
+    "name": "Vetores de posição, velocidade e aceleração",
+    "descript": "Animação que permite visualizar os vetores de posição, velocidade e aceleração para diferentes movimentos.",
+    "url": "https://physique.ostralo.net/vecteurs_om_v_a/",
+    "thumb": "https://physique.ostralo.net/vecteurs_om_v_a/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Força",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Mecânica"
+    ],
+    "author": "ostralo",
+    "hash": "c227e46e3d79ee4c595322099ba22822"
+  },
+  {
+    "name": "Efeito Doppler de um carro passando",
+    "descript": "Animação que permite ouvir e visualizar o som de um carro passando.",
+    "url": "https://physique.ostralo.net/doppler_voiture/",
+    "thumb": "https://physique.ostralo.net/doppler_voiture/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Cinemática",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Ondas"
+    ],
+    "author": "ostralo",
+    "hash": "f5acc8a8409240feee7fac3fadb199e9"
+  },
+  {
+    "name": "Harmônicos de um som",
+    "descript": "Animação que permite construir um sinal a partir de seus harmônicos e ouvi-lo.",
+    "url": "https://physique.ostralo.net/harmoniques_son/",
+    "thumb": "https://physique.ostralo.net/harmoniques_son/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Algorítimo",
+      "Aritmética",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Matemática",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "ostralo",
+    "hash": "c2ba0559270c6615a186a0128139f42a"
+  },
+  {
+    "name": "Sínteses de cores",
+    "descript": "Animação mostrando síntese de cores aditiva e subtrativa.",
+    "url": "https://physique.ostralo.net/syntheses_couleurs/",
+    "thumb": "https://physique.ostralo.net/syntheses_couleurs/ecran.png",
+    "categorys": ["Física", "Óptica"],
+    "author": "ostralo",
+    "hash": "b3b2db5eab83c4b5c823f9f054f1c414"
+  },
+  {
+    "name": "Som emitido por uma corda",
+    "descript": "Animação que permite ouvir a influência de diferentes parâmetros no som emitido por uma corda.",
+    "url": "https://physique.ostralo.net/corde_guitare/",
+    "thumb": "https://physique.ostralo.net/corde_guitare/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Mecânica",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "ostralo",
+    "hash": "eaad35fcac088c54e8bac14f1a330d7b"
+  },
+  {
+    "name": "Modelo microscópico da reação química",
+    "descript": "Simulação que apresenta um modelo simplificado da reação química em escala microscópica.",
+    "url": "https://chimie.ostralo.net/reaction_modele_microscopique/",
+    "thumb": "https://chimie.ostralo.net/reaction_modele_microscopique/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Energia",
+      "Função",
+      "Gráfico",
+      "Matemática",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "df2e9344bbf9e4add209c51e75f56682"
+  },
+  {
+    "name": "Difração e interferência por fendas 1 e 2",
+    "descript": "Animação que permite visualizar o padrão de difração ou interferência através de uma fenda enquanto modifica os diferentes parâmetros.",
+    "url": "https://physique.ostralo.net/diffraction_interference/",
+    "thumb": "https://physique.ostralo.net/diffraction_interference/ecran.png",
+    "categorys": ["Física", "Gráfico", "Ondas", "Radiação", "Óptica"],
+    "author": "ostralo",
+    "hash": "1b2a3f9571a54bb6df2e0cf812f37c8b"
+  },
+  {
+    "name": "Translação ou rotação de um sólido",
+    "descript": "Conjunto de 4 animações que permitem visualizar os movimentos de sólidos em translação ou rotação.",
+    "url": "https://physique.ostralo.net/mvt_translation_rotation/",
+    "thumb": "https://physique.ostralo.net/mvt_translation_rotation/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Mecânica",
+      "Relatividade",
+      "Trigonometria"
+    ],
+    "author": "ostralo",
+    "hash": "51dd6c7df0865f939db77a4fce88e067"
+  },
+  {
+    "name": "Efeito Doppler",
+    "descript": "Animação que permite visualizar a onda emitida por uma fonte em movimento.",
+    "url": "https://physique.ostralo.net/doppler/",
+    "thumb": "https://physique.ostralo.net/doppler/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Cinemática",
+      "Física",
+      "Gráfico",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "ostralo",
+    "hash": "9354680f8f821c8b6eda00234d0e10ad"
+  },
+  {
+    "name": "Entidades monoatômicas estáveis",
+    "descript": "Animação que permite \"construir\" um átomo ou um íon a partir das entidades básicas (próton, nêutron e elétron) e verificar sua estabilidade.",
+    "url": "https://chimie.ostralo.net/entites_chimiques/",
+    "thumb": "https://chimie.ostralo.net/entites_chimiques/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Física",
+      "Nuclear",
+      "Números",
+      "Probabilidade",
+      "Quântica",
+      "Química",
+      "Radiação"
+    ],
+    "author": "ostralo",
+    "hash": "93cae4ad658b1af92e09daf89025b4a5"
+  },
+  {
+    "name": "Movimentos de pontos de um sólido",
+    "descript": "Animação que permite visualizar as trajetórias dos pontos de um sólido e destacar o movimento particular do centro de inércia.",
+    "url": "https://physique.ostralo.net/mvts_points_solide/",
+    "thumb": "https://physique.ostralo.net/mvts_points_solide/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Força",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gráfico",
+      "Mecânica",
+      "Momentum",
+      "Trigonometria"
+    ],
+    "author": "ostralo",
+    "hash": "9a4d215693ddb3d1acc1084d25c5c59a"
+  },
+  {
+    "name": "satélite terrestre",
+    "descript": "Animação que permite visualizar a trajetória, o vetor de velocidade e a área varrida de um satélite da Terra.",
+    "url": "https://physique.ostralo.net/kepler/",
+    "thumb": "https://physique.ostralo.net/kepler/ecran.png",
+    "categorys": [
+      "Astronomia",
+      "Cinemática",
+      "Clima",
+      "Força",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Mecânica",
+      "Relatividade",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "3c66069c65772d49c93747bfc82ac1f8"
+  },
+  {
+    "name": "Eletrificação por influência de uma esfera",
+    "descript": "Animação que permite visualizar o movimento de cargas durante a eletrificação pela influência de uma esfera condutora.",
+    "url": "https://physique.ostralo.net/electrisation/electrisation_sphere.htm",
+    "thumb": "https://physique.ostralo.net/electrisation/ecran.png",
+    "categorys": [],
+    "author": "ostralo",
+    "hash": "8a34d3bb6f6fd6f38c71de02debbd609"
+  },
+  {
+    "name": "Dissolução de um composto iônico",
+    "descript": "Animação que permite visualizar, em escala microscópica, o processo de dissolução de um composto iônico.",
+    "url": "https://chimie.ostralo.net/dissolution/",
+    "thumb": "https://chimie.ostralo.net/dissolution/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Densidade",
+      "Eletrostática",
+      "Energia",
+      "Estatística",
+      "Física",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "a1febaf8e48517e606f6df5f0b44ccd7"
+  },
+  {
+    "name": "Estrutura eletrônica",
+    "descript": "Animação que permite visualizar a distribuição de elétrons nas camadas 1s, 2s, 2p, 3s e subcamadas...",
+    "url": "https://chimie.ostralo.net/structure_electronique/",
+    "thumb": "https://chimie.ostralo.net/structure_electronique/ecran.png",
+    "categorys": [
+      "Atômica",
+      "Eletrostática",
+      "Energia",
+      "Física",
+      "Nuclear",
+      "Quântica",
+      "Química",
+      "Radiação"
+    ],
+    "author": "ostralo",
+    "hash": "05a988e784a24a2902941a2510f81dbb"
+  },
+  {
+    "name": "Relatividade do movimento",
+    "descript": "Animação que permite visualizar os movimentos de três carros de diferentes pontos de vista.",
+    "url": "https://physique.ostralo.net/relativite_mvt_voitures_animateHTML5/",
+    "thumb": "https://physique.ostralo.net/relativite_mvt_voitures_animateHTML5/ecran.png",
+    "categorys": ["Cinemática", "Física", "Mecânica", "Relatividade"],
+    "author": "ostralo",
+    "hash": "6911b191a30394a008172afd1e50b96c"
+  },
+  {
+    "name": "Vaso de flores caindo (Conservação de energia mecânica)",
+    "descript": "Correção detalhada de um exercício sobre a queda de um vaso de flores.",
+    "url": "https://physique.ostralo.net/cours_chuteLibreEnergie/",
+    "thumb": "https://physique.ostralo.net/cours_chuteLibreEnergie/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Força",
+      "Função",
+      "Física",
+      "Gravitação",
+      "Matemática",
+      "Mecânica",
+      "Momentum"
+    ],
+    "author": "ostralo",
+    "hash": "9e8c797ec51801e90ebe5defe07015c3"
+  },
+  {
+    "name": "Vaso de flores caindo (2ª lei de Newton)",
+    "descript": "Correção detalhada de um exercício sobre a queda de um vaso de flores.",
+    "url": "https://physique.ostralo.net/cours_chuteLibreNewton/",
+    "thumb": "https://physique.ostralo.net/cours_chuteLibreNewton/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Gravitação",
+      "Matemática",
+      "Mecânica",
+      "Momentum"
+    ],
+    "author": "ostralo",
+    "hash": "7a234fa17db58526eeaf8a8b5a064619"
+  },
+  {
+    "name": "Lego EV3 MicroPython",
+    "descript": "Site para programar um robô Lego Mindstorm EV3 em Python.",
+    "url": "https://numerique.ostralo.net/robotLego_python/",
+    "thumb": "https://numerique.ostralo.net/robotLego_python/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Eletrodinâmica",
+      "Função",
+      "Jogo",
+      "Matemática",
+      "Mecânica",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "2effadfc932b63e68f517425f3ea5b2c"
+  },
+  {
+    "name": "Cruzamento de duas ondas ao longo de uma corda",
+    "descript": "Animação que permite visualizar a propagação e o cruzamento de duas ondas ao longo de uma corda.",
+    "url": "https://physique.ostralo.net/croisement_ondes/",
+    "thumb": "https://physique.ostralo.net/croisement_ondes/ecran.png",
+    "categorys": [
+      "Aritmética",
+      "Cinemática",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Mecânica",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "ostralo",
+    "hash": "91979865f1ae7a87ae9143cdd65437aa"
+  },
+  {
+    "name": "Propagação de uma onda sonora em um tubo",
+    "descript": "Animação interativa que permite visualizar a propagação de uma onda sonora plana em um tubo.",
+    "url": "https://physique.ostralo.net/ondesonoretuyau/",
+    "thumb": "https://physique.ostralo.net/ondesonoretuyau/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Densidade",
+      "Força",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Mecânica",
+      "Ondas",
+      "Oscilações"
+    ],
+    "author": "ostralo",
+    "hash": "c7bda82904e74efc95a3b474425050e3"
+  },
+  {
+    "name": "Quiz de História Digital",
+    "descript": "Um pequeno quiz sobre as principais datas da história da tecnologia digital.",
+    "url": "https://numerique.ostralo.net/quiz_numerique/",
+    "thumb": "https://numerique.ostralo.net/quiz_numerique/ecran.png",
+    "categorys": ["Algorítimo", "Gráfico", "Jogo", "Matemática"],
+    "author": "ostralo",
+    "hash": "6bf1643f6082e2096262cb15c96739f3"
+  },
+  {
+    "name": "cartão micro:bit",
+    "descript": "Site sobre os princípios básicos de utilização da placa micro:bit com o software Mu",
+    "url": "https://numerique.ostralo.net/microbit/",
+    "thumb": "https://numerique.ostralo.net/microbit/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Eletrodinâmica",
+      "Energia",
+      "Gráfico",
+      "Jogo",
+      "Matemática",
+      "Mecânica",
+      "Semicondutores"
+    ],
+    "author": "ostralo",
+    "hash": "d48d7452d62c0a775bc2e9eff26abc1a"
+  },
+  {
+    "name": "Python - Matplotlib",
+    "descript": "Site sobre os fundamentos do módulo matplotlib para python",
+    "url": "https://numerique.ostralo.net/python_matplotlib/",
+    "thumb": "https://numerique.ostralo.net/python_matplotlib/ecran.png",
+    "categorys": ["Algorítimo", "Jogo"],
+    "author": "ostralo",
+    "hash": "5fd44978101d14ba452dc25e4846054f"
+  },
+  {
+    "name": "Medição do raio da Terra por Eratóstenes",
+    "descript": "Animação que permite visualizar o método utilizado por Eratóstenes para medir o raio da Terra.",
+    "url": "https://physique.ostralo.net/eratosthene/",
+    "thumb": "https://physique.ostralo.net/eratosthene/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Astronomia",
+      "Clima",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Matemática",
+      "Trigonometria"
+    ],
+    "author": "ostralo",
+    "hash": "8a5be1fa551df169027caf047b09a8cc"
+  },
+  {
+    "name": "Análise de drogas por cromatografia",
+    "descript": "Animação que permite visualizar o progresso de uma cromatografia e testar os resultados.",
+    "url": "https://chimie.ostralo.net/chromatographie/",
+    "thumb": "https://chimie.ostralo.net/chromatographie/ecran.png",
+    "categorys": [
+      "Biologia",
+      "Estatística",
+      "Gráfico",
+      "Hidrostática",
+      "Probabilidade",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "edc125d2dea07f9d08465820fe1862a2"
+  },
+  {
+    "name": "Movimento de uma partícula em um capacitor",
+    "descript": "Animação que permite visualizar os diferentes parâmetros de um capacitor planar e o movimento de uma partícula entre suas armaduras.",
+    "url": "https://physique.ostralo.net/mvtParticuleChampE/",
+    "thumb": "https://physique.ostralo.net/mvtParticuleChampE/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Eletrostática",
+      "Energia",
+      "Força",
+      "Física",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "685669b68e661474c0d0f20f787861da"
+  },
+  {
+    "name": "Vetores em física",
+    "descript": "Resumo do curso (imagem e som) sobre vetores em física.",
+    "url": "https://physique.ostralo.net/cours_vecteurs/",
+    "thumb": "https://physique.ostralo.net/cours_vecteurs/ecran.png",
+    "categorys": [
+      "Força",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Matemática",
+      "Mecânica",
+      "Trigonometria",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "8cbfb3cdd3b86f5621e24163a0c69acc"
+  },
+  {
+    "name": "Distâncias no Universo",
+    "descript": "Apresentação de slides cujo objetivo é ajudar as pessoas a tomarem consciência das distâncias no Universo.",
+    "url": "https://physique.ostralo.net/al/al.htm",
+    "thumb": "https://physique.ostralo.net/al/ecran.png",
+    "categorys": ["Astronomia", "Física", "Matemática"],
+    "author": "ostralo",
+    "hash": "d8c1b72f1b8c1535ea0c29be4da8c3f2"
+  },
+  {
+    "name": "Ondas eletromagnéticas",
+    "descript": "Friso mostrando diferentes usos de ondas eletromagnéticas.",
+    "url": "https://physique.ostralo.net/oem_frise/",
+    "thumb": "https://physique.ostralo.net/oem_frise/ecran.png",
+    "categorys": [
+      "Energia",
+      "Física",
+      "Matemática",
+      "Ondas",
+      "Radiação",
+      "Óptica"
+    ],
+    "author": "ostralo",
+    "hash": "691fedf9d53b66fff8ab30900348d3f4"
+  },
+  {
+    "name": "Princípio do sonar marinho",
+    "descript": "A animação permite visualizar o princípio do sonar aplicado ao estudo do fundo do mar e à pesca.",
+    "url": "https://physique.ostralo.net/sonar/",
+    "thumb": "https://physique.ostralo.net/sonar/ecran.png",
+    "categorys": [
+      "Acústica",
+      "Cinemática",
+      "Função",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Gráfico",
+      "Hidrostática",
+      "Mecânica",
+      "Ondas",
+      "Relatividade",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "22c71a5302b66abd30cef6f274833916"
+  },
+  {
+    "name": "Aprenda Arduino",
+    "descript": "Um site que oferece um conjunto de desafios progressivos para aprender a programar placas Arduino com componentes básicos.",
+    "url": "https://numerique.ostralo.net/arduino/",
+    "thumb": "https://numerique.ostralo.net/arduino/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Eletrodinâmica",
+      "Energia",
+      "Gráfico",
+      "Jogo",
+      "Matemática",
+      "Mecânica",
+      "Semicondutores"
+    ],
+    "author": "ostralo",
+    "hash": "afaf339456d2f30baa36ae4d2a846036"
+  },
+  {
+    "name": "Python - Folha de Dicas",
+    "descript": "Site sobre os fundamentos da linguagem Python",
+    "url": "https://numerique.ostralo.net/python_AideMemoire/",
+    "thumb": "https://numerique.ostralo.net/python_AideMemoire/ecran.png",
+    "categorys": ["Algorítimo", "Jogo"],
+    "author": "ostralo",
+    "hash": "fa43d7ecde19b137595554b8c4413928"
+  },
+  {
+    "name": "Quem vai se mudar?",
+    "descript": "Um conjunto de animações que nos permitem questionar a relatividade do movimento.",
+    "url": "https://physique.ostralo.net/quibouge/",
+    "thumb": "https://physique.ostralo.net/quibouge/ecran.png",
+    "categorys": [
+      "Cinemática",
+      "Física",
+      "Geografia",
+      "Geometria",
+      "Matemática",
+      "Mecânica",
+      "Relatividade",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "2fe97e66dd836e3a01c9b21fab039d6a"
+  },
+  {
+    "name": "Nomenclatura de alcanos",
+    "descript": "Animação que permite construir um alcano e obter seu nome",
+    "url": "https://chimie.ostralo.net/nomenclature_alcanes/nomenclature_alcanes.htm",
+    "thumb": "https://chimie.ostralo.net/nomenclature_alcanes/ecran.png",
+    "categorys": [
+      "Alfabeto",
+      "Algorítimo",
+      "Atômica",
+      "Números",
+      "Quântica",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "90b472ca873c3d3e7aaf0fb1ff2f171c"
+  },
+  {
+    "name": "Imagens digitais",
+    "descript": "Pequeno site interativo que apresenta as diferentes características das imagens digitais.",
+    "url": "https://physique.ostralo.net/images/",
+    "thumb": "https://physique.ostralo.net/images/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Geometria",
+      "Gráfico",
+      "Matemática",
+      "Trigonometria",
+      "Vetores",
+      "Óptica"
+    ],
+    "author": "ostralo",
+    "hash": "ae2a438a269e10c2fa3e9a460cfec4e7"
+  },
+  {
+    "name": "Aprendendo o básico do JavaScript",
+    "descript": "Pequeno site que oferece aprendizado progressivo de Javascript por meio de desafios a serem completados.",
+    "url": "https://numerique.ostralo.net/javascriptapprentissage/",
+    "thumb": "https://numerique.ostralo.net/javascriptapprentissage/ecran.png",
+    "categorys": ["Algorítimo", "Jogo"],
+    "author": "ostralo",
+    "hash": "26254e69e1dbdcb374139122ea1f64e2"
+  },
+  {
+    "name": "Alguns projetos do Scratch",
+    "descript": "Pequeno site que oferece um conjunto de pequenos desafios progressivos para aprender a usar o Scratch.",
+    "url": "https://numerique.ostralo.net/scratch/",
+    "thumb": "https://numerique.ostralo.net/scratch/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Cinemática",
+      "Função",
+      "Geometria",
+      "Gráfico",
+      "Jogo"
+    ],
+    "author": "ostralo",
+    "hash": "6b65a15da4143910443c5a339da5f226"
+  },
+  {
+    "name": "Introdução à robótica com Lego® Mindstorm®",
+    "descript": "Um site que oferece desafios progressivos para aprender a programar robôs Lego Mindstorm com a interface Lego.",
+    "url": "https://numerique.ostralo.net/robotLego/",
+    "thumb": "https://numerique.ostralo.net/robotLego/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Aritmética",
+      "Eletrodinâmica",
+      "Função",
+      "Jogo",
+      "Matemática",
+      "Mecânica",
+      "Vetores"
+    ],
+    "author": "ostralo",
+    "hash": "0e588186ec16e1b56f00f79daf282b22"
+  },
+  {
+    "name": "Pequenos exemplos em JavaScript",
+    "descript": "Site que oferece cerca de quarenta pequenos exemplos em JavaScript.",
+    "url": "https://numerique.ostralo.net/javascriptexemples/",
+    "thumb": "https://numerique.ostralo.net/javascriptexemples/ecran.png",
+    "categorys": ["Algorítimo", "Jogo"],
+    "author": "ostralo",
+    "hash": "3de126fcd8a2052d011740cdb1bf0c64"
+  },
+  {
+    "name": "Espectro infravermelho de uma molécula",
+    "descript": "Página interativa que permite visualizar as ligações e bandas de absorção do espectro infravermelho de algumas moléculas.",
+    "url": "https://chimie.ostralo.net/spectreIR/",
+    "thumb": "https://chimie.ostralo.net/spectreIR/ecran.png",
+    "categorys": [
+      "Astronomia",
+      "Atômica",
+      "Energia",
+      "Função",
+      "Física",
+      "Gráfico",
+      "Nuclear",
+      "Números",
+      "Ondas",
+      "Quântica",
+      "Química",
+      "Radiação",
+      "Óptica"
+    ],
+    "author": "ostralo",
+    "hash": "50116b9ae109fb8574d06ddd67a4f50d"
+  },
+  {
+    "name": "Reconhecendo famílias em química orgânica",
+    "descript": "Animação/Jogo que permite praticar o reconhecimento da família de uma molécula.",
+    "url": "https://chimie.ostralo.net/fonctionsorganiques/",
+    "thumb": "https://chimie.ostralo.net/fonctionsorganiques/ecran.png",
+    "categorys": [
+      "Alfabeto",
+      "Algorítimo",
+      "Atômica",
+      "Números",
+      "Quântica",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "6cca2bb411a8dcffb49d72b803eba947"
+  },
+  {
+    "name": "Conversão analógica/digital",
+    "descript": "Página interativa que permite visualizar a conversão analógico↦digital.\nVersão com 2 intervalos n-1 .",
+    "url": "https://physique.ostralo.net/CAN/index_v2nmoins1.htm",
+    "thumb": "https://physique.ostralo.net/CAN/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Estatística",
+      "Função",
+      "Gráfico",
+      "Matemática",
+      "Números"
+    ],
+    "author": "ostralo",
+    "hash": "902555e5b17699b9ff4eec7237f9261e"
+  },
+  {
+    "name": "Conversão analógica/digital",
+    "descript": "Página interativa que permite visualizar a conversão analógico↦digital.\nVersão com 2 intervalos n .",
+    "url": "https://physique.ostralo.net/CAN/index_v2n.htm",
+    "thumb": "https://physique.ostralo.net/CAN/ecran.png",
+    "categorys": [
+      "Algorítimo",
+      "Estatística",
+      "Função",
+      "Gráfico",
+      "Matemática",
+      "Números"
+    ],
+    "author": "ostralo",
+    "hash": "508acdfc3924cb4eadca1bbb95b391df"
+  },
+  {
+    "name": "Mecanismo de uma reação",
+    "descript": "Site que permite visualizar o movimento dos elétrons no mecanismo de uma reação.",
+    "url": "https://chimie.ostralo.net/mecanisme_reaction/index.htm",
+    "thumb": "https://chimie.ostralo.net/mecanisme_reaction/ecran.png",
+    "categorys": [
+      "Alfabeto",
+      "Algorítimo",
+      "Atômica",
+      "Cinemática",
+      "Eletrostática",
+      "Números",
+      "Quântica",
+      "Química"
+    ],
+    "author": "ostralo",
+    "hash": "b5f0fe25f30a98fbfa97ba959bf31221"
+  },
+  {
+    "name": "Relatividade especial",
+    "descript": "Site com algumas animações, que permite abordar, no âmbito do programa Terminale S, algumas noções em torno da relatividade especial.",
+    "url": "https://physique.ostralo.net/relativite/",
+    "thumb": "https://physique.ostralo.net/relativite/ecran.png",
+    "categorys": [
+      "Aritmética",
+      "Astronomia",
+      "Cinemática",
+      "Eletromagnetismo",
+      "Energia",
+      "Força",
+      "Função",
+      "Física",
+      "Geometria",
+      "Gravitação",
+      "Gráfico",
+      "Matemática",
+      "Mecânica",
+      "Ondas",
+      "Radiação",
+      "Relatividade",
+      "Trigonometria",
+      "Vetores",
+      "Óptica"
+    ],
+    "author": "ostralo",
+    "hash": "8d276ed0300374428b34c208ebd81612"
+  },
+  {
+    "name": "HTML e CSS",
+    "descript": "Um site que apresenta os princípios básicos do uso de HTML e CSS para criar páginas para um navegador.",
+    "url": "https://numerique.ostralo.net/html_css/",
+    "thumb": "https://numerique.ostralo.net/html_css/ecran.png",
+    "categorys": ["Alfabeto", "Algorítimo", "Gráfico", "Jogo"],
+    "author": "ostralo",
+    "hash": "eba18fff304c0d8a565843c57ebef381"
   }
 ]
