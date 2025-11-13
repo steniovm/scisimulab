@@ -210,6 +210,7 @@ function timevalidform() {
     timevalid = true;
   }, 10000);
 }
+//enviar formularios com validação de tempo e honeypot
 insertform.addEventListener("submit", function (ev) {
   if (!timevalid || honeypot1.value !== "") {
     alert("Erro: envio inválido detectado.");
