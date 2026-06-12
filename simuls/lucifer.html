@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <title>LUCIFER.EXE</title>
+  <style>
+    body {
+      background: black;
+      color: lime;
+      font-family: monospace;
+      text-align: center;
+      padding-top: 40px;
+    }
+
+    input {
+      width: 80%;
+      background: black;
+      color: lime;
+      border: 1px solid lime;
+      font-family: monospace;
+      font-size: 16px;
+      padding: 6px;
+    }
+
+    button {
+      background: black;
+      color: lime;
+      border: 1px solid lime;
+      font-family: monospace;
+      margin-top: 15px;
+      padding: 6px 12px;
+      cursor: pointer;
+    }
+
+    #resultado {
+      margin-top: 20px;
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    details {
+      margin-top: 50vh;
+      border: 1px solid red;
+      padding: 10px;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    summary {
+      color: red;
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>LUCIFER.EXE</h1>
+  <p>Mentalize a resposta.</p>
+  <p>Depois, escreva a pergunta com muito respeito e reverência.</p>
+
+  <input type="text" id="campo" autocomplete="off">
+  <br>
+  <button onclick="revelar()">Revelar resposta</button>
+  <button onclick="clearbox()">Limpar</button>
+
+  <p id="resultado"></p>
+  <details>
+    <summary>TEXTOS PROIBIDOS - NÃO CLIQUE OU SERÁ AMALDIÇOADO</summary>
+    <p>1. Digite a resposta que você quer obter, mas não se preocupe, ela não aparecerá na tela.</p>
+    <p>2. Pressione a tecla "Alt" (ou qualquer tecla especial que preferir) para alternar para o modo de pergunta.</p>
+    <p>3. Digite a pergunta que deseja fazer. Ela aparecerá normalmente na caixa de texto.</p>
+    <p>4. Clique no botão "Revelar resposta" para ver a resposta que você digitou inicialmente.</p>
+    <p>5. Use o botão "Limpar" para resetar tudo e começar novamente.</p>
+  </details>
+  <script>
+    const textosFalsos = [
+      "O grande e poderoso adivinho, revele o que está oculto...",
+      "Ó forças do além, concedei-me a verdade absoluta...",
+      "Entidades do vazio digital, iluminai esta resposta...",
+      "Pelos códigos antigos e bits esquecidos, manifeste-se a verdade...",
+      "Consultando os registros do destino, aguarde...",
+      "Invocando as energias do conhecimento supremo...",
+      "Acessando o oráculo primordial, por favor espere...",
+      "Que os circuitos do infinito revelem o que foi pensado...",
+      "Sinapses do além, transmitam a resposta correta...",
+      "Decifrando os sinais do cosmos eletrônico...",
+      "Abrindo o portal do saber absoluto...",
+      "Interpretando as vibrações do pensamento humano...",
+      "Conectando-se ao plano astral digital...",
+      "Processando os dados do inconsciente coletivo...",
+      "Traduzindo impulsos mentais em linguagem computacional...",
+      "Extraindo padrões do fluxo do destino...",
+      "Analisando probabilidades do universo...",
+      "Consultando arquivos secretos do éter...",
+      "Sincronizando com a matriz do conhecimento...",
+      "Carregando respostas proibidas..."
+    ];
+
+    let textoFalso = textosFalsos[
+      Math.floor(Math.random() * textosFalsos.length)
+    ];
+    let respostaSecreta = "";
+    let pergunta = "";
+    let usandoTextoFalso = true;
+    let indiceFalso = 0;
+
+    document.addEventListener("keydown", (e) => {
+      if (e.altKey) {
+        usandoTextoFalso = false;
+      }
+    });
+
+    document.getElementById("campo").addEventListener("keydown", (e) => {
+      if (e.key.length === 1) {
+        e.preventDefault();
+
+        if (usandoTextoFalso) {
+          // Guarda a resposta verdadeira
+          respostaSecreta += e.key;
+
+          // Mostra o texto falso
+          if (indiceFalso < textoFalso.length) {
+            e.target.value += textoFalso[indiceFalso];
+            indiceFalso++;
+          }
+        } else {
+          // Agora é a pergunta real
+          pergunta += e.key;
+          e.target.value += e.key;
+        }
+      }
+
+      // Backspace
+      if (e.key === "Backspace") {
+        e.preventDefault();
+        if (usandoTextoFalso && respostaSecreta.length > 0) {
+          respostaSecreta = respostaSecreta.slice(0, -1);
+        } else if (!usandoTextoFalso && pergunta.length > 0) {
+          pergunta = pergunta.slice(0, -1);
+          e.target.value = e.target.value.slice(0, -1);
+        }
+      }
+    });
+
+    function revelar() {
+      document.getElementById("resultado").innerText =
+        "-*-*-" + respostaSecreta + "-*-*-";
+    }
+
+    function clearbox() {
+      document.getElementById("campo").value = "";
+      respostaSecreta = "";
+      pergunta = "";
+      usandoTextoFalso = true;
+      indiceFalso = 0;
+      textoFalso = textosFalsos[
+        Math.floor(Math.random() * textosFalsos.length)
+      ];
+    }
+  </script>
+
+</body>
+
+</html>

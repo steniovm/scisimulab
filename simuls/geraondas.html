@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #9FCFBF;
+    }
+
+    fieldset {
+      background-color: #DDDDDD;
+      width: 100%;
+      max-width: 360px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    fieldset>div {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+    }
+
+    canvas {
+      background-color: #22222210;
+      border-radius: 10px;
+    }
+
+    .escale {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      font-family: monospace;
+    }
+  </style>
+  <title>Gerador de ondas</title>
+</head>
+
+<body>
+  <fieldset>
+    <h2>Gerador de onda</h2>
+    <div>
+      <label for="waveform">Forma de onda</label>
+      <select id="waveform">
+        <option value="sine">Senoidal</option>
+        <option value="square">Quadrada</option>
+        <option value="triangle">Triangular</option>
+        <option value="sawtooth">Serra</option>
+      </select>
+    </div>
+    <div>
+      <label for="frequency">Frequência (Hz)</label>
+      <input type="number" id="frequency" min="0" value="440" step="0.1">
+    </div>
+    <div>
+      <label for="volume">Volume</label>
+      <input type="range" id="volume" min="0" max="2" step="0.01" value="1">
+    </div>
+    <button id="play">Tocar</button>
+    <button id="stop">Parar</button>
+    <canvas width="350" height="50" id="canvaWaveOut"></canvas>
+    <div class="escale">
+      <small> 0</small>
+      <small> 1</small>
+      <small> 2</small>
+      <small> 3</small>
+      <small> 4</small>
+      <small> 5</small>
+      <small> 6</small>
+      <small> 7</small>
+      <small> 8</small>
+      <small> 9</small>
+      <small>10</small>
+    </div>
+  </fieldset>
+  <fieldset>
+    <h2>Captador de onda</h2>
+    <button id="rec">Iniciar</button>
+    <button id="stoprec">Parar</button>
+    <canvas width="350" height="50" id="canvaWaveIn"></canvas>
+    <div class="escale">
+      <small> 0</small>
+      <small> 1</small>
+      <small> 2</small>
+      <small> 3</small>
+      <small> 4</small>
+      <small> 5</small>
+      <small> 6</small>
+      <small> 7</small>
+      <small> 8</small>
+      <small> 9</small>
+      <small>10</small>
+    </div>
+  </fieldset>
+</body>
+<script>
+  const playButton = document.getElementById('play');
+  const stopButton = document.getElementById('stop');
+  const recButton = document.getElementById('rec');
+  const stoprecButton = document.getElementById('stoprec');
+  const waveformSelect = document.getElementById('waveform');
+  const frequencyInput = document.getElementById('frequency');
+  const volumeInput = document.getElementById('volume');
+  const waveOut = document.getElementById('canvaWaveOut');
+  const waveIn = document.getElementById('canvaWaveIn');
+  const outContext = waveOut.getContext("2d");
+  const inContext = waveIn.getContext("2d");
+
+  const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+  let oscillator = null;
+  const gainNode = audioContext.createGain();
+  const analyser = audioContext.createAnalyser();
+  analyser.fftSize = 2048;
+  gainNode.connect(audioContext.destination);
+  gainNode.connect(analyser);
+  let isPlaying = false;
+
+  playButton.addEventListener('click', () => {
+    if (!isPlaying) {
+      if (audioContext.state === 'suspended') {
+        audioContext.resume();
+      }
+
+      oscillator = audioContext.createOscillator();
+      oscillator.type = waveformSelect.value;
+      oscillator.frequency.setValueAtTime(Number(frequencyInput.value), audioContext.currentTime);
+      gainNode.gain.setValueAtTime(Number(volumeInput.value), audioContext.currentTime);
+
+      oscillator.connect(gainNode);
+
+      oscillator.start();
+      isPlaying = true;
+      frameloop();
+    }
+  });
+
+  stopButton.addEventListener('click', () => {
+    if (isPlaying && oscillator) {
+      oscillator.stop();
+      oscillator.disconnect();
+      isPlaying = false;
+      oscillator = null;
+    }
+  });
+
+  waveformSelect.addEventListener('change', () => {
+    if (isPlaying && oscillator) {
+      oscillator.type = waveformSelect.value;
+    }
+  });
+
+  frequencyInput.addEventListener('input', () => {
+    if (isPlaying && oscillator) {
+      oscillator.frequency.setValueAtTime(Number(frequencyInput.value), audioContext.currentTime);
+    }
+  });
+
+  volumeInput.addEventListener('input', () => {
+    if (isPlaying) {
+      gainNode.gain.setValueAtTime(Number(volumeInput.value), audioContext.currentTime);
+    }
+  });
+
+  function frameloop() {
+    if (isPlaying) {
+      // queremos mostrar exatamente 10 ms por quadro
+      const millis = 10;
+      const sampleRate = audioContext.sampleRate;
+      const samplesToShow = Math.max(32, Math.round((sampleRate * millis) / 1000));
+
+      const available = analyser.fftSize;
+      const dataArray = new Float32Array(available);
+      analyser.getFloatTimeDomainData(dataArray);
+
+      const displaySamples = Math.min(samplesToShow, available);
+      const denom = displaySamples > 1 ? (displaySamples - 1) : 1;
+      const volumeScale = Number(volumeInput.value);
+
+      outContext.clearRect(0, 0, waveOut.width, waveOut.height);
+      outContext.beginPath();
+      outContext.moveTo(0, waveOut.height / 2);
+
+      for (let i = 0; i < displaySamples; i++) {
+        const x = (i / denom) * waveOut.width;
+        const displayValue = dataArray[i] * volumeScale;
+        const y = (displayValue + 2) * (waveOut.height / 4);
+        outContext.lineTo(x, y);
+      }
+
+      outContext.strokeStyle = '#000000';
+      outContext.lineWidth = 2;
+      outContext.stroke();
+
+      requestAnimationFrame(frameloop);
+    }
+  }
+
+  recButton.addEventListener('click', async () => {
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const source = audioContext.createMediaStreamSource(stream);
+      source.connect(analyser);
+
+      function recordLoop() {
+        const available = analyser.fftSize;
+        const dataArray = new Float32Array(available);
+        analyser.getFloatTimeDomainData(dataArray);
+
+        inContext.clearRect(0, 0, waveIn.width, waveIn.height);
+        inContext.beginPath();
+        inContext.moveTo(0, waveIn.height / 2);
+
+        for (let i = 0; i < available; i++) {
+          const x = (i / (available - 1)) * waveIn.width;
+          const y = (dataArray[i] + 2) * (waveIn.height / 4);
+          inContext.lineTo(x, y);
+        }
+
+        inContext.strokeStyle = '#000000';
+        inContext.lineWidth = 2;
+        inContext.stroke();
+
+        requestAnimationFrame(recordLoop);
+      }
+
+      recordLoop();
+
+      stoprecButton.addEventListener('click', () => {
+        stream.getTracks().forEach(track => track.stop());
+      }, { once: true });
+    } catch (err) {
+      console.error('Erro ao acessar o microfone:', err);
+    }
+  });
+
+
+</script>
+
+</html>
