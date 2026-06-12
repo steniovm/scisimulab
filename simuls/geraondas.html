@@ -62,7 +62,7 @@
     <button id="play">Tocar</button>
     <button id="stop">Parar</button>
     <canvas width="350" height="50" id="canvaWaveOut"></canvas>
-    <div class="escale">
+    <div class="escale" title="Tempo, em milessegundos">
       <small> 0</small>
       <small> 1</small>
       <small> 2</small>
@@ -81,7 +81,7 @@
     <button id="rec">Iniciar</button>
     <button id="stoprec">Parar</button>
     <canvas width="350" height="50" id="canvaWaveIn"></canvas>
-    <div class="escale">
+    <div class="escale" title="Tempo, em milessegundos">
       <small> 0</small>
       <small> 1</small>
       <small> 2</small>
@@ -112,10 +112,12 @@
   const audioContext = new (window.AudioContext || window.webkitAudioContext)();
   let oscillator = null;
   const gainNode = audioContext.createGain();
-  const analyser = audioContext.createAnalyser();
-  analyser.fftSize = 2048;
+  const analyserOut = audioContext.createAnalyser();
+  analyserOut.fftSize = 2048;
+  const analyserIn = audioContext.createAnalyser();
+  analyserIn.fftSize = 2048;
   gainNode.connect(audioContext.destination);
-  gainNode.connect(analyser);
+  gainNode.connect(analyserOut);
   let isPlaying = false;
 
   playButton.addEventListener('click', () => {
@@ -171,9 +173,9 @@
       const sampleRate = audioContext.sampleRate;
       const samplesToShow = Math.max(32, Math.round((sampleRate * millis) / 1000));
 
-      const available = analyser.fftSize;
+      const available = analyserOut.fftSize;
       const dataArray = new Float32Array(available);
-      analyser.getFloatTimeDomainData(dataArray);
+      analyserOut.getFloatTimeDomainData(dataArray);
 
       const displaySamples = Math.min(samplesToShow, available);
       const denom = displaySamples > 1 ? (displaySamples - 1) : 1;
@@ -201,21 +203,31 @@
   recButton.addEventListener('click', async () => {
     try {
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      if (audioContext.state === 'suspended') await audioContext.resume();
       const source = audioContext.createMediaStreamSource(stream);
-      source.connect(analyser);
+      source.connect(analyserIn);
 
       function recordLoop() {
-        const available = analyser.fftSize;
+        // mostrar exatamente 10 ms por quadro
+        const millis = 10;
+        const sampleRate = audioContext.sampleRate;
+        const samplesToShow = Math.max(32, Math.round((sampleRate * millis) / 1000));
+
+        const available = analyserIn.fftSize;
         const dataArray = new Float32Array(available);
-        analyser.getFloatTimeDomainData(dataArray);
+        analyserIn.getFloatTimeDomainData(dataArray);
+
+        const displaySamples = Math.min(samplesToShow, available);
+        const denom = displaySamples > 1 ? (displaySamples - 1) : 1;
 
         inContext.clearRect(0, 0, waveIn.width, waveIn.height);
         inContext.beginPath();
         inContext.moveTo(0, waveIn.height / 2);
 
-        for (let i = 0; i < available; i++) {
-          const x = (i / (available - 1)) * waveIn.width;
-          const y = (dataArray[i] + 2) * (waveIn.height / 4);
+        for (let i = 0; i < displaySamples; i++) {
+          const x = (i / denom) * waveIn.width;
+          const displayValue = dataArray[i];
+          const y = (displayValue + 2) * (waveIn.height / 4);
           inContext.lineTo(x, y);
         }
 
