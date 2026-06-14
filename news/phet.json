@@ -1,831 +1,784 @@
 [
-    {
-        "name": "Flutuabilidade: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/buoyancy-basics",
-        "thumb": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics-420.png"
-    },
-    {
-        "name": "Gerador",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/generator",
-        "thumb": "https://phet.colorado.edu/sims/html/generator/latest/generator-420.png"
-    },
-    {
-        "name": "Ímãs e Eletroímãs",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets",
-        "thumb": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets-420.png"
-    },
-    {
-        "name": "Laboratório Eletromagnético de Faraday",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab",
-        "thumb": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab-420.png"
-    },
-    {
-        "name": "Óptica Geométrica: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/geometric-optics-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Óptica Geométrica",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/geometric-optics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Kit para Montar um Circuito: AC",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Kit para Montar um Circuito: AC - Laboratório Virtual",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac-virtual-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Fourier: Construindo Ondas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório de Colisões",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/collision-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Energia na Pista de Skate",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/energy-skate-park",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Adição de Vetores",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Ajuste de Curva",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório de Força Gravitacional: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Ondas: Intro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/waves-intro",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Difusão",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gases: Introdução",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Propriedades dos Gases",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Espectro de Corpo Negro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Massas e Molas: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Formas de Energia e Transformações",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/energy-forms-and-changes",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Interferência de Onda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-interference",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Coulomb",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/coulombs-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Massas e Molas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório do Capacitor: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/capacitor-lab-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Kit para Montar um Circuito DC - Laboratório Virtual",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc-virtual-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Kit para Montar Circuito DC",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório do Pêndulo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Movimento de Projétil",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Estados da Matéria: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Estados da Matéria",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gravidade e Órbitas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Probabilidade Plinko",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Interações Atômicas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Cargas e Campos",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/charges-and-fields",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Espalhamento de Rutherford",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Desvio da Luz",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Hooke",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/hookes-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Moléculas e Luz",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Energia na Pista de Skate: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/energy-skate-park-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Faraday",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Onda em Corda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Visão Colorida ",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/color-vision",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balançando",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Sob Pressão",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/under-pressure",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Atrito",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/friction",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Forças e Movimento: Noções Básicas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "John Travoltagem",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/john-travoltage",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório de Força Gravitacional",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balões e Eletricidade Estática",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Ohm",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Resistência em um Fio",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Monte um Átomo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Dupla de Números",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-pairs",
-        "thumb": "https://phet.colorado.edu/sims/html/number-pairs/latest/number-pairs-420.png"
-    },
-    {
-        "name": "Média: Distribuição e Equilíbrio",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/mean-share-and-balance",
-        "thumb": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance-420.png"
-    },
-    {
-        "name": "Distribuição Amostral de Projéteis",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-sampling-distributions",
-        "thumb": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions-420.png"
-    },
-    {
-        "name": "Lab Dados de Projéteis",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-data-lab",
-        "thumb": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab-420.png"
-    },
-    {
-        "name": "Centro e Variabilidade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/center-and-variability",
-        "thumb": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability-420.png"
-    },
-    {
-        "name": "Leis de Kepler",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/keplers-laws",
-        "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png"
-    },
-    {
-        "name": "Quadrilátero",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/quadrilateral",
-        "thumb": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral-420.png"
-    },
-    {
-        "name": "Gráfico de Cálculo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/calculus-grapher",
-        "thumb": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher-420.png"
-    },
-    {
-        "name": "Comparar Números",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-compare",
-        "thumb": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare-420.png"
-    },
-    {
-        "name": "Jogos dos Números",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-play",
-        "thumb": "https://phet.colorado.edu/sims/html/number-play/latest/number-play-420.png"
-    },
-    {
-        "name": "Fourier: Construindo Ondas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
-        "thumb": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-420.png"
-    },
-    {
-        "name": "Reta Numérica: Distância",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-distance",
-        "thumb": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance-420.png"
-    },
-    {
-        "name": "Razão e Proporção",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ratio-and-proportion",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Reta Numérica: Operações",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-operations",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Reta Numérica: Inteiros",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-integers",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Adição de Vetores: Equações",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition-equations",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Adição de Vetores",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Ajuste de Curva",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Frações: Números Mistos",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-mixed-numbers",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Frações: Intro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-intro",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Construir uma Fração",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-fraction",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Frações: Igualdade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-equality",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gráfico de Quadráticas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-quadratics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Massas e Molas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Explorador da Igualdade: Duas Variáveis",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-two-variables",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Explorador da Igualdade: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Explorador da Igualdade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Modelo de Área: Álgebra",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-algebra",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Modelo de Área: Decimais",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-decimals",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Modelo de Área: Multiplicação",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-multiplication",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Modelo de Área: Intro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-introduction",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório do Pêndulo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Movimento de Projétil",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Expressões",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/expression-exchange",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Inclinação e Intersecção",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-slope-intercept",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gerador de Funções: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Parque da Proporção",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Taxas Unitárias",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Some um 10",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Probabilidade Plinko",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gerador de Funções",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Tour Trigonométrico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/trig-tour",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Aritmética",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/arithmetic",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Regressão por Quadrados Mínimos",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/least-squares-regression",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Construtor de Área",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/area-builder",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Onda em Corda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Traçando Retas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-lines",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Associe Frações",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fraction-matcher",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balançando",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Ohm",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Resistência em um Fio",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Transporte Celular",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/membrane-transport",
-        "thumb": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport-420.png"
-    },
-    {
-        "name": "Cara ou Coroa Quântica",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/quantum-coin-toss",
-        "thumb": "https://phet.colorado.edu/sims/html/quantum-coin-toss/latest/quantum-coin-toss-420.png"
-    },
-    {
-        "name": "Medição Quântica",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/quantum-measurement",
-        "thumb": "https://phet.colorado.edu/sims/html/quantum-measurement/latest/quantum-measurement-420.png"
-    },
-    {
-        "name": "Modelos do Átomo de Hidrogênio",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/models-of-the-hydrogen-atom",
-        "thumb": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom-420.png"
-    },
-    {
-        "name": "Monte um Núcleo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-nucleus",
-        "thumb": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus-420.png"
-    },
-    {
-        "name": "Densidade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/density",
-        "thumb": "https://phet.colorado.edu/sims/html/density/latest/density-420.png"
-    },
-    {
-        "name": "Fourier: Construindo Ondas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
-        "thumb": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-420.png"
-    },
-    {
-        "name": "Monte uma Molécula",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-molecule",
-        "thumb": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule-420.png"
-    },
-    {
-        "name": "Difusão",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
-        "thumb": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion-420.png"
-    },
-    {
-        "name": "Gases: Introdução",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
-        "thumb": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro-420.png"
-    },
-    {
-        "name": "Propriedades dos Gases",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
-        "thumb": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties-420.png"
-    },
-    {
-        "name": "Espectro de Corpo Negro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
-        "thumb": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum-420.png"
-    },
-    {
-        "name": "Formas de Energia e Transformações",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/energy-forms-and-changes",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Lei de Coulomb",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/coulombs-law",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Polaridade da Molécula",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Estados da Matéria: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Estados da Matéria",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Interações Atômicas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Espalhamento de Rutherford",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Isótopos e Massa Atômica",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/isotopes-and-atomic-mass",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Moléculas e Luz",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Geometria Molecular",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Geometria Molecular: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Reagentes, Produtos e Excesso",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Escala de pH: Básico ",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale-basics",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Onda em Corda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Escala de pH",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balanceamento de Equações Químicas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-chemical-equations",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Soluções Ácido-Base",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Concentração",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/concentration",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balões e Eletricidade Estática",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório da Lei de Beer",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Molaridade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molarity",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Monte um Átomo",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Ímã e Bússola",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass",
-        "thumb": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass-420.png"
-    },
-    {
-        "name": "Leis de Kepler",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/keplers-laws",
-        "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png"
-    },
-    {
-        "name": "Meu Sistema Solar",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/my-solar-system",
-        "thumb": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system-420.png"
-    },
-    {
-        "name": "Efeito Estufa",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/greenhouse-effect",
-        "thumb": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect-420.png"
-    },
-    {
-        "name": "Densidade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/density",
-        "thumb": "https://phet.colorado.edu/sims/html/density/latest/density-420.png"
-    },
-    {
-        "name": "Laboratório de Força Gravitacional: Básico",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics",
-        "thumb": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics-420.png"
-    },
-    {
-        "name": "Ondas: Intro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/waves-intro",
-        "thumb": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro-420.png"
-    },
-    {
-        "name": "Difusão",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gases: Introdução",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Propriedades dos Gases",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Espectro de Corpo Negro",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Interferência de Onda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-interference",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Gravidade e Órbitas",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Moléculas e Luz",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Onda em Corda",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Escala de pH",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Sob Pressão",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/under-pressure",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Laboratório de Força Gravitacional",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Balões e Eletricidade Estática",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    },
-    {
-        "name": "Transporte Celular",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/membrane-transport",
-        "thumb": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport-420.png"
-    },
-    {
-        "name": "Densidade",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/density",
-        "thumb": "https://phet.colorado.edu/sims/html/density/latest/density-420.png"
-    },
-    {
-        "name": "Seleção Natural",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/natural-selection",
-        "thumb": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection-420.png"
-    },
-    {
-        "name": "Fundamentos da Expressão Genética",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/gene-expression-essentials",
-        "thumb": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-420.png"
-    },
-    {
-        "name": "Polaridade da Molécula",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
-        "thumb": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity-420.png"
-    },
-    {
-        "name": "Neurônio",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/neuron",
-        "thumb": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-420.png"
-    },
-    {
-        "name": "Visão Colorida ",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/color-vision",
-        "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png"
-    },
-    {
-        "name": "Escala de pH",
-        "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
-        "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
-    }
-]
-[
+  {
+    "name": "Flutuabilidade: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/buoyancy-basics",
+    "thumb": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics-420.png"
+  },
+  {
+    "name": "Gerador",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/generator",
+    "thumb": "https://phet.colorado.edu/sims/html/generator/latest/generator-420.png"
+  },
+  {
+    "name": "Ímãs e Eletroímãs",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets",
+    "thumb": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets-420.png"
+  },
+  {
+    "name": "Laboratório Eletromagnético de Faraday",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab",
+    "thumb": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab-420.png"
+  },
+  {
+    "name": "Óptica Geométrica: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/geometric-optics-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Óptica Geométrica",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/geometric-optics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Kit para Montar um Circuito: AC",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Kit para Montar um Circuito: AC - Laboratório Virtual",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-ac-virtual-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Fourier: Construindo Ondas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório de Colisões",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/collision-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Energia na Pista de Skate",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/energy-skate-park",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Adição de Vetores",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Ajuste de Curva",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório de Força Gravitacional: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Ondas: Intro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/waves-intro",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Difusão",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gases: Introdução",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Propriedades dos Gases",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Espectro de Corpo Negro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Massas e Molas: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Formas de Energia e Transformações",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/energy-forms-and-changes",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Interferência de Onda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-interference",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Coulomb",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/coulombs-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Massas e Molas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório do Capacitor: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/capacitor-lab-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Kit para Montar um Circuito DC - Laboratório Virtual",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc-virtual-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Kit para Montar Circuito DC",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/circuit-construction-kit-dc",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório do Pêndulo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Movimento de Projétil",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Estados da Matéria: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Estados da Matéria",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gravidade e Órbitas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Probabilidade Plinko",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Interações Atômicas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Cargas e Campos",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/charges-and-fields",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Espalhamento de Rutherford",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Desvio da Luz",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/bending-light",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Hooke",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/hookes-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Moléculas e Luz",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Energia na Pista de Skate: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/energy-skate-park-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Faraday",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/faradays-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Onda em Corda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Visão Colorida ",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/color-vision",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Balançando",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Sob Pressão",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/under-pressure",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Atrito",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/friction",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Forças e Movimento: Noções Básicas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "John Travoltagem",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/john-travoltage",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Balões e Eletricidade Estática",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/balloons-and-static-electricity",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Ohm",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Resistência em um Fio",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Monte um Átomo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Dupla de Números",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-pairs",
+    "thumb": "https://phet.colorado.edu/sims/html/number-pairs/latest/number-pairs-420.png"
+  },
+  {
+    "name": "Média: Distribuição e Equilíbrio",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/mean-share-and-balance",
+    "thumb": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance-420.png"
+  },
+  {
+    "name": "Distribuição Amostral de Projéteis",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-sampling-distributions",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions-420.png"
+  },
+  {
+    "name": "Lab Dados de Projéteis",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-data-lab",
+    "thumb": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab-420.png"
+  },
+  {
+    "name": "Centro e Variabilidade",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/center-and-variability",
+    "thumb": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability-420.png"
+  },
+  {
+    "name": "Leis de Kepler",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/keplers-laws",
+    "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png"
+  },
+  {
+    "name": "Quadrilátero",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/quadrilateral",
+    "thumb": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral-420.png"
+  },
+  {
+    "name": "Gráfico de Cálculo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/calculus-grapher",
+    "thumb": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher-420.png"
+  },
+  {
+    "name": "Comparar Números",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-compare",
+    "thumb": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare-420.png"
+  },
+  {
+    "name": "Jogos dos Números",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-play",
+    "thumb": "https://phet.colorado.edu/sims/html/number-play/latest/number-play-420.png"
+  },
+  {
+    "name": "Fourier: Construindo Ondas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
+    "thumb": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-420.png"
+  },
+  {
+    "name": "Reta Numérica: Distância",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-distance",
+    "thumb": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance-420.png"
+  },
+  {
+    "name": "Razão e Proporção",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ratio-and-proportion",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Reta Numérica: Operações",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-operations",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Reta Numérica: Inteiros",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/number-line-integers",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Adição de Vetores: Equações",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition-equations",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Adição de Vetores",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/vector-addition",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Ajuste de Curva",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/curve-fitting",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Frações: Números Mistos",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-mixed-numbers",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Frações: Intro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-intro",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Construir uma Fração",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-fraction",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Frações: Igualdade",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fractions-equality",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gráfico de Quadráticas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-quadratics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Massas e Molas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/masses-and-springs",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Explorador da Igualdade: Duas Variáveis",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-two-variables",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Explorador da Igualdade: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Explorador da Igualdade",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/equality-explorer",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Modelo de Área: Álgebra",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-algebra",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Modelo de Área: Decimais",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-decimals",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Modelo de Área: Multiplicação",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-multiplication",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Modelo de Área: Intro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/area-model-introduction",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório do Pêndulo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/pendulum-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Movimento de Projétil",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/projectile-motion",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Expressões",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/expression-exchange",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Inclinação e Intersecção",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-slope-intercept",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gerador de Funções: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Parque da Proporção",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/proportion-playground",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Taxas Unitárias",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/unit-rates",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Some um 10",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/make-a-ten",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Probabilidade Plinko",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/plinko-probability",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gerador de Funções",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/function-builder",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Tour Trigonométrico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/trig-tour",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Aritmética",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/arithmetic",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Regressão por Quadrados Mínimos",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/least-squares-regression",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Construtor de Área",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/area-builder",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Onda em Corda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Traçando Retas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/graphing-lines",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Associe Frações",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fraction-matcher",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Balançando",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-act",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Ohm",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ohms-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Resistência em um Fio",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Transporte Celular",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/membrane-transport",
+    "thumb": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport-420.png"
+  },
+  {
+    "name": "Cara ou Coroa Quântica",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/quantum-coin-toss",
+    "thumb": "https://phet.colorado.edu/sims/html/quantum-coin-toss/latest/quantum-coin-toss-420.png"
+  },
+  {
+    "name": "Medição Quântica",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/quantum-measurement",
+    "thumb": "https://phet.colorado.edu/sims/html/quantum-measurement/latest/quantum-measurement-420.png"
+  },
+  {
+    "name": "Modelos do Átomo de Hidrogênio",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/models-of-the-hydrogen-atom",
+    "thumb": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom-420.png"
+  },
+  {
+    "name": "Monte um Núcleo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-nucleus",
+    "thumb": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus-420.png"
+  },
+  {
+    "name": "Densidade",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/density",
+    "thumb": "https://phet.colorado.edu/sims/html/density/latest/density-420.png"
+  },
+  {
+    "name": "Fourier: Construindo Ondas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves",
+    "thumb": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves-420.png"
+  },
+  {
+    "name": "Monte uma Molécula",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/build-a-molecule",
+    "thumb": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule-420.png"
+  },
+  {
+    "name": "Difusão",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
+    "thumb": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion-420.png"
+  },
+  {
+    "name": "Gases: Introdução",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
+    "thumb": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro-420.png"
+  },
+  {
+    "name": "Propriedades dos Gases",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
+    "thumb": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties-420.png"
+  },
+  {
+    "name": "Espectro de Corpo Negro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
+    "thumb": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum-420.png"
+  },
+  {
+    "name": "Formas de Energia e Transformações",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/energy-forms-and-changes",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Lei de Coulomb",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/coulombs-law",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Polaridade da Molécula",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-polarity",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Estados da Matéria: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Estados da Matéria",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/states-of-matter",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Interações Atômicas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/atomic-interactions",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Espalhamento de Rutherford",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/rutherford-scattering",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Isótopos e Massa Atômica",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/isotopes-and-atomic-mass",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Moléculas e Luz",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Geometria Molecular",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Geometria Molecular: Básico",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecule-shapes-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Reagentes, Produtos e Excesso",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/reactants-products-and-leftovers",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Escala de pH: Básico ",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale-basics",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Onda em Corda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Escala de pH",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Balanceamento de Equações Químicas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/balancing-chemical-equations",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Soluções Ácido-Base",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/acid-base-solutions",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Concentração",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/concentration",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório da Lei de Beer",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/beers-law-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Molaridade",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molarity",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Monte um Átomo",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/build-an-atom",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Ímã e Bússola",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass",
+    "thumb": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass-420.png"
+  },
+  {
+    "name": "Leis de Kepler",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/keplers-laws",
+    "thumb": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws-420.png"
+  },
+  {
+    "name": "Meu Sistema Solar",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/my-solar-system",
+    "thumb": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system-420.png"
+  },
+  {
+    "name": "Efeito Estufa",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/greenhouse-effect",
+    "thumb": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect-420.png"
+  },
+  {
+    "name": "Ondas: Intro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/waves-intro",
+    "thumb": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro-420.png"
+  },
+  {
+    "name": "Difusão",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/diffusion",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gases: Introdução",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gases-intro",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Propriedades dos Gases",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gas-properties",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Espectro de Corpo Negro",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/blackbody-spectrum",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Interferência de Onda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-interference",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Gravidade e Órbitas",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-and-orbits",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Moléculas e Luz",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/molecules-and-light",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Onda em Corda",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Escala de pH",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/ph-scale",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Sob Pressão",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/under-pressure",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Laboratório de Força Gravitacional",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab",
+    "thumb": "https://phet.colorado.edu/images/phet-logo-tile-fallback.png"
+  },
+  {
+    "name": "Seleção Natural",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/natural-selection",
+    "thumb": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection-420.png"
+  },
+  {
+    "name": "Fundamentos da Expressão Genética",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/gene-expression-essentials",
+    "thumb": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials-420.png"
+  },
+  {
+    "name": "Neurônio",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/neuron",
+    "thumb": "https://phet.colorado.edu/sims/html/neuron/latest/neuron-420.png"
+  },
+  {
+    "name": "Visão Colorida ",
+    "url": "https://phet.colorado.edu/pt_BR/simulations/color-vision",
+    "thumb": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision-420.png"
+  },
   {
     "name": "Flutuabilidade: Básico",
     "descript": "Procure a relação entre o volume submerso, a massa de um bloco e peso aparente em um tanque de liquido. Determine os fatores e a relação da força de empuxo em um objeto.",
