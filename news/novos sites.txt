@@ -131,3 +131,10 @@ for (i=0; i<70; i++){
     ],
     "author": ""
 }
+
+for (i=0; i<simuls.length; i++){
+  let n = 0;
+  for (j=0; j<simuls.length; j++){
+    if (simuls[j].url === simuls[i].url) n++;
+  }
+}

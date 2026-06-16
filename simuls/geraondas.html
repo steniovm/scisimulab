@@ -9,13 +9,20 @@
       background-color: #9FCFBF;
     }
 
+    main {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      padding: 20px;
+    }
+
     fieldset {
       background-color: #DDDDDD;
       width: 100%;
       max-width: 360px;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: start;
     }
 
     fieldset>div {
@@ -40,61 +47,80 @@
 </head>
 
 <body>
-  <fieldset>
-    <h2>Gerador de onda</h2>
-    <div>
-      <label for="waveform">Forma de onda</label>
-      <select id="waveform">
-        <option value="sine">Senoidal</option>
-        <option value="square">Quadrada</option>
-        <option value="triangle">Triangular</option>
-        <option value="sawtooth">Serra</option>
-      </select>
-    </div>
-    <div>
-      <label for="frequency">Frequência (Hz)</label>
-      <input type="number" id="frequency" min="0" value="440" step="0.1">
-    </div>
-    <div>
-      <label for="volume">Volume</label>
-      <input type="range" id="volume" min="0" max="2" step="0.01" value="1">
-    </div>
-    <button id="play">Tocar</button>
-    <button id="stop">Parar</button>
-    <canvas width="350" height="100" id="canvaWaveOut"></canvas>
-    <div class="escale" title="Tempo, em milessegundos">
-      <small> 0</small>
-      <small> 1</small>
-      <small> 2</small>
-      <small> 3</small>
-      <small> 4</small>
-      <small> 5</small>
-      <small> 6</small>
-      <small> 7</small>
-      <small> 8</small>
-      <small> 9</small>
-      <small>10</small>
-    </div>
-  </fieldset>
-  <fieldset>
-    <h2>Captador de onda</h2>
-    <button id="rec">Iniciar</button>
-    <button id="stoprec">Parar</button>
-    <canvas width="350" height="100" id="canvaWaveIn"></canvas>
-    <div class="escale" title="Tempo, em milessegundos">
-      <small> 0</small>
-      <small> 1</small>
-      <small> 2</small>
-      <small> 3</small>
-      <small> 4</small>
-      <small> 5</small>
-      <small> 6</small>
-      <small> 7</small>
-      <small> 8</small>
-      <small> 9</small>
-      <small>10</small>
-    </div>
-  </fieldset>
+  <main>
+    <fieldset>
+      <h2>Gerador de onda</h2>
+      <div>
+        <canvas width="350" height="200" id="canvaWaveOut"></canvas>
+        <div class="escale" title="Tempo, em milessegundos">
+          <small> 0</small>
+          <small> 1</small>
+          <small> 2</small>
+          <small> 3</small>
+          <small> 4</small>
+          <small> 5</small>
+          <small> 6</small>
+          <small> 7</small>
+          <small> 8</small>
+          <small> 9</small>
+          <small>10</small>
+        </div>
+      </div>
+      <button id="play">Tocar</button>
+      <button id="stop">Parar</button>
+      <div>
+        <label for="waveform">Forma de onda</label>
+        <select id="waveform">
+          <option value="sine">Senoidal</option>
+          <option value="square">Quadrada</option>
+          <option value="triangle">Triangular</option>
+          <option value="sawtooth">Serra</option>
+        </select>
+      </div>
+      <div>
+        <label for="frequency">Frequência (Hz)</label>
+        <input type="number" id="frequency" min="0" value="440" step="0.1">
+      </div>
+      <div>
+        <label for="volume">Volume</label>
+        <input type="range" id="volume" min="0" max="2" step="0.01" value="1">
+      </div>
+    </fieldset>
+    <fieldset>
+      <h2>Captador de onda</h2>
+      <div>
+        <canvas width="350" height="200" id="canvaWaveIn"></canvas>
+        <div class="escale" title="Tempo, em milessegundos">
+          <small> 0</small>
+          <small> 1</small>
+          <small> 2</small>
+          <small> 3</small>
+          <small> 4</small>
+          <small> 5</small>
+          <small> 6</small>
+          <small> 7</small>
+          <small> 8</small>
+          <small> 9</small>
+          <small>10</small>
+        </div>
+      </div>
+      <button id="rec">Iniciar</button>
+      <button id="stoprec">Parar</button>
+    </fieldset>
+  </main>
+  <details>
+    <summary>Roteiro de experimento</summary>
+    <ol>
+      <li>Escolha a forma de onda desejada.</li>
+      <li>Defina a frequência e o volume.</li>
+      <li>Clique em "Tocar" para iniciar a geração da onda.</li>
+      <li>Observe a forma de onda no canvas "Gerador de onda".</li>
+      <li>Clique em "Iniciar" para capturar a onda gerada.</li>
+      <li>Observe a forma de onda capturada no canvas "Captador de onda".</li>
+      <li>Clique em "Parar" para interromper a geração da onda.</li>
+      <li>Clique em "Parar" para interromper a captura da onda.</li>
+    </ol>
+  </details>
 </body>
 <script>
   const playButton = document.getElementById('play');
@@ -202,7 +228,8 @@
 
   recButton.addEventListener('click', async () => {
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const constraints = { noiseSuppression: false, echoCancellation: false, autoGainControl: false };
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: constraints });
       if (audioContext.state === 'suspended') await audioContext.resume();
       const source = audioContext.createMediaStreamSource(stream);
       source.connect(analyserIn);
