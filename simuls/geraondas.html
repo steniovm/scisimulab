@@ -42,6 +42,33 @@
       justify-content: space-between;
       font-family: monospace;
     }
+
+    footer {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      flex-wrap: wrap;
+    }
+
+    .divinfo {
+      display: flex;
+      flex-direction: column;
+    }
+
+    span {
+      font-weight: bold;
+      white-space: normal;
+      padding: 0 2px;
+    }
+
+    #links {
+      display: flex;
+      font-weight: bold;
+      flex-direction: column;
+    }
   </style>
   <title>Gerador de ondas</title>
 </head>
@@ -136,6 +163,29 @@
         igual ao dobro do comprimento do tubo.</li>
     </ol>
   </details>
+  <br>
+  <footer>
+    <div id="divinfo" class="divinfo">
+      <span>Autor:</span>
+      <span>Stênio Vinicios de Medeiros</span>
+      <span>Portifolio: <a href="https://steniovm.github.io/steniovm/"
+          alt="Meu portifolio de projetos">https://steniovm.github.io/steniovm/</a></span>
+      <span>Email: <a href="mailto:steniovm@gmail.com" alt="Meu email">steniovm@gmail.com</a></span>
+    </div>
+    <img src="https://scisimulab.com.br/logo.svg" alt="logo SciSimuLab" style="height: 60px;" />
+    <div id="links">
+      Conheça também:
+      <a href="https://www.scisimulab.com.br/simuls/Colors.html" target="_blank">
+        <i>Experimento - Componentes Cores</i>
+      </a>
+      <a href="https://scisimulab.com.br/" target="_blank">
+        <i>Sci Simu Lab</i>
+      </a>
+      <a href="https://steniovm.github.io/steniovm/" target="_blank">
+        <i>Outras produções minhas</i>
+      </a>
+    </div>
+  </footer>
 </body>
 <script>
   const playButton = document.getElementById('play');
@@ -282,7 +332,10 @@
       }
 
       recordLoop();
-
+      supressCheckbox.addEventListener('change', () => {
+        const newConstraints = { noiseSuppression: supressCheckbox.checked, echoCancellation: supressCheckbox.checked, autoGainControl: supressCheckbox.checked };
+        stream.getTracks().forEach(track => track.applyConstraints({ advanced: [newConstraints] }));
+      });
       stoprecButton.addEventListener('click', () => {
         stream.getTracks().forEach(track => track.stop());
       }, { once: true });
@@ -290,7 +343,6 @@
       console.error('Erro ao acessar o microfone:', err);
     }
   });
-
 
 </script>
 
