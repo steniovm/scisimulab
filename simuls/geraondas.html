@@ -9,6 +9,13 @@
       background-color: #9FCFBF;
     }
 
+    h1,
+    h2,
+    h3 {
+      margin: 2px;
+      text-align: center;
+    }
+
     main {
       display: flex;
       flex-direction: row;
@@ -43,6 +50,11 @@
       font-family: monospace;
     }
 
+    summary {
+      font-weight: bold;
+      cursor: pointer;
+    }
+
     footer {
       width: 100%;
       height: 100%;
@@ -74,6 +86,7 @@
 </head>
 
 <body>
+  <h1>Gerador e captador de ondas sonoras</h1>
   <main>
     <fieldset>
       <h2>Gerador de onda</h2>
@@ -157,7 +170,8 @@
       <li>Gere uma onda senoidal de frequência conhecida (ex: 440 Hz) e inicie a captura</li>
       <li>Obs: mantenha a supressão de ruido DESATIVADA.</li>
       <li>Varie a frequência até que a onda captada pelo microfone tenha máxima amplitude</li>
-      <li>Meça a frequência de ressonância e calcule a velocidade do som usando a fórmula v=λ*f, onde λ é o
+      <li>Meça a frequência de ressonância e calcule a velocidade do som usando a fórmula <i><b>v=λ*f</b></i>, onde λ é
+        o
         comprimento de onda, que é igual ao dobro do comprimento do tubo para o primeiro modo de ressonância. Isso é
         valido porque o centro do tubo é um antinode de deslocamento, ou nó de pressão, quando o comprimento de onda é
         igual ao dobro do comprimento do tubo.</li>
